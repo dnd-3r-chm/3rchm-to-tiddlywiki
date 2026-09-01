@@ -123,6 +123,10 @@ $WWKeywordLinks/
 # ------------------------------------------------------------
 transport/work/meow-review/billing/
 transport/work/meow-review/memory-openssl/
+# 防御：任何含独立 .git 的目录都不入库。第三方源码副本一律视为外部依赖，
+# 本地保留即可（node_modules junction 指向此处，运行不受影响）。
+# 新增插件副本时无需改本文件，此规则自动覆盖。
+**/meow-review/*/.git/
 
 # ------------------------------------------------------------
 # 9. 迁移中间产物（可由脚本重新生成）
