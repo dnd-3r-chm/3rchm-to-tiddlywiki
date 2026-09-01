@@ -783,9 +783,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 font-family:宋体'>附魔箭</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Enhance
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Enhance
 
-Arrow</span></b><b><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
+Arrow</span><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
 
 lang=EN-US style='font-size:10.0pt;font-family:宋体'>1级开始，任何由魔射手<span
 >搭弦并</span>射出的非魔法箭会变成魔法箭，具有+1增强加值。和正常方法制作的魔法武器不同，魔射手不需花费经验值或金钱就可制造。不过，这种<span
@@ -927,7 +927,7 @@ style='font-size:10.0pt;font-family:宋体'>级。</span></p>
 
 style='font-size:10.0pt;font-family:宋体'>可施展<i>法师之手(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>mage hand</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>mage hand</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -1719,9 +1719,9 @@ style='font-size:10.0pt;font-family:宋体'>当<span>诡术师</span>升级时�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>远程手法(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>远程手法(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Ranged Legerdemain</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Ranged Legerdemain</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span><span
 
@@ -1769,9 +1769,9 @@ style='font-size:10.0pt;font-family:宋体'>次。使用远程手法时，他每
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>偷袭(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>偷袭(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Sneak Attack</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Sneak Attack</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -1795,9 +1795,9 @@ style='font-size:10.0pt'>10</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>强行偷袭(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>强行偷袭(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Impromptu Sneak Attack</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Impromptu Sneak Attack</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -2316,9 +2316,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>每日法术数量</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>每日法术数量</span><span
 
-lang=EN-US style='font-size:10.0pt'>/</span></b><b><span style='font-size:10.0pt;
+lang=EN-US style='font-size:10.0pt'>/</span><span style='font-size:10.0pt;
 
 font-family:宋体'>可知法术：</span></b><span style='font-size:10.0pt;font-family:宋体'>大法师每次升级，每日法术数量(以及可知法术，如适用)都会增加，就像之前大法师能够施展</span><span
 ><span lang=EN-US style='font-size:10.0pt'>7</span><span
@@ -2337,9 +2337,9 @@ style='font-size:10.0pt;font-family:宋体'>职业获得提升一样，但不能
 
 
 <p><b><span style='font-size:10.0pt;font-family:宋体'>高等<span
->奥术能力</span>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>High
+>奥术能力</span>(</span><span lang=EN-US style='font-size:10.0pt'>High
 
-Arcana</span></b><b><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
+Arcana</span><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>大法师在升级时有选择并得到下列特殊能力的机会，代价是永久失去一个已有施法位(他无法消除高于其所能施展最高法术等级的法术位)。每一个特殊能力都有其所需施法位的最低等级限制，详见下述。</span></p>
 
@@ -2354,9 +2354,9 @@ style='font-size:10.0pt;font-family:宋体'>大法师在升级时有选择并得
 
 font-family:宋体'>奥火</span></i></span><i><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></i><i><span lang=EN-US style='font-size:10.0pt'>Arcane
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Arcane
 
-Fire</span></i><i><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
+Fire</span><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
 
 style='font-size:10.0pt;font-family:宋体'>大法师可以将一个准备好<span>的奥术的</span>能量转换<span
 >为奥火</span>，将其制成一支原始法术能量的能量<span>矢</span>。<span
@@ -2379,9 +2379,9 @@ style='font-size:10.0pt;font-family:宋体'>伤害。<span>该能力</span>需�
 
 font-family:宋体'>奥术之</span></i></span><i><span style='font-size:10.0pt;
 
-font-family:宋体'>手(</span></i><i><span lang=EN-US style='font-size:10.0pt'>Arcane
+font-family:宋体'>手(</span><span lang=EN-US style='font-size:10.0pt'>Arcane
 
-Reach</span></i><i><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
+Reach</span><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
 
 style='font-size:10.0pt;font-family:宋体'>大法师可以使用接触法术来接触</span><span lang=EN-US
 
@@ -2393,21 +2393,21 @@ style='font-size:10.0pt;font-family:宋体'>英尺。<span>该能力</span>需�
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>反制法术掌控(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>反制法术掌控(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Mastery of Counterspelling</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Mastery of Counterspelling</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>当大法师反制了一个法术后，它将立刻返回到施法者身上，就<span>象</span>被<i>法术反转(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>spell turning</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>spell turning</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>完全影响了一样。如果施放的法术无法被<i>法术反转(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>spell turning</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>spell turning</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -2415,9 +2415,9 @@ style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>元素掌控(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>元素掌控(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Mastery of Elements</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Mastery of Elements</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -2428,9 +2428,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-siz
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>塑形掌控(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>塑形掌控(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Mastery of Shaping</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Mastery of Shaping</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -2468,9 +2468,9 @@ style='font-size:10.0pt'>Spells</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>法术之力(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>法术之力(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Spell Power</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Spell Power</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -2479,9 +2479,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-siz
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>类法术能力(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>类法术能力(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Spell-Like Ability</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Spell-Like Ability</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -2690,9 +2690,9 @@ font-family:宋体'>智力调整值。</span></p>
 
   border-bottom:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>--</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>--</span><span
 
-  style='font-size:10.0pt;font-family:宋体'>每日法术数量</span></b><b><span lang=EN-US
+  style='font-size:10.0pt;font-family:宋体'>每日法术数量</span><span lang=EN-US
 
   style='font-size:10.0pt'>--</span></b></p>
 
@@ -2754,7 +2754,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>1</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>1</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -2764,7 +2764,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>2</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>2</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -2774,7 +2774,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>3</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>3</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -2784,7 +2784,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>4</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>4</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -3661,9 +3661,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>偷袭(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>偷袭(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Sneak Attack</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Sneak Attack</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -3687,9 +3687,9 @@ style='font-size:10.0pt'>10</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>夺命攻击(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>夺命攻击(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Death Attack</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Death Attack</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -3703,9 +3703,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-siz
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>用毒(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>用毒(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Poison Use</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Poison Use</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -3768,9 +3768,9 @@ lang=EN-US>6级之后的每一个偶数等级(8级和10级)，刺客可以选择
 
   border-bottom:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>--</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>--</span><span
 
-  style='font-size:10.0pt;font-family:宋体'>可知法术</span></b><b><span lang=EN-US
+  style='font-size:10.0pt;font-family:宋体'>可知法术</span><span lang=EN-US
 
   style='font-size:10.0pt'>--</span></b></p>
 
@@ -3792,7 +3792,7 @@ lang=EN-US>6级之后的每一个偶数等级(8级和10级)，刺客可以选择
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>1</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>1</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -3802,7 +3802,7 @@ lang=EN-US>6级之后的每一个偶数等级(8级和10级)，刺客可以选择
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>2</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>2</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -3812,7 +3812,7 @@ lang=EN-US>6级之后的每一个偶数等级(8级和10级)，刺客可以选择
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>3</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>3</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -3822,7 +3822,7 @@ lang=EN-US>6级之后的每一个偶数等级(8级和10级)，刺客可以选择
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>4</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>4</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -4354,9 +4354,9 @@ lang=EN-US>6级之后的每一个偶数等级(8级和10级)，刺客可以选择
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>对毒素豁免加值(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>对毒素豁免加值(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Save Bonus against Poison</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Save Bonus against Poison</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span lang=EN-US
 
@@ -4364,9 +4364,9 @@ style='font-size:10.0pt;font-family:宋体'>2级开始，刺客对所有毒素�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>直觉闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>直觉闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Uncanny Dodge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Uncanny Dodge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -4386,9 +4386,9 @@ font-family:宋体'>上的敏捷加值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精通直觉闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精通直觉闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Improved Uncanny Dodge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Improved Uncanny Dodge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -4403,9 +4403,9 @@ style='font-size:10.0pt;font-family:宋体'>5级开始，刺客不会受到夹�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>视线躲藏(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>视线躲藏(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Hide in Plain Sight</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Hide in Plain Sight</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
 
@@ -4436,45 +4436,45 @@ style='font-size:10.0pt;font-family:宋体'>，即使没有掩体遮蔽，刺客
 
 style='font-size:10.0pt;font-family:宋体'>级：<span><i>变颜术</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>disguise self</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>disguise self</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>侦测毒素(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>detect poison</span></i><i><span style='font-size:
+style='font-size:10.0pt'>detect poison</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
 宋体'>，<span><i>羽落术</i></span><i>(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>detect poison</span></i><i><span style='font-size:
+style='font-size:10.0pt'>detect poison</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
 宋体'>，<span><i>幻音术</i></span><i>(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>ghost sound</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>ghost sound</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>跳跃术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>jump</span></i><i><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>jump</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
 宋体'>，<span><i>隐雾术</i></span><i>(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>obscuring mist</span></i><i><span style='font-size:
+style='font-size:10.0pt'>obscuring mist</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
-宋体'>，<i>睡眠术(</i></span><i><span lang=EN-US style='font-size:10.0pt'>sleep</span></i><i><span
+宋体'>，<i>睡眠术(</i></span><i><span lang=EN-US style='font-size:10.0pt'>sleep</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>克敌机先(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'> true strike</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'> true strike</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)。</span></i></p>
 
@@ -4484,50 +4484,50 @@ font-family:宋体'>)。</span></i></p>
 
 style='font-size:10.0pt;font-family:宋体'>级：<span><i>变身术</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>alter self</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>alter self</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>猫之轻灵(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>cat’s grace</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>cat’s grace</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<span
 ><i>黑暗术</i></span><i>(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>darkness</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>darkness</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>狐之聪慧(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>fox’s cunning</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>fox’s cunning</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>迷幻手稿(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>illusory script</span></i><i><span style='font-size:
+style='font-size:10.0pt'>illusory script</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
-宋体'>，<i>隐形(</i></span><i><span lang=EN-US style='font-size:10.0pt'>invisibility</span></i><i><span
+宋体'>，<i>隐形(</i></span><i><span lang=EN-US style='font-size:10.0pt'>invisibility</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>行动无踪(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'> pass without trace</span></i><i><span
+style='font-size:10.0pt'> pass without trace</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<span><i>蛛行术</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>spider climb</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>spider climb</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>隐秘阵营(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>undetectable alignment</span></i><i><span
+style='font-size:10.0pt'>undetectable alignment</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -4539,34 +4539,34 @@ style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 style='font-size:10.0pt;font-family:宋体'>级：<i>深度睡眠术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>deep slumber</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>deep slumber</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>深幽<span>黑暗术</span>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>deeper darkness</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>deeper darkness</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>虚假生命(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>false life</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>false life</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>反<span
 >善良法阵</span>(</i></span><i><span lang=EN-US style='font-size:10.0pt'>magic
 
-circle against good</span></i><i><span style='font-size:10.0pt;font-family:
+circle against good</span><span style='font-size:10.0pt;font-family:
 
 宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>误导术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>misdirection</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>misdirection</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>回避侦测(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>nondetection</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>nondetection</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>。</span></p>
 
@@ -4576,43 +4576,43 @@ font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体
 
 style='font-size:10.0pt;font-family:宋体'>级：<span><i>锐耳术</i></span><i><span
 
-lang=EN-US>/鹰眼术(</span></i></span><i><span lang=EN-US style='font-size:10.0pt'>clairaudience/clairvoyance</span></i><i><span
+lang=EN-US>/鹰眼术(</span></i></span><i><span lang=EN-US style='font-size:10.0pt'>clairaudience/clairvoyance</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>任意门(</i></span><i><span lang=EN-US style='font-size:
 
-10.0pt'>dimension door</span></i><i><span style='font-size:10.0pt;font-family:
+10.0pt'>dimension door</span><span style='font-size:10.0pt;font-family:
 
 宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>行动自如(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>freedom of movement</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>freedom of movement</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>巧舌如簧(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>glibness</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>glibness</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>高等隐形术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>greater invisibility</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>greater invisibility</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>生物定位术(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>locate creature</span></i><i><span style='font-size:
+style='font-size:10.0pt'>locate creature</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
 宋体'>，<i>篡改记忆(</i></span><i><span lang=EN-US style='font-size:10.0pt'>modify
 
-memory</span></i><i><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
+memory</span><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
 
 style='font-size:10.0pt;font-family:宋体'>，<span><i>毒击</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>poison</span></i><i><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>poison</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
@@ -4789,9 +4789,9 @@ font-family:宋体'>智力调整值。</span></p>
 
   border-bottom:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>-</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>-</span><span
 
-  style='font-size:10.0pt;font-family:宋体'>每日法术数量</span></b><b><span lang=EN-US
+  style='font-size:10.0pt;font-family:宋体'>每日法术数量</span><span lang=EN-US
 
   style='font-size:10.0pt'>-</span></b></p>
 
@@ -4853,7 +4853,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>1</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>1</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -4863,7 +4863,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>2</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>2</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -4873,7 +4873,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>3</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>3</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -4883,7 +4883,7 @@ font-family:宋体'>智力调整值。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span lang=EN-US style='font-size:10.0pt'>4</span></b><b><span
+  <p><b><span lang=EN-US style='font-size:10.0pt'>4</span><span
 
   style='font-size:10.0pt;font-family:宋体'>级</span></b></p>
 
@@ -5755,9 +5755,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>邪恶灵光(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>邪恶灵光(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Aura of Evil</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Aura of Evil</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -5785,11 +5785,11 @@ style='font-size:10.5pt;font-family:宋体'>：</span></b><span style='font-size
 
 10.0pt;font-family:宋体'>暗黑卫士可随时使用<i>侦测善良(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>detect good</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>detect good</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，这是一种类法术能力，效果如同<i>侦测善良(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>detect good</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>detect good</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -5799,19 +5799,19 @@ style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>用毒(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>用毒(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Poison Use</span></b><b><span style='font-size:10.0pt;
+style='font-size:10.0pt'>Poison Use</span><span style='font-size:10.0pt;
 
-font-family:宋体'>)</span></b><b><span style='font-size:10.5pt;font-family:宋体'>：</span></b><span
+font-family:宋体'>)</span><span style='font-size:10.5pt;font-family:宋体'>：</span></b><span
 
 style='font-size:10.5pt;font-family:宋体'>暗黑卫士受过用毒训练，不会在为武器<span>淬毒时</span>意外中毒。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>暗黑祝福(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>暗黑祝福(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Dark Blessing</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Dark Blessing</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
 
@@ -5859,9 +5859,9 @@ style='font-size:10.0pt'>0</span><span style='font-size:10.0pt;font-family:
 
 font-family:宋体'>破善斩</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Smite
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Smite
 
-Good</span></b><b><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
+Good</span><span style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
 
 lang=EN-US style='font-size:10.0pt'>2</span><span style='font-size:10.0pt;
 
@@ -5880,9 +5880,9 @@ style='font-size:10.0pt;font-family:宋体'>级，暗黑卫士每日使用<span>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>绝望暗气(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>绝望暗气(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Aura of Despair</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Aura of Despair</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span lang=EN-US
 
@@ -5899,9 +5899,9 @@ style='font-size:10.0pt'>-2</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>命令不死生物(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>命令不死生物(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Command Undead</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Command Undead</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span lang=EN-US
 
@@ -5915,9 +5915,9 @@ font-family:宋体'>级的牧师一样。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>偷袭(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>偷袭(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Sneak Attack</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Sneak Attack</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -5941,39 +5941,39 @@ style='font-size:10.0pt;font-family:宋体'>级)，额外伤害值会增加<span
 
 <p><span style='font-size:10.0pt;font-family:宋体'>一级：<i>惊恐术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>cause fear</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>cause fear</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>腐化武器(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>Corrupt Weapon</span></i><i><span style='font-size:
+style='font-size:10.0pt'>Corrupt Weapon</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
 宋体'>，<i>治疗轻伤(</i></span><i><span lang=EN-US style='font-size:10.0pt'>cure light
 
-wounds</span></i><i><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
+wounds</span><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
 
 style='font-size:10.0pt;font-family:宋体'>，<i>丧志术(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>doom</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>doom</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>造成轻伤(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>inflict light wounds</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>inflict light wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<span><i>魔化武器</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>magic weapon</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>magic weapon</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>一级召唤怪物术(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>summon monster I</span></i><i><span style='font-size:
+style='font-size:10.0pt'>summon monster I</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span lang=EN-US style='font-size:10.0pt'>*</span><span
 
@@ -5983,45 +5983,45 @@ style='font-size:10.0pt;font-family:宋体'>。</span></p>
 
 <p><span style='font-size:10.0pt;font-family:宋体'>二级：<i>牛之力量(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>bull’s strength</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>bull’s strength</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>治疗中度伤(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>cure moderate wounds</span></i><i><span
+style='font-size:10.0pt'>cure moderate wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<span><i>黑暗术</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>darkness</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>darkness</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>死亡丧钟(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>death knell</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>death knell</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>鹰之威仪(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>eagle’s splendor</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>eagle’s splendor</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>造成中度伤(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>inflict moderate wounds</span></i><i><span
+style='font-size:10.0pt'>inflict moderate wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>粉碎音波(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>shatter</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>shatter</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>，<i>二级召唤怪物术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>summon monster II</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>summon monster II</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span lang=EN-US
 
@@ -6033,37 +6033,37 @@ style='font-size:10.0pt'>*</span><span style='font-size:10.0pt;font-family:
 
 <p><span style='font-size:10.0pt;font-family:宋体'>三级：<i>疫病术(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>contagion</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>contagion</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>治疗重伤(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>cure serious wounds</span></i><i><span
+style='font-size:10.0pt'>cure serious wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>深幽<span>黑暗术</span>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>deeper darkness</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>deeper darkness</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>造成重伤(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>inflict serious wounds</span></i><i><span
+style='font-size:10.0pt'>inflict serious wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>防护元素伤害(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>protection from elements</span></i><i><span
+style='font-size:10.0pt'>protection from elements</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>三级召唤怪物术(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>summon monster III</span></i><i><span
+style='font-size:10.0pt'>summon monster III</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span lang=EN-US
 
@@ -6075,31 +6075,31 @@ style='font-size:10.0pt'>*</span><span style='font-size:10.0pt;font-family:
 
 <p><span style='font-size:10.0pt;font-family:宋体'>四级：<i>治疗致命伤(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>cure critical wounds</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>cure critical wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>行动自如(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>freedom of movement</span></i><i><span
+style='font-size:10.0pt'>freedom of movement</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<i>造成致命伤(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>inflict critical wounds</span></i><i><span
+style='font-size:10.0pt'>inflict critical wounds</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>，<span><i>毒击</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>poison</span></i><i><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>poison</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
 宋体'>，<i>四级召唤怪物术(</i></span><i><span lang=EN-US style='font-size:10.0pt'>summon
 
-monster IV</span></i><i><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
+monster IV</span><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
 
 lang=EN-US style='font-size:10.0pt'>*</span><span style='font-size:10.0pt;
 
@@ -6120,7 +6120,7 @@ style='font-size:10.0pt;font-family:宋体'>仅限邪恶生物。</span></p>
 
 <p><span style='font-size:10.0pt;font-family:宋体'>暗黑卫士可以使用一种特殊法术：<i>腐化武器</i>，此为圣武士法术<i>祝福武器(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>bless weapon</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>bless weapon</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -6533,9 +6533,9 @@ style='font-size:10.0pt;font-family:宋体'>的说明描述：</span></p>
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>情感连接(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>情感连接(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Empathic Link</span></b><b><span style='font-size:
+style='font-size:10.0pt'>Empathic Link</span><span style='font-size:
 
 10.0pt;font-family:宋体'>，超自然能力)：</span></b><span style='font-size:10.0pt;
 
@@ -6551,11 +6551,11 @@ style='font-size:10.0pt;font-family:宋体'>英里内时，彼此有情感连结
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>精通反射闪避(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>精通反射闪避(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Improved Evasion</span></b><b><span style='font-size:
+style='font-size:10.0pt'>Improved Evasion</span><span style='font-size:
 
-10.0pt;font-family:宋体'>，特异能力</span></b><b><span style='font-size:10.5pt;
+10.0pt;font-family:宋体'>，特异能力</span><span style='font-size:10.5pt;
 
 font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:宋体'>有些攻击效果<span
 >若通过</span>反射豁免仍会造成一半伤害，此时仆役<span>若通过</span>反射豁免，则完全不会受伤，<span
@@ -6565,11 +6565,11 @@ font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:宋
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>豁免检定共享(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>豁免检定共享(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Share Saving Throws</span></b><b><span
+style='font-size:10.0pt'>Share Saving Throws</span><span
 
-style='font-size:10.0pt;font-family:宋体'>)</span></b><b><span style='font-size:
+style='font-size:10.0pt;font-family:宋体'>)</span><span style='font-size:
 
 10.5pt;font-family:宋体'>：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -6577,9 +6577,9 @@ style='font-size:10.0pt;font-family:宋体'>)</span></b><b><span style='font-siz
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>法术共享(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>法术共享(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Share Spells</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Share Spells</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -6601,9 +6601,9 @@ lang=EN-US>You")的法术(如同远程接触法术)而不是对自己施展。�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>与暗黑卫士交谈(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>与暗黑卫士交谈(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Speak with Blackguard</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Speak with Blackguard</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -6615,9 +6615,9 @@ style='font-size:10.0pt;font-family:宋体'>若暗黑卫士的人物等级达到
 
 font-family:宋体'>血系</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Blood
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Blood
 
-Bond</span></b><b><span style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
+Bond</span><span style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>若暗黑卫士的人物等级达到了<span lang=EN-US>16级，当仆役目睹暗黑卫士遭受威胁或受伤，则其所有攻击、检定和豁免获得</span></span><span
 
@@ -6632,9 +6632,9 @@ font-family:宋体'>加值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>法术抗力(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>法术抗力(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Spell Resistance</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Spell Resistance</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -7466,9 +7466,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>额外法术(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>额外法术(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Bonus Spells</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Bonus Spells</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -7481,9 +7481,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-siz
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>天然防护提升(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>天然防护提升(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Natural Armor Increase</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Natural Armor Increase</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -7503,9 +7503,9 @@ style='font-size:10.0pt'>7</span><span style='font-size:10.0pt;font-family:
 
 
 <p><b><span style='font-size:10.0pt;font-family:宋体'>利爪及<span
->啮</span>咬(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Claws
+>啮</span>咬(</span><span lang=EN-US style='font-size:10.0pt'>Claws
 
-and Bite</span></b><b><span style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
+and Bite</span><span style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>当龙脉术士达到</span><span lang=EN-US
 
@@ -7657,9 +7657,9 @@ style='font-size:10.0pt'>-2</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>属性增强(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>属性增强(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Ability Boost</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Ability Boost</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -7667,9 +7667,9 @@ style='font-size:10.0pt;font-family:宋体'>龙脉术士升级时，可以按照
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>喷吐攻击(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>喷吐攻击(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Breath Weapon</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Breath Weapon</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
 
@@ -7748,7 +7748,7 @@ style='font-size:10.0pt;font-family:宋体'>尺。</span></p>
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span style='font-size:10.0pt;font-family:宋体'>龙族祖先</span></b><b><span
+  <p><b><span style='font-size:10.0pt;font-family:宋体'>龙族祖先</span><span
 
   lang=EN-US style='font-size:10.0pt'>*</span></b></p>
 
@@ -7992,7 +7992,7 @@ style='font-size:10.0pt;font-family:宋体'>尺。</span></p>
 
 font-family:宋体'>盲感</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Blindsense</span></b><b><span
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Blindsense</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -8026,7 +8026,7 @@ style='font-size:10.0pt'>60</span><span style='font-size:10.0pt;font-family:
 
 font-family:宋体'>龙翼</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Wings</span></b><b><span
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Wings</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -8038,9 +8038,9 @@ style='font-size:10.0pt'>9</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>龙化(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>龙化(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Dragon Apotheosis</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Dragon Apotheosis</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -8060,7 +8060,7 @@ style='font-size:10.0pt'>+4</span><span style='font-size:10.0pt;font-family:
 
 style='font-size:10.0pt;font-family:宋体'>尺黑暗视觉，对<i>睡眠(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>sleep</span></i><i><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>sleep</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
@@ -8747,9 +8747,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精明防御(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精明防御(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Canny Defense</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Canny Defense</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -8761,9 +8761,9 @@ font-family:宋体'>点。如果处在措手不及情况下或其他忽略敏捷
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>快速反应(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>快速反应(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Improved Reaction</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Improved Reaction</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -8783,9 +8783,9 @@ style='font-size:10.0pt'>+4</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精通灵活移动(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精通灵活移动(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Enhanced Mobility</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Enhanced Mobility</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -8799,9 +8799,9 @@ style='font-size:10.0pt;font-family:宋体'>加值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>优雅闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>优雅闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Grace</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Grace</span><span style='font-size:
 
 10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US style='font-size:
 
@@ -8813,9 +8813,9 @@ font-family:宋体'>表现加值。该技能仅仅在他不穿盔甲且不使用
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精确刺击(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精确刺击(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Precise Strike</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Precise Strike</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -8839,9 +8839,9 @@ style='font-size:10.0pt;font-family:宋体'>。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>杂技冲锋(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>杂技冲锋(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Acrobatic Charge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Acrobatic Charge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -8851,9 +8851,9 @@ style='font-size:10.0pt'>6</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精心闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精心闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Elaborate Parry</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Elaborate Parry</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -8861,9 +8861,9 @@ style='font-size:10.0pt;font-family:宋体'>7级时，如果在近战中决斗�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>拨挡飞箭(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>拨挡飞箭(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Deflect Arrows</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Deflect Arrows</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -9657,9 +9657,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>额外防护等级(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>额外防护等级(</span><span
 
-lang=EN-US style='font-size:10.0pt'>AC Bonus</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>AC Bonus</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -9678,9 +9678,9 @@ lang=EN-US>+1起，直到10级时可获得总共+4的加值。</span></span></p>
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>防御姿态(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>防御姿态(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Defensive Stance</span></b><b><span style='font-size:
+style='font-size:10.0pt'>Defensive Stance</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -9719,9 +9719,9 @@ font-family:宋体'>减值。防御姿态每日使用次数有限，视等级而
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>直觉闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>直觉闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Uncanny Dodge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Uncanny Dodge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -9741,9 +9741,9 @@ font-family:宋体'>上的敏捷加值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>陷阱感知(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>陷阱感知(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Trap Sense</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Trap Sense</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -9767,9 +9767,9 @@ style='font-size:10.0pt'>+2</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>伤害减免(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>伤害减免(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Damage Reduction</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Damage Reduction</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -9791,9 +9791,9 @@ style='font-size:10.0pt;font-family:宋体'>点。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精通直觉闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精通直觉闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Improved Uncanny Dodge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Improved Uncanny Dodge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -9806,9 +9806,9 @@ style='font-size:10.0pt;font-family:宋体'>6级开始，矮人防御者不会�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>移动防御(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>移动防御(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Mobile Defense</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Mobile Defense</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span
 
@@ -10979,9 +10979,9 @@ style='font-size:10.0pt;font-family:宋体'>尽管大祭司<span>进阶职业</s
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>特殊能力(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>特殊能力(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Special Ability</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Special Ability</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -10989,9 +10989,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-siz
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>打击异端(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>打击异端(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Blast Infidel</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Blast Infidel</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span><span
 
@@ -11234,9 +11234,9 @@ style='font-size:10.0pt;font-family:宋体'>对立阵营的敌人时，大祭司
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>神力无边(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>神力无边(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Divine Reach</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Divine Reach</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
 
@@ -11252,9 +11252,9 @@ font-family:宋体'>英尺。</span></p>
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>信仰神疗(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>信仰神疗(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Faith Healing</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Faith Healing</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span><span
 
@@ -11265,9 +11265,9 @@ style='font-size:10.0pt;font-family:宋体'>相同阵营的生物(包括大祭�
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>神赐之礼(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>神赐之礼(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Gift of the Divine</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Gift of the Divine</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
 
@@ -11277,9 +11277,9 @@ lang=EN-US>24小时至一周时间(转换时决定)。在此持续期间，大�
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>能量掌控(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>能量掌控(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Mastery of Energy</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Mastery of Energy</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
 
@@ -11289,9 +11289,9 @@ lang=EN-US>+4的加值。即使在大祭司能够驱散其它生物(比如说某
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>超魔专长(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>超魔专长(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Metamagic Feat</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Metamagic Feat</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -11299,9 +11299,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-siz
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>自然之礼(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>自然之礼(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Power of Nature</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Power of Nature</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></i><span
 
@@ -11319,7 +11319,7 @@ lang=EN-US>24小时至一周时间(转换时决定)。在此持续期间，大�
 <p><span style='font-size:10.0pt;font-family:宋体'>同<span
 >法术<i>法术</i></span><i>灌输(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>imbue with spell ability</span></i><i><span
+style='font-size:10.0pt'>imbue with spell ability</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -11327,9 +11327,9 @@ style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>法术之力(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>法术之力(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Spell Power</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Spell Power</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -11337,9 +11337,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-siz
 
 
 
-<p><i><span style='font-size:10.0pt;font-family:宋体'>类法术能力(</span></i><i><span
+<p><i><span style='font-size:10.0pt;font-family:宋体'>类法术能力(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Spell-Like Ability</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>Spell-Like Ability</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></i><span style='font-size:
 
@@ -12047,9 +12047,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>熟知地貌(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>熟知地貌(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Terrain Mastery</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Terrain Mastery</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -12067,9 +12067,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>熟知位面地形(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>熟知位面地形(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Planar Terrain Mastery</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Planar Terrain Mastery</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -12085,9 +12085,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-siz
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>水中环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>水中环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Aquatic</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Aquatic</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -12106,9 +12106,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>沙漠环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>沙漠环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Desert</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Desert</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -12125,9 +12125,9 @@ style='font-size:10.0pt;font-family:宋体'>的加值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>森林环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>森林环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Forest</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Forest</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -12142,9 +12142,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>丘陵环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>丘陵环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Hills</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Hills</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -12159,9 +12159,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>沼泽环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>沼泽环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Marsh</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Marsh</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -12176,9 +12176,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>山地环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>山地环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Mountains</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Mountains</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -12197,9 +12197,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>平原环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>平原环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Plains</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Plains</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span style='font-size:10.0pt;font-family:
 
@@ -12214,9 +12214,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>地底环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>地底环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Underground</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Underground</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -12237,7 +12237,7 @@ style='font-size:10.0pt;font-family:宋体'>的加值。</span></p>
 
 font-family:宋体'>焦炎环境</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Fiery</span></b><b><span
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Fiery</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)(位面)：</span></b><span
 
@@ -12252,9 +12252,9 @@ style='font-size:10.0pt;font-family:宋体'>的加值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>失重环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>失重环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Weightless</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Weightless</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)(位面)：</span></b><span
 
@@ -12271,9 +12271,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>严寒环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>严寒环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Cold</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Cold</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)(位面)：</span></b><span style='font-size:10.0pt;
 
@@ -12289,13 +12289,13 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 <p><b><span style='font-size:10.0pt;font-family:宋体'>幻<span
->变环境</span>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Shifting</span></b><b><span
+>变环境</span>(</span><span lang=EN-US style='font-size:10.0pt'>Shifting</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)(位面)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>你可以本能的认识到幻变的本质，从而更容易到达你的目的地。你获得施展相当于法术<i>任意门(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>dimension door</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>dimension door</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -12312,9 +12312,9 @@ style='font-size:10.0pt'>+1</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>阵营环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>阵营环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Aligned</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Aligned</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)(位面)：</span></b><span
 
@@ -12323,9 +12323,9 @@ style='font-size:10.0pt;font-family:宋体'>你可以本能地模拟所在位面
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>空穴环境(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>空穴环境(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Cavernous</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Cavernous</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)(位面)：</span></b><span
 
@@ -13118,17 +13118,17 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>每日法术数量</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>每日法术数量</span><span
 
-lang=EN-US style='font-size:10.0pt'>/</span></b><b><span style='font-size:10.0pt;
+lang=EN-US style='font-size:10.0pt'>/</span><span style='font-size:10.0pt;
 
 font-family:宋体'>可知法术：</span></b><span style='font-size:10.0pt;font-family:宋体'>博学士每次升级，每日法术数量(以及可知法术，如适用)都会增加，就像之前的施法职业获得提升一样，但不能获得之前施法职业的其它能力。这意味着他可以将博学士等级加上其它施法职业等级来决定其每日法术数量和相关施法者等级。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>秘闻(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>秘闻(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Secret</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Secret</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span lang=EN-US style='font-size:10.0pt'>1</span><span
 
@@ -13149,9 +13149,9 @@ style='font-size:10.0pt;font-family:宋体'>级时)可各再选择一项。博�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>学识(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>学识(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Lore</span></b><b><span style='font-size:
+lang=EN-US style='font-size:10.0pt'>Lore</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)：</span></b><span lang=EN-US style='font-size:10.0pt'>2</span><span
 
@@ -13160,9 +13160,9 @@ style='font-size:10.0pt;font-family:宋体'>级开始，博学士可用此能力
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>额外语言(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>额外语言(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Bonus Languages</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Bonus Languages</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -13176,9 +13176,9 @@ style='font-size:10.0pt'>8</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>高等学识(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>高等学识(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Greater Lore</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Greater Lore</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -13186,15 +13186,15 @@ style='font-size:10.0pt'>6</span><span style='font-size:10.0pt;font-family:
 
 宋体'>级开始，博学士有能力鉴定魔法物品，如同<i>鉴定术(</i></span><i><span lang=EN-US style='font-size:
 
-10.0pt'>identify</span></i><i><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
+10.0pt'>identify</span><span style='font-size:10.0pt;font-family:宋体'>)</span></i><span
 
 style='font-size:10.0pt;font-family:宋体'>一样。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精准学识(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精准学识(</span><span
 
-lang=EN-US style='font-size:10.0pt'>True Lore</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>True Lore</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -13202,13 +13202,13 @@ style='font-size:10.0pt'>10</span><span style='font-size:10.0pt;font-family:
 
 宋体'>级开始，<span>博学士可利用</span>自己的知识获得<i>通晓传奇(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>legend lore</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>legend lore</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 10.0pt;font-family:宋体'>或<span><i>解析咒文</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>analyze dweomer</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>analyze dweomer</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -13244,9 +13244,9 @@ style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
   padding:0cm 5.4pt 0cm 5.4pt'>
 
-  <p><b><span style='font-size:10.0pt;font-family:宋体'>等级</span></b><b><span
+  <p><b><span style='font-size:10.0pt;font-family:宋体'>等级</span><span
 
-  lang=EN-US style='font-size:10.0pt'>+</span></b><b><span style='font-size:
+  lang=EN-US style='font-size:10.0pt'>+</span><span style='font-size:
 
   10.0pt;font-family:宋体'>智力调整值</span></b></p>
 
@@ -15062,9 +15062,9 @@ font-family:宋体'>智力调整值。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>视线躲藏(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>视线躲藏(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Hide in Plain Sight</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Hide in Plain Sight</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span
 
@@ -15078,9 +15078,9 @@ style='font-size:10.0pt;font-family:宋体'>呎内</span></span><span style='fon
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>反射闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>反射闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Evasion</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Evasion</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -15091,9 +15091,9 @@ style='font-size:10.0pt'>2</span><span style='font-size:10.0pt;font-family:
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>黑暗视觉(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>黑暗视觉(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Darkvision</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Darkvision</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span lang=EN-US
 
@@ -15101,16 +15101,16 @@ style='font-size:10.0pt'>2</span><span style='font-size:10.0pt;font-family:
 
 宋体'>级开始，影舞者可以在黑暗中视物，如同永久处在<i>黑暗视觉(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>darkvision</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>darkvision</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>法术影响<span
 >下一样</span>。</span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>直觉闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>直觉闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Uncanny Dodge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Uncanny Dodge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -15138,7 +15138,7 @@ style='font-size:10.0pt'>3</span><span style='font-size:10.0pt;font-family:
 
 宋体'>级开始，影舞者可以创造出可见的幻影。此类法术能力的效果如同<i>无声幻影(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>silent image</span></i><i><span style='font-size:10.0pt;
+style='font-size:10.0pt'>silent image</span><span style='font-size:10.0pt;
 
 font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体'>法术，每天可使用一次。</span></p>
 
@@ -15146,9 +15146,9 @@ font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:宋体
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>召唤幽影(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>召唤幽影(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Summon Shadow</span></b><b><span style='font-size:
+style='font-size:10.0pt'>Summon Shadow</span><span style='font-size:
 
 10.0pt;font-family:宋体'>，超自然能力)：</span></b><span lang=EN-US style='font-size:
 
@@ -15179,9 +15179,9 @@ lang=EN-US>30天之内无法被替换。</span></span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>阴影跳跃(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>阴影跳跃(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Shadow Jump</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Shadow Jump</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，超自然能力)：</span></b><span lang=EN-US
 
@@ -15189,7 +15189,7 @@ style='font-size:10.0pt'>4</span><span style='font-size:10.0pt;font-family:
 
 宋体'>级开始，影舞者可以在阴影之间移动，效果如同<i>任意门(</i></span><i><span lang=EN-US
 
-style='font-size:10.0pt'>dimension door</span></i><i><span style='font-size:
+style='font-size:10.0pt'>dimension door</span><span style='font-size:
 
 10.0pt;font-family:宋体'>)</span></i><span style='font-size:10.0pt;font-family:
 
@@ -15230,9 +15230,9 @@ style='font-size:10.0pt;font-family:宋体'>计算。</span></p>
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>防御翻滚(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>防御翻滚(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Defensive Roll</span></b><b><span style='font-size:
+style='font-size:10.0pt'>Defensive Roll</span><span style='font-size:
 
 10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US style='font-size:
 
@@ -15253,9 +15253,9 @@ font-family:宋体'>上的敏捷加值，他就无法使用此能力。</span></
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>精通直觉闪避(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>精通直觉闪避(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Improved Uncanny Dodge</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Improved Uncanny Dodge</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -15268,9 +15268,9 @@ style='font-size:10.0pt;font-family:宋体'>5级开始，影舞者不会受到�
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>心智灵活(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>心智灵活(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Slippery Mind</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Slippery Mind</span><span
 
 style='font-size:10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US
 
@@ -15285,9 +15285,9 @@ style='font-size:10.0pt'>DC</span><span style='font-size:10.0pt;font-family:
 
 <p style='text-align:justify;text-justify:inter-ideograph'><b><span
 
-style='font-size:10.0pt;font-family:宋体'>精通反射闪避(</span></b><b><span lang=EN-US
+style='font-size:10.0pt;font-family:宋体'>精通反射闪避(</span><span lang=EN-US
 
-style='font-size:10.0pt'>Improved Evasion</span></b><b><span style='font-size:
+style='font-size:10.0pt'>Improved Evasion</span><span style='font-size:
 
 10.0pt;font-family:宋体'>，特异能力)：</span></b><span lang=EN-US style='font-size:
 
@@ -15339,7 +15339,7 @@ style='font-size:10.0pt;font-family:宋体'>专攻法术(咒法系)。</span></p
 
 style='font-size:10.0pt;font-family:宋体'>能够施展法术<span><i>次等异界誓盟</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>lesser planar ally</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>lesser planar ally</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -15794,13 +15794,13 @@ style='font-size:10.0pt;font-family:宋体'>师每次升级，每日法术数量
 
 font-family:宋体'>高级誓盟</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Improved
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Improved
 
-Ally</span></b><b><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
+Ally</span><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>当施展<span><i>异界誓盟</i></span><i>(</i></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>planar ally</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>planar ally</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -15825,9 +15825,9 @@ lang=EN-US>50%。</span></span></p>
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>强效召唤(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>强效召唤(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Augment Summoning</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Augment Summoning</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -15835,9 +15835,9 @@ style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-siz
 
 
 
-<p><b><span style='font-size:10.0pt;font-family:宋体'>召唤延时(</span></b><b><span
+<p><b><span style='font-size:10.0pt;font-family:宋体'>召唤延时(</span><span
 
-lang=EN-US style='font-size:10.0pt'>Extended Summoning</span></b><b><span
+lang=EN-US style='font-size:10.0pt'>Extended Summoning</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)：</span></b><span style='font-size:
 
@@ -15852,14 +15852,14 @@ style='font-size:10.0pt;font-family:宋体'>级或更高等级，<span>咒法召
 
 font-family:宋体'>条件咒法</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Contingent
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Contingent
 
-Conjuration</span></b><b><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
+Conjuration</span><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>到了<span lang=EN-US>4级，<span
 >咒法召唤师能够</span>事先准备一个召唤或呼唤子学派法术，并会被某些指定条件触发。此能力作用如同法术<i>触发术(</i></span></span><i><span
 
-lang=EN-US style='font-size:10.0pt'>contingency</span></i><i><span
+lang=EN-US style='font-size:10.0pt'>contingency</span><span
 
 style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
@@ -15877,9 +15877,9 @@ style='font-size:10.0pt;font-family:宋体'>)</span></i><span style='font-size:
 
 font-family:宋体'>异界部属</span></b></span><b><span style='font-size:10.0pt;
 
-font-family:宋体'>(</span></b><b><span lang=EN-US style='font-size:10.0pt'>Planar
+font-family:宋体'>(</span><span lang=EN-US style='font-size:10.0pt'>Planar
 
-Cohort</span></b><b><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
+Cohort</span><span style='font-size:10.0pt;font-family:宋体'>)：</span></b><span
 
 style='font-size:10.0pt;font-family:宋体'>到了<span lang=EN-US>5级，<span
 >咒法召唤师能够</span>通过任一种<span><i>异界誓盟</i></span>法术召唤一个生物作为他的部属。只要<span

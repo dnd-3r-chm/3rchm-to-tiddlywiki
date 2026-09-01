@@ -331,6 +331,12 @@ def strip_table_classes(body):
 
 
 def clean_html(body, book=None):
+    # &#9; (Tab 实体) 统一替换为空格，避免源码噪音（2026-09-01）
+    body = body.replace("&#9;", " ")
+    # <p 标签内部多余空格/换行清理：<p \n> / <p class="x" \n> -> <p> / <p class="x">
+    body = re.sub(r"<p\s*\n", "<p ", body)              # <p 与属性间换行，保留空格
+    body = re.sub(r"<p([^>]+?)\s+>", r"<p\1>", body)    # 带属性且 > 前多余空白
+    body = re.sub(r"<p\s+>", "<p>", body)               # 纯空白型 <p  >
     # 去掉 script 和 style 块；节点内不保留单节点 CSS，统一由全局 cascading_stylesheet.css 控制
     body = re.sub(r"<script[^>]*>.*?</script>", "", body, flags=re.S | re.I)
     body = re.sub(r"<style[^>]*>.*?</style>", "", body, flags=re.S | re.I)
@@ -349,6 +355,10 @@ def clean_html(body, book=None):
     body = normalize_fullwidth_punct(body)
     # 用户规则：清理表格行内格式 class="g"/"l"/"w"（2026-08-31）
     body = strip_table_classes(body)
+    # 用户规则：合并相邻同标签边界（2026-09-01，各自跳过对方交叉嵌套）
+    #   </b><b> -> 连续加粗；</i><i> -> 连续斜体
+    body = re.sub(r"(?<!</i>)</b><b>(?!<i>)", "", body)
+    body = re.sub(r"(?<!</b>)</i><i>(?!<b>)", "", body)
     # Phase 2 固化：按书判定清理 class/id/style(<o:p>/<font>/伪标题 h3)，
     # 使后续 4500 页新书直接产出干净内容，不再产生新钩子
     body, _ = SH.process_body(body, book)

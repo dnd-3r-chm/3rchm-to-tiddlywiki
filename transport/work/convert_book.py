@@ -133,6 +133,24 @@ SKIP_SOURCES = {
     r"0 核心三宝书\DMG城主指南\第二章\更多移动规则\更多移动规则.htm",
     r"0 核心三宝书\DMG城主指南\第二章\战斗\战斗.htm",
     r"0 核心三宝书\DMG城主指南\第二章\战斗\战斗中的生物体型大小.htm",
+    # 10 附录 已删除/已还原/已重排的源文件（2026-09-01 用户要求排除在自动搬运外）
+    # 已还原节点（重转会覆盖手动排版版本）：
+    r"10 附录\如何使用大不全.htm",
+    # 已删除节点（源 htm 仍存在，重转会复活已删 tid）：
+    r"10 附录\如何为扩展大全做出贡献.htm",
+    r"10 附录\html教学\开始之前.htm",
+    r"10 附录\html教学\标签与格式.htm",
+}
+
+# 已手动清洗/调整、重转会覆盖的整目录前缀（不仅是合并节点）
+# 注意：convert_book 按"源文件相对路径"跳过，前缀需与 final_mapping.csv 的分隔符(\\)一致
+SKIP_SOURCE_PREFIXES = {
+    # 0 核心三宝书/PHB玩家手册 全本已排版完成（含 11法术/法术描述 手工重排），
+    # 后续搬运 PHB 一律跳过，避免重转覆盖已排版内容（2026-09-01 用户要求）
+    "0 核心三宝书\\PHB玩家手册\\",
+    # 10 附录 整目录已手动调整/重排/还原/删除（如何使用大不全还原、如何为扩展大全做出贡献删除、
+    # 武器附魔测评重排改名、html教学清洗等），2026-09-01 用户要求整目录排除在自动搬运外
+    "10 附录\\",
 }
 
 
@@ -158,9 +176,9 @@ def convert_book(prefix):
     log(f"=== 开始转换：{prefix}，选中 {len(selected)} 页 ===")
     for row in selected:
         rel = row["源文件相对路径"]
-        if rel in SKIP_SOURCES:
-            print("SKIP(已合并):", rel)
-            log(f"SKIP(已合并): {rel}")
+        if rel in SKIP_SOURCES or any(rel.startswith(p) for p in SKIP_SOURCE_PREFIXES):
+            print("SKIP(已合并/已清洗):", rel)
+            log(f"SKIP(已合并/已清洗): {rel}")
             continue
         src_path = os.path.join(ROOT, rel)
         if not os.path.isfile(src_path):
