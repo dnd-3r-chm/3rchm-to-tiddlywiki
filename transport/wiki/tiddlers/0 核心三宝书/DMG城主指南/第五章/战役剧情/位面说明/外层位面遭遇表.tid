@@ -1,0 +1,59 @@
+title: 外层位面遭遇表 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/第五章/战役剧情/位面说明/外层位面遭遇表.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>外层位面遭遇表</h1>
+
+<h2>深渊型遭遇(EL15)</h2>
+<table class="class-table">
+<tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
+<tr><td>01-10</td><td>1个六臂蛇魔</td><td>17</td></tr>
+<tr><td>11-25</td><td>深渊高等石化蜥蜴</td><td>15</td></tr>
+<tr><td>26-50</td><td>妖魔队：1个判魂魔、1个狂战魔与1d3个弗洛魔</td><td>15</td></tr>
+<tr><td>51-70</td><td>妖魔队：1个迷诱魔、1个魅魔与1d3个弗洛魔</td><td>14</td></tr>
+<tr><td>71-90</td><td>1d3个狂战魔(妖魔)</td><td>13</td></tr>
+<tr><td>91-95</td><td>1个史拉亡蟾族</td><td>13</td></tr>
+<tr><td>96-100</td><td>2个史拉灰蟾族</td><td>12</td></tr>
+</table>
+
+<h2>地狱型遭遇(EL15)</h2>
+<table class="class-table">
+<tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
+<tr><td>01-20</td><td>1个角魔</td><td>16</td></tr>
+<tr><td>21-45</td><td>恶魔队：1个冰魔、1d3个骨魔与2d4+3个褶魔</td><td>15</td></tr>
+<tr><td>46-70</td><td>1d3个冰魔</td><td>15</td></tr>
+<tr><td>71-80</td><td>2d4+3个地狱胡蜂群</td><td>14</td></tr>
+<tr><td>81-85</td><td>1d4+2个弗米蚁卫</td><td>14</td></tr>
+<tr><td>86-95</td><td>1d4+2个骨魔</td><td>13</td></tr>
+<tr><td>96-100</td><td>1个老鬼婆与1个寇克马(梦魇)</td><td>12</td></tr>
+</table>
+
+<h2>天堂型遭遇(EL15)</h2>
+<table class="class-table">
+<tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
+<tr><td>01-25</td><td>1d3个星界使徒(天使)</td><td>16</td></tr>
+<tr><td>26-45</td><td>1个异界神侍(天使)</td><td>16</td></tr>
+<tr><td>46-60</td><td>1个獒首神使英杰</td><td>16</td></tr>
+<tr><td>61-65</td><td>1个猎憎生使(猎罪使)</td><td>15</td></tr>
+<tr><td>66-85</td><td>1个号角神使</td><td>14</td></tr>
+<tr><td>86-90</td><td>1d4+2个弗米蚁卫</td><td>14</td></tr>
+<tr><td>91-95</td><td>1d3个狮獒天(盖丁天族)</td><td>14</td></tr>
+<tr><td>96-100</td><td>1d4+2个鹏羽天(盖丁天族)</td><td>13</td></tr>
+</table>
+
+<h2>福地型遭遇(EL15)</h2>
+<table class="class-table">
+<tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
+<tr><td>01-15</td><td>1d3个星界使徒(天使)</td><td>16</td></tr>
+<tr><td>16-30</td><td>1个异界神侍</td><td>16</td></tr>
+<tr><td>31-55</td><td>1d3个迦勒天(爱菈天族)</td><td>15</td></tr>
+<tr><td>56-65</td><td>1d3个狮獒天(盖丁天族)</td><td>14</td></tr>
+<tr><td>66-80</td><td>1个天界突骑(独角兽)</td><td>13</td></tr>
+<tr><td>81-90</td><td>1d4+2个鹏羽天(盖丁天族)</td><td>13</td></tr>
+<tr><td>91-95</td><td>1个史拉亡蟾族</td><td>13</td></tr>
+<tr><td>96-100</td><td>2个史拉灰蟾族</td><td>12</td></tr>
+</table>
+<p>随机遭遇：交替使用上述四种外层位面随机遭遇表。</p>
+

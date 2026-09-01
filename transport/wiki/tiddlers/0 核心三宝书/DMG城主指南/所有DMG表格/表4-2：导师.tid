@@ -1,0 +1,278 @@
+title: 表4-2：导师 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-2：导师.htm
+type: text/vnd.tiddlywiki
+
+<table class="chm-word-table" style="BORDER-COLLAPSE:collapse" cellSpacing=0 cellPadding=2 width="100%" border=0><tr><td><b>NPC等级</b></td>
+<td><b>基本攻击加值</b></td>
+<td><b>强韧检定</b></td>
+<td><b>反射检定</b></td>
+<td><b>意志检定</b></td>
+<td><b>特殊</b></td>
+<td><b>0级</b></td>
+<td><b>1级</b></td>
+<td><b>2级</b></td>
+<td><b>3级</b></td>
+<td><b>4级</b></td>
+<td><b>5级</b></td>
+</tr>
+<tr><td bgColor=#eeeeee>1</td>
+<td bgColor=#eeeeee>+0</td>
+<td bgColor=#eeeeee>+0</td>
+<td bgColor=#eeeeee>+0</td>
+<td bgColor=#eeeeee>+2</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>1</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>2</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+<td>召唤魔宠</td>
+<td>3</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>+1</td>
+<td bgColor=#eeeeee>+1</td>
+<td bgColor=#eeeeee>+1</td>
+<td bgColor=#eeeeee>+3</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>4</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td></td>
+<td>3</td>
+<td>2</td>
+<td>0</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>5</td>
+<td bgColor=#eeeeee>+2</td>
+<td bgColor=#eeeeee>+1</td>
+<td bgColor=#eeeeee>+1</td>
+<td bgColor=#eeeeee>+4</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>1</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>6</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+<td></td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>7</td>
+<td bgColor=#eeeeee>+3</td>
+<td bgColor=#eeeeee>+2</td>
+<td bgColor=#eeeeee>+2</td>
+<td bgColor=#eeeeee>+5</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>8</td>
+<td>+4</td>
+<td>+3</td>
+<td>+3</td>
+<td>+6</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>0</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>9</td>
+<td bgColor=#eeeeee>+4</td>
+<td bgColor=#eeeeee>+3</td>
+<td bgColor=#eeeeee>+3</td>
+<td bgColor=#eeeeee>+6</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>1</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>10</td>
+<td>+5</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>11</td>
+<td bgColor=#eeeeee>+5</td>
+<td bgColor=#eeeeee>+3</td>
+<td bgColor=#eeeeee>+3</td>
+<td bgColor=#eeeeee>+7</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>—</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>12</td>
+<td>+6/+1</td>
+<td>+4</td>
+<td>+4</td>
+<td>+8</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>0</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>13</td>
+<td bgColor=#eeeeee>+6/+1</td>
+<td bgColor=#eeeeee>+4</td>
+<td bgColor=#eeeeee>+4</td>
+<td bgColor=#eeeeee>+8</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>1</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>14</td>
+<td>+7/+2</td>
+<td>+4</td>
+<td>+4</td>
+<td>+9</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr><td bgColor=#eeeeee>15</td>
+<td bgColor=#eeeeee>+7/+2</td>
+<td bgColor=#eeeeee>+5</td>
+<td bgColor=#eeeeee>+5</td>
+<td bgColor=#eeeeee>+9</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>—</td>
+</tr>
+<tr><td>16</td>
+<td>+8/+3</td>
+<td>+5</td>
+<td>+5</td>
+<td>+10</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr><td bgColor=#eeeeee>17</td>
+<td bgColor=#eeeeee>+8/+3</td>
+<td bgColor=#eeeeee>+5</td>
+<td bgColor=#eeeeee>+5</td>
+<td bgColor=#eeeeee>+10</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+<td bgColor=#eeeeee>1</td>
+</tr>
+<tr><td>18</td>
+<td>+9/+4</td>
+<td>+6</td>
+<td>+6</td>
+<td>+11</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr><td bgColor=#eeeeee>19</td>
+<td bgColor=#eeeeee>+9/+4</td>
+<td bgColor=#eeeeee>+6</td>
+<td bgColor=#eeeeee>+6</td>
+<td bgColor=#eeeeee>+11</td>
+<td bgColor=#eeeeee></td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>3</td>
+<td bgColor=#eeeeee>2</td>
+</tr>
+<tr><td>20</td>
+<td>+10/+5</td>
+<td>+6</td>
+<td>+6</td>
+<td>+12</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr></table>

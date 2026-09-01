@@ -1,0 +1,109 @@
+title: 表3-9：墙 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-9：墙.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div class="table-title">表3-9：墙</div>
+
+    <table class="wall-table">
+        <thead>
+            <tr>
+                <th>类型</th>
+                <th>一般厚度</th>
+                <th>击破DC</th>
+                <th>硬度</th>
+                <th>生命值(注一)</th>
+                <th>攀爬DC</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>砌石墙</td>
+                <td>1英尺</td>
+                <td>35</td>
+                <td>8</td>
+                <td>90hp</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>精砌石墙</td>
+                <td>1英尺</td>
+                <td>35</td>
+                <td>8</td>
+                <td>90hp</td>
+                <td class="dash">—</td>
+            </tr>
+            <tr>
+                <td>强化石墙</td>
+                <td>1英尺</td>
+                <td>45</td>
+                <td>8</td>
+                <td>180hp</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>凿切石墙</td>
+                <td>3英尺</td>
+                <td>50</td>
+                <td>8</td>
+                <td>540hp</td>
+                <td>25</td>
+            </tr>
+            <tr>
+                <td>天然石墙</td>
+                <td>5英尺</td>
+                <td>65</td>
+                <td>8</td>
+                <td>900hp</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>铁墙</td>
+                <td>3英尺</td>
+                <td>30</td>
+                <td>10</td>
+                <td>90hp</td>
+                <td>25</td>
+            </tr>
+            <tr>
+                <td>纸墙</td>
+                <td>纸的厚度</td>
+                <td>1</td>
+                <td class="dash">—</td>
+                <td>1hp</td>
+                <td>30</td>
+            </tr>
+            <tr>
+                <td>木墙</td>
+                <td>6英寸</td>
+                <td>20</td>
+                <td>5</td>
+                <td>60hp</td>
+                <td>21</td>
+            </tr>
+            <!-- 魔法墙(特殊行) -->
+            <tr class="magic-row">
+                <td><b>魔法墙(注二)</b></td>
+                <td class="dash">—</td>
+                <td>+20</td>
+                <td>×2</td>
+                <td>×2(注三)</td>
+                <td class="dash">—</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- 注释 -->
+    <div class="notes">
+        <div class="note-item">
+            (注一) 每长宽各10英尺区域的生命值。
+        </div>
+        <div class="note-item">
+            (注二) 视墙壁材质依此列调整值调整。
+        </div>
+        <div class="note-item">
+            (注三) 或+50，以较高者为准。
+        </div>
+    </div>
+</div>

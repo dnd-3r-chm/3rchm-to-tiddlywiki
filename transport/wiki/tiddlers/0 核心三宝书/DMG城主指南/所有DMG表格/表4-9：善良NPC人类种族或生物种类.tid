@@ -1,0 +1,135 @@
+title: 表4-9：善良NPC人类种族或生物种类 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-9：善良NPC人类种族或生物种类.htm
+type: text/vnd.tiddlywiki
+
+<div class="dmg-page">
+
+<h1>表4-9：善良NPC人物种族或生物种类</h1>
+
+<table class="dmg-table">
+
+<tr>
+<th>野蛮人</th>
+<th>吟游诗人</th>
+<th>牧师</th>
+<th>德鲁伊</th>
+<th>战士</th>
+<th>武僧</th>
+<th>圣武士</th>
+<th>巡林客</th>
+<th>游荡者</th>
+<th>术士</th>
+<th>法师</th>
+<th>人物种族／生物种类</th>
+<th>等级</th>
+</tr>
+
+<tr>
+<td>—</td><td>01</td><td>01</td><td>—</td><td>—</td><td>01-02</td><td>01-10</td><td>—</td><td>—</td><td>01-02</td><td>01</td>
+<td class="race">阿斯莫(神魔裔)</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>—</td><td>02</td><td>—</td><td>01-03</td><td>—</td><td>—</td><td>—</td><td>—</td><td>03</td><td>—</td>
+<td class="race">地底矮人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>01-02</td><td>02-06</td><td>03-22</td><td>—</td><td>04-33</td><td>03</td><td>11-20</td><td>01-05</td><td>01-05</td><td>04-05</td><td>02</td>
+<td class="race">丘陵矮人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>—</td><td>23-24</td><td>—</td><td>34-41</td><td>—</td><td>21</td><td>—</td><td>06</td><td>06</td><td>—</td>
+<td class="race">山矮人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>07-11</td><td>25</td><td>01</td><td>42</td><td>—</td><td>—</td><td>—</td><td>—</td><td>07-08</td><td>03-07</td>
+<td class="race">灰精灵</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>12-36</td><td>26-35</td><td>02-11</td><td>43-47</td><td>04-13</td><td>—</td><td>06-20</td><td>07-19</td><td>09-11</td><td>08-41</td>
+<td class="race">高精灵</td><td>正常</td>
+</tr>
+
+<tr>
+<td>03-32</td><td>37</td><td>36-40</td><td>12-21</td><td>—</td><td>—</td><td>—</td><td>21</td><td>—</td><td>12-36</td><td>—</td>
+<td class="race">野精灵</td><td>正常</td>
+</tr>
+
+<tr>
+<td>33-34</td><td>38</td><td>41</td><td>22-31</td><td>—</td><td>—</td><td>—</td><td>22-36</td><td>—</td><td>37</td><td>42</td>
+<td class="race">木精灵</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>39</td><td>42</td><td>32-36</td><td>—</td><td>—</td><td>—</td><td>37-41</td><td>20</td><td>38</td><td>43</td>
+<td class="race">森林侏儒</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>40-44</td><td>43-51</td><td>37</td><td>48</td><td>—</td><td>22</td><td>42</td><td>21-25</td><td>39-40</td><td>44-48</td>
+<td class="race">岩侏儒</td><td>正常</td>
+</tr>
+
+<tr>
+<td>35</td><td>45-53</td><td>52-56</td><td>38-46</td><td>49-50</td><td>14-18</td><td>23-27</td><td>43-57</td><td>26-35</td><td>41-45</td><td>49-58</td>
+<td class="race">半精灵</td><td>正常</td>
+</tr>
+
+<tr>
+<td>36</td><td>54</td><td>57-66</td><td>47</td><td>51</td><td>19</td><td>28</td><td>58</td><td>36-60</td><td>46-54</td><td>59-63</td>
+<td class="race">轻足半身人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>55</td><td>67</td><td>—</td><td>52</td><td>20</td><td>29</td><td>—</td><td>61-66</td><td>55</td><td>64</td>
+<td class="race">地底半身人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>56</td><td>68-69</td><td>48</td><td>—</td><td>—</td><td>—</td><td>59</td><td>67-72</td><td>56</td><td>65-67</td>
+<td class="race">高半身人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>37-61</td><td>57</td><td>70</td><td>49</td><td>53-57</td><td>21-25</td><td>30</td><td>60-64</td><td>73-77</td><td>57-58</td><td>68</td>
+<td class="race">半兽人</td><td>正常</td>
+</tr>
+
+<tr>
+<td>62-98</td><td>58-97</td><td>71-95</td><td>50-99</td><td>58-97</td><td>26-97</td><td>31-97</td><td>65-97</td><td>78-96</td><td>59-95</td><td>69-96</td>
+<td class="race">人类</td><td>正常</td>
+</tr>
+
+<tr>
+<td>—</td><td>98</td><td>96</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>97</td><td>96</td><td>97</td>
+<td class="race">地底侏儒</td><td>-1</td>
+</tr>
+
+<tr>
+<td>99</td><td>99</td><td>97-98</td><td>100</td><td>98</td><td>98</td><td>98</td><td>98</td><td>98</td><td>97</td><td>98</td>
+<td class="race">半天界生物(注一)</td><td>-1</td>
+</tr>
+
+<tr>
+<td>100</td><td>100</td><td>99</td><td>—</td><td>99</td><td>99</td><td>99</td><td>99</td><td>99</td><td>98-99</td><td>99</td>
+<td class="race">半龙(注一)</td><td>-2</td>
+</tr>
+
+<tr>
+<td>—</td><td>—</td><td>100</td><td>—</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td>
+<td class="race">熊人(兽化人)(注一)</td><td>-2</td>
+</tr>
+
+</table>
+
+<div class="notes">
+<p>(注一)重掷一次决定NPC的种族或种类(重掷时忽略此说明)。</p>
+<p>(注二)若生物太强，须降低其等级使游戏平衡。若降低后的等级小于或等于0级，则重掷。</p>
+</div>
+
+</div>

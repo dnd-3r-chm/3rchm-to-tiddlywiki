@@ -1,0 +1,66 @@
+title: N_-_奇物资料 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/第七章/N_-_奇物资料.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>N - 奇物资料</h1>
+
+<!-- 项链类 -->
+<h2 class="category-title">项链</h2>
+<table>
+<colgroup><col style="width:16%;"><col style="width:66%;"><col style="width:18%;"></colgroup>
+<tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
+
+<!-- 1. 适应项链 -->
+<tr>
+    <td>适应项链<br><span style="font-weight:normal;font-size:12px;color:#555;">(Necklace of Adaptation)</span></td>
+    <td>
+        <p class="desc">这是挂有白金勋章的粗链子。使用者周围充满新鲜空气，不怕任何有害气体(例如"死云术"或"臭云术"等毒气)，也可以在水下或真空状态呼吸。</p>
+        <p class="stat">中等变化系。施法者等级：7。先决条件：制造奇物，"变身术"。</p>
+    </td>
+    <td>9,000金币</td>
+</tr>
+
+<!-- 2. 火球项链 -->
+<tr>
+    <td>火球项链<br><span style="font-weight:normal;font-size:12px;color:#555;">(Necklace of Fireball)</span></td>
+    <td>
+        <p class="desc">看起来只是一串珠子，串成一圈成为一条项链(在计算人物身着的魔法物品时，不占用颈部空间)。如果把他握在手中，会发现实际上是挂有数颗金球的金链子。使用者可以把金球拿下(也只有使用者可以拿下)且掷出，最远70英尺。金球落下之后爆炸，效果如同"火球术"(反射过则减半，DC=14)。</p>
+        <p class="desc">不同类型的项链球数不同，火球伤害与价格也不同，请见下表：</p>
+        <table class="inner-table">
+            <tr><th>项链</th><th>10d6</th><th>9d6</th><th>8d6</th><th>7d6</th><th>6d6</th><th>5d6</th><th>4d6</th><th>3d6</th><th>2d6</th><th>价格</th></tr>
+            <tr><td>类型一</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>—</td><td>2</td><td>—</td><td>1,650金币</td></tr>
+            <tr><td>类型二</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>—</td><td>2</td><td>—</td><td>2</td><td>2,700金币</td></tr>
+            <tr><td>类型三</td><td>—</td><td>—</td><td>—</td><td>1</td><td>—</td><td>2</td><td>—</td><td>4</td><td>—</td><td>4,350金币</td></tr>
+            <tr><td>类型四</td><td>—</td><td>—</td><td>1</td><td>—</td><td>2</td><td>—</td><td>2</td><td>—</td><td>4</td><td>5,400金币</td></tr>
+            <tr><td>类型五</td><td>—</td><td>1</td><td>—</td><td>2</td><td>—</td><td>2</td><td>—</td><td>2</td><td>—</td><td>5,850金币</td></tr>
+            <tr><td>类型六</td><td>1</td><td>—</td><td>2</td><td>—</td><td>2</td><td>—</td><td>4</td><td>—</td><td>—</td><td>8,100金币</td></tr>
+            <tr><td>类型七</td><td>1</td><td>2</td><td>—</td><td>2</td><td>—</td><td>2</td><td>—</td><td>2</td><td>—</td><td>8,700金币</td></tr>
+        </table>
+        <p class="desc" style="margin-top:8px;">例如：一个类型三的项链有七颗火球：一颗伤害7d6点、两颗5d6点、四颗3d6点。如果穿戴者或携带者被魔法火焰攻击命中(未通过豁免检定)，项链也须进行豁免检定(但有+7加值)。如果项链未通过检定，所有剩下的金球会同时爆炸，通常会对穿戴者造成很大伤害。</p>
+        <p class="stat">中等塑能系。施法者等级：10。先决条件：制造奇物，"火球术"。</p>
+    </td>
+    <td>1,650~8,700金币</td>
+</tr>
+</table>
+
+<!-- 染料类 -->
+<h2 class="category-title">染料与特殊涂料</h2>
+<table>
+<colgroup><col style="width:16%;"><col style="width:66%;"><col style="width:18%;"></colgroup>
+<tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
+
+<!-- 3. 诺若惊奇染料 -->
+<tr>
+    <td>诺若惊奇染料<br><span style="font-weight:normal;font-size:12px;color:#555;">(Nolzur's Marvelous Pigments)</span></td>
+    <td>
+        <p class="desc">使用者可以在平面上描绘物体的形状，以创造出真实物品。漆刷的刷毛为猪鬃、毛发或动物的软毛。使用者注视着图像，染料就会流出变成该物体。一瓶染料可覆盖100平方英尺的面积，并创造体积1000立方英尺的物体。也就是说，若画出10英尺x10英尺的坑洞，则创造出的就是10英尺x10英尺x10英尺的坑洞。画出10英尺x10英尺的房间，可创造出10英尺x10英尺x10英尺的房间，以此类推。</p>
+        <p class="desc">使用者只能创造一般的不动物品，如：门、坑洞、花、树、小房间等，不能创造生物。染料必须涂在平面(地板、墙、天花板等)。绘制一个物品须时10分钟，并需要进行"工艺：绘画"检定(DC=15)，且不能创造魔法物品。如果画出的是值钱物体(如：稀有金属、宝石、珠宝、象牙等)，则虽然出现时看起来像，实际上却是由较不值钱的物质制成(如：锡、铅、铅玻璃、黄铜、骨头等)。使用者可以创造一般武器、防具或日常用品(包括食物)，但价值不能超过2,000金币。创造出的物品都没有魔法，效果为立即。</p>
+        <p class="stat">强烈咒法系。施法者等级：15。先决条件：制造奇物，"高等造物术"。</p>
+    </td>
+    <td>4,000金币</td>
+</tr>
+</table>
+
+

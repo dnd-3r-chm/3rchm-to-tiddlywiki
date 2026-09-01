@@ -1,0 +1,35 @@
+title: 表3-28：城镇事件遭遇 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-28：城镇事件遭遇.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>表3-28：城镇事件遭遇</div>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width:20%">d20</th>
+                <th style="width:30%">遭遇</th>
+                <th style="width:20%">d20</th>
+                <th style="width:30%">遭遇</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td class="dice">0</td><td class="event">恶霸</td><td class="dice">13</td><td class="event">单挑 / 法师单挑</td></tr>
+            <tr><td class="dice">1</td><td class="event">强盗</td><td class="dice">14</td><td class="event">斗殴 / 街头冲突 / 帮派斗争</td></tr>
+            <tr><td class="dice">2</td><td class="event">守卫骚扰</td><td class="dice">15</td><td class="event">抢劫</td></tr>
+            <tr><td class="dice">3</td><td class="event">扒窃</td><td class="dice">16</td><td class="event">监狱逃犯</td></tr>
+            <tr><td class="dice">4</td><td class="event">奇观</td><td class="dice">17</td><td class="event">怪物</td></tr>
+            <tr><td class="dice">5</td><td class="event">发现物品</td><td class="dice">18</td><td class="event">火灾(建筑物、船只等等)</td></tr>
+            <tr><td class="dice">6</td><td class="event">失踪孩童</td><td class="dice">19</td><td class="event">工程意外</td></tr>
+            <tr><td class="dice">7</td><td class="event">尸体</td><td class="dice">20</td><td class="event">法术意外</td></tr>
+            <tr><td class="dice">8</td><td class="event">动物</td><td class="dice">21</td><td class="event">达官显贵</td></tr>
+            <tr><td class="dice">9</td><td class="event">翻倒 / 失控的轻型马车</td><td class="dice">22</td><td class="event">身分误认</td></tr>
+            <tr><td class="dice">10</td><td class="event">特定邻里的事件遭遇</td><td class="dice">23</td><td class="event">守卫求援</td></tr>
+            <tr><td class="dice">11</td><td class="event">特定邻里的事件遭遇</td><td class="dice">24</td><td class="event">工作机会</td></tr>
+            <tr><td class="dice">12</td><td class="event">竞赛</td><td class="dice">25+</td><td class="event">崇拜者</td></tr>
+        </tbody>
+    </table>
+
+</div>

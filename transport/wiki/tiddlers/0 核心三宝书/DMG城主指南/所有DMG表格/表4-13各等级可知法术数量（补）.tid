@@ -1,0 +1,47 @@
+title: 表4-13各等级可知法术数量(补) (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-13各等级可知法术数量(补).htm
+type: text/vnd.tiddlywiki
+
+
+<h1>各等级可知法术数量</h1>
+
+<table>
+<tr>
+    <th>等级</th><th>法术</th>
+    <th>等级</th><th>法术</th>
+    <th>等级</th><th>法术</th>
+    <th>等级</th><th>法术</th>
+</tr>
+<tr>
+    <td>1</td><td>4</td>
+    <td>2</td><td>5/2</td>
+    <td>3</td><td>6/3</td>
+    <td>4</td><td>6/3/2</td>
+</tr>
+<tr>
+    <td>5</td><td>6/4/3</td>
+    <td>6</td><td>6/4/3</td>
+    <td>7</td><td>6/4/4/2</td>
+    <td>8</td><td>6/4/4/3</td>
+</tr>
+<tr>
+    <td>9</td><td>6/4/4/3</td>
+    <td>10</td><td>6/4/4/4/2</td>
+    <td>11</td><td>6/4/4/4/3</td>
+    <td>12</td><td>6/4/4/4/3</td>
+</tr>
+<tr>
+    <td>13</td><td>6/4/4/4/4/2</td>
+    <td>14</td><td>6/4/4/4/4/3</td>
+    <td>15</td><td>6/4/4/4/4/3</td>
+    <td>16</td><td>6/5/4/4/4/4</td>
+</tr>
+<tr>
+    <td>17</td><td>6/5/5/4/4/4/3</td>
+    <td>18</td><td>6/5/5/5/4/4/3</td>
+    <td>19</td><td>6/5/5/5/5/4/4</td>
+    <td>20</td><td>6/5/5/5/5/5/4</td>
+</tr>
+</table>
+

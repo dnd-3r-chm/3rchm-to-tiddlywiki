@@ -1,0 +1,29 @@
+title: 表6-7：龙脉术士 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表6-7：龙脉术士.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表6-7：龙脉术士</h1>
+<table>
+<tr>
+    <th>职业等级</th>
+    <th>基本攻击加值</th>
+    <th>强韧检定</th>
+    <th>反射检定</th>
+    <th>意志检定</th>
+    <th>特殊能力</th>
+    <th>额外法术数量</th>
+</tr>
+<tr><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td>天生防御增强+1</td><td>1</td></tr>
+<tr><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td>属性增强(力量+2)、爪抓与啮咬</td><td>1</td></tr>
+<tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td>喷吐攻击2d8</td><td>0</td></tr>
+<tr><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>属性增强(力量+2)、天生防御增强+2</td><td>1</td></tr>
+<tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td>盲感(30英尺)</td><td>1</td></tr>
+<tr><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td>属性增强(体质+2)</td><td>1</td></tr>
+<tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td>喷吐攻击4d8、天生防御增强+3</td><td>0</td></tr>
+<tr><td>8</td><td>+6</td><td>+6</td><td>+2</td><td>+6</td><td>属性增强(智力+2)</td><td>1</td></tr>
+<tr><td>9</td><td>+6</td><td>+6</td><td>+3</td><td>+6</td><td>龙翼</td><td>1</td></tr>
+<tr><td>10</td><td>+7</td><td>+7</td><td>+3</td><td>+7</td><td>盲感(60英尺)、龙化</td><td>0</td></tr>
+</table>
+

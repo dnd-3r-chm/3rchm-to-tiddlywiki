@@ -1,0 +1,24 @@
+title: 表4-23：非玩家人物携带物品总价 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-23：非玩家人物携带物品总价.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表4-23：非玩家人物携带物品总价</h1>
+<table>
+<tr>
+    <th>NPC等级</th><th>物品总价</th>
+    <th>NPC等级</th><th>物品总价</th>
+</tr>
+<tr><td>1</td><td>900金币</td><td>11</td><td>21,000金币</td></tr>
+<tr><td>2</td><td>2,000金币</td><td>12</td><td>27,000金币</td></tr>
+<tr><td>3</td><td>2,500金币</td><td>13</td><td>35,000金币</td></tr>
+<tr><td>4</td><td>3,300金币</td><td>14</td><td>45,000金币</td></tr>
+<tr><td>5</td><td>4,300金币</td><td>15</td><td>59,000金币</td></tr>
+<tr><td>6</td><td>5,600金币</td><td>16</td><td>77,000金币</td></tr>
+<tr><td>7</td><td>7,200金币</td><td>17</td><td>100,000金币</td></tr>
+<tr><td>8</td><td>9,400金币</td><td>18</td><td>130,000金币</td></tr>
+<tr><td>9</td><td>12,000金币</td><td>19</td><td>170,000金币</td></tr>
+<tr><td>10</td><td>16,000金币</td><td>20</td><td>220,000金币</td></tr>
+</table>
+

@@ -1,0 +1,35 @@
+title: 表6-6：暗黑卫士 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表6-6：暗黑卫士.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表6-6：暗黑卫士</h1>
+<table>
+<tr>
+    <th rowspan="2">职业等级</th>
+    <th rowspan="2">基本攻击加值</th>
+    <th rowspan="2">强韧检定</th>
+    <th rowspan="2">反射检定</th>
+    <th rowspan="2">意志检定</th>
+    <th rowspan="2">特殊能力</th>
+    <th colspan="4">每日法术数量</th>
+</tr>
+<tr>
+    <th>一级</th>
+    <th>二级</th>
+    <th>三级</th>
+    <th>四级</th>
+</tr>
+<tr><td>1</td><td>+1</td><td>+2</td><td>0</td><td>0</td><td>邪恶灵光、侦测善良、用毒</td><td>0</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>2</td><td>+2</td><td>+3</td><td>0</td><td>0</td><td>暗黑祝福、破善斩(每日1次)</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td>命令不死生物、绝望灵光</td><td>1</td><td>0</td><td>—</td><td>—</td></tr>
+<tr><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>+1</td><td>偷袭+1d6</td><td>1</td><td>1</td><td>—</td><td>—</td></tr>
+<tr><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>+1</td><td>炼狱仆役、破善斩(每日2次)</td><td>1</td><td>1</td><td>0</td><td>—</td></tr>
+<tr><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>+2</td><td>—</td><td>1</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td>7</td><td>+7</td><td>+5</td><td>+2</td><td>+2</td><td>偷袭+2d6</td><td>2</td><td>1</td><td>1</td><td>0</td></tr>
+<tr><td>8</td><td>+8</td><td>+6</td><td>+2</td><td>+2</td><td>—</td><td>2</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>+3</td><td>—</td><td>2</td><td>2</td><td>1</td><td>1</td></tr>
+<tr><td>10</td><td>+10</td><td>+7</td><td>+3</td><td>+3</td><td>偷袭+3d6、破善斩(每日3次)</td><td>2</td><td>2</td><td>2</td><td>1</td></tr>
+</table>
+

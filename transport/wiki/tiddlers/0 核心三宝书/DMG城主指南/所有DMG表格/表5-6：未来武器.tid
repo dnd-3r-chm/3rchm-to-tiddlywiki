@@ -1,0 +1,37 @@
+title: 表5-6：未来武器 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表5-6：未来武器.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表5-6：未来武器</h1>
+
+<table>
+<tr>
+    <th>异种武器(火器)</th><th>伤害值(小)</th><th>伤害值(中)</th><th>重击</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
+</tr>
+
+<!-- 单手远程武器分类 -->
+<tr><td colspan="7" class="cat-row" style="background:#f4efd2;">单手远程武器</td></tr>
+<tr>
+    <td>激光手枪</td><td>3d4</td><td>3d6</td><td>x2</td><td>40英尺</td><td>2磅</td><td>—</td>
+</tr>
+
+<!-- 双手远程武器分类 -->
+<tr><td colspan="7" class="cat-row">双手远程武器</td></tr>
+<tr>
+    <td>反物质来复枪</td><td>6d6</td><td>6d8</td><td>x2</td><td>120英尺</td><td>10磅</td><td>—</td>
+</tr>
+<tr>
+    <td>火焰枪</td><td>3d4(注一)</td><td>3d6(注一)</td><td>—</td><td>20英尺</td><td>8磅</td><td>火</td>
+</tr>
+<tr>
+    <td>激光来复枪</td><td>3d6</td><td>3d8</td><td>x2</td><td>100英尺</td><td>7磅</td><td>—</td>
+</tr>
+</table>
+
+<div class="notes">
+    <p>(注一)火焰枪(Flamer)：火焰枪每轮只能发射一次。与其他远程武器不同，火焰枪可发出火焰，对5英尺宽、200英尺长(火焰枪的最大射程)内的事物造成伤害。装满燃料的燃油匣可提供火焰枪发射10次，更换燃油匣为整轮动作。</p>
+</div>
+
+

@@ -1,0 +1,33 @@
+title: 表2-1：机动性 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表2-1：机动性.htm
+type: text/vnd.tiddlywiki
+<div>
+    <h2>表2-1：机动性</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>机动性</th>
+                <th>灵活<br>(鬼火)</th>
+                <th>良好<br>(眼魔)</th>
+                <th>普通<br>(石像鬼)</th>
+                <th>不良<br>(翼龙)</th>
+                <th>笨拙<br>(刺尾狮)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>最低飞行速度</td><td>无</td><td>无</td><td>半速</td><td>半速</td><td>半速</td></tr>
+            <tr><td>盘旋</td><td>可</td><td>可</td><td>不可</td><td>不可</td><td>不可</td></tr>
+            <tr><td>向后飞行</td><td>可</td><td>可</td><td>不可</td><td>不可</td><td>不可</td></tr>
+            <tr><td>倒向</td><td>不消耗</td><td>消耗5英尺</td><td>不可</td><td>不可</td><td>不可</td></tr>
+            <tr><td>转向</td><td>任意</td><td>每移动5英尺转90度</td><td>每移动5英尺转45度</td><td>每移动5英尺转45度</td><td>每移动10英尺转45度</td></tr>
+            <tr><td>原地急转</td><td>任意</td><td>每消耗5英尺可+90度</td><td>每消耗5英尺可+45度</td><td>不可</td><td>不可</td></tr>
+            <tr><td>最大转向角度</td><td>任意</td><td>任意</td><td>90度</td><td>45度</td><td>45度</td></tr>
+            <tr><td>仰角</td><td>任意</td><td>任意</td><td>60度</td><td>45度</td><td>45度</td></tr>
+            <tr><td>上攻速度</td><td>全速</td><td>半速</td><td>半速</td><td>半速</td><td>半速</td></tr>
+            <tr><td>俯角</td><td>任意</td><td>任意</td><td>任意</td><td>45度</td><td>45度</td></tr>
+            <tr><td>下攻速度</td><td>倍速</td><td>倍速</td><td>倍速</td><td>倍速</td><td>倍速</td></tr>
+            <tr><td>升降缓冲</td><td>零</td><td>零</td><td>5英尺</td><td>10英尺</td><td>20英尺</td></tr>
+        </tbody>
+    </table>
+</div>

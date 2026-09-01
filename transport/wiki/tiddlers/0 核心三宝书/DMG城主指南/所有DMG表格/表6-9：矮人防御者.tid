@@ -1,0 +1,29 @@
+title: 表6-9：矮人防御者 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表6-9：矮人防御者.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表6-9：矮人防御者</h1>
+<table>
+<tr>
+    <th>职业等级</th>
+    <th>基本攻击加值</th>
+    <th>强韧检定</th>
+    <th>反射检定</th>
+    <th>意志检定</th>
+    <th>防御等级加值</th>
+    <th>特殊能力</th>
+</tr>
+<tr><td>1</td><td>+1</td><td>+2</td><td>0</td><td>+2</td><td>+1</td><td>防御姿态(每日1次)</td></tr>
+<tr><td>2</td><td>+2</td><td>+3</td><td>0</td><td>+3</td><td>+1</td><td>直觉闪避</td></tr>
+<tr><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>+3</td><td>+1</td><td>防御姿态(每日2次)</td></tr>
+<tr><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>+4</td><td>+2</td><td>陷阱感知+1</td></tr>
+<tr><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>+4</td><td>+2</td><td>防御姿态(每日3次)</td></tr>
+<tr><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>+5</td><td>+2</td><td>伤害减免3/—、精通直觉闪避</td></tr>
+<tr><td>7</td><td>+7</td><td>+5</td><td>+2</td><td>+5</td><td>+3</td><td>防御姿态(每日4次)</td></tr>
+<tr><td>8</td><td>+8</td><td>+6</td><td>+2</td><td>+6</td><td>+3</td><td>移动防御、陷阱感知+2</td></tr>
+<tr><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>+6</td><td>+3</td><td>防御姿态(每日5次)</td></tr>
+<tr><td>10</td><td>+10</td><td>+7</td><td>+3</td><td>+7</td><td>+4</td><td>伤害减免6/—</td></tr>
+</table>
+

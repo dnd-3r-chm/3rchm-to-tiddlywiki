@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8")
+
+path = r"E:\dnd3r_full\0 核心三宝书\DMG城主指南\所有DMG表格\表2-1：机动性.htm"
+raw = open(path, "rb").read()
+try:
+    text = raw.decode("utf-8")
+except UnicodeDecodeError:
+    text = raw.decode("gb18030", errors="replace")
+
+for m in re.finditer(r"<body[^>]*>", text, re.I):
+    print("open", m.start(), m.group(0))
+for m in re.finditer(r"</body>", text, re.I):
+    print("close", m.start(), m.group(0))

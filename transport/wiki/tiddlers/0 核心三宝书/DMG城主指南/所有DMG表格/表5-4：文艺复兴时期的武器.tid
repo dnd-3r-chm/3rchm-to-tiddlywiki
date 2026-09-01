@@ -1,0 +1,46 @@
+title: 表5-4：文艺复兴时期的武器 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表5-4：文艺复兴时期的武器.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表5-4：文艺复兴时期的武器</h1>
+
+<!-- 火器表格 -->
+<table>
+<tr>
+    <th>奇特武器(火器)</th><th>价格</th><th>伤害值(小)</th><th>伤害值(中)</th><th>重击</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
+</tr>
+<tr>
+    <td colspan="8" class="sub-header" style="background:#f4efd2;">单手远程武器</td>
+</tr>
+<tr>
+    <td>手枪</td><td>250金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>50英尺</td><td>3磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td colspan="8" class="sub-header">双手远程武器</td>
+</tr>
+<tr>
+    <td>毛瑟枪</td><td>500金币</td><td>1d10</td><td>1d12</td><td>x3</td><td>150英尺</td><td>10磅</td><td>穿刺</td>
+</tr>
+</table>
+
+<!-- 爆炸武器表格(列数不同) -->
+<table>
+<tr>
+    <th>爆炸武器(注一)</th><th>价格</th><th>伤害值</th><th>爆炸半径</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
+</tr>
+<tr>
+    <td>炸弹</td><td>150金币</td><td>2d6</td><td>5英尺</td><td>10英尺</td><td>1磅</td><td>火</td>
+</tr>
+<tr>
+    <td>烟幕弹</td><td>70金币</td><td>烟幕</td><td>(注二)</td><td>10英尺</td><td>1磅</td><td>—</td>
+</tr>
+</table>
+
+<div class="notes">
+<p>(注一)使用爆炸武器不需要任何专长。</p>
+<p>(注二)请参考内文说明。</p>
+</div>
+
+

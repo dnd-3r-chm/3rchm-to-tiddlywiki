@@ -1,0 +1,63 @@
+title: 表5-5：现代武器 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表5-5：现代武器.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表5-5：现代武器</h1>
+
+<!-- 火器表格 -->
+<table>
+<tr>
+    <th>异种武器(火器)</th><th>伤害值(小)</th><th>伤害值(中)</th><th>重击</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
+</tr>
+<tr>
+    <td colspan="7" class="cat-row" style="background:#f4efd2;">单手远程武器</td>
+</tr>
+<tr>
+    <td>自动手枪</td><td>2d4</td><td>2d6</td><td>x2</td><td>40英尺</td><td>3磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td>左轮手枪</td><td>2d6</td><td>2d8</td><td>X2</td><td>30英尺</td><td>3磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td colspan="7" class="cat-row">双手远程武器</td>
+</tr>
+<tr>
+    <td>猎用来复枪</td><td>2d8</td><td>2d10</td><td>x2</td><td>80英尺</td><td>8磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td>自动来复枪</td><td>2d6</td><td>2d8</td><td>X2</td><td>80英尺</td><td>8磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td>霰弹枪</td><td>2d6</td><td>2d8</td><td>X2</td><td>30英尺</td><td>7磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td>榴弹发射器(注一)</td><td>(注一)</td><td>(注一)</td><td>—</td><td>70英尺</td><td>7磅</td><td>—</td>
+</tr>
+</table>
+
+<div style="font-size:14px; margin: -12px 0 12px 0; text-align:left; padding-left:8px;">(注一)用以发射破片型与烟幕型榴弹，见下表。</div>
+
+<!-- 爆炸武器表格 -->
+<table>
+<tr>
+    <th>爆炸武器(注一)</th><th>伤害值</th><th>爆炸半径</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
+</tr>
+<tr>
+    <td>炸药</td><td>3d6(注二)</td><td>5英尺(注二)</td><td>10英尺</td><td>1磅</td><td>敲击</td>
+</tr>
+<tr>
+    <td>破片榴弹</td><td>4d6</td><td>20英尺</td><td>10英尺</td><td>1磅</td><td>挥砍</td>
+</tr>
+<tr>
+    <td>烟幕榴弹</td><td>烟幕</td><td>20英尺</td><td>10英尺</td><td>2磅</td><td>—</td>
+</tr>
+</table>
+
+<div class="notes">
+    <p>(注一)使用爆炸武器不需要任何专长。</p>
+    <p>(注二)请参考内文说明。</p>
+</div>
+
+

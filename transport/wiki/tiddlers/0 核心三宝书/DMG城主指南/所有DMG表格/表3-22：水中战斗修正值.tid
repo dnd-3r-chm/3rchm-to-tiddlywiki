@@ -1,0 +1,39 @@
+title: 表3-22：水中战斗修正值 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-22：水中战斗修正值.htm
+type: text/vnd.tiddlywiki
+<div class="container">
+    <div>表3-22：水中战斗修正值</div>
+    <table>
+        <thead>
+            <!-- 攻击/伤害 分类标题行 -->
+            <tr>
+                <th style="width:18%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">状态</th>
+                <th colspan="2" style="width:42%;background:#3a3a3a;color:#fff;font-weight:700;text-align:center;border:1px solid #3a3a3a;">攻击/伤害</th>
+                <th style="width:20%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">移动</th>
+                <th style="width:20%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">失去平衡(注四)</th>
+            </tr>
+            <!-- 列标题行 -->
+            <tr>
+                <th style="width:18%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">状态</th>
+                <th style="width:21%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">挥砍或敲击</th>
+                <th style="width:21%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">以尾部攻击</th>
+                <th style="width:20%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">移动</th>
+                <th style="width:20%;background:#3a3a3a;color:#fff;font-weight:700;border:1px solid #3a3a3a;">失去平衡(注四)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td class="state">"行动自如"</td><td>正常 / 正常</td><td>正常 / 正常</td><td>正常</td><td>否</td></tr>
+            <tr><td class="state">游泳速度</td><td>2 / 减半</td><td>正常</td><td>正常</td><td>否</td></tr>
+            <tr><td class="state">通过"游泳"检定</td><td>2 / 减半(注一)</td><td>2 / 减半</td><td>减半或1/4(注二)</td><td>否</td></tr>
+            <tr><td class="state">站稳脚步(注三)</td><td>2 / 减半</td><td>2 / 减半</td><td>减半</td><td>否</td></tr>
+            <tr><td class="state">以上均无</td><td>2 / 减半</td><td>2 / 减半</td><td>正常</td><td>是</td></tr>
+        </tbody>
+    </table>
+    <div class="notes">
+        <p>(注一)没有"行动自如"效果或没有游泳速度的生物，在水里进行擒抱检定时会受到2减值，但擒抱造成的伤害值仍为正常。</p>
+        <p>(注二)通过"游泳"检定的生物每个移动动作可以1/4移动速度前进或是进行整轮动作以半速前进。</p>
+        <p>(注三)能站稳脚步的生物可绑附在船身(或其他支撑物)潜入水底行走，但要在水底行进，该生物必须穿着或携带足够重量以避免上浮——中型生物至少16磅，体型每大一级所需重量减半，体型每小一级所需重量加倍。</p>
+        <p>(注四)在水里失去平衡的生物(通常是因为"游泳"检定时失败)进行战斗会格外困难。失去平衡的生物的AC会失去敏捷加值，而其敌人则可获得+2攻击加值。</p>
+    </div>
+</div>

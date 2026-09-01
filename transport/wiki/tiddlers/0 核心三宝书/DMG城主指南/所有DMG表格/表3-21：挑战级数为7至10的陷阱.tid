@@ -1,0 +1,44 @@
+title: 表3-21：挑战级数为7至10的陷阱 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-21：挑战级数为7至10的陷阱.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>表3-21：挑战级数为7至10的陷阱</div>
+    <table>
+        <thead><tr><th style="width:22%">百分骰</th><th style="width:58%">陷阱</th><th style="width:20%">CR</th></tr></thead>
+        <tbody>
+            <tr><td class="dice">01–04</td><td class="trap">"酸雾术"陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">05–07</td><td class="trap">"剑刃障壁"陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">08–10</td><td class="trap">焦引熏烟陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">11–14</td><td class="trap">"连环闪电"陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">15–17</td><td class="trap">"艾伐黑触手"陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">18–20</td><td class="trap">绿血油镖陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">21–23</td><td class="trap">毒龙胆锁陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">24–26</td><td class="trap">"六级召唤怪物术"陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">27–30</td><td class="trap">水牢陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">31–33</td><td class="trap">良好掩藏陷坑陷阱</td><td class="cr">7</td></tr>
+            <tr><td class="dice">34–36</td><td class="trap">死刃夜露墙镰陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">37–39</td><td class="trap">"灰飞烟灭"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">40–42</td><td class="trap">"地震术"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">43–46</td><td class="trap">夺魄迷雾陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">47–49</td><td class="trap">"马友夫强酸箭"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">50–52</td><td class="trap">"律令震"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">53–55</td><td class="trap">"虹光喷射"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">56–59</td><td class="trap">"反重力"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">60–62</td><td class="trap">良好掩藏陷坑陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">63–65</td><td class="trap">"混沌真言"陷阱</td><td class="cr">8</td></tr>
+            <tr><td class="dice">66–68</td><td class="trap">抹毒把手陷阱</td><td class="cr">9</td></tr>
+            <tr><td class="dice">69–71</td><td class="trap">屋顶碾落陷阱</td><td class="cr">9</td></tr>
+            <tr><td class="dice">72–74</td><td class="trap">"焚云术"陷阱</td><td class="cr">9</td></tr>
+            <tr><td class="dice">75–77</td><td class="trap">阔口陷坑陷阱</td><td class="cr">9</td></tr>
+            <tr><td class="dice">78–80</td><td class="trap">阔口剧毒尖刺陷坑陷阱</td><td class="cr">9</td></tr>
+            <tr><td class="dice">81–84</td><td class="trap">碾压空间陷阱</td><td class="cr">10</td></tr>
+            <tr><td class="dice">85–88</td><td class="trap">碾压之墙陷阱</td><td class="cr">10</td></tr>
+            <tr><td class="dice">89–91</td><td class="trap">"能量吸取"陷阱</td><td class="cr">10</td></tr>
+            <tr><td class="dice">92–94</td><td class="trap">"魔力监牢"与"七级召唤怪物术"陷阱</td><td class="cr">10</td></tr>
+            <tr><td class="dice">95–97</td><td class="trap">剧毒尖刺陷坑陷阱</td><td class="cr">10</td></tr>
+            <tr><td class="dice">98–100</td><td class="trap">"女妖之嚎"陷阱</td><td class="cr">10</td></tr>
+        </tbody>
+    </table>
+</div>

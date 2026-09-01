@@ -1,0 +1,51 @@
+title: 表5-3：亚洲武器 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表5-3：亚洲武器.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表5-3：亚洲武器</h1>
+
+<table>
+<tr>
+    <th>简易武器</th><th>价格</th><th>伤害值(小)</th><th>伤害值(中)</th><th>重击</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
+</tr>
+
+<!-- 远程武器分类 -->
+<tr><td colspan="8" class="cat-row">远程武器</td></tr>
+<tr>
+    <td>吹箭筒</td><td>1金币</td><td>1</td><td>1</td><td>x2</td><td>10英尺</td><td>2磅</td><td>穿刺</td>
+</tr>
+<tr>
+    <td>吹箭针(20)</td><td>1金币</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(注一)</td><td>—</td>
+</tr>
+
+<!-- 军用武器分类 -->
+<tr><td colspan="8" class="cat-row">军用武器</td></tr>
+<tr><td colspan="8" class="cat-row">轻型近战武器</td></tr>
+<tr>
+    <td>胁差 (注二)</td><td>300金币</td><td>1d4</td><td>1d6</td><td>19-20/x2</td><td>—</td><td>3磅</td><td>挥砍</td>
+</tr>
+
+<!-- 异种武器分类 -->
+<tr><td colspan="8" class="cat-row">异种武器</td></tr>
+<tr><td colspan="8" class="cat-row">轻型近战武器</td></tr>
+<tr>
+    <td>锁镰 (注三)</td><td>10金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>—</td><td>3磅</td><td>挥砍</td>
+</tr>
+
+<!-- 单手近战武器分类 -->
+<tr><td colspan="8" class="cat-row">单手近战武器</td></tr>
+<tr>
+    <td>武士刀 (注四)</td><td>400金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>—</td><td>6磅</td><td>挥砍</td>
+</tr>
+</table>
+
+<div class="notes">
+<p>(注一)重量不计。</p>
+<p>(注二)除以上标注外，胁差视为精制短剑。</p>
+<p>(注三)长武器。</p>
+<p>(注四)除以上标注外，武士刀视为精制重剑。</p>
+</div>
+
+

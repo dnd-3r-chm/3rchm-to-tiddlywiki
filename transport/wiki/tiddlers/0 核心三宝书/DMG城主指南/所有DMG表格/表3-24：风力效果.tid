@@ -1,0 +1,62 @@
+title: 表3-24：风力效果 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-24：风力效果.htm
+type: text/vnd.tiddlywiki
+<div class="container">
+    <div>表3-24：风力效果</div>
+    <table>
+        <colgroup>
+            <col style="width:9%">
+            <col style="width:13%">
+            <col style="width:17%">
+            <col style="width:18%">
+            <col style="width:28%">
+            <col style="width:9%">
+        </colgroup>
+        <thead>
+            <tr>
+                <th>风力</th>
+                <th>风速(时速)</th>
+                <th>普通远程武器/攻城器(注一)</th>
+                <th>影响生物体型(注二)</th>
+                <th>对生物的影响</th>
+                <th>强韧检定</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- 微风 -->
+            <tr><td class="wind">微风</td><td>0-10英里</td><td>—</td><td>任意</td><td>无</td><td>—</td></tr>
+            <!-- 常风 -->
+            <tr><td class="wind">常风</td><td>11-20英里</td><td>—</td><td>任意</td><td>无</td><td>—</td></tr>
+            <!-- 强风 -->
+            <tr><td class="wind" rowspan="2">强风</td><td rowspan="2">21-30英里</td><td>-2 / -</td><td class="sub">超小型或以下</td><td>击倒</td><td>10</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">小型或以上</td><td>无</td><td class="empty-cell">—</td></tr>
+            <!-- 烈风 -->
+            <tr><td class="wind" rowspan="4">烈风</td><td rowspan="4">31-50英里</td><td>-4 / -</td><td class="sub">超小型</td><td>吹离</td><td>15</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">小型</td><td>击倒</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">中型</td><td>受阻</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">大型或以上</td><td>无</td><td class="empty-cell">—</td></tr>
+            <!-- 风暴 -->
+            <tr><td class="wind" rowspan="4">风暴</td><td rowspan="4">51-74英里</td><td>不可能 / -4</td><td class="sub">小型或以下</td><td>吹离</td><td>18</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">中型</td><td>击倒</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">大型或超大型</td><td>受阻</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">巨型或超巨型</td><td>无</td><td class="empty-cell">—</td></tr>
+            <!-- 飓风 -->
+            <tr><td class="wind" rowspan="4">飓风</td><td rowspan="4">75-174英里</td><td>不可能 / -8</td><td class="sub">中型或以下</td><td>吹离</td><td>20</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">大型</td><td>击倒</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">超大型</td><td>受阻</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">巨型或超巨型</td><td>无</td><td class="empty-cell">—</td></tr>
+            <!-- 龙卷风 -->
+            <tr><td class="wind" rowspan="3">龙卷风</td><td rowspan="3">175-300英里</td><td>不可能 / 不可能</td><td class="sub">大型或以下</td><td>吹离</td><td>30</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">超大型</td><td>击倒</td><td class="empty-cell">—</td></tr>
+            <tr><td class="empty-cell">—</td><td class="sub">巨型或超巨型</td><td>受阻</td><td class="empty-cell">—</td></tr>
+        </tbody>
+    </table>
+    <div class="notes">
+        <p>(注一)攻城器包括弩炮、投石机及巨人掷石。</p>
+        <p>(注二)对抗风力时，飞行及空中生物的体型视为小一级，巨型的龙在面对风力影响时视为超大型生物。</p>
+        <p>受阻：生物无法往前移动，飞行中的生物被吹退1d6×5英尺。</p>
+        <p>击倒：地面生物被吹倒，飞行中的生物被吹退1d6×10英尺。</p>
+        <p>吹离：地面生物被吹倒翻滚1d4×10英尺，每翻滚10英尺便受1d4点内伤。飞行中的生物被吹退2d6×10英尺，因为不稳定的冲击而受到2d6点内伤。</p>
+    </div>
+</div>

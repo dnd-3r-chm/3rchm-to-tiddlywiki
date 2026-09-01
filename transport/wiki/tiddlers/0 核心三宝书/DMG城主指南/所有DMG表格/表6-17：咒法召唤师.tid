@@ -1,0 +1,24 @@
+title: 表6-17：咒法召唤师 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表6-17：咒法召唤师.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表6-17：咒法召唤师</h1>
+<table>
+<tr>
+    <th>职业等级</th>
+    <th>基本攻击加值</th>
+    <th>强韧检定</th>
+    <th>反射检定</th>
+    <th>意志检定</th>
+    <th>特殊能力</th>
+    <th>每日法术数量</th>
+</tr>
+<tr><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>高级誓盟</td><td>现有施法者职业等级+1</td></tr>
+<tr><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>强效召唤</td><td>现有施法者职业等级+1</td></tr>
+<tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td>召唤延时</td><td>现有施法者职业等级+1</td></tr>
+<tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>触发咒法</td><td>现有施法者职业等级+1</td></tr>
+<tr><td>5</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>异界部属</td><td>现有施法者职业等级+1</td></tr>
+</table>
+

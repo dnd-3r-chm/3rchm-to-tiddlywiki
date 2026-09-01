@@ -1,0 +1,24 @@
+title: 18级地下城事件遭遇 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/18级地下城事件遭遇.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>18级地下城事件遭遇</div>
+    <table>
+        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <tbody>
+            <tr><td class="dice">01–10</td><td class="desc">掷17级事件遭遇表</td></tr>
+            <tr><td class="dice">11–25</td><td class="desc">1d4+2个星界使徒(天使)</td></tr>
+            <tr><td class="dice">26–35</td><td class="desc">1d3个异界神侍(天使)</td></tr>
+            <tr><td class="dice">36–38</td><td class="desc">1头极老黑龙</td></tr>
+            <tr><td class="dice">39–41</td><td class="desc">1头老年龙(蓝龙或绿龙)</td></tr>
+            <tr><td class="dice">42–44</td><td class="desc">1头壮年龙(红龙或银龙)</td></tr>
+            <tr><td class="dice">45–47</td><td class="desc">1头上古白龙</td></tr>
+            <tr><td class="dice">48–62</td><td class="desc">1个伏行夜影(夜影)</td></tr>
+            <tr><td class="dice">63–72</td><td class="desc">1d3个15级半兽人野蛮人NPC与15级人类吟游诗人NPC</td></tr>
+            <tr><td class="dice">73–90</td><td class="desc">15级狗头人术士NPC与1个狼人王(兽化人)</td></tr>
+            <tr><td class="dice">91–100</td><td class="desc">掷19级事件遭遇表</td></tr>
+        </tbody>
+    </table>
+</div>
