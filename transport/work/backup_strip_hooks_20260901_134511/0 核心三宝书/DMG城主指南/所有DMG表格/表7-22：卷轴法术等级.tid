@@ -1,0 +1,26 @@
+title: 表7-22：卷轴法术等级 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表7-22：卷轴法术等级.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表7-22：卷轴法术等级</h1>
+<table>
+<tr>
+    <th>次级</th><th>中级</th><th>高级</th><th>法术等级</th><th>法术的施法者等级(注一)</th>
+</tr>
+<tr><td>01-05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr>
+<tr><td>06-50</td><td>—</td><td>—</td><td>1</td><td>1</td></tr>
+<tr><td>51-95</td><td>01-05</td><td>—</td><td>2</td><td>3</td></tr>
+<tr><td>96-100</td><td>06-65</td><td>—</td><td>3</td><td>5</td></tr>
+<tr><td>—</td><td>66-95</td><td>01-05</td><td>4</td><td>7</td></tr>
+<tr><td>—</td><td>96-100</td><td>06-50</td><td>5</td><td>9</td></tr>
+<tr><td>—</td><td>—</td><td>51-70</td><td>6</td><td>11</td></tr>
+<tr><td>—</td><td>—</td><td>71-85</td><td>7</td><td>13</td></tr>
+<tr><td>—</td><td>—</td><td>86-95</td><td>8</td><td>15</td></tr>
+<tr><td>—</td><td>—</td><td>95-100</td><td>9</td><td>17</td></tr>
+</table>
+<div class="notes">
+    <p>(注一)本栏数字是假设制造者为牧师、德鲁伊或法师。</p>
+</div>
+

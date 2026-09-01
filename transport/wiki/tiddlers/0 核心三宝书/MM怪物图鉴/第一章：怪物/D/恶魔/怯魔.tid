@@ -3,39 +3,39 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/D/恶魔/怯魔.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
-    <h1>怯魔 (Dretch)</h1><div class="mm1-monster-art" data-mm1-image="狂战魔(上)巴刨魔(左)怯魔(右)" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/狂战魔(上)巴刨魔(左)怯魔(右).jpg]]</div>
+<div>
+    <h1>怯魔 (Dretch)</h1><div data-mm1-image="狂战魔(上)巴刨魔(左)怯魔(右)">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/狂战魔(上)巴刨魔(左)怯魔(右).jpg]]</div>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-2">怯魔 (Dretch)<br><span style="font-weight:normal;font-size:13px;">小型异界生物(混乱、外界、邪恶、塔那)</span></th>
+                    <th>资料栏位</th>
+                    <th>怯魔 (Dretch)<br><span>小型异界生物(混乱、外界、邪恶、塔那)</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td>2d8+4 (13HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td>+0</td></tr>
-                <tr><td class="col-1">速度</td><td>20英尺 (4格)</td></tr>
-                <tr><td class="col-1">防御等级</td><td>16 (+1体型、+5天生)、接触11、措手不及16</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+2 / -1</td></tr>
-                <tr><td class="col-1">攻击</td><td>爪抓+4近战 (1d6+1)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td>2爪抓+4近战 (1d6+1) 及 啮咬+2近战 (1d4)</td></tr>
-                <tr><td class="col-1">占据/触及</td><td>5英尺 / 5英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td>类法术能力、"召唤塔那魔族"</td></tr>
-                <tr><td class="col-1">特殊能力</td><td>伤害减免5/寒铁或善良、黑暗视觉60英尺、对电击与毒素免疫、强酸抗力10、寒冷抗力10、火焰抗力10、心灵感应100英尺</td></tr>
-                <tr><td class="col-1">豁免</td><td>强韧+5、反射+3、意志+3</td></tr>
-                <tr><td class="col-1">属性</td><td>力量12、敏捷10、体质14、智力5、感知11、魅力11</td></tr>
-                <tr><td class="col-1">技能</td><td>躲藏+9、聆听+5、潜行+5、侦察+5、搜索+2、生存+0 (追踪+2)</td></tr>
-                <tr><td class="col-1">专长</td><td>多重攻击</td></tr>
-                <tr><td class="col-1">环境</td><td>无底深渊</td></tr>
-                <tr><td class="col-1">组织</td><td>单独、成双、成队 (3-5)、大伙 (6-15) 或聚众 (10-40)</td></tr>
-                <tr><td class="col-1">挑战级数</td><td>2</td></tr>
-                <tr><td class="col-1">宝藏</td><td>无</td></tr>
-                <tr><td class="col-1">阵营</td><td>总是混乱邪恶</td></tr>
-                <tr><td class="col-1">进化</td><td>3-6HD (小型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td>+2</td></tr>
+                <tr><td>生命骰</td><td>2d8+4 (13HP)</td></tr>
+                <tr><td>先攻</td><td>+0</td></tr>
+                <tr><td>速度</td><td>20英尺 (4格)</td></tr>
+                <tr><td>防御等级</td><td>16 (+1体型、+5天生)、接触11、措手不及16</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+2 / -1</td></tr>
+                <tr><td>攻击</td><td>爪抓+4近战 (1d6+1)</td></tr>
+                <tr><td>全力攻击</td><td>2爪抓+4近战 (1d6+1) 及 啮咬+2近战 (1d4)</td></tr>
+                <tr><td>占据/触及</td><td>5英尺 / 5英尺</td></tr>
+                <tr><td>特殊攻击</td><td>类法术能力、"召唤塔那魔族"</td></tr>
+                <tr><td>特殊能力</td><td>伤害减免5/寒铁或善良、黑暗视觉60英尺、对电击与毒素免疫、强酸抗力10、寒冷抗力10、火焰抗力10、心灵感应100英尺</td></tr>
+                <tr><td>豁免</td><td>强韧+5、反射+3、意志+3</td></tr>
+                <tr><td>属性</td><td>力量12、敏捷10、体质14、智力5、感知11、魅力11</td></tr>
+                <tr><td>技能</td><td>躲藏+9、聆听+5、潜行+5、侦察+5、搜索+2、生存+0 (追踪+2)</td></tr>
+                <tr><td>专长</td><td>多重攻击</td></tr>
+                <tr><td>环境</td><td>无底深渊</td></tr>
+                <tr><td>组织</td><td>单独、成双、成队 (3-5)、大伙 (6-15) 或聚众 (10-40)</td></tr>
+                <tr><td>挑战级数</td><td>2</td></tr>
+                <tr><td>宝藏</td><td>无</td></tr>
+                <tr><td>阵营</td><td>总是混乱邪恶</td></tr>
+                <tr><td>进化</td><td>3-6HD (小型)</td></tr>
+                <tr><td>等级修正值</td><td>+2</td></tr>
             </tbody>
         </table>
     </div>
@@ -44,19 +44,19 @@ type: text/vnd.tiddlywiki
 
     <p>怯魔是可悲的卑鄙生物。大多数时间都花在成群乱逛或担任塔那魔部队的小卒。怯魔约4英尺高，60磅重。怯魔不会说话，但能以心灵感应沟通。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>怯魔迟缓、愚蠢，不擅于战斗。在一对一战斗中，怯魔得靠伤害减免能力存活。群体战斗时则靠绝对数量压倒敌人，并会立即召唤其他怯魔以增加优势。除非有其他强力恶魔在场督军压阵，否则只要察觉任何不对，怯魔就会逃跑。怯魔对其他强力恶魔的畏惧更甚于死亡。</p>
     <p>在计算伤害减免时，怯魔的天生武器与持有武器都视为混乱阵营与邪恶阵营。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>类法术能力：</b>每天1次——"群体惊恐术"(DC=12)、"臭云术"(DC=13)。施法者等级2。豁免DC的调整值与魅力调整值相同。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>"召唤塔那魔族"(类法术能力)：</b>每天1次，怯魔可召唤另一个怯魔，成功机率为35%。此能力等同于一级法术。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>心灵感应(超自然)：</b>怯魔能够透过心灵感应与周遭100英尺范围内任何说炼狱语的生物沟通。</p>
     </div>
 

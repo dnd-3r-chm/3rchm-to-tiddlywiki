@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 </tr>
 
 <!-- 远程武器分类 -->
-<tr><td colspan="8" class="cat-row">远程武器</td></tr>
+<tr><td colspan="8">远程武器</td></tr>
 <tr>
     <td>吹箭筒</td><td>1金币</td><td>1</td><td>1</td><td>x2</td><td>10英尺</td><td>2磅</td><td>穿刺</td>
 </tr>
@@ -21,27 +21,27 @@ type: text/vnd.tiddlywiki
 </tr>
 
 <!-- 军用武器分类 -->
-<tr><td colspan="8" class="cat-row">军用武器</td></tr>
-<tr><td colspan="8" class="cat-row">轻型近战武器</td></tr>
+<tr><td colspan="8">军用武器</td></tr>
+<tr><td colspan="8">轻型近战武器</td></tr>
 <tr>
     <td>胁差 (注二)</td><td>300金币</td><td>1d4</td><td>1d6</td><td>19-20/x2</td><td>—</td><td>3磅</td><td>挥砍</td>
 </tr>
 
 <!-- 异种武器分类 -->
-<tr><td colspan="8" class="cat-row">异种武器</td></tr>
-<tr><td colspan="8" class="cat-row">轻型近战武器</td></tr>
+<tr><td colspan="8">异种武器</td></tr>
+<tr><td colspan="8">轻型近战武器</td></tr>
 <tr>
     <td>锁镰 (注三)</td><td>10金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>—</td><td>3磅</td><td>挥砍</td>
 </tr>
 
 <!-- 单手近战武器分类 -->
-<tr><td colspan="8" class="cat-row">单手近战武器</td></tr>
+<tr><td colspan="8">单手近战武器</td></tr>
 <tr>
     <td>武士刀 (注四)</td><td>400金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>—</td><td>6磅</td><td>挥砍</td>
 </tr>
 </table>
 
-<div class="notes">
+<div>
 <p>(注一)重量不计。</p>
 <p>(注二)除以上标注外，胁差视为精制短剑。</p>
 <p>(注三)长武器。</p>

@@ -15,9 +15,9 @@ type: text/vnd.tiddlywiki
 
 <p>所谓"诅咒物品"是统称一些具有负面作用的物品，有些可能只是造成一些不便，但不一定对使用者有害，有些则会产生强大副作用，使用之前须得多加考虑。如果你想要在游戏中加入随机诅咒物品，你还是可以依照前文说明的步骤设定宝物。然而在决定魔法物品时，再多掷一次百分骰，若结果为01-05，则该物品具有诅咒。诅咒形式如下表：</p>
 
-<span class="sub-title">常见诅咒类型</span>
+<span>常见诅咒类型</span>
 <table>
-    <colgroup><col style="width:15%;"><col style="width:85%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>百分骰</th>
         <th>诅咒</th>
@@ -48,9 +48,9 @@ type: text/vnd.tiddlywiki
 
 <p><b>特殊诅咒物品：</b>如果你想在战役中加入这些诅咒物品，请见272页有关诅咒物品的说明。</p>
 
-<span class="sub-title">作用条件</span>
+<span>作用条件</span>
 <table>
-    <colgroup><col style="width:15%;"><col style="width:85%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>百分骰</th>
         <th>作用条件</th>
@@ -80,7 +80,7 @@ type: text/vnd.tiddlywiki
 <p>有时忽然消失。有些状况可能非常可怕，例如："火球魔杖"在队友间突然炸开。</p>
 
 <p><b>额外需求：</b>除了启动指令之外，有些物品还需要更严格的条件才能启动。为了让这些物品能够作用，人物可能必须满足下列条件：</p>
-<ul style="list-style-type:disc; margin:10px 0 10px 2.5em; line-height:1.8;">
+<ul>
     <li>必须吃正常食量两倍的食物。</li>
     <li>睡眠时间必须加倍。</li>
     <li>必须完成某个任务(只要完成一次，物品就回复正常)。</li>
@@ -102,9 +102,9 @@ type: text/vnd.tiddlywiki
 </ul>
 <p>额外需求的条件与物品本身特性非常有关，因此以上条件不能随机拟定。如果该物品具有智能，他会强力劝说持用者满足这些条件。如果不能满足条件，物品就有可能失效。即使能够满足，有效时间也只有一天(有些条件只要满足一次就好，有些是每月一次，还有一些则具有持续性)。</p>
 
-<span class="sub-title">副作用</span>
+<span>副作用</span>
 <table>
-    <colgroup><col style="width:15%;"><col style="width:85%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>百分骰</th>
         <th>副作用</th>

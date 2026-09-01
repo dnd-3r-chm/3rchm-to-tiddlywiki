@@ -1,0 +1,21 @@
+title: 表4-7：随机NPC阵营 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-7：随机NPC阵营.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>表4-7：随机NPC阵营</div>
+    <table>
+        <thead>
+            <tr>
+                <th style="width:30%">d%</th>
+                <th style="width:70%">阵营</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td class="dice">01–20</td><td class="align">善良(守序、中立或混乱)</td></tr>
+            <tr><td class="dice">21–50</td><td class="align">中立(守序、绝对或混乱)</td></tr>
+            <tr><td class="dice">51–100</td><td class="align">邪恶(守序、中立或混乱)</td></tr>
+        </tbody>
+    </table>
+</div>

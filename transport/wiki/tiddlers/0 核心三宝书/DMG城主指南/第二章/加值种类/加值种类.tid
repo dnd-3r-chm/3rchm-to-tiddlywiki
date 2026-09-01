@@ -48,7 +48,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>体型(Size)：</b>当一名人物变得更大(比如通过法术"变巨术"效果)，他的力量属性会得到增加(有可能他的体质属性也会得到增加)这种加值属于体型加值。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;">
+<div>
 <h3>幕后随谈：加值累计 <i>(Behind the Curtain: Stacking Bonuses)</i></h3>
 
 <p>随时追查一个人物从不同来源所得到的不同种类的加值，这可能看起来是一件很麻烦的事情。但还是有相当充分的理由要这么做。</p>

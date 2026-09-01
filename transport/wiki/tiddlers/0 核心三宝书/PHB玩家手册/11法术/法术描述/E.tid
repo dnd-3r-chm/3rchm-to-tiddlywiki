@@ -3,17 +3,17 @@ tags: [[0 核心三宝书]] [[PHB玩家手册]]
 source: 0 核心三宝书/PHB玩家手册/11法术/法术描述/E.htm
 type: text/vnd.tiddlywiki
 
-<div class=Section1 style='layout-grid:15.6pt'>
+<div style='layout-grid:15.6pt'>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>耀眼术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>耀眼术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -25,11 +25,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -37,13 +37,13 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>等级：</span></b><span class=GramE><span style='font-family:宋体;mso-ascii-font-family:
+ZH-CN'>等级：</span></b><span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
@@ -67,11 +67,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -81,11 +81,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势、材料／法器</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -97,11 +97,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -111,11 +111,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>接触</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -125,11 +125,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>接触到的生物</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -141,11 +141,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -155,11 +155,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>意志过则无效(无害)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -169,25 +169,23 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>受术者变得更稳重、更有条理、更具有说服力。此法术可使魅力<span
-
-class=GramE>值获得</span></span><span lang=EN-US style='mso-fareast-font-family:
+>值获得</span></span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>+4</span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>增强加值，间接影响魅力<span class=GramE>值为主</span>的技能和其他具有魅力调整值的数值。术士、<span
-
-class=GramE>吟游诗人</span>或其他依赖魅力的施法者不会因此获得额外法术，但会影响到法术的豁免检定</span><span
+ZH-CN'>增强加值，间接影响魅力<span>值为主</span>的技能和其他具有魅力调整值的数值。术士、<span
+>吟游诗人</span>或其他依赖魅力的施法者不会因此获得额外法术，但会影响到法术的豁免检定</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>DC</span><span
 
@@ -195,13 +193,12 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><i style='mso-bidi-font-style:normal'><span style='font-family:
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><i style='mso-bidi-font-style:normal'><span style='font-family:
 
 宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
@@ -215,23 +212,23 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>一些羽毛或一撮鹰粪。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>集体耀眼术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>集体耀眼术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -243,11 +240,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -255,13 +252,13 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>等级：</span></b><span class=GramE><span style='font-family:宋体;mso-ascii-font-family:
+ZH-CN'>等级：</span></b><span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
@@ -279,11 +276,11 @@ mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>、术士／
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>6</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span lang=ZH-TW style='font-family:宋体;
 
@@ -309,7 +306,7 @@ mso-hansi-font-family:"Times New Roman"'>等级)</span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -325,35 +322,34 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>「集体<span class=GramE>耀眼术</span>」与「<span
+"Times New Roman";mso-fareast-language:ZH-CN'>「集体<span>耀眼术</span>」与「<span
+>耀眼术</span>」作用相同，但可影响多个生物。</span><span lang=EN-US style='mso-fareast-language:
 
-class=GramE>耀眼术</span>」作用相同，但可影响多个生物。</span><span lang=EN-US style='mso-fareast-language:
-
-ZH-CN'><o:p></o:p></span></p>
-
+ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>地震术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>地震术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -365,13 +361,12 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>塑能系</span></span><span
 
@@ -379,11 +374,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>〔土〕</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -413,11 +408,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>7</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -427,11 +422,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势、法器</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -443,11 +438,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -469,11 +464,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎／每等级)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -489,11 +484,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎扩散范围(可变)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -505,11 +500,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>轮</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>轮</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -519,11 +514,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>见说明</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -533,31 +528,29 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>不可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>施展「地震术」时，地面会产生一股强烈而且高度集中的震波，可震倒生物、<span
-
-class=GramE>摧毁建物</span>，或在地面上产生裂缝。震动会持续一轮，这段期间地面上生物无法行动或攻击。站在地面上的施法者必须通过「专注」检定(</span><span
+>摧毁建物</span>，或在地面上产生裂缝。震动会持续一轮，这段期间地面上生物无法行动或攻击。站在地面上的施法者必须通过「专注」检定(</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>DC=20</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>＋法术等级)，否则会失去正准备施展的法术。「地震术」会影响区域内所有地形、植被、<span
+>建物和</span>生物。实际效果取决于施法时所在地的地形特征：</span><span lang=EN-US
 
-class=GramE>建物和</span>生物。实际效果取决于施法时所在地的地形特征：</span><span lang=EN-US
-
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -575,11 +568,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>)，并被压制于石砾下(见下文)。超大型洞窟内发生地震，可能会在法术区域外引发崩塌，造成危险。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -590,8 +583,7 @@ ZH-CN'>峭壁：</span></i><span style='font-family:宋体;mso-ascii-font-family
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>法术造成地表崩塌，并且在水平与垂直方向发生位移。在</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>100</span><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>呎高的</span></span><span
 
@@ -600,8 +592,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 "Times New Roman";mso-fareast-language:ZH-CN'>峭壁顶端施展「地震术」会影响以峭壁底部起算往外</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>100</span><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>呎的范围</span></span><span
 
@@ -621,11 +612,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>)，并被压制于石砾下(见下文)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -653,11 +644,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>则可以避开裂缝)。法术结束时，裂缝会挤压闭合，杀死任何仍陷在其中的生物。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -672,8 +663,7 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>100
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>点伤害，传统的木造、砌石建筑将会因此倒塌，但结构良好或强化过的砌石建筑则不会。<span
-
-class=GramE>建物的</span>硬度不会让伤害降低，也不会让对物体的伤害减半(请见《地下城指指南》中关于墙生命值的说明)。陷在废墟中的生物受到</span><span
+>建物的</span>硬度不会让伤害降低，也不会让对物体的伤害减半(请见《地下城指指南》中关于墙生命值的说明)。陷在废墟中的生物受到</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>8d6</span><span
 
@@ -687,17 +677,16 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>)，并被压制于石砾下(见下文)。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>河川、湖泊或湿地：水底产生裂缝，将<span
-
-class=GramE>该影响</span>区域内的水排走，变成泥泞地。沼泽地在法术作用期间成为流沙，会吞噬生物<span class=GramE>和建物</span>。生物必须通过反射检定(</span><span
+>该影响</span>区域内的水排走，变成泥泞地。沼泽地在法术作用期间成为流沙，会吞噬生物<span>和建物</span>。生物必须通过反射检定(</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>DC=15</span><span
 
@@ -705,11 +694,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>)，不然会身陷泥泞或流沙之中。法术结束时，其他地方的水会回填至原先被排干的影响区域，可能淹没还陷在泥泞里的生物。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -739,23 +728,23 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>点致命伤害，直到脱困或死亡。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>元素集群<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>元素集群<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -767,13 +756,12 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>咒</span></span><span
 
@@ -781,11 +769,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>法系(召唤)〔见说明〕</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -821,11 +809,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>9</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -835,11 +823,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -851,11 +839,11 @@ mso-fareast-language:ZH-CN'>10</span><span style='font-family:宋体;mso-ascii-f
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span lang=ZH-TW style='font-family:宋体;
 
@@ -877,7 +865,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -893,11 +881,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -909,11 +897,11 @@ mso-fareast-language:ZH-CN'>10</span><span style='font-family:宋体;mso-ascii-f
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -923,11 +911,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>无</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -937,23 +925,22 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>不可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>这个法术开启通往元素界的通道。德鲁伊可以选择任<span
+>一</span>位面(风、土、火、水)，牧师则会开启与其领域相符的位面。</span><span lang=EN-US
 
-class=GramE>一</span>位面(风、土、火、水)，牧师则会开启与其领域相符的位面。</span><span lang=EN-US
-
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -989,45 +976,44 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>最大生命值。只要元素生物一出现，他们在法术作用期间都会服从你的命令。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>元素生物完全服从，绝对不会攻击你，就算是有人试着取得控制权也一样。你不需要集中注意力来维持对元素生物的控制，而且可以在任何时候解散任一个或任意一群元素生物。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>当你使用召唤法术召唤风、土、火、水元素生物时，该法术即视为该类型法术。例如，当你施展「元素集群」召唤火元素时，该法术即<span
+>视为火类法术</span>；用来召唤水元素时，则视为水类法术。</span><span lang=EN-US
 
-class=GramE>视为火类法术</span>；用来召唤水元素时，则视为水类法术。</span><span lang=EN-US
-
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>忍受元素伤害<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>忍受元素伤害<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -1039,11 +1025,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1051,7 +1037,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1077,7 +1063,7 @@ style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>、<span class=GramE>巡林客</span></span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>、<span>巡林客</span></span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
@@ -1093,11 +1079,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1107,11 +1093,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1123,11 +1109,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1137,11 +1123,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>接触</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1151,11 +1137,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>接触到的生物</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1167,11 +1153,11 @@ mso-fareast-language:ZH-CN'>24</span><span style='font-family:宋体;mso-ascii-f
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>小时</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>小时</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1181,11 +1167,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>意志过则无效(无害)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1195,17 +1181,16 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可(无害)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>受到「忍受元素伤害」保护的生物不会因为<span
-
-class=GramE>身处于</span>寒冷或炎热的环境而受伤害。他们对华氏</span><span lang=EN-US
+>身处于</span>寒冷或炎热的环境而受伤害。他们对华氏</span><span lang=EN-US
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>-50</span><span
 
@@ -1231,33 +1216,33 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>度)的环境甘之若饴，无需进行强韧检定(请参阅《地下城主指南》)。该生物身上的装备同样受到保护。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>「忍受元素伤害」不提供任何对火焰或寒冷伤害的保护，对其他环境也没有防护效果，像是浓烟、缺氧等。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>吸能术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>吸能术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -1269,21 +1254,20 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>死灵系</span></span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1301,11 +1285,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>9</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1315,15 +1299,15 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>强韧过则部分生效(见「弱能术」说明)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>与「<span class=GramE>弱能术</span>」同，但被击中的受术者受到</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>与「<span>弱能术</span>」同，但被击中的受术者受到</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2d4</span><span
 
@@ -1331,11 +1315,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>负向等级，而且负向等级持续较久。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1353,11 +1337,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>)。如果检定成功，该负向等级消除。如果失败，该负向等级虽然消失，但受术者的人物等级永久降低。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1369,19 +1353,18 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>点暂时生命值，持续时间一小时。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
-
-class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
+><b style='mso-bidi-font-weight:normal'><span style='font-family:
 
 宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
@@ -1397,21 +1380,20 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>死灵系</span></span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1423,11 +1405,11 @@ mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>术士／法
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>4</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1437,11 +1419,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1453,11 +1435,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1485,11 +1467,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>等级)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1499,11 +1481,11 @@ ZH-CN'>效果：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>负能量射线</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1513,11 +1495,11 @@ ZH-CN'>持续时间：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>立即</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1527,11 +1509,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>无</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1541,11 +1523,11 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1557,11 +1539,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>负向等级。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1584,14 +1566,13 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>-1<
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>减值。此外，施法者失去一个最高等级的法术或<span
+>法术栏位</span>。负向等级可以累加。</span><span lang=EN-US style='mso-fareast-language:
 
-class=GramE>法术栏位</span>。负向等级可以累加。</span><span lang=EN-US style='mso-fareast-language:
-
-ZH-CN'><o:p></o:p></span></p>
-
+ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1602,14 +1583,13 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>15<
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>小时。理论上，负向等级有机会使目标等级永久下降，但「<span
+>弱能术</span>」无<span>此效果</span>。</span><span lang=EN-US
 
-class=GramE>弱能术</span>」无<span class=GramE>此效果</span>。</span><span lang=EN-US
-
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1621,23 +1601,23 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>点暂时生命值，持续时间一小时。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>变巨术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>变巨术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -1649,11 +1629,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1661,7 +1641,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1681,7 +1661,7 @@ style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1693,7 +1673,7 @@ mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1705,11 +1685,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1737,11 +1717,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>等级)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1751,11 +1731,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>一个类人生物</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1767,11 +1747,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1781,11 +1761,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>强韧过则无效</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1795,11 +1775,11 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1847,11 +1827,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>减值。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1869,21 +1849,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎。此法术不会影响生物速度。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>如果所在地空间不足应付体型变大，则该动物可进行力量检定(使用新的力量值)来决定是否挤爆四壁。失败的话，则体型限于所能获得的空间大小，但不会受伤。此法术不能藉由变大来压伤其他生物。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1907,43 +1887,42 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>增强加值，法杖大小的魔杖也只能发挥正常功能。巨大的药水只是表示你需要喝下更多液体才能生效。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>所有会增加体型的魔法效果并不会累加，亦即你不能再度使用此法术来进一步使受术生物变更大。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
-
-"Times New Roman";mso-fareast-language:ZH-CN'>「<span class=GramE>变巨术</span>」可以反制或解除「缩小术」。</span><span
-
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-
-
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>「<span class=GramE>变巨术</span>」可搭配「魔法<span
+"Times New Roman";mso-fareast-language:ZH-CN'>「<span>变巨术</span>」可以反制或解除「缩小术」。</span><span
 
-class=GramE>恒定术</span>」而永久生效。</span><span lang=EN-US style='mso-fareast-language:
-
-ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-fareast-language:ZH-CN'>「<span>变巨术</span>」可搭配「魔法<span
+>恒定术</span>」而永久生效。</span><span lang=EN-US style='mso-fareast-language:
+
+ZH-CN'></span></p>
+
+
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -1955,19 +1934,19 @@ mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>一撮铁粉
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>集体变巨术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>集体变巨术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -1979,11 +1958,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -1991,7 +1970,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2005,7 +1984,7 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>4</
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2021,33 +2000,33 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>与「<span class=GramE>变巨术</span>」作用相同，但可影响多个生物。</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>与「<span>变巨术</span>」作用相同，但可影响多个生物。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>纠缠术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>纠缠术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -2059,21 +2038,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>变化系</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2093,15 +2072,15 @@ style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>、<span class=GramE>巡林客</span></span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>、<span>巡林客</span></span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2111,11 +2090,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势、法器</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2127,11 +2106,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2153,11 +2132,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎／每等级)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2173,11 +2152,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎扩散范围内的植物</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2189,11 +2168,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2203,11 +2182,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>反射过则部分有效(见说明)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2217,17 +2196,16 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>不可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>杂草、灌木、树枝开始扭曲、纠缠，快速困住影响区域内，或是进入影响区域的生物。被纠缠的生物需<span
-
-class=GramE>进行整轮动作</span>，并通过力量检定或「脱逃」技能检定(</span><span lang=EN-US
+>进行整轮动作</span>，并通过力量检定或「脱逃」技能检定(</span><span lang=EN-US
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>DC=20</span><span
 
@@ -2235,11 +2213,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>)才能挣开，挣开后只能以平常速度的一半移动。通过反射检定的生物不至于被纠缠，但是仍然只能以一半速度通过影响区域。植物每一轮都会再次试着纠缠所有躲开或是逃脱纠缠的生物。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2253,23 +2231,23 @@ mso-fareast-language:ZH-CN'>DM</span><span style='font-family:宋体;mso-ascii-f
 
 ZH-CN'>可以依据纠缠植物的特性，稍微修正法术效果。</span><span lang=EN-US style='mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>注目术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>注目术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -2281,13 +2259,12 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>附魔系</span></span><span
 
@@ -2295,17 +2272,17 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>(魅惑)〔语言、影响心灵、音波〕</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>等级：</span></b><span class=GramE><span style='font-family:宋体;mso-ascii-font-family:
+ZH-CN'>等级：</span></b><span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
@@ -2317,11 +2294,11 @@ mso-fareast-language:ZH-CN'>2</span><span style='font-family:宋体;mso-ascii-fo
 
 ZH-CN'>、牧师</span><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'>2</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>2</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2331,11 +2308,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2345,11 +2322,11 @@ ZH-CN'>施法时间：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>一轮</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span lang=ZH-TW style='font-family:宋体;
 
@@ -2371,7 +2348,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2381,11 +2358,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>任意数目的生物</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2401,11 +2378,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>小时</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2415,11 +2392,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>意志过则无效(见说明)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2429,35 +2406,33 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>如果你吸引一群生物注意，你可以使用此法术迷惑他们。施展此法术时，你必须花一整<span
-
-class=GramE>轮完全</span>不中断地演说或吟唱。被影响的生物会完全专注于你身上，忽略四周所发生的事。他们在法术持续期间态度为「友好」(有关</span><span
+>轮完全</span>不中断地演说或吟唱。被影响的生物会完全专注于你身上，忽略四周所发生的事。他们在法术持续期间态度为「友好」(有关</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>NPC</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>的态度请参阅《地下城主指南》)。对你的种族或信仰<span
-
-class=GramE>不</span>友善的生物其豁免检定有</span><span lang=EN-US style='mso-fareast-font-family:
+>不</span>友善的生物其豁免检定有</span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>+4</span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>加值。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>加值。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -2481,25 +2456,23 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>的生物仍然能察觉四周变化，态度为「冷淡」。他们看到无法容忍的行为时，可以再进行一次豁免检定。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>只要你持续演说或吟唱，法术效果就会一直持续，最久可至一个小时。注目你的生物在你演说或吟唱的语句时不会有任何行动，<span
-
-class=GramE>且结束</span>后</span><span lang=EN-US style='mso-fareast-font-family:
+>且结束</span>后</span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>1d3</span><span style='font-family:宋体;
 
 mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
 mso-fareast-language:ZH-CN'>轮内他们会讨论你的主题或演出。在你表演时进入影响区域的生物也必须通过检定，否则亦被影响。如果你分神或进行演说、吟唱以外的行为，<span
-
-class=GramE>则表演</span>结束(但是</span><span lang=EN-US style='mso-fareast-font-family:
+>则表演</span>结束(但是</span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>1d3</span><span style='font-family:宋体;
 
@@ -2507,15 +2480,15 @@ mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
 mso-fareast-language:ZH-CN'>轮的讨论仍然有效)。</span><span lang=EN-US style='mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>如果不受影响的生物对你抱持<span class=GramE>不</span>友善或敌对态度，他们会利用讥讽或质疑，集体进行一次魅力检定。该检定是以魅力属性最高者为基准，若有其他人可进行魅力检定来加以协助(见</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>如果不受影响的生物对你抱持<span>不</span>友善或敌对态度，他们会利用讥讽或质疑，集体进行一次魅力检定。该检定是以魅力属性最高者为基准，若有其他人可进行魅力检定来加以协助(见</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>65</span><span
 
@@ -2523,17 +2496,16 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>页「帮助他人」)。如果你的对抗魅力检定输了，则法术终止。对每次施法只能进行一次对抗魅力检定。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>如果听众中有任何成员被攻击，或遭受公开的敌对行为，则法术立即结束，听众对你的态度转为「<span
-
-class=GramE>不</span>友善」。</span><span lang=EN-US style='mso-fareast-font-family:
+>不</span>友善」。</span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>HD</span><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2551,19 +2523,18 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>的听众会转为「敌对」态度。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
-
-class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
+><b style='mso-bidi-font-weight:normal'><span style='font-family:
 
 宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
@@ -2579,21 +2550,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>防护系</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2611,11 +2582,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2625,11 +2596,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2641,11 +2612,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2655,11 +2626,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>个人</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2669,11 +2640,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>自己</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2685,11 +2656,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -2700,24 +2671,23 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>20%
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>失手机率(类似隐蔽效果)。但其他形式的远距离攻击不受影响，如：<span
-
-class=GramE>龙息</span>。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
+>龙息</span>。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='color:fuchsia;mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>抹消术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>抹消术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -2729,27 +2699,27 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>变化系</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>等级：</span></b><span class=GramE><span style='font-family:宋体;mso-ascii-font-family:
+ZH-CN'>等级：</span></b><span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
@@ -2763,11 +2733,11 @@ ZH-CN'>、术士／法师</span><span lang=EN-US style='mso-fareast-font-family:
 
 mso-fareast-language:ZH-CN'>1</span><span lang=EN-US style='mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2777,11 +2747,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2793,11 +2763,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span lang=ZH-TW style='font-family:宋体;
 
@@ -2823,7 +2793,7 @@ mso-hansi-font-family:"Times New Roman"'>等级)</span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2833,11 +2803,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>一个卷轴或两页纸张</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2847,11 +2817,11 @@ ZH-CN'>持续时间：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>立即</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2861,11 +2831,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>见说明</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2875,31 +2845,29 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>不可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>此法术可除去卷轴、纸张(至多两页)、羊皮纸或类似表面的魔法或一般文句，你可以藉此法术移除「<span
-
-class=GramE>爆裂符文</span>」、「<span class=GramE>守卫结界</span>」、「<span class=GramE>蛇纹法印</span>」和「秘法印记」，但不能消除「迷幻手稿」或「魔法徽记」。非魔法文句若经你接触，<span
-
-class=GramE>且同时</span>未被他人持用将会自动抹消，反之只有</span><span lang=EN-US
+>爆裂符文</span>」、「<span>守卫结界</span>」、「<span>蛇纹法印</span>」和「秘法印记」，但不能消除「迷幻手稿」或「魔法徽记」。非魔法文句若经你接触，<span
+>且同时</span>未被他人持用将会自动抹消，反之只有</span><span lang=EN-US
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>90%</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>的机会<span class=GramE>抹销一般</span>文字。</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>的机会<span>抹销一般</span>文字。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -2915,7 +2883,7 @@ style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>DC=15</span><s
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>，才能成功抹消(掷<span class=GramE>骰</span>原值为</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>，才能成功抹消(掷<span>骰</span>原值为</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
@@ -2927,29 +2895,27 @@ style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>2</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>则视为失败)。如果你在抹消「<span class=GramE>爆裂符文</span>」、「<span
+"Times New Roman";mso-fareast-language:ZH-CN'>则视为失败)。如果你在抹消「<span>爆裂符文</span>」、「<span
+>守卫结界</span>」或「<span>蛇纹法印</span>」时失败，会触发相对应的符文、<span
+>结界或法印</span>。</span><span lang=EN-US style='mso-fareast-language:
 
-class=GramE>守卫结界</span>」或「<span class=GramE>蛇纹法印</span>」时失败，会触发相对应的符文、<span
-
-class=GramE>结界或法印</span>。</span><span lang=EN-US style='mso-fareast-language:
-
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>幻化灵体<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>幻化灵体<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -2961,21 +2927,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>变化系</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -2993,11 +2959,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>7</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3007,11 +2973,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3023,11 +2989,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3037,11 +3003,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>个人</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3051,11 +3017,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>自己</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3067,53 +3033,48 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>轮／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>轮／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>你连同装备一起幻化成灵体。在法术持续时间内你将<span
+>身处灵界</span>，这是一个与正常物质界<span>重迭</span>的位面。<span
+>当持续</span>时间终止，你就会回到物质界。</span><span lang=EN-US style='mso-fareast-language:
 
-class=GramE>身处灵界</span>，这是一个与正常物质界<span class=GramE>重迭</span>的位面。<span
-
-class=GramE>当持续</span>时间终止，你就会回到物质界。</span><span lang=EN-US style='mso-fareast-language:
-
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>灵体生物是隐形的虚体，可自由<span class=GramE>往任何</span>方向移动，包括上下，但速度减半。因为没有实体，所以你可以穿越实质物体，包含生物。灵体生物可以明确听见看见物质界，但影像看起来晦暗不真，在物质界的视野与听力只有</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>灵体生物是隐形的虚体，可自由<span>往任何</span>方向移动，包括上下，但速度减半。因为没有实体，所以你可以穿越实质物体，包含生物。灵体生物可以明确听见看见物质界，但影像看起来晦暗不真，在物质界的视野与听力只有</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>60</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎。力场性质的魔法效果(如「魔法飞弹」与「力墙术」)与防护系法术可正常影响灵体生物。这些法术的效果可由物质界延伸<span
+>至灵界</span>，反之则否。灵体生物无法攻击实体生物，身为灵体时施展的法术只能影响<span>其他灵界事物</span>，不过某些实体生物的攻击或物品效能可影响<span
+>至灵界</span>(如：石化蜥蜴的凝视攻击)。<span>灵界的</span>生物或物体彼此视为正常物体。</span><span
 
-class=GramE>至灵界</span>，反之则否。灵体生物无法攻击实体生物，身为灵体时施展的法术只能影响<span class=GramE>其他灵界事物</span>，不过某些实体生物的攻击或物品效能可影响<span
-
-class=GramE>至灵界</span>(如：石化蜥蜴的凝视攻击)。<span class=GramE>灵界的</span>生物或物体彼此视为正常物体。</span><span
-
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>若你在法术结束，变回实体时正在穿越实质物体(如：一面墙)，则会从最近的开缝中挤出，挤出时每经过</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>5</span><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>呎会受到</span></span><span
 
@@ -3123,23 +3084,23 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>点伤害。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>同游灵界<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>同游灵界<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -3151,21 +3112,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>变化系</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3183,11 +3144,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>9</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3197,11 +3158,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>接触(见说明)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3217,11 +3178,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>等级再多增加一个接触到的生物</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3233,11 +3194,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3247,11 +3208,11 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -3262,16 +3223,14 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>3</
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>等级可以多带一个生物(自己不算)<span
+>到灵界</span>。一旦成为灵体，也不需要一直待在一起。</span><span lang=EN-US
 
-class=GramE>到灵界</span>。一旦成为灵体，也不需要一直待在一起。</span><span lang=EN-US
-
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>当持续</span></span><span
 
@@ -3279,23 +3238,22 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>时间终止，所有幻化成灵体的生物都变回实体。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
-
-class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
+><b style='mso-bidi-font-weight:normal'><span style='font-family:
 
 宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
-mso-fareast-language:ZH-CN'>艾伐黑触手(</span></b></span><span class=SpellE><b
+mso-fareast-language:ZH-CN'>艾伐黑触手(</span></b></span><span><b
 
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
 
@@ -3311,13 +3269,12 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>咒</span></span><span
 
@@ -3325,11 +3282,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>法系(创造)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3341,11 +3298,11 @@ mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>术士／法
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>4</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3355,11 +3312,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势、材料</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3371,11 +3328,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3397,11 +3354,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎／每等级)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3417,11 +3374,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎扩散范围</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3433,11 +3390,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>轮／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>轮／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3447,11 +3404,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>无</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3461,15 +3418,15 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>不可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>此<span class=GramE>法术可召来</span>具有弹性的黑色触手，每只长</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>此<span>法术可召来</span>具有弹性的黑色触手，每只长</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>10</span><span
 
@@ -3477,23 +3434,22 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>呎。这些挥舞的触手看起来就像从土里、地板、脚下甚至水面等任何脚下的平面中冒出来。触手会抓取并纠缠进入影响区域的生物，紧握住他们后再大力碾压。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>每个进入法术区域内的生物都必需<span class=GramE>进行擒抱检定</span>，对抗触手<span
-
-class=GramE>的擒抱检定</span>。触手视为大型生物，其基本攻击加值与你的施法者等级相同，力量值</span><span lang=EN-US
+"Times New Roman";mso-fareast-language:ZH-CN'>每个进入法术区域内的生物都必需<span>进行擒抱检定</span>，对抗触手<span
+>的擒抱检定</span>。触手视为大型生物，其基本攻击加值与你的施法者等级相同，力量值</span><span lang=EN-US
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>19</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>。因此触手<span class=GramE>的擒抱检定</span>调整值为施法者等级</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>。因此触手<span>的擒抱检定</span>调整值为施法者等级</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>+8</span><span
 
@@ -3501,17 +3457,16 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>。触手对所有伤害都免疫。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>一旦擒住对手，触手会在每轮你的回合时<span
-
-class=GramE>进行擒抱检定</span>，通过则造成</span><span lang=EN-US style='mso-fareast-font-family:
+>进行擒抱检定</span>，通过则造成</span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>1d6+4</span><span style='font-family:宋体;
 
@@ -3519,23 +3474,22 @@ mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
 mso-fareast-language:ZH-CN'>点敲击伤害。触手会紧抓住对手不断碾压，直至法术结束或对手挣脱。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>进入此影响区域会立即遭受触手攻击，未被擒住的生物亦只能<span
+>以半速移动</span>来通过此区域。</span><span lang=EN-US style='mso-fareast-language:
 
-class=GramE>以半速移动</span>来通过此区域。</span><span lang=EN-US style='mso-fareast-language:
-
-ZH-CN'><o:p></o:p></span></p>
-
+ZH-CN'></span></p>
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3545,23 +3499,23 @@ ZH-CN'>材料成分：</span></i><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>一块巨型章鱼或巨型乌贼的触手。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>脚底抹油<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>脚底抹油<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -3573,11 +3527,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -3585,13 +3539,13 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>等级：</span></b><span class=GramE><span style='font-family:宋体;mso-ascii-font-family:
+ZH-CN'>等级：</span></b><span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
@@ -3605,11 +3559,11 @@ ZH-CN'>、术士／法师</span><span lang=EN-US style='mso-fareast-font-family:
 
 mso-fareast-language:ZH-CN'>1</span><span lang=EN-US style='mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3619,11 +3573,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3635,11 +3589,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3649,11 +3603,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>个人</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3663,11 +3617,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>自己</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3679,13 +3633,12 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>分钟／每等级(解消)</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>让基本</span></span><span
 
@@ -3705,33 +3658,33 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>页「跳跃」技能)。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>此法术不一定要用于逃跑，法术名称只是用以形容一般法师面对格斗时的态度。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoCommentText style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>爆裂符文<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>爆裂符文<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -3743,21 +3696,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>防护系〔力场〕</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3769,11 +3722,11 @@ mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>术士／法
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>3</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoCommentText style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3783,11 +3736,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3799,11 +3752,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3813,11 +3766,11 @@ ZH-CN'>距离：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>接触</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3833,11 +3786,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>磅</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3847,11 +3800,11 @@ ZH-CN'>持续时间：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>永久，直到能量散发(解消)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3861,11 +3814,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>见说明</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3875,11 +3828,11 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -3892,30 +3845,29 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 "Times New Roman";mso-fareast-language:ZH-CN'>点伤害。任何站在符文旁边的人(近到足以读取符文的距离)都会受伤，而且没有豁免检定。站在</span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>10</span><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>呎内的</span></span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>其他生物可进行反射检定，<span class=GramE>若通过</span>，则遭受一半伤害。物体本身也遭受同样伤害(没有豁免检定)。</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>其他生物可进行反射检定，<span>若通过</span>，则遭受一半伤害。物体本身也遭受同样伤害(没有豁免检定)。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>施法者和他指定的人可以不触动符文而读取被符文保护的资讯。也可以随时移除符文。其他人可以用「解除魔法」或「抹消术」移除符文，但是如果解除或抹消失败就会引爆。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -3943,19 +3895,18 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
-
-class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><span
+><b style='mso-bidi-font-weight:normal'><span style='font-family:
 
 宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 
@@ -3964,8 +3915,7 @@ mso-fareast-language:ZH-CN'>慑</span></b></span><b style='mso-bidi-font-weight:
 normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>心目光<span
-
-class=GramE>(</span></span></b><span class=SpellE><b style='mso-bidi-font-weight:
+>(</span></span></b><span><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -3977,13 +3927,12 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
-
-class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>死灵系</span></span><span
 
@@ -3991,17 +3940,17 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>(邪恶)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>等级：</span></b><span class=GramE><span style='font-family:宋体;mso-ascii-font-family:
+ZH-CN'>等级：</span></b><span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
@@ -4015,11 +3964,11 @@ ZH-CN'>、术士／法师</span><span lang=EN-US style='mso-fareast-font-family:
 
 mso-fareast-language:ZH-CN'>6</span><span lang=EN-US style='mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></p>
+ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4029,11 +3978,11 @@ ZH-CN'>法术成分：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4045,11 +3994,11 @@ mso-fareast-language:ZH-CN'>1</span><span style='font-family:宋体;mso-ascii-fo
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>标准动作</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span lang=ZH-TW style='font-family:宋体;
 
@@ -4075,7 +4024,7 @@ mso-hansi-font-family:"Times New Roman"'>等级)</span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4085,11 +4034,11 @@ ZH-CN'>目标：</span></b><span style='font-family:宋体;mso-ascii-font-family
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>一个活物</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4107,11 +4056,11 @@ ZH-CN'>3</span><span style='font-family:宋体;mso-ascii-font-family:"Times New 
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>等级(见说明)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4121,11 +4070,11 @@ ZH-CN'>豁免检定：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>强韧过则无效</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4135,27 +4084,26 @@ ZH-CN'>法术抗力：</span></b><span style='font-family:宋体;mso-ascii-font-
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>可</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>你每轮可指定一个活物为目标，利用邪恶法力攻击他。<span
-
-class=GramE>依目标</span></span><span lang=EN-US style='mso-fareast-font-family:
+>依目标</span></span><span lang=EN-US style='mso-fareast-font-family:
 
 宋体;mso-fareast-language:ZH-CN'>HD</span><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+<table border=1 cellspacing=0 cellpadding=0
 
  style='margin-left:28.1pt;border-collapse:collapse;border:none;mso-border-alt:
 
@@ -4169,11 +4117,11 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   mso-border-alt:solid windowtext .5pt;padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.05pt;mso-char-indent-count:1.25'><b
+  <p style='text-indent:15.05pt;mso-char-indent-count:1.25'><b
 
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
 
-  宋体;mso-fareast-language:ZH-CN'>HD</span><span lang=EN-US><o:p></o:p></span></b></p>
+  宋体;mso-fareast-language:ZH-CN'>HD</span><span lang=EN-US></span></b></p>
 
   </td>
 
@@ -4183,13 +4131,13 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   solid windowtext .5pt;padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.05pt;mso-char-indent-count:1.25'><b
+  <p style='text-indent:15.05pt;mso-char-indent-count:1.25'><b
 
   style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
   "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-  ZH-CN'>效果</span><span lang=EN-US><o:p></o:p></span></b></p>
+  ZH-CN'>效果</span><span lang=EN-US></span></b></p>
 
   </td>
 
@@ -4203,7 +4151,7 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
+  <p style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
 
   lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>10</span><span
 
@@ -4221,7 +4169,7 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   mso-border-alt:solid windowtext .5pt;padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
+  <p style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
 
   style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -4239,7 +4187,7 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
+  <p style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
 
   lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>5-9</span></p>
 
@@ -4253,7 +4201,7 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   mso-border-alt:solid windowtext .5pt;padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
+  <p style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
 
   style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -4271,11 +4219,11 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
+  <p style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
 
   lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>4</span><span
 
-  class=GramE><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+ ><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
   mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>或以下</span></span></p>
 
@@ -4289,7 +4237,7 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
   mso-border-alt:solid windowtext .5pt;padding:0cm 1.4pt 0cm 1.4pt'>
 
-  <p class=MsoNormal style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
+  <p style='text-indent:15.0pt;mso-char-indent-count:1.25'><span
 
   style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
@@ -4303,17 +4251,17 @@ ZH-CN'>不同，可分成下列三种效果。</span><span lang=EN-US style='mso
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
 "Times New Roman";mso-fareast-language:ZH-CN'>效果具有累加性及并发性。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4333,13 +4281,13 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>10<
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>分钟。<span class=GramE>此效果</span>不会被「移除疾病」或「医疗」法术治好，但「移除诅咒」可以。</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>分钟。<span>此效果</span>不会被「移除疾病」或「医疗」法术治好，但「移除诅咒」可以。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4359,13 +4307,13 @@ lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>10<
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>分钟，此时段内<span class=GramE>若再次</span>看见施法者，又会再度陷入慌乱。视为恐惧效果。</span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>分钟，此时段内<span>若再次</span>看见施法者，又会再度陷入慌乱。视为恐惧效果。</span><span
 
-lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0'><i
 
 style='mso-bidi-font-style:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
@@ -4381,7 +4329,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>分钟。除非法术被解除，否则这段期间内他无法被任何方式叫醒。这不属于睡眠效果，因此精灵无法免疫。持续时间为每三施法者等级一轮，击中后，你每轮需耗费一个移动动作来盯着对手。</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 

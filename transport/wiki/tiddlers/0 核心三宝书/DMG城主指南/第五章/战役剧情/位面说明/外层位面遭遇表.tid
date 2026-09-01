@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>外层位面遭遇表</h1>
 
 <h2>深渊型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-10</td><td>1个六臂蛇魔</td><td>17</td></tr>
 <tr><td>11-25</td><td>深渊高等石化蜥蜴</td><td>15</td></tr>
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>地狱型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-20</td><td>1个角魔</td><td>16</td></tr>
 <tr><td>21-45</td><td>恶魔队：1个冰魔、1d3个骨魔与2d4+3个褶魔</td><td>15</td></tr>
@@ -31,7 +31,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>天堂型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-25</td><td>1d3个星界使徒(天使)</td><td>16</td></tr>
 <tr><td>26-45</td><td>1个异界神侍(天使)</td><td>16</td></tr>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>福地型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-15</td><td>1d3个星界使徒(天使)</td><td>16</td></tr>
 <tr><td>16-30</td><td>1个异界神侍</td><td>16</td></tr>

@@ -5,13 +5,14 @@
 - 连续的多个转换后合并进同一个 <ul>；单个的包 <ul>...</ul>
 - 仅处理内容以 ·（或 •）开头的 p，其余 p 不动
 """
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI = r"E:\dnd3r_full\transport\wiki\tiddlers"
+WIKI = P.WIKI_TIDDLERS
 
 # 匹配以 · 开头的整个 <p>...</p>（p 内不含嵌套 p）
 P_RE = re.compile(r"<p[^>]*>\s*[·•]\s*(?:(?!</p>).)*?</p>", re.S)

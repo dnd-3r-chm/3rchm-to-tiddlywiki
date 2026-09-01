@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """清理法术描述目录中残留的 Word/旧 HTML 标签，参考 A.tid 的简洁风格。"""
+import _paths as P
 import html
 import os
 import re
@@ -9,7 +10,7 @@ from html.parser import HTMLParser
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-TARGET_DIR = r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\PHB玩家手册\11法术\法术描述"
+TARGET_DIR = os.path.join(P.WIKI_TIDDLERS, "0 核心三宝书", "PHB玩家手册", "11法术", "法术描述")
 
 ALLOWED_BLOCK_TAGS = {"p", "h1", "h2", "h3", "h4", "h5", "h6"}
 ALLOWED_INLINE_TAGS = {"b", "strong", "i", "em", "u", "br", "a", "img"}

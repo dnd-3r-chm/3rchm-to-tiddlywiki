@@ -3,30 +3,30 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/1级地下城事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>1级地下城事件遭遇</div>
     <table>
-        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <thead><tr><th>百分骰</th><th>事件遭遇</th></tr></thead>
         <tbody>
-            <tr><td class="dice">01–03</td><td class="desc">1d3只中型变种蜈(虫类生物)</td></tr>
-            <tr><td class="dice">04–08</td><td class="desc">1d4只凶暴鼠</td></tr>
-            <tr><td class="dice">09–10</td><td class="desc">1d4只巨火甲虫(虫类生物)</td></tr>
-            <tr><td class="dice">11–13</td><td class="desc">1d4只小型变种蝎(虫类生物)</td></tr>
-            <tr><td class="dice">14–16</td><td class="desc">1d3只小型变种蜘蛛(虫类生物)</td></tr>
-            <tr><td class="dice">17–20</td><td class="desc">1d3名矮人战士</td></tr>
-            <tr><td class="dice">21–22</td><td class="desc">1d3名精灵战士</td></tr>
-            <tr><td class="dice">23–25</td><td class="desc">1个暗幕魔兽</td></tr>
-            <tr><td class="dice">26–28</td><td class="desc">1个骨面斑兽</td></tr>
-            <tr><td class="dice">29–30</td><td class="desc">1个劣魔(恶魔)</td></tr>
-            <tr><td class="dice">31–40</td><td class="desc">1d3+1个地精武者</td></tr>
-            <tr><td class="dice">41–50</td><td class="desc">1d4+2个狗头人武者</td></tr>
-            <tr><td class="dice">51–56</td><td class="desc">1d4个人类武者骷髅</td></tr>
-            <tr><td class="dice">57–62</td><td class="desc">1d3个人类平民僵尸</td></tr>
-            <tr><td class="dice">63–71</td><td class="desc">1d4+1尾小毒蛇(动物)</td></tr>
-            <tr><td class="dice">72–80</td><td class="desc">1d3个兽人武者</td></tr>
-            <tr><td class="dice">81–85</td><td class="desc">1d3只蚊</td></tr>
-            <tr><td class="dice">86–90</td><td class="desc">1群蜘蛛群</td></tr>
-            <tr><td class="dice">91–100</td><td class="desc">掷2级事件遭遇表</td></tr>
+            <tr><td>01–03</td><td>1d3只中型变种蜈(虫类生物)</td></tr>
+            <tr><td>04–08</td><td>1d4只凶暴鼠</td></tr>
+            <tr><td>09–10</td><td>1d4只巨火甲虫(虫类生物)</td></tr>
+            <tr><td>11–13</td><td>1d4只小型变种蝎(虫类生物)</td></tr>
+            <tr><td>14–16</td><td>1d3只小型变种蜘蛛(虫类生物)</td></tr>
+            <tr><td>17–20</td><td>1d3名矮人战士</td></tr>
+            <tr><td>21–22</td><td>1d3名精灵战士</td></tr>
+            <tr><td>23–25</td><td>1个暗幕魔兽</td></tr>
+            <tr><td>26–28</td><td>1个骨面斑兽</td></tr>
+            <tr><td>29–30</td><td>1个劣魔(恶魔)</td></tr>
+            <tr><td>31–40</td><td>1d3+1个地精武者</td></tr>
+            <tr><td>41–50</td><td>1d4+2个狗头人武者</td></tr>
+            <tr><td>51–56</td><td>1d4个人类武者骷髅</td></tr>
+            <tr><td>57–62</td><td>1d3个人类平民僵尸</td></tr>
+            <tr><td>63–71</td><td>1d4+1尾小毒蛇(动物)</td></tr>
+            <tr><td>72–80</td><td>1d3个兽人武者</td></tr>
+            <tr><td>81–85</td><td>1d3只蚊</td></tr>
+            <tr><td>86–90</td><td>1群蜘蛛群</td></tr>
+            <tr><td>91–100</td><td>掷2级事件遭遇表</td></tr>
         </tbody>
     </table>
 </div>

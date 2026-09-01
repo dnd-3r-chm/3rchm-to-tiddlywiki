@@ -3,46 +3,46 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/6级地下城事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>6级地下城事件遭遇</div>
     <table>
-        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <thead><tr><th>百分骰</th><th>事件遭遇</th></tr></thead>
         <tbody>
-            <tr><td class="dice">01–10</td><td class="desc">掷5级事件遭遇表</td></tr>
-            <tr><td class="dice">11–12</td><td class="desc">1d4+2个圣光神使</td></tr>
-            <tr><td class="dice">13–14</td><td class="desc">1个高斯眼魔(眼魔)</td></tr>
-            <tr><td class="dice">15–16</td><td class="desc">1d3+1个蛇鸡兽</td></tr>
-            <tr><td class="dice">17–18</td><td class="desc">1个巴霸魔(魔鬼)</td></tr>
-            <tr><td class="dice">19–21</td><td class="desc">1d3+1个迪洛矮人</td></tr>
-            <tr><td class="dice">22–23</td><td class="desc">1个链魔</td></tr>
-            <tr><td class="dice">24–25</td><td class="desc">1个恐兽</td></tr>
-            <tr><td class="dice">26–30</td><td class="desc">1d3个移位兽</td></tr>
-            <tr><td class="dice">31–32</td><td class="desc">1个御风天(爱刺天族)</td></tr>
-            <tr><td class="dice">33–36</td><td class="desc">1个双头巨人</td></tr>
-            <tr><td class="dice">37–38</td><td class="desc">1d3+1个弗米工蚁</td></tr>
-            <tr><td class="dice">39–42</td><td class="desc">1d3个石像鬼</td></tr>
-            <tr><td class="dice">43–45</td><td class="desc">1d3+1个妖鬼(食尸鬼)</td></tr>
-            <tr><td class="dice">46–48</td><td class="desc">1d4+1个豺狼人与1d3只土狼</td></tr>
-            <tr><td class="dice">49–50</td><td class="desc">1d3+1个穴居搜怪</td></tr>
-            <tr><td class="dice">51–52</td><td class="desc">1个妖鬼婆(鬼婆)</td></tr>
-            <tr><td class="dice">53–54</td><td class="desc">1个半龙4级战士</td></tr>
-            <tr><td class="dice">55–56</td><td class="desc">1d3个鸟妖</td></tr>
-            <tr><td class="dice">57–58</td><td class="desc">1d3+1个豪兽</td></tr>
-            <tr><td class="dice">59–60</td><td class="desc">1个多头蛇蜥(五头，炎蛇蜥或寒蛇蜥)</td></tr>
-            <tr><td class="dice">61–63</td><td class="desc">1个野猪人(兽化人)与1d3头野猪</td></tr>
-            <tr><td class="dice">64–65</td><td class="desc">1d3+1魔蝠(混和种类)</td></tr>
-            <tr><td class="dice">66–67</td><td class="desc">1个平民火蜥蜴</td></tr>
-            <tr><td class="dice">68–71</td><td class="desc">1d4+1个幽影</td></tr>
-            <tr><td class="dice">72–73</td><td class="desc">1d3+2只电蜥蜴</td></tr>
-            <tr><td class="dice">74–75</td><td class="desc">1d3+1个蝗虫群</td></tr>
-            <tr><td class="dice">76–78</td><td class="desc">1d3+1个战蜥人与1d3只泽巨蜥</td></tr>
-            <tr><td class="dice">79–80</td><td class="desc">1个鬼火</td></tr>
-            <tr><td class="dice">81–82</td><td class="desc">1个锡尔族</td></tr>
-            <tr><td class="dice">83–84</td><td class="desc">1d3+1个小索尔石怪</td></tr>
-            <tr><td class="dice">85–86</td><td class="desc">1d3+1个纯种蛇人</td></tr>
-            <tr><td class="dice">87–88</td><td class="desc">1d4+2只投弹甲虫(虫类生物)</td></tr>
-            <tr><td class="dice">89–90</td><td class="desc">5级蜥人德鲁伊NPC(与1只鳄)</td></tr>
-            <tr><td class="dice">91–100</td><td class="desc">掷7级事件遭遇表</td></tr>
+            <tr><td>01–10</td><td>掷5级事件遭遇表</td></tr>
+            <tr><td>11–12</td><td>1d4+2个圣光神使</td></tr>
+            <tr><td>13–14</td><td>1个高斯眼魔(眼魔)</td></tr>
+            <tr><td>15–16</td><td>1d3+1个蛇鸡兽</td></tr>
+            <tr><td>17–18</td><td>1个巴霸魔(魔鬼)</td></tr>
+            <tr><td>19–21</td><td>1d3+1个迪洛矮人</td></tr>
+            <tr><td>22–23</td><td>1个链魔</td></tr>
+            <tr><td>24–25</td><td>1个恐兽</td></tr>
+            <tr><td>26–30</td><td>1d3个移位兽</td></tr>
+            <tr><td>31–32</td><td>1个御风天(爱刺天族)</td></tr>
+            <tr><td>33–36</td><td>1个双头巨人</td></tr>
+            <tr><td>37–38</td><td>1d3+1个弗米工蚁</td></tr>
+            <tr><td>39–42</td><td>1d3个石像鬼</td></tr>
+            <tr><td>43–45</td><td>1d3+1个妖鬼(食尸鬼)</td></tr>
+            <tr><td>46–48</td><td>1d4+1个豺狼人与1d3只土狼</td></tr>
+            <tr><td>49–50</td><td>1d3+1个穴居搜怪</td></tr>
+            <tr><td>51–52</td><td>1个妖鬼婆(鬼婆)</td></tr>
+            <tr><td>53–54</td><td>1个半龙4级战士</td></tr>
+            <tr><td>55–56</td><td>1d3个鸟妖</td></tr>
+            <tr><td>57–58</td><td>1d3+1个豪兽</td></tr>
+            <tr><td>59–60</td><td>1个多头蛇蜥(五头，炎蛇蜥或寒蛇蜥)</td></tr>
+            <tr><td>61–63</td><td>1个野猪人(兽化人)与1d3头野猪</td></tr>
+            <tr><td>64–65</td><td>1d3+1魔蝠(混和种类)</td></tr>
+            <tr><td>66–67</td><td>1个平民火蜥蜴</td></tr>
+            <tr><td>68–71</td><td>1d4+1个幽影</td></tr>
+            <tr><td>72–73</td><td>1d3+2只电蜥蜴</td></tr>
+            <tr><td>74–75</td><td>1d3+1个蝗虫群</td></tr>
+            <tr><td>76–78</td><td>1d3+1个战蜥人与1d3只泽巨蜥</td></tr>
+            <tr><td>79–80</td><td>1个鬼火</td></tr>
+            <tr><td>81–82</td><td>1个锡尔族</td></tr>
+            <tr><td>83–84</td><td>1d3+1个小索尔石怪</td></tr>
+            <tr><td>85–86</td><td>1d3+1个纯种蛇人</td></tr>
+            <tr><td>87–88</td><td>1d4+2只投弹甲虫(虫类生物)</td></tr>
+            <tr><td>89–90</td><td>5级蜥人德鲁伊NPC(与1只鳄)</td></tr>
+            <tr><td>91–100</td><td>掷7级事件遭遇表</td></tr>
         </tbody>
     </table>
 </div>

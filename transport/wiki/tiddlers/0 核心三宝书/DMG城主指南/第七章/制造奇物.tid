@@ -15,6 +15,6 @@ type: text/vnd.tiddlywiki
 
 <p>制造奇物需要的天数等于基本价格金币数除以1,000(取整数)。</p>
 
-<p style="text-indent:2em; margin-top:5px;">制造奇物需要的专长：制造奇物。</p>
+<p>制造奇物需要的专长：制造奇物。</p>
 
 

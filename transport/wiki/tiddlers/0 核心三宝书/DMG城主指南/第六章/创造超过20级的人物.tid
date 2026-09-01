@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>创造超过20级的人物</h1>
 <p>你或玩家要创造超过20级的人物时，请参考下表决定起始的财富总值。</p>
 
-<table class="class-table">
+<table>
 <tr><th>人物等级</th><th>财富</th><th>人物等级</th><th>财富</th></tr>
 <tr><td>21</td><td>975000金币</td><td>31</td><td>1900000金币</td></tr>
 <tr><td>22</td><td>1200000金币</td><td>32</td><td>5600000金币</td></tr>

@@ -3,27 +3,27 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-18：房间内容.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>表3-18：房间内容</div>
     <table>
-        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">房间内容</th></tr></thead>
+        <thead><tr><th>百分骰</th><th>房间内容</th></tr></thead>
         <tbody>
-            <tr><td class="dice">01–18</td><td class="desc">只有怪物</td></tr>
-            <tr><td class="dice">19–44</td><td class="desc">怪物及摆设</td></tr>
-            <tr><td class="dice">45</td><td class="desc">怪物及隐藏宝藏</td></tr>
-            <tr><td class="dice">46</td><td class="desc">怪物及陷阱</td></tr>
-            <tr><td class="dice">47</td><td class="desc">怪物、摆设及隐藏宝藏</td></tr>
-            <tr><td class="dice">48</td><td class="desc">怪物、摆设及陷阱</td></tr>
-            <tr><td class="dice">49</td><td class="desc">怪物、陷阱及隐藏宝藏</td></tr>
-            <tr><td class="dice">50</td><td class="desc">怪物、摆设、陷阱及隐藏宝藏</td></tr>
-            <tr><td class="dice">51–76</td><td class="desc">只有摆设</td></tr>
-            <tr><td class="dice">77</td><td class="desc">摆设及隐藏宝藏</td></tr>
-            <tr><td class="dice">78</td><td class="desc">摆设及陷阱</td></tr>
-            <tr><td class="dice">79</td><td class="desc">摆设、陷阱及隐藏宝藏</td></tr>
-            <tr><td class="dice">80</td><td class="desc">只有隐藏宝藏</td></tr>
-            <tr><td class="dice">81</td><td class="desc">隐藏宝藏及陷阱</td></tr>
-            <tr><td class="dice">82</td><td class="desc">只有陷阱</td></tr>
-            <tr><td class="dice">83–100</td><td class="desc">什么都没有</td></tr>
+            <tr><td>01–18</td><td>只有怪物</td></tr>
+            <tr><td>19–44</td><td>怪物及摆设</td></tr>
+            <tr><td>45</td><td>怪物及隐藏宝藏</td></tr>
+            <tr><td>46</td><td>怪物及陷阱</td></tr>
+            <tr><td>47</td><td>怪物、摆设及隐藏宝藏</td></tr>
+            <tr><td>48</td><td>怪物、摆设及陷阱</td></tr>
+            <tr><td>49</td><td>怪物、陷阱及隐藏宝藏</td></tr>
+            <tr><td>50</td><td>怪物、摆设、陷阱及隐藏宝藏</td></tr>
+            <tr><td>51–76</td><td>只有摆设</td></tr>
+            <tr><td>77</td><td>摆设及隐藏宝藏</td></tr>
+            <tr><td>78</td><td>摆设及陷阱</td></tr>
+            <tr><td>79</td><td>摆设、陷阱及隐藏宝藏</td></tr>
+            <tr><td>80</td><td>只有隐藏宝藏</td></tr>
+            <tr><td>81</td><td>隐藏宝藏及陷阱</td></tr>
+            <tr><td>82</td><td>只有陷阱</td></tr>
+            <tr><td>83–100</td><td>什么都没有</td></tr>
         </tbody>
     </table>
 </div>

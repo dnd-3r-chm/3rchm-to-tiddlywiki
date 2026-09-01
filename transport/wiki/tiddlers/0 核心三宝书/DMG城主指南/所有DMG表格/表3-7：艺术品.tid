@@ -6,20 +6,20 @@ type: text/vnd.tiddlywiki
 <div>
     <h2>表3-7：艺术品</h2>
     <table>
-        <thead><tr><th style="width:12%">百分数</th><th style="width:25%">价格</th><th style="width:12%">平均</th><th style="width:51%">范例</th></tr></thead>
+        <thead><tr><th>百分数</th><th>价格</th><th>平均</th><th>范例</th></tr></thead>
         <tbody>
-            <tr><td class="c">01–10</td><td class="c">1d10×10金币</td><td class="c">55金币</td><td>银器、象牙雕像、金丝手镯。</td></tr>
-            <tr><td class="c">11–25</td><td class="c">3d6×10金币</td><td class="c">105金币</td><td>金丝混织的衣服、镶有宝石的银杯、水晶发饰。</td></tr>
-            <tr><td class="c">26–40</td><td class="c">1d6×100金币</td><td class="c">350金币</td><td>大型羊毛壁毯、宝石项链。</td></tr>
-            <tr><td class="c">41–50</td><td class="c">1d10×100金币</td><td class="c">550金币</td><td>剑柄镶有宝石的银剑、镶翡翠的梳子。</td></tr>
-            <tr><td class="c">51–60</td><td class="c">2d6×100金币</td><td class="c">700金币</td><td>黄金雕像、象牙雕像。</td></tr>
-            <tr><td class="c">61–70</td><td class="c">3d6×100金币</td><td class="c">1,050金币</td><td>黄金梳子、电气石项链。</td></tr>
-            <tr><td class="c">71–80</td><td class="c">4d6×100金币</td><td class="c">1,400金币</td><td>古董画、珍珠项链、猫眼石耳环。</td></tr>
-            <tr><td class="c">81–85</td><td class="c">5d6×100金币</td><td class="c">1,750金币</td><td>镶满宝石的丝质衣服、蓝宝石项链。</td></tr>
-            <tr><td class="c">86–90</td><td class="c">1d4×1,000金币</td><td class="c">2,500金币</td><td>金缕衣、红宝石手环。</td></tr>
-            <tr><td class="c">91–95</td><td class="c">1d6×1,000金币</td><td class="c">3,500金币</td><td>黑珍珠项链、绿玉扣子。</td></tr>
-            <tr><td class="c">96–99</td><td class="c">2d4×1,000金币</td><td class="c">5,000金币</td><td>黄金皇冠、翡翠鼻烟壶。</td></tr>
-            <tr><td class="c">100</td><td class="c">2d6×1,000金币</td><td class="c">7,000金币</td><td>钻石戒指、镶祖母绿的金杯。</td></tr>
+            <tr><td>01–10</td><td>1d10×10金币</td><td>55金币</td><td>银器、象牙雕像、金丝手镯。</td></tr>
+            <tr><td>11–25</td><td>3d6×10金币</td><td>105金币</td><td>金丝混织的衣服、镶有宝石的银杯、水晶发饰。</td></tr>
+            <tr><td>26–40</td><td>1d6×100金币</td><td>350金币</td><td>大型羊毛壁毯、宝石项链。</td></tr>
+            <tr><td>41–50</td><td>1d10×100金币</td><td>550金币</td><td>剑柄镶有宝石的银剑、镶翡翠的梳子。</td></tr>
+            <tr><td>51–60</td><td>2d6×100金币</td><td>700金币</td><td>黄金雕像、象牙雕像。</td></tr>
+            <tr><td>61–70</td><td>3d6×100金币</td><td>1,050金币</td><td>黄金梳子、电气石项链。</td></tr>
+            <tr><td>71–80</td><td>4d6×100金币</td><td>1,400金币</td><td>古董画、珍珠项链、猫眼石耳环。</td></tr>
+            <tr><td>81–85</td><td>5d6×100金币</td><td>1,750金币</td><td>镶满宝石的丝质衣服、蓝宝石项链。</td></tr>
+            <tr><td>86–90</td><td>1d4×1,000金币</td><td>2,500金币</td><td>金缕衣、红宝石手环。</td></tr>
+            <tr><td>91–95</td><td>1d6×1,000金币</td><td>3,500金币</td><td>黑珍珠项链、绿玉扣子。</td></tr>
+            <tr><td>96–99</td><td>2d4×1,000金币</td><td>5,000金币</td><td>黄金皇冠、翡翠鼻烟壶。</td></tr>
+            <tr><td>100</td><td>2d6×1,000金币</td><td>7,000金币</td><td>钻石戒指、镶祖母绿的金杯。</td></tr>
         </tbody>
     </table>
 </div>

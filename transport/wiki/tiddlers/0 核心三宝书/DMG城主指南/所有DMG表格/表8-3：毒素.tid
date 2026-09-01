@@ -9,37 +9,37 @@ type: text/vnd.tiddlywiki
 <tr>
     <th>毒素</th><th>类别</th><th>初始伤害</th><th>后续伤害</th><th>价格</th>
 </tr>
-<tr><td class="name-col">食腐虫脑浆</td><td>接触DC=13</td><td>麻痹</td><td>0</td><td>200 金币</td></tr>
-<tr><td class="name-col">耐萨瑞毒</td><td>接触DC=13</td><td>0</td><td>3d6体质</td><td>650 金币</td></tr>
-<tr><td class="name-col">幻叶余烬</td><td>接触DC=16</td><td>2d12生命值</td><td>1d6体质</td><td>300 金币</td></tr>
-<tr><td class="name-col">烈赤根糊</td><td>接触DC=16</td><td>1点敏捷</td><td>2d4敏捷</td><td>500 金币</td></tr>
-<tr><td class="name-col">帖内根</td><td>接触DC=16</td><td>1d6敏捷</td><td>2d6敏捷</td><td>750 金币</td></tr>
-<tr><td class="name-col">黑莲花榨取液</td><td>接触DC=20</td><td>3d6体质</td><td>3d6体质</td><td>4500 金币</td></tr>
-<tr><td class="name-col">毒龙胆</td><td>接触DC=26</td><td>3d6力量</td><td>0</td><td>1500 金币</td></tr>
-<tr><td class="name-col">斑纹毒蕈</td><td>食用DC=11</td><td>1点感知</td><td>2d6感知+1d4智力</td><td>180 金币</td></tr>
-<tr><td class="name-col">砒霜</td><td>食用DC=13</td><td>1点体质</td><td>1d8体质</td><td>120 金币</td></tr>
-<tr><td class="name-col">原质苔</td><td>食用DC=14</td><td>1d4智力</td><td>2d6智力</td><td>125 金币</td></tr>
-<tr><td class="name-col">腐精油</td><td>食用DC=15</td><td>0</td><td>昏迷</td><td>90 金币</td></tr>
-<tr><td class="name-col">巫妖粉尘</td><td>食用DC=17</td><td>2d6力量</td><td>1d6力量</td><td>250 金币</td></tr>
-<tr><td class="name-col">夺魂黑粉</td><td>食用DC=18</td><td>2d6体质</td><td>1d6体质+1d6力量</td><td>300 金币</td></tr>
-<tr><td class="name-col">魔地尘</td><td>呼吸DC=15</td><td>1点魅力</td><td>1d6魅力+1点魅力(注一)</td><td>1000 金币</td></tr>
-<tr><td class="name-col">失心雾</td><td>呼吸DC=15</td><td>1d4感知</td><td>2d6感知</td><td>1500 金币</td></tr>
-<tr><td class="name-col">焦引熏烟</td><td>呼吸DC=18</td><td>1点体质(注一)</td><td>3d6体质</td><td>2100 金币</td></tr>
-<tr><td class="name-col">黑蛇毒</td><td>伤口DC=11</td><td>1d6体质</td><td>1d6体质</td><td>120 金币</td></tr>
-<tr><td class="name-col">小型蜈蚣毒</td><td>伤口DC=11</td><td>1d2敏捷</td><td>1d2敏捷</td><td>90 金币</td></tr>
-<tr><td class="name-col">血根草</td><td>伤口DC=12</td><td>0</td><td>1d4体质+1d3感知</td><td>100 金币</td></tr>
-<tr><td class="name-col">卓尔毒</td><td>伤口DC=13</td><td>昏迷</td><td>昏迷2d4小时</td><td>75 金币</td></tr>
-<tr><td class="name-col">绿血油</td><td>伤口DC=13</td><td>1点体质</td><td>1d2体质</td><td>100 金币</td></tr>
-<tr><td class="name-col">青嘶泣</td><td>伤口DC=14</td><td>1点体质</td><td>昏迷</td><td>120 金币</td></tr>
-<tr><td class="name-col">中型蜘蛛毒</td><td>伤口DC=14</td><td>1d4力量</td><td>1d4力量</td><td>150 金币</td></tr>
-<tr><td class="name-col">暗菁华露</td><td>伤口DC=17</td><td>1点力量(注一)</td><td>2d6力量</td><td>250 金币</td></tr>
-<tr><td class="name-col">翼龙毒</td><td>伤口DC=17</td><td>2d6体质</td><td>2d6体质</td><td>3,000 金币</td></tr>
-<tr><td class="name-col">大型蝎毒</td><td>伤口DC=18</td><td>1d6力量</td><td>2d6力量</td><td>200 金币</td></tr>
-<tr><td class="name-col">巨胡蜂毒</td><td>伤口DC=18</td><td>1d6敏捷</td><td>1d6敏捷</td><td>210 金币</td></tr>
-<tr><td class="name-col">死刃夜露</td><td>伤口DC=20</td><td>1d6体质</td><td>2d6体质</td><td>1,800 金币</td></tr>
-<tr><td class="name-col">紫虫毒</td><td>伤口DC=24</td><td>1d6力量</td><td>2d6力量</td><td>700 金币</td></tr>
+<tr><td>食腐虫脑浆</td><td>接触DC=13</td><td>麻痹</td><td>0</td><td>200 金币</td></tr>
+<tr><td>耐萨瑞毒</td><td>接触DC=13</td><td>0</td><td>3d6体质</td><td>650 金币</td></tr>
+<tr><td>幻叶余烬</td><td>接触DC=16</td><td>2d12生命值</td><td>1d6体质</td><td>300 金币</td></tr>
+<tr><td>烈赤根糊</td><td>接触DC=16</td><td>1点敏捷</td><td>2d4敏捷</td><td>500 金币</td></tr>
+<tr><td>帖内根</td><td>接触DC=16</td><td>1d6敏捷</td><td>2d6敏捷</td><td>750 金币</td></tr>
+<tr><td>黑莲花榨取液</td><td>接触DC=20</td><td>3d6体质</td><td>3d6体质</td><td>4500 金币</td></tr>
+<tr><td>毒龙胆</td><td>接触DC=26</td><td>3d6力量</td><td>0</td><td>1500 金币</td></tr>
+<tr><td>斑纹毒蕈</td><td>食用DC=11</td><td>1点感知</td><td>2d6感知+1d4智力</td><td>180 金币</td></tr>
+<tr><td>砒霜</td><td>食用DC=13</td><td>1点体质</td><td>1d8体质</td><td>120 金币</td></tr>
+<tr><td>原质苔</td><td>食用DC=14</td><td>1d4智力</td><td>2d6智力</td><td>125 金币</td></tr>
+<tr><td>腐精油</td><td>食用DC=15</td><td>0</td><td>昏迷</td><td>90 金币</td></tr>
+<tr><td>巫妖粉尘</td><td>食用DC=17</td><td>2d6力量</td><td>1d6力量</td><td>250 金币</td></tr>
+<tr><td>夺魂黑粉</td><td>食用DC=18</td><td>2d6体质</td><td>1d6体质+1d6力量</td><td>300 金币</td></tr>
+<tr><td>魔地尘</td><td>呼吸DC=15</td><td>1点魅力</td><td>1d6魅力+1点魅力(注一)</td><td>1000 金币</td></tr>
+<tr><td>失心雾</td><td>呼吸DC=15</td><td>1d4感知</td><td>2d6感知</td><td>1500 金币</td></tr>
+<tr><td>焦引熏烟</td><td>呼吸DC=18</td><td>1点体质(注一)</td><td>3d6体质</td><td>2100 金币</td></tr>
+<tr><td>黑蛇毒</td><td>伤口DC=11</td><td>1d6体质</td><td>1d6体质</td><td>120 金币</td></tr>
+<tr><td>小型蜈蚣毒</td><td>伤口DC=11</td><td>1d2敏捷</td><td>1d2敏捷</td><td>90 金币</td></tr>
+<tr><td>血根草</td><td>伤口DC=12</td><td>0</td><td>1d4体质+1d3感知</td><td>100 金币</td></tr>
+<tr><td>卓尔毒</td><td>伤口DC=13</td><td>昏迷</td><td>昏迷2d4小时</td><td>75 金币</td></tr>
+<tr><td>绿血油</td><td>伤口DC=13</td><td>1点体质</td><td>1d2体质</td><td>100 金币</td></tr>
+<tr><td>青嘶泣</td><td>伤口DC=14</td><td>1点体质</td><td>昏迷</td><td>120 金币</td></tr>
+<tr><td>中型蜘蛛毒</td><td>伤口DC=14</td><td>1d4力量</td><td>1d4力量</td><td>150 金币</td></tr>
+<tr><td>暗菁华露</td><td>伤口DC=17</td><td>1点力量(注一)</td><td>2d6力量</td><td>250 金币</td></tr>
+<tr><td>翼龙毒</td><td>伤口DC=17</td><td>2d6体质</td><td>2d6体质</td><td>3,000 金币</td></tr>
+<tr><td>大型蝎毒</td><td>伤口DC=18</td><td>1d6力量</td><td>2d6力量</td><td>200 金币</td></tr>
+<tr><td>巨胡蜂毒</td><td>伤口DC=18</td><td>1d6敏捷</td><td>1d6敏捷</td><td>210 金币</td></tr>
+<tr><td>死刃夜露</td><td>伤口DC=20</td><td>1d6体质</td><td>2d6体质</td><td>1,800 金币</td></tr>
+<tr><td>紫虫毒</td><td>伤口DC=24</td><td>1d6力量</td><td>2d6力量</td><td>700 金币</td></tr>
 </table>
-<div class="notes-block">
+<div>
     <p>(注一)永久吸取，而非暂时伤害。</p>
 </div>
 

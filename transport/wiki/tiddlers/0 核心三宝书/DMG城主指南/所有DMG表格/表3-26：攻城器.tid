@@ -2,18 +2,18 @@ title: 表3-26：攻城器 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-26：攻城器.htm
 type: text/vnd.tiddlywiki
-<div class="container">
+<div>
     <div>表3-26：攻城器</div>
 
     <table>
         <thead>
             <tr>
-                <th style="width:16%">品名</th>
-                <th style="width:14%">造价</th>
-                <th style="width:14%">伤害</th>
-                <th style="width:12%">致命</th>
-                <th style="width:22%">射程距离</th>
-                <th style="width:12%">一般操作人数</th>
+                <th>品名</th>
+                <th>造价</th>
+                <th>伤害</th>
+                <th>致命</th>
+                <th>射程距离</th>
+                <th>一般操作人数</th>
             </tr>
         </thead>
         <tbody>
@@ -25,18 +25,18 @@ type: text/vnd.tiddlywiki
         </tbody>
     </table>
 
-    <div class="notes">
+    <div>
         <p>(注一)见该攻城器内容说明。</p>
     </div>
 
     <!-- ===== 第二张表 ===== -->
-    <div class="sub-title">投石机攻击调整值</div>
+    <div>投石机攻击调整值</div>
 
     <table>
         <thead>
             <tr>
-                <th style="width:60%">状态</th>
-                <th style="width:40%">调整值</th>
+                <th>状态</th>
+                <th>调整值</th>
             </tr>
         </thead>
         <tbody>

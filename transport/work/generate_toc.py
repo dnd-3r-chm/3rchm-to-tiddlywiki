@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """根据 Contents.hhc 生成总目录 Tiddler，并添加到右侧边栏。"""
+import _paths as P
 import csv
 import html
 import os
@@ -9,7 +10,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
+ROOT = P.ROOT
 HHC_CSV = os.path.join(ROOT, "transport", "work", "hhc_mapping.csv")
 FINAL_MAPPING = os.path.join(ROOT, "transport", "work", "final_mapping.csv")
 WIKI_TIDDLERS = os.path.join(ROOT, "transport", "wiki", "tiddlers")

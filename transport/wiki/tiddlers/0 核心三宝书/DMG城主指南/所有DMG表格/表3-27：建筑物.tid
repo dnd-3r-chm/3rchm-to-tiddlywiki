@@ -3,14 +3,14 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-27：建筑物.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>表3-27：建筑物</div>
 
     <table>
         <thead>
             <tr>
-                <th style="width:50%">物品</th>
-                <th style="width:50%">价格</th>
+                <th>物品</th>
+                <th>价格</th>
             </tr>
         </thead>
         <tbody>
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
         </tbody>
     </table>
 
-    <div class="notes">
+    <div>
         <p><b>小房屋：</b>茅顶木屋，一至三间房间。</p>
         <p><b>大房屋：</b>茅顶木屋，四至十间房间。</p>
         <p><b>宅第：</b>木屋或砖屋，屋顶为石板。十至二十间房间，约有两、三层楼。</p>

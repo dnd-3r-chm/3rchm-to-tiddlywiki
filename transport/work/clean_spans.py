@@ -18,6 +18,7 @@ span 分三类，性质不同：
     python clean_spans.py --kind style --dry     # 预览 STYLE 型
     python clean_spans.py --kind all             # 清理全部
 """
+import _paths as P
 import os
 import re
 import shutil
@@ -25,14 +26,8 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-BASE = os.path.join(
-    r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书",
-    "DMG城主指南",
-    "所有DMG表格",
-)
-BACKUP_DIR = os.path.join(
-    r"E:\dnd3r_full\transport\work", "backup_spans_20260831"
-)
+BASE = P.DMG_TABLES
+BACKUP_DIR = os.path.join(P.WORK, "backup_spans_20260831")
 
 # 文件名格式 表X-X（X 为一位或多位数字）
 NAME_RE = re.compile(r"^表\d+-\d+")

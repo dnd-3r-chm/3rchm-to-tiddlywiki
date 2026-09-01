@@ -1,0 +1,23 @@
+title: 表3-10：门 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-10：门.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>表3-10：门</div>
+    <table>
+        <thead><tr><th>门的形态</th><th>一般厚度</th><th>硬度</th><th>生命值</th><th>卡死的门</th><th>锁上的门</th></tr></thead>
+        <tbody>
+            <tr><td>简单木门</td><td>1英寸</td><td>5</td><td>10点</td><td>13</td><td>15</td></tr>
+            <tr><td>普通木门</td><td>1.5英寸</td><td>5</td><td>15点</td><td>16</td><td>18</td></tr>
+            <tr><td>强化木门</td><td>2英寸</td><td>5</td><td>20点</td><td>23</td><td>25</td></tr>
+            <tr><td>石门</td><td>4英寸</td><td>8</td><td>60点</td><td>28</td><td>28</td></tr>
+            <tr><td>铁门</td><td>2英寸</td><td>10</td><td>60点</td><td>28</td><td>28</td></tr>
+            <tr><td>木闸门</td><td>3英寸</td><td>5</td><td>30点</td><td>25(注一)</td><td>25(注一)</td></tr>
+            <tr><td>铁闸门</td><td>2英寸</td><td>10</td><td>60点</td><td>25(注一)</td><td>25(注一)</td></tr>
+            <tr class="sub-row"><td>锁</td><td class="dash">—</td><td class="dash">—</td><td>30点</td><td>10</td><td class="dash">—</td></tr>
+            <tr class="sub-row"><td>铰链</td><td class="dash">—</td><td class="dash">—</td><td>30点</td><td>10</td><td class="dash">—</td></tr>
+        </tbody>
+    </table>
+    <div class="notes">(注一)举起门的DC和击破相同。</div>
+</div>

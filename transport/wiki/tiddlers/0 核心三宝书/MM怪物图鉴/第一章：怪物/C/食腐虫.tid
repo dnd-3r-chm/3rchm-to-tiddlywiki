@@ -3,39 +3,39 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/C/食腐虫.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>食腐虫 (Carrion Crawler)</h1>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-2">食腐虫 (Carrion Crawler)<br><span style="font-weight:normal;font-size:13px;">大型异怪</span></th>
+                    <th>资料栏位</th>
+                    <th>食腐虫 (Carrion Crawler)<br><span>大型异怪</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td>3d8+6 (19HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td>+2</td></tr>
-                <tr><td class="col-1">速度</td><td>30英尺 (6格)，攀爬15英尺</td></tr>
-                <tr><td class="col-1">防御等级</td><td>17 (-1体型，+2敏捷，+6天生)，接触11，措手不及15</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+2/+8</td></tr>
-                <tr><td class="col-1">攻击</td><td>触手+3近战 (麻痹)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td>8触手+3近战 (麻痹) 及 啮咬-2近战 (1d4+1)</td></tr>
-                <tr><td class="col-1">占据/触及</td><td>10英尺/5英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td>麻痹</td></tr>
-                <tr><td class="col-1">特殊能力</td><td>黑暗视觉60英尺、灵敏嗅觉</td></tr>
-                <tr><td class="col-1">豁免</td><td>强韧+3，反射+5，意志+5</td></tr>
-                <tr><td class="col-1">属性</td><td>力量14，敏捷15，体质14，智力1，感知15，魅力6</td></tr>
-                <tr><td class="col-1">技能</td><td>攀爬+12，聆听+6，侦察+6</td></tr>
-                <tr><td class="col-1">专长</td><td>警觉<sup>B</sup>，战斗反射，追踪</td></tr>
-                <tr><td class="col-1">环境</td><td>地底</td></tr>
-                <tr><td class="col-1">组织</td><td>单独，成双或聚集 (3-5)</td></tr>
-                <tr><td class="col-1">挑战级数</td><td>4</td></tr>
-                <tr><td class="col-1">宝藏</td><td>无</td></tr>
-                <tr><td class="col-1">阵营</td><td>总是绝对中立</td></tr>
-                <tr><td class="col-1">进化</td><td>4-6HD (大型)；7-9HD (超大型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td>—</td></tr>
+                <tr><td>生命骰</td><td>3d8+6 (19HP)</td></tr>
+                <tr><td>先攻</td><td>+2</td></tr>
+                <tr><td>速度</td><td>30英尺 (6格)，攀爬15英尺</td></tr>
+                <tr><td>防御等级</td><td>17 (-1体型，+2敏捷，+6天生)，接触11，措手不及15</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+2/+8</td></tr>
+                <tr><td>攻击</td><td>触手+3近战 (麻痹)</td></tr>
+                <tr><td>全力攻击</td><td>8触手+3近战 (麻痹) 及 啮咬-2近战 (1d4+1)</td></tr>
+                <tr><td>占据/触及</td><td>10英尺/5英尺</td></tr>
+                <tr><td>特殊攻击</td><td>麻痹</td></tr>
+                <tr><td>特殊能力</td><td>黑暗视觉60英尺、灵敏嗅觉</td></tr>
+                <tr><td>豁免</td><td>强韧+3，反射+5，意志+5</td></tr>
+                <tr><td>属性</td><td>力量14，敏捷15，体质14，智力1，感知15，魅力6</td></tr>
+                <tr><td>技能</td><td>攀爬+12，聆听+6，侦察+6</td></tr>
+                <tr><td>专长</td><td>警觉<sup>B</sup>，战斗反射，追踪</td></tr>
+                <tr><td>环境</td><td>地底</td></tr>
+                <tr><td>组织</td><td>单独，成双或聚集 (3-5)</td></tr>
+                <tr><td>挑战级数</td><td>4</td></tr>
+                <tr><td>宝藏</td><td>无</td></tr>
+                <tr><td>阵营</td><td>总是绝对中立</td></tr>
+                <tr><td>进化</td><td>4-6HD (大型)；7-9HD (超大型)</td></tr>
+                <tr><td>等级修正值</td><td>—</td></tr>
             </tbody>
         </table>
     </div>
@@ -46,14 +46,14 @@ type: text/vnd.tiddlywiki
 
     <p>食腐虫的触手约2英尺长，分泌黏性的麻痹物质。他们和许多混种生物一样，可能是秘法术的实验结果。食腐虫约500磅重。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>食腐虫以视觉和嗅觉侦测尸体与猎物。攻击时，食腐虫挥动触手，尝试麻痹对手。触手并不造成其他伤害。食腐虫接着以啮咬杀害遭麻痹的敌人，吞食其血肉。食腐虫不会合作进击，但都会尽力麻痹更多的对手。食腐虫为非智慧生物，只要面对移动的敌人，便会持续攻击。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>麻痹 (特异)：</b>被食腐虫触手击中的生物，必须通过强韧检定(DC=13)，否则便麻痹2d4分钟。豁免DC的调整值与体质调整值相同。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>技能：</b>食腐虫在进行"攀爬"检定时具有+8种族加值。即使被冲撞或受威胁，他们在进行"攀爬"检定时都可以随时取10。</p>
     </div>
 

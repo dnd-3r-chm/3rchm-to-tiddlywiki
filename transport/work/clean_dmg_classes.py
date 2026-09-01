@@ -6,13 +6,14 @@
     python clean_dmg_classes.py [目标目录]
 目标目录缺省为 DMG城主指南；可传入其他书籍目录，如 MM怪物图鉴。
 """
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-DEFAULT_DIR = r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\DMG城主指南"
+DEFAULT_DIR = P.DMG_TIDDLERS
 TARGET_DIR = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_DIR
 
 

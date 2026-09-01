@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """根节点内联样式处理：h1-h6 字色改由全局「标题配色」规则（gen_styles.py）控制，
 本脚本只负责 table/td 的布局内联样式，并在处理时剥离 h1-h6 上残留的 color 声明。"""
+import _paths as P
 import os
 import re
 import sys
@@ -9,9 +10,9 @@ import sys
 sys.stdout.reconfigure(encoding="utf-8")
 
 FILES = [
-    r"E:\dnd3r_full\transport\wiki\tiddlers\前言.tid",
-    r"E:\dnd3r_full\transport\wiki\tiddlers\如何使用大不全.tid",
-    r"E:\dnd3r_full\transport\wiki\tiddlers\译者名录.tid",
+    os.path.join(P.WIKI_TIDDLERS, "前言.tid"),
+    os.path.join(P.WIKI_TIDDLERS, "如何使用大不全.tid"),
+    os.path.join(P.WIKI_TIDDLERS, "译者名录.tid"),
 ]
 
 # 只保留布局样式；字色（h1/h2 DarkSlateGray、h3-h6 teal）已移入 gen_styles.py 的全局规则

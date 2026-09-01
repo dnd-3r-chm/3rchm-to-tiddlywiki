@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Scan all HTML files: encoding, structural markers, link/image counts."""
+import _paths as P
 import csv
 import os
 import re
@@ -9,7 +10,7 @@ from collections import Counter
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
+ROOT = P.ROOT
 INV_CSV = os.path.join(ROOT, "transport", "work", "inventory.csv")
 
 markers = {

@@ -3,10 +3,10 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-9：墙.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
-    <div class="table-title">表3-9：墙</div>
+<div>
+    <div>表3-9：墙</div>
 
-    <table class="wall-table">
+    <table>
         <thead>
             <tr>
                 <th>类型</th>
@@ -32,7 +32,7 @@ type: text/vnd.tiddlywiki
                 <td>35</td>
                 <td>8</td>
                 <td>90hp</td>
-                <td class="dash">—</td>
+                <td>—</td>
             </tr>
             <tr>
                 <td>强化石墙</td>
@@ -70,7 +70,7 @@ type: text/vnd.tiddlywiki
                 <td>纸墙</td>
                 <td>纸的厚度</td>
                 <td>1</td>
-                <td class="dash">—</td>
+                <td>—</td>
                 <td>1hp</td>
                 <td>30</td>
             </tr>
@@ -83,26 +83,26 @@ type: text/vnd.tiddlywiki
                 <td>21</td>
             </tr>
             <!-- 魔法墙(特殊行) -->
-            <tr class="magic-row">
+            <tr>
                 <td><b>魔法墙(注二)</b></td>
-                <td class="dash">—</td>
+                <td>—</td>
                 <td>+20</td>
                 <td>×2</td>
                 <td>×2(注三)</td>
-                <td class="dash">—</td>
+                <td>—</td>
             </tr>
         </tbody>
     </table>
 
     <!-- 注释 -->
-    <div class="notes">
-        <div class="note-item">
+    <div>
+        <div>
             (注一) 每长宽各10英尺区域的生命值。
         </div>
-        <div class="note-item">
+        <div>
             (注二) 视墙壁材质依此列调整值调整。
         </div>
-        <div class="note-item">
+        <div>
             (注三) 或+50，以较高者为准。
         </div>
     </div>

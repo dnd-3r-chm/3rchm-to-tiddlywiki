@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 <p>每次施展书中法术时，魔法能量的波动会有一定几率使书自动翻页。持用者会觉得这种现象，说不定可以从新出现的法术中获益。自动翻页的状况与几率如下表：</p>
 
 <table>
-    <colgroup><col style="width:60%;"><col style="width:40%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>状况</th>
         <th>翻页几率</th>
@@ -26,6 +26,6 @@ type: text/vnd.tiddlywiki
     <tr><td>非施法者施展奥术</td><td>30%</td></tr>
 </table>
 
-<p style="text-indent:2em;">计算施法时间、法术失效几率等数值时，视同使用卷轴。</p>
-<p style="text-indent:2em; color:#555;">强烈(所有学派)。施法者等级：18。重量：3磅。</p>
+<p>计算施法时间、法术失效几率等数值时，视同使用卷轴。</p>
+<p>强烈(所有学派)。施法者等级：18。重量：3磅。</p>
 

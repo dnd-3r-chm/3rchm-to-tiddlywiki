@@ -1,0 +1,75 @@
+title: 暗音盲怪 (MM-怪物图鉴)
+tags: [[0 核心三宝书]] [[MM怪物图鉴]]
+source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/D/暗音盲怪.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <h1>暗音盲怪 (Destrachan)</h1><div class="mm1-monster-art" data-mm1-image="暗音盲管" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/暗音盲管.jpg]]</div>
+
+    <div class="table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th class="col-1">资料栏位</th>
+                    <th class="col-2">暗音盲怪 (Destrachan)<br><span style="font-weight:normal;font-size:13px;">大型异怪</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td class="col-1">生命骰</td><td>8d8+24 (60HP)</td></tr>
+                <tr><td class="col-1">先攻</td><td>+5</td></tr>
+                <tr><td class="col-1">速度</td><td>30英尺 (6格)</td></tr>
+                <tr><td class="col-1">防御等级</td><td>18 (-1体型、+1敏捷、+8天生)、接触10、措手不及17</td></tr>
+                <tr><td class="col-1">基本攻击/擒抱</td><td>+6 / +14</td></tr>
+                <tr><td class="col-1">攻击</td><td>爪抓+9近战 (1d6+4)</td></tr>
+                <tr><td class="col-1">全力攻击</td><td>2爪抓+9近战 (1d6+4)</td></tr>
+                <tr><td class="col-1">占据/触及</td><td>10英尺 / 5英尺</td></tr>
+                <tr><td class="col-1">特殊攻击</td><td>毁灭和声</td></tr>
+                <tr><td class="col-1">特殊能力</td><td>盲感100英尺、免疫、防护音波伤害</td></tr>
+                <tr><td class="col-1">豁免</td><td>强韧+5、反射+5、意志+10</td></tr>
+                <tr><td class="col-1">属性</td><td>力量18、敏捷12、体质16、智力12、感知18、魅力12</td></tr>
+                <tr><td class="col-1">技能</td><td>躲藏+8、聆听+25、潜行+7、生存+9</td></tr>
+                <tr><td class="col-1">专长</td><td>闪避、精通先攻、快速反射</td></tr>
+                <tr><td class="col-1">环境</td><td>地底</td></tr>
+                <tr><td class="col-1">组织</td><td>单独或一批 (3-5)</td></tr>
+                <tr><td class="col-1">挑战级数</td><td>8</td></tr>
+                <tr><td class="col-1">宝藏</td><td>无</td></tr>
+                <tr><td class="col-1">阵营</td><td>通常中立邪恶</td></tr>
+                <tr><td class="col-1">进化</td><td>9-16HD (大型) ; 17-24HD (超大型)</td></tr>
+                <tr><td class="col-1">等级修正值</td><td>—</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <p>该生物以带勾爪的粗腿蹒跚前行。外型似乎是爬虫类，巨大前倾的躯体前端是毫无特征的头部，被巨大耳部构造与张开的无牙嘴部占据。</p>
+
+    <p>住在地底的暗音盲怪看似怪异的非智慧兽类，但却异常邪恶、诡诈嗜虐。暗音盲怪有一对复杂、由三部分组成的耳朵，可针对各种声音调整其灵敏度。暗音盲怪看不见，但能以较大部分生物视力更为精准的听力进行猎杀。</p>
+
+    <p>暗音盲怪的管状嘴部可发出仔细聚焦的和声，产生的音波能量极强，足以震碎石壁。暗音盲怪擅于控制和声，甚至可选择被音波攻击所影响的物质种类。暗音盲怪散布死亡与悲苦。他们骚扰其他种族的地底聚居地，邪恶地造成灾难。他们可随意以音波炸开岩石，在地底来去自如。偶尔，暗音盲怪会把受害者架回巢穴，加以折磨监禁。没有活物愿意和暗音盲怪同盟。但有时某些不死生物与邪恶异界生物会和暗音盲怪一起攻击杀害其他生物。暗音盲怪从嘴部到尾巴末端约10英尺长，约4000磅重。暗音盲怪不会说话，但听得懂通用语。若不得不沟通，则以动作表示。</p>
+
+    <span class="title-bold">战斗</span>
+    <p>暗音盲怪只在最后不得已或欲解决被其音波削弱的对手时，才使用爪抓攻击。他们通常尽可能地伏击敌人。暗音盲怪会先致力摧毁金属防具与武器，然后调整和声对付血肉。</p>
+
+    <div class="ability-box">
+        <p><b>毁灭和声(超自然)：</b>暗音盲怪可发射80英尺锥状的音波能量。也可使用本能力对付半径30英尺内的生物或物品。其和声能力可调整以影响不同种类的目标。然后调整和声对付血肉。豁免DC的调整值与魅力调整值相同。</p>
+        <div class="sub-item"><span class="highlight">血肉：</span>瓦解组织、撕裂骨头。本攻击对影响范围内的所有生物造成4d6点伤害(通过反射检定则伤害减半，DC=15)。</div>
+        <div class="sub-item"><span class="highlight">神经：</span>暗音盲怪可将和声聚焦，震晕敌人而非杀害。本攻击对影响范围内的所有生物造成6d6点非致命伤害(通过反射检定则伤害减半，DC=15)。</div>
+        <div class="sub-item"><span class="highlight">物质：</span>以本方式使用毁灭和声时，暗音盲怪可选择木材、岩石、金属或玻璃。影响范围内的所有该物质制品必须通过强韧检定(DC=15)，否则即碎裂。HP30以下的该物质制品(或部分为该物质制品)均受到影响。</div>
+    </div>
+
+    <div class="ability-box">
+        <p><b>盲感(特异)：</b>与生物视觉一样，暗音盲怪可用听觉感知100英尺内所有敌人位置。</p>
+    </div>
+
+    <div class="ability-box">
+        <p><b>免疫：</b>暗音盲怪对凝视攻击、视觉效应、幻术或其他仰赖视觉的攻击形式免疫。</p>
+    </div>
+
+    <div class="ability-box">
+        <p><b>防护音波伤害(特异)：</b>暗音盲怪受噪音与音波法术(例如"幻音术"、"沉默术")影响，但由于可保护耳朵，他们较不易受音波攻击伤害(豁免检定时具有+4环境加值)。听力受损的暗音盲怪陷入目盲，所有目标视为拥有完全隐蔽。</p>
+    </div>
+
+    <div class="ability-box">
+        <p><b>技能：</b>暗音盲怪在进行"聆听"检定时具有+4种族加值。</p>
+    </div>
+
+</div>

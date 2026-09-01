@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>随机位面目的地</h1>
 <p>"虹光喷射"与"放逐术"等法术可将人随机送往各位面。要决定该人物被丢去哪里，请依"表5-7：随机位面目的地"掷骰决定。</p>
 
-<table class="class-table">
+<table>
 <tr><th colspan="2">表5-7：随机位面目的地</th></tr>
 <tr><th>百分骰</th><th>位面</th></tr>
 <tr><td>01-05</td><td>英雄领地之约瑟园</td></tr>

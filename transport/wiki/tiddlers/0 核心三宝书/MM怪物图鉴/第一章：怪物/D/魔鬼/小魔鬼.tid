@@ -4,40 +4,40 @@ source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/D/魔鬼/小魔鬼.h
 type: text/vnd.tiddlywiki
 
 <!-- 小魔鬼 (Imp) -->
-<div class="monster-section">
-<div class="container">
-    <h1>小魔鬼 (Imp)</h1><div class="mm1-monster-art" data-mm1-image="棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下)" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下).jpg]]</div>
+<div>
+<div>
+    <h1>小魔鬼 (Imp)</h1><div data-mm1-image="棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下)">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下).jpg]]</div>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-2">小魔鬼 (Imp)<br><span style="font-weight:normal;font-size:13px;">超小型异界生物(邪恶、外界、守序)</span></th>
+                    <th>资料栏位</th>
+                    <th>小魔鬼 (Imp)<br><span>超小型异界生物(邪恶、外界、守序)</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td>3d8(13HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td>+3</td></tr>
-                <tr><td class="col-1">速度</td><td>20英尺(4格)、飞行50英尺(灵活)</td></tr>
-                <tr><td class="col-1">防御等级</td><td>20(+2体型、+3敏捷、+5天生)、接触15、措手不及17</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+3 / -5</td></tr>
-                <tr><td class="col-1">攻击</td><td>螫刺+8近战(1d4附加毒素)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td>螫刺+8近战(1d4附加毒素)</td></tr>
-                <tr><td class="col-1">占据/触及</td><td>2.5英尺 / 0英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td>毒素、类法术能力</td></tr>
-                <tr><td class="col-1">特殊能力</td><td>化形、伤害减免5/善良或银、黑暗视觉60英尺、快速医疗2、对毒素免疫、火焰抗力5</td></tr>
-                <tr><td class="col-1">豁免</td><td>强韧+3、反射+6、意志+4</td></tr>
-                <tr><td class="col-1">属性</td><td>力量10、敏捷17、体质10、智力10、感知12、魅力14</td></tr>
-                <tr><td class="col-1">技能</td><td>交涉+8、躲藏+17、任一知识+6、聆听+7、潜行+6、搜索+6、法术辨识+6、侦察+7、生存+1(追踪+3)</td></tr>
-                <tr><td class="col-1">专长</td><td>闪避、武器娴熟</td></tr>
-                <tr><td class="col-1">环境</td><td>巴托九狱</td></tr>
-                <tr><td class="col-1">组织</td><td>单独</td></tr>
-                <tr><td class="col-1">挑战级数</td><td>2</td></tr>
-                <tr><td class="col-1">宝藏</td><td>无</td></tr>
-                <tr><td class="col-1">阵营</td><td>总是守序邪恶</td></tr>
-                <tr><td class="col-1">进化</td><td>4-6HD(超小型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td>—(精通魔宠)</td></tr>
+                <tr><td>生命骰</td><td>3d8(13HP)</td></tr>
+                <tr><td>先攻</td><td>+3</td></tr>
+                <tr><td>速度</td><td>20英尺(4格)、飞行50英尺(灵活)</td></tr>
+                <tr><td>防御等级</td><td>20(+2体型、+3敏捷、+5天生)、接触15、措手不及17</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+3 / -5</td></tr>
+                <tr><td>攻击</td><td>螫刺+8近战(1d4附加毒素)</td></tr>
+                <tr><td>全力攻击</td><td>螫刺+8近战(1d4附加毒素)</td></tr>
+                <tr><td>占据/触及</td><td>2.5英尺 / 0英尺</td></tr>
+                <tr><td>特殊攻击</td><td>毒素、类法术能力</td></tr>
+                <tr><td>特殊能力</td><td>化形、伤害减免5/善良或银、黑暗视觉60英尺、快速医疗2、对毒素免疫、火焰抗力5</td></tr>
+                <tr><td>豁免</td><td>强韧+3、反射+6、意志+4</td></tr>
+                <tr><td>属性</td><td>力量10、敏捷17、体质10、智力10、感知12、魅力14</td></tr>
+                <tr><td>技能</td><td>交涉+8、躲藏+17、任一知识+6、聆听+7、潜行+6、搜索+6、法术辨识+6、侦察+7、生存+1(追踪+3)</td></tr>
+                <tr><td>专长</td><td>闪避、武器娴熟</td></tr>
+                <tr><td>环境</td><td>巴托九狱</td></tr>
+                <tr><td>组织</td><td>单独</td></tr>
+                <tr><td>挑战级数</td><td>2</td></tr>
+                <tr><td>宝藏</td><td>无</td></tr>
+                <tr><td>阵营</td><td>总是守序邪恶</td></tr>
+                <tr><td>进化</td><td>4-6HD(超小型)</td></tr>
+                <tr><td>等级修正值</td><td>—(精通魔宠)</td></tr>
             </tbody>
         </table>
     </div>
@@ -46,20 +46,20 @@ type: text/vnd.tiddlywiki
 
     <p>小魔鬼是阴险的魔鬼。通常以顾问或间谍身份服侍守序邪恶的施法者。天生形态下，小魔鬼接近2英尺高，约8磅重。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>小魔鬼生性怯懦，但还不到放弃以隐形与变形能力伏击对手机会的地步。天生形态下，小魔鬼以尾巴螫刺攻击。若对手欲进行有效反击，则小魔鬼会迅速飞离。</p>
 
     <p>在计算伤害减免时，小魔鬼的天生武器与持有武器都视为邪恶阵营与守序阵营。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>毒素(特异)：</b>每次造成伤害后，小魔鬼就会注入毒素(强韧检定的DC=13)。初始伤害为1d4点敏捷伤害，后续伤害为2d4点敏捷伤害。豁免DC的调整值与体质调整值相同，包含+2种族加值。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>类法术能力：</b>随意施展——"侦测善良"、"侦测魔法"、"隐形"(只对自身有效)；每天1次——"暗示"(DC=15)。施法者等级6。豁免DC的调整值与魅力调整值相同。每周1次，小魔鬼可施展"通神"询问六个问题，效果与同名法术相同(施法者等级12)。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>化形(超自然)：</b>小魔鬼可以用标准动作任意变成其他形态。每个小魔鬼只能变形成一或两个形态，体型最多为中型。一般变形形态包括小型或中型变种蜘蛛、渡鸦、鼠、野猪。</p>
     </div>
 

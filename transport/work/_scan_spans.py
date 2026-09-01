@@ -8,6 +8,7 @@
 用法：
     python _scan_spans.py
 """
+import _paths as P
 import collections
 import os
 import re
@@ -15,7 +16,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-BASE = r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\DMG城主指南\所有DMG表格"
+BASE = P.DMG_TABLES
 
 # 文件名格式 表X-X（X 为一位或多位数字），如 表2-1、表3-25
 NAME_RE = re.compile(r"^表\d+-\d+")

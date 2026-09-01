@@ -13,6 +13,7 @@
 - 父节点自身内容保留开头；子节点标题 h1->h2 降级；<p>&nbsp;</p> 分隔；闭标签随开标签降级
 - 不合并：目录下非 hhc 子节点的文件（平级节点）
 """
+import _paths as P
 import csv
 import os
 import re
@@ -27,7 +28,7 @@ if len(sys.argv) < 4:
 DIR = sys.argv[1]
 PARENT_ANCESTOR = sys.argv[2]
 PARENT_TID = sys.argv[3]
-HHC_CSV = r"E:\dnd3r_full\transport\work\hhc_mapping.csv"
+HHC_CSV = os.path.join(P.WORK, "hhc_mapping.csv")
 
 
 def read_body(path):

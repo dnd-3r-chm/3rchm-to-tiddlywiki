@@ -1,0 +1,62 @@
+title: 掘地虫 (MM-怪物图鉴)
+tags: [[0 核心三宝书]] [[MM怪物图鉴]]
+source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/A/掘地虫.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <h1>掘地虫 (Ankheg)</h1><div class="mm1-monster-art" data-mm1-image="掘地虫" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/掘地虫.jpg]]</div>
+
+    <p>伴随一阵尘土，从地底冒出巨大而多节的虫。虫脚细长，末端连接了锐利的爪，坚硬的棕色角质壳覆盖全身，有力下颚上方的黑眼闪闪发光地向外瞪视着。</p>
+
+    <p>掘地虫是遁地怪物，嗜食鲜肉。掘地虫有六只脚，某些品种为黄色，而非棕色。掘地虫约10英尺长，800磅重。掘地虫用脚和爪钻洞。遁地时，掘地虫可使用正常速度的一半移动，但此状况下钻出的通道无法重复使用。掘地虫通常以上述方式移动。除此之外，掘地虫也有能力构筑可重复使用的通道。他们会在森林或农地的肥沃土壤下方构筑弯曲通道，最深可达40英尺。通道高度和宽度均约5英尺，长度60英尺至150英尺不等 ([1d10+5]x10)。通道通往掘地虫睡眠、进食、蛰伏的暂时巢穴。</p>
+
+    <p>掘地虫偏好鲜肉，但也吃腐坏的有机物。饿坏的掘地虫可能攻击农夫，但这些生物构筑的通道可帮助土壤通风排水，其排泄物也可充当肥料，对农地相当有益。</p>
+
+    <div class="table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th class="col-1">资料栏位</th>
+                    <th class="col-2">掘地虫 (Ankheg)<br><span style="font-weight:normal;font-size:13px;">大型魔法兽</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td class="col-1">生命骰</td><td>3d10+12 (28HP)</td></tr>
+                <tr><td class="col-1">先攻</td><td>+0</td></tr>
+                <tr><td class="col-1">速度</td><td>30英尺 (6格)、遁地20英尺</td></tr>
+                <tr><td class="col-1">防御等级</td><td>18 (-1体型、+9天生)、接触9、措手不及18</td></tr>
+                <tr><td class="col-1">基本攻击/擒抱</td><td>+3 / +12</td></tr>
+                <tr><td class="col-1">攻击</td><td>啮咬+7近战 (2d6+7附加1d4强酸)</td></tr>
+                <tr><td class="col-1">全力攻击</td><td>啮咬+7近战 (2d6+7附加1d4强酸)</td></tr>
+                <tr><td class="col-1">占用/触及</td><td>10英尺 / 5英尺</td></tr>
+                <tr><td class="col-1">特殊攻击</td><td>精通擒抱、吐酸</td></tr>
+                <tr><td class="col-1">特殊能力</td><td>黑暗视觉60英尺、昏暗视觉、颤动感知60英尺</td></tr>
+                <tr><td class="col-1">豁免</td><td>强韧+6、反射+3、意志+2</td></tr>
+                <tr><td class="col-1">属性</td><td>力量21、敏捷10、体质17、智力1、感知13、魅力6</td></tr>
+                <tr><td class="col-1">技能</td><td>攀爬+8、聆听+6、侦察+3</td></tr>
+                <tr><td class="col-1">专长</td><td>警觉、健壮</td></tr>
+                <tr><td class="col-1">环境</td><td>热带平原</td></tr>
+                <tr><td class="col-1">组织</td><td>单独或聚集 (2-4)</td></tr>
+                <tr><td class="col-1">挑战级数</td><td>3</td></tr>
+                <tr><td class="col-1">宝藏</td><td>无</td></tr>
+                <tr><td class="col-1">阵营</td><td>总是绝对中立</td></tr>
+                <tr><td class="col-1">进化</td><td>4HD (大型) ; 5-9HD (超大型)</td></tr>
+                <tr><td class="col-1">等级修正值</td><td>—</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <span class="title-bold">战斗</span>
+    <p>掘地虫通常蛰伏于地面下方5至10英尺处，以触毛侦测猎物。一旦发现，他们就钻出地面攻击(视为冲刺，然而掘地虫无须先移动10英尺才能攻击)。</p>
+    <p>聚集的掘地虫分享领地，但不互相合作。多只掘地虫攻击时，会各自擒抱不同的目标。若目标数量不够，掘地虫会争抢拉扯同一目标。</p>
+
+    <div class="ability-box">
+        <p><b>精通擒抱(特异)：</b>当掘地虫啮咬到对手时，即可利用即时动作进行啮咬攻击(视为擒抱)，且不会引发对方借机攻击。如果啮咬后受到伤害，则掘地虫会以行走速度(而非遁地速度)退回洞穴，并将猎物一并拖回。</p>
+    </div>
+
+    <div class="ability-box">
+        <p><b>吐酸(特异)：</b>掘地虫每6小时可以喷出一道30英尺长直线状的酸液。任何被喷到的生物将遭受4d4点强酸伤害，通过反射检定(DC=14)则伤害减半。这招绝技将消耗掉掘地虫6小时的酸液存量，使它在这段期间内无法再吐酸。豁免DC的调整值与体质调整值相同。</p>
+        <p style="margin-top:8px;">除非感到绝望或挫折，否则掘地虫不会使用这项能力。他们常在生命值降到一半以下或啮咬对手失败时选择吐酸。</p>
+    </div>
+
+</div>

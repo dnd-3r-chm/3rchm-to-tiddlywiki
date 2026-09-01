@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Build final migration mapping with unique Tiddler titles and tags."""
+import _paths as P
 import collections
 import csv
 import os
@@ -9,7 +10,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
+ROOT = P.ROOT
 HHC_CSV = os.path.join(ROOT, "transport", "work", "hhc_mapping.csv")
 OUT_CSV = os.path.join(ROOT, "transport", "work", "final_mapping.csv")
 

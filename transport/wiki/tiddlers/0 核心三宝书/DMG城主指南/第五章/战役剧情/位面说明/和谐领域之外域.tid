@@ -16,7 +16,7 @@ type: text/vnd.tiddlywiki
 </ul>
 <p>离尖峰愈远，魔法运作愈正常。离基石约1100英里处，即开始具有"妨碍魔法"效果，9级法术会失效，除非施法者通过"辨识法术"技能检定(DC=35)。离尖峰愈近，低等级的法术就会愈受到妨碍，依下表所列：</p>
 
-<table class="class-table">
+<table>
 <tr><th>离尖顶距离</th><th>妨碍魔法</th><th>限制魔法</th><th>其他效果</th></tr>
 <tr><td>超过1100英里</td><td>无</td><td>无</td><td>无</td></tr>
 <tr><td>1100英里</td><td>9级</td><td>无</td><td>无</td></tr>
@@ -34,7 +34,7 @@ type: text/vnd.tiddlywiki
 <p>离位面中心900英里之处会开始产生"限制魔法"效果，使9级法术与类法术能力失效。愈接近中心，愈多能力无法使用，最后连神祇能力都受到影响。特异能力不受影响。</p>
 
 <h2>深渊型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-10</td><td>1个六臂蛇魔</td><td>17</td></tr>
 <tr><td>11-25</td><td>深渊高等石化蜥蜴</td><td>15</td></tr>
@@ -46,7 +46,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>地狱型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-20</td><td>1个角魔</td><td>16</td></tr>
 <tr><td>21-45</td><td>恶魔队：1个冰魔、1d3个骨魔与2d4+3个倒魔</td><td>15</td></tr>
@@ -58,7 +58,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>天堂型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-25</td><td>1d3个星界使徒(天使)</td><td>16</td></tr>
 <tr><td>26-45</td><td>1个异界神侍(天使)</td><td>16</td></tr>
@@ -71,7 +71,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>福地型遭遇(EL15)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-15</td><td>1d3个星界使徒(天使)</td><td>16</td></tr>
 <tr><td>16-30</td><td>1个异界神侍</td><td>16</td></tr>

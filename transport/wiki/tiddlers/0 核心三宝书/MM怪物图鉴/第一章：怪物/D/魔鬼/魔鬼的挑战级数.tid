@@ -3,28 +3,28 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/D/魔鬼/魔鬼的挑战级数.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>魔鬼的挑战级数</h1>
     <p>接下来几页的魔鬼速览：</p>
 
-    <div class="two-col-layout">
+    <div>
         <!-- 左栏 -->
-        <div class="col">
-            <div class="cr-item"><span class="cr-label">CR1</span><span class="cr-name">劣魔</span>成群攻击，无心智的受苦生物。</div>
-            <div class="cr-item"><span class="cr-label">CR2</span><span class="cr-name">小魔鬼</span>以暗黑建议与诡计协助邪恶凡人的聪明生物。</div>
-            <div class="cr-item"><span class="cr-label">CR5</span><span class="cr-name">骨魔</span>巴霸魔。以锯齿大砍刀狂乱攻击的凶猛战士。</div>
-            <div class="cr-item"><span class="cr-label">CR6</span><span class="cr-name">炼魔</span>坎协魔。嗜杀折磨成性，挥舞着炼狱锁链发号施令。</div>
+        <div>
+            <div><span>CR1</span><span>劣魔</span>成群攻击，无心智的受苦生物。</div>
+            <div><span>CR2</span><span>小魔鬼</span>以暗黑建议与诡计协助邪恶凡人的聪明生物。</div>
+            <div><span>CR5</span><span>骨魔</span>巴霸魔。以锯齿大砍刀狂乱攻击的凶猛战士。</div>
+            <div><span>CR6</span><span>炼魔</span>坎协魔。嗜杀折磨成性，挥舞着炼狱锁链发号施令。</div>
         </div>
 
         <!-- 右栏 -->
-        <div class="col">
-            <div class="cr-item"><span class="cr-label">CR7</span><span class="cr-name">地狱猫</span>彼吉拉魔。似猫的隐形地狱魔鬼，与虎差不多大。</div>
-            <div class="cr-item"><span class="cr-label">CR8</span><span class="cr-name">欲魔</span>以炽焰弓条生送亡的堕落天使。</div>
-            <div class="cr-item"><span class="cr-label">CR9</span><span class="cr-name">骨魔</span>奥塞魔。拥有危险螫刺，心怀憎恨的魔族。</div>
-            <div class="cr-item"><span class="cr-label">CR11</span><span class="cr-name">棘魔</span>哈玛魔。炼狱精英战士，拥有尖刺。</div>
-            <div class="cr-item"><span class="cr-label">CR13</span><span class="cr-name">冰魔</span>奇鲁魔。拥有致死寒冷攻击的似虫恐怖生物。</div>
-            <div class="cr-item"><span class="cr-label">CR16</span><span class="cr-name">角魔</span>恐纳魔。装备刺链，似石像鬼的魔族。</div>
-            <div class="cr-item"><span class="cr-label">CR20</span><span class="cr-name">深狱炼魔</span>魔鬼之王，拥有致命的强大力量。</div>
+        <div>
+            <div><span>CR7</span><span>地狱猫</span>彼吉拉魔。似猫的隐形地狱魔鬼，与虎差不多大。</div>
+            <div><span>CR8</span><span>欲魔</span>以炽焰弓条生送亡的堕落天使。</div>
+            <div><span>CR9</span><span>骨魔</span>奥塞魔。拥有危险螫刺，心怀憎恨的魔族。</div>
+            <div><span>CR11</span><span>棘魔</span>哈玛魔。炼狱精英战士，拥有尖刺。</div>
+            <div><span>CR13</span><span>冰魔</span>奇鲁魔。拥有致死寒冷攻击的似虫恐怖生物。</div>
+            <div><span>CR16</span><span>角魔</span>恐纳魔。装备刺链，似石像鬼的魔族。</div>
+            <div><span>CR20</span><span>深狱炼魔</span>魔鬼之王，拥有致命的强大力量。</div>
         </div>
     </div>
 

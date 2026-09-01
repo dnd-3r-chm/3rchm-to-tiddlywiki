@@ -5,7 +5,7 @@ type: text/vnd.tiddlywiki
 
 <div>
     <h2>表2-2：武器大小增加的伤害值</h2>
-    <div class="sub">该武器比中型大的级距</div>
+    <div>该武器比中型大的级距</div>
     <table>
         <thead>
             <tr>

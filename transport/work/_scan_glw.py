@@ -4,6 +4,7 @@
 只统计正文（跳过 .tid 头部字段），按书籍分类汇总，
 并列出每种 class 出现在哪些标签上（tr/td/div/span...）。
 """
+import _paths as P
 import collections
 import os
 import re
@@ -11,7 +12,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI = r"E:\dnd3r_full\transport\wiki\tiddlers"
+WIKI = P.WIKI_TIDDLERS
 
 # 精确匹配 class 属性值中恰好为 g / l / w（单值），以及多值中的 g/l/w
 CLASS_RE = re.compile(r'class\s*=\s*"([^"]*)"', re.I)

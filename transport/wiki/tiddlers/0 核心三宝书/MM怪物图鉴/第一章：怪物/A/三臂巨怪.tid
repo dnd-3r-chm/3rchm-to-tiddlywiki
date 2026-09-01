@@ -3,39 +3,39 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/A/三臂巨怪.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
-    <h1>三臂巨怪 (Athach)</h1><div class="mm1-monster-art" data-mm1-image="三臂巨怪" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/三臂巨怪.jpg]]</div>
+<div>
+    <h1>三臂巨怪 (Athach)</h1><div data-mm1-image="三臂巨怪">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/三臂巨怪.jpg]]</div>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-2">三臂巨怪 (Athach)<br><span style="font-weight:normal;font-size:13px;">超大型异怪</span></th>
+                    <th>资料栏位</th>
+                    <th>三臂巨怪 (Athach)<br><span>超大型异怪</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td>14d8+70 (133HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td>+1</td></tr>
-                <tr><td class="col-1">速度</td><td>穿着生皮甲时35英尺；基本速度50英尺</td></tr>
-                <tr><td class="col-1">防御等级</td><td>20 (-2体型、+1敏捷、+3生皮甲、+8天生)、接触9、措手不及19</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+10 / +26</td></tr>
-                <tr><td class="col-1">攻击</td><td>钉头锤+16近战 (3d6+8)；或石块+9远程 (2d6+8)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td>钉头锤+12 / +7近战 (3d6+8) 及 2钉头锤+12近战 (3d6+4) 及 啮咬+12近战 (2d8+4附加毒素)；或石块+5远程 (2d6+8) 及 2石块+5远程 (2d6+4)</td></tr>
-                <tr><td class="col-1">占用/触及</td><td>15英尺/15英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td>毒素</td></tr>
-                <tr><td class="col-1">特殊能力</td><td>黑暗视觉60英尺</td></tr>
-                <tr><td class="col-1">豁免</td><td>强韧+9、反射+5、意志+10</td></tr>
-                <tr><td class="col-1">属性</td><td>力量26、敏捷13、体质21、智力7、感知12、魅力6</td></tr>
-                <tr><td class="col-1">技能</td><td>攀爬+9、跳跃+18、聆听+7、侦察+7</td></tr>
-                <tr><td class="col-1">专长</td><td>警觉、顺势斩、多武器攻击、猛力攻击、专攻武器 (啮咬)</td></tr>
-                <tr><td class="col-1">环境</td><td>温带丘陵</td></tr>
-                <tr><td class="col-1">组织</td><td>单独、成队 (2-4)、一族 (7-12)</td></tr>
-                <tr><td class="col-1">挑战级数</td><td>8</td></tr>
-                <tr><td class="col-1">宝藏</td><td>二分之一钱币、双倍宝物、标准物品</td></tr>
-                <tr><td class="col-1">阵营</td><td>偏向混乱邪恶</td></tr>
-                <tr><td class="col-1">进化</td><td>15-28HD (超大型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td>+5</td></tr>
+                <tr><td>生命骰</td><td>14d8+70 (133HP)</td></tr>
+                <tr><td>先攻</td><td>+1</td></tr>
+                <tr><td>速度</td><td>穿着生皮甲时35英尺；基本速度50英尺</td></tr>
+                <tr><td>防御等级</td><td>20 (-2体型、+1敏捷、+3生皮甲、+8天生)、接触9、措手不及19</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+10 / +26</td></tr>
+                <tr><td>攻击</td><td>钉头锤+16近战 (3d6+8)；或石块+9远程 (2d6+8)</td></tr>
+                <tr><td>全力攻击</td><td>钉头锤+12 / +7近战 (3d6+8) 及 2钉头锤+12近战 (3d6+4) 及 啮咬+12近战 (2d8+4附加毒素)；或石块+5远程 (2d6+8) 及 2石块+5远程 (2d6+4)</td></tr>
+                <tr><td>占用/触及</td><td>15英尺/15英尺</td></tr>
+                <tr><td>特殊攻击</td><td>毒素</td></tr>
+                <tr><td>特殊能力</td><td>黑暗视觉60英尺</td></tr>
+                <tr><td>豁免</td><td>强韧+9、反射+5、意志+10</td></tr>
+                <tr><td>属性</td><td>力量26、敏捷13、体质21、智力7、感知12、魅力6</td></tr>
+                <tr><td>技能</td><td>攀爬+9、跳跃+18、聆听+7、侦察+7</td></tr>
+                <tr><td>专长</td><td>警觉、顺势斩、多武器攻击、猛力攻击、专攻武器 (啮咬)</td></tr>
+                <tr><td>环境</td><td>温带丘陵</td></tr>
+                <tr><td>组织</td><td>单独、成队 (2-4)、一族 (7-12)</td></tr>
+                <tr><td>挑战级数</td><td>8</td></tr>
+                <tr><td>宝藏</td><td>二分之一钱币、双倍宝物、标准物品</td></tr>
+                <tr><td>阵营</td><td>偏向混乱邪恶</td></tr>
+                <tr><td>进化</td><td>15-28HD (超大型)</td></tr>
+                <tr><td>等级修正值</td><td>+5</td></tr>
             </tbody>
         </table>
     </div>
@@ -48,12 +48,12 @@ type: text/vnd.tiddlywiki
 
     <p>三臂巨怪通晓一种巨人语的粗糙方言。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>除非对手距离太远，否则三臂巨怪会立刻冲入近战。若真的太远，他们便投掷石块攻击。三臂巨怪偶尔尝试闯越前排的重装敌人以攻击后排的轻装敌人。</p>
 
     <p>一旦进入近战，三臂巨怪倾向先进行无差别攻击，数轮后，再集中攻击命中自己最多次的敌人，并以啮咬伺候对自己造成最多伤害的敌人。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>毒素(特异)：</b>每次造成伤害后，三臂巨怪就会注入毒素(强韧检定的DC=22)。初始伤害为1d6点力量伤害，后续伤害为2d6点力量伤害。豁免DC的调整值与体质调整值相同。</p>
     </div>
 

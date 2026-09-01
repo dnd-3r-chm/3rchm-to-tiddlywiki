@@ -9,9 +9,9 @@ type: text/vnd.tiddlywiki
 
 <p>自我意识是用来衡量物品人格的强度和力量。决定完物品所有性质后，才开始计算自我意识值，接下来才能决定在物品和人物的关系中，是哪一方获得主导权，详见后文。</p>
 
-<div class="table-title">物品自我意识</div>
+<div>物品自我意识</div>
 <table>
-    <colgroup><col style="width:70%;"><col style="width:30%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>物品特质</th>
         <th>自我意识值</th>
@@ -30,7 +30,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <p><b>举例而言：</b></p>
-<div class="example-block">
+<div>
     <ul>
         <li>一把智力值10、感知值12(自我意识值1点)、魅力值12(自我意识值1点)，加上次级能力"侦测魔法"(自我意识值1点)的+2短剑(自我意识值2点)，自我意识总值为5点。</li>
     </ul>

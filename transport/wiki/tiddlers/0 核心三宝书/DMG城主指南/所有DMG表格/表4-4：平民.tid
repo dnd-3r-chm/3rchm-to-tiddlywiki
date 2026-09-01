@@ -3,18 +3,18 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-4：平民.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>表4-4：平民</div>
-    <div class="sub-title">生命骰：d4</div>
+    <div>生命骰：d4</div>
 
     <table>
         <thead>
             <tr>
-                <th style="width:15%">NPC等级</th>
-                <th style="width:25%">基本攻击加值</th>
-                <th style="width:20%">强韧检定</th>
-                <th style="width:20%">反射检定</th>
-                <th style="width:20%">意志检定</th>
+                <th>NPC等级</th>
+                <th>基本攻击加值</th>
+                <th>强韧检定</th>
+                <th>反射检定</th>
+                <th>意志检定</th>
             </tr>
         </thead>
         <tbody>

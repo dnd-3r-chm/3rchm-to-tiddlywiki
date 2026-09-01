@@ -5,6 +5,7 @@
 - 内容链接目标：[[显示|旧目标]] -> [[显示|新目标]]、[[旧目标]] -> [[新目标]]（显示名不变）
 - 跳过 $__ 系统文件与 总目录.tid/CHM目录侧边栏.tid（重跑 generate_toc.py 覆盖）
 """
+import _paths as P
 import csv
 import os
 import re
@@ -12,9 +13,9 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI = r"E:\dnd3r_full\transport\wiki\tiddlers"
-OLD_CSV = r"E:\dnd3r_full\transport\work\final_mapping.csv.old-title-format"
-NEW_CSV = r"E:\dnd3r_full\transport\work\final_mapping.csv"
+WIKI = P.WIKI_TIDDLERS
+OLD_CSV = os.path.join(P.WORK, "final_mapping.csv.old-title-format")
+NEW_CSV = os.path.join(P.WORK, "final_mapping.csv")
 
 
 def load(path):

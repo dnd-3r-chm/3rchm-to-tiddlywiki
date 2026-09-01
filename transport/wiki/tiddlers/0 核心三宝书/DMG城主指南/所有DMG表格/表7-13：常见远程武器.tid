@@ -30,7 +30,7 @@ type: text/vnd.tiddlywiki
 <tr><td>91-95</td><td>强力复合长弓(+3力量加值)</td><td>+700金币</td></tr>
 <tr><td>96-100</td><td>强力复合长弓(+4力量加值)</td><td>+800金币</td></tr>
 </table>
-<div class="notes">
+<div>
     <p>所有魔法武器都是精制武器。</p>
     <p>(注一)加上表7-9：武器的价格以决定交易价格。</p>
 </div>

@@ -3,10 +3,10 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/D/魔鬼/劣魔.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
-<h1>劣魔 (Lemure)</h1><div class="mm1-monster-art" data-mm1-image="棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下)" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下).jpg]]</div>
+<div>
+<h1>劣魔 (Lemure)</h1><div data-mm1-image="棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下)">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/棘魔(左)骨魔(中)小恶魔(右上)劣魔(右下).jpg]]</div>
 
-<dl class="data-list">
+<dl>
   <dt>资料栏位</dt>
   <dd>劣魔 (Lemure)<br><small>中型异界生物(巴特、邪恶、外界、守序)</small></dd>
   <dt>生命骰</dt><dd>2d8(9HP)</dd>
@@ -38,7 +38,7 @@ type: text/vnd.tiddlywiki
 <p>劣魔渴望对造就自己的宇宙复仇。遇到任何事物均成群一涌而上，以爪子破坏。只有其他魔鬼的心灵感应命令或劣魔自身完全毁灭可以停止他们。</p>
 <p>在计算伤害减免时，劣魔的天生武器与持有武器都视为邪恶阵营与守序阵营。</p>
 
-<div class="ability">
+<div>
 <p><b>无心智(特异)：</b>对影响心灵的效果免疫(魅惑、胁迫、魅影幻觉、心灵幻觉与士气效果)。</p>
 </div>
 

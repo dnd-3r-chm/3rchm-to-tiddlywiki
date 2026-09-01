@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
+import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-TOC = r"E:\dnd3r_full\transport\wiki\tiddlers\总目录.tid"
+TOC = os.path.join(P.WIKI_TIDDLERS, "总目录.tid")
 with open(TOC, encoding="utf-8") as f:
     text = f.read()
 

@@ -3,89 +3,89 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-19：挑战级数为1至3的陷阱.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
 
     <div>表3-19：挑战级数为1至3的陷阱</div>
 
     <table>
 
-        <thead><tr><th style="width:22%">百分骰</th><th style="width:58%">陷阱</th><th style="width:20%">CR</th></tr></thead>
+        <thead><tr><th>百分骰</th><th>陷阱</th><th>CR</th></tr></thead>
 
         <tbody>
 
-            <tr><td class="dice">01–03</td><td class="trap">基本弓箭陷阱</td><td class="cr">1</td></tr>
+            <tr><td>01–03</td><td>基本弓箭陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">04–06</td><td class="trap">掩藏陷坑陷阱</td><td class="cr">1</td></tr>
+            <tr><td>04–06</td><td>掩藏陷坑陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">07–09</td><td class="trap">深陷坑陷阱</td><td class="cr">1</td></tr>
+            <tr><td>07–09</td><td>深陷坑陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">10–11</td><td class="trap">抹毒门把陷阱</td><td class="cr">1</td></tr>
+            <tr><td>10–11</td><td>抹毒门把陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">12–14</td><td class="trap">百镖齐发陷阱</td><td class="cr">1</td></tr>
+            <tr><td>12–14</td><td>百镖齐发陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">15–16</td><td class="trap">毒镖陷阱</td><td class="cr">1</td></tr>
+            <tr><td>15–16</td><td>毒镖陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">17–19</td><td class="trap">毒针陷阱</td><td class="cr">1</td></tr>
+            <tr><td>17–19</td><td>毒针陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">20–22</td><td class="trap">闸门陷阱</td><td class="cr">1</td></tr>
+            <tr><td>20–22</td><td>闸门陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">23–24</td><td class="trap">刺丝通道陷阱</td><td class="cr">1</td></tr>
+            <tr><td>23–24</td><td>刺丝通道陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">25–27</td><td class="trap">滚石陷阱</td><td class="cr">1</td></tr>
+            <tr><td>25–27</td><td>滚石陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">28–30</td><td class="trap">镰刀陷阱</td><td class="cr">1</td></tr>
+            <tr><td>28–30</td><td>镰刀陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">31–33</td><td class="trap">长矛陷阱</td><td class="cr">1</td></tr>
+            <tr><td>31–33</td><td>长矛陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">34–35</td><td class="trap">吊石横扫陷阱</td><td class="cr">1</td></tr>
+            <tr><td>34–35</td><td>吊石横扫陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">36–38</td><td class="trap">墙刃陷阱</td><td class="cr">1</td></tr>
+            <tr><td>36–38</td><td>墙刃陷阱</td><td>1</td></tr>
 
-            <tr><td class="dice">39–41</td><td class="trap">棕霉菌盒陷阱</td><td class="cr">2</td></tr>
+            <tr><td>39–41</td><td>棕霉菌盒陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">42–44</td><td class="trap">屋顶崩砖陷阱</td><td class="cr">2</td></tr>
+            <tr><td>42–44</td><td>屋顶崩砖陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">45–47</td><td class="trap">"燃烧之手"陷阱</td><td class="cr">2</td></tr>
+            <tr><td>45–47</td><td>"燃烧之手"陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">48–50</td><td class="trap">掩藏陷坑陷阱</td><td class="cr">2</td></tr>
+            <tr><td>48–50</td><td>掩藏陷坑陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">51–53</td><td class="trap">"造成轻伤"陷阱</td><td class="cr">2</td></tr>
+            <tr><td>51–53</td><td>"造成轻伤"陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">54–56</td><td class="trap">标枪陷阱</td><td class="cr">2</td></tr>
+            <tr><td>54–56</td><td>标枪陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">57–58</td><td class="trap">巨网陷阱</td><td class="cr">2</td></tr>
+            <tr><td>57–58</td><td>巨网陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">59–61</td><td class="trap">陷坑陷阱</td><td class="cr">2</td></tr>
+            <tr><td>59–61</td><td>陷坑陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">62–64</td><td class="trap">毒针陷阱</td><td class="cr">2</td></tr>
+            <tr><td>62–64</td><td>毒针陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">65–67</td><td class="trap">尖刺陷坑陷阱</td><td class="cr">2</td></tr>
+            <tr><td>65–67</td><td>尖刺陷坑陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">68–69</td><td class="trap">绊摔刺链陷阱</td><td class="cr">2</td></tr>
+            <tr><td>68–69</td><td>绊摔刺链陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">70–72</td><td class="trap">良好掩藏陷坑陷阱</td><td class="cr">2</td></tr>
+            <tr><td>70–72</td><td>良好掩藏陷坑陷阱</td><td>2</td></tr>
 
-            <tr><td class="dice">73–75</td><td class="trap">"燃烧之手"陷阱</td><td class="cr">3</td></tr>
+            <tr><td>73–75</td><td>"燃烧之手"陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">76–78</td><td class="trap">掩藏陷坑陷阱</td><td class="cr">3</td></tr>
+            <tr><td>76–78</td><td>掩藏陷坑陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">79–80</td><td class="trap">摆荡巨斧陷阱</td><td class="cr">3</td></tr>
+            <tr><td>79–80</td><td>摆荡巨斧陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">81–83</td><td class="trap">"火焰陷阱"</td><td class="cr">3</td></tr>
+            <tr><td>81–83</td><td>"火焰陷阱"</td><td>3</td></tr>
 
-            <tr><td class="dice">84–85</td><td class="trap">延时"绝望术"陷阱</td><td class="cr">3</td></tr>
+            <tr><td>84–85</td><td>延时"绝望术"陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">86–87</td><td class="trap">"食尸鬼之触"陷阱</td><td class="cr">3</td></tr>
+            <tr><td>86–87</td><td>"食尸鬼之触"陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">88–90</td><td class="trap">针雨陷阱</td><td class="cr">3</td></tr>
+            <tr><td>88–90</td><td>针雨陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">91–92</td><td class="trap">"马友夫强酸箭"陷阱</td><td class="cr">3</td></tr>
+            <tr><td>91–92</td><td>"马友夫强酸箭"陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">93–95</td><td class="trap">陷坑陷阱</td><td class="cr">3</td></tr>
+            <tr><td>93–95</td><td>陷坑陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">96–98</td><td class="trap">尖刺陷坑陷阱</td><td class="cr">3</td></tr>
+            <tr><td>96–98</td><td>尖刺陷坑陷阱</td><td>3</td></tr>
 
-            <tr><td class="dice">99–100</td><td class="trap">屋顶崩石陷阱</td><td class="cr">3</td></tr>
+            <tr><td>99–100</td><td>屋顶崩石陷阱</td><td>3</td></tr>
 
         </tbody>
 

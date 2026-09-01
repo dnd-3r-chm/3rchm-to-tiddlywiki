@@ -1,0 +1,24 @@
+title: 15级地下城事件遭遇 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/15级地下城事件遭遇.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>15级地下城事件遭遇</div>
+    <table>
+        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <tbody>
+            <tr><td class="dice">01–10</td><td class="desc">掷14级事件遭遇表</td></tr>
+            <tr><td class="dice">11–17</td><td class="desc">1个深渊高等石化蜥蜴</td></tr>
+            <tr><td class="dice">18–26</td><td class="desc">1d3个眼魔</td></tr>
+            <tr><td class="dice">27–37</td><td class="desc">魔鬼行列：1个迷魂魔，1个魅魔，1d4+1个弗洛魔</td></tr>
+            <tr><td class="dice">38–48</td><td class="desc">恶魔行列：1个冰魔，2d4+3个弩魔，1d3个骨魔</td></tr>
+            <tr><td class="dice">49–58</td><td class="desc">1d3个迦勒天使(爱兹天族)</td></tr>
+            <tr><td class="dice">59–65</td><td class="desc">1个猎偷生使(猎罪使)</td></tr>
+            <tr><td class="dice">66–74</td><td class="desc">1个精英吸血鬼</td></tr>
+            <tr><td class="dice">75–82</td><td class="desc">15级大地精战士NPC</td></tr>
+            <tr><td class="dice">83–90</td><td class="desc">15级狗头人术士NPC</td></tr>
+            <tr><td class="dice">91–100</td><td class="desc">掷16级事件遭遇表</td></tr>
+        </tbody>
+    </table>
+</div>

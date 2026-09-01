@@ -1,0 +1,33 @@
+title: 表2-3：武器大小减少的伤害值 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表2-3：武器大小减少的伤害值.htm
+type: text/vnd.tiddlywiki
+
+<div>
+    <h2>表2-3：武器大小减少的伤害值</h2>
+    <div class="sub">该武器比中型小的级距</div>
+    <table>
+        <thead>
+            <tr>
+                <th>中型伤害</th>
+                <th>一级</th>
+                <th>二级</th>
+                <th>三级</th>
+                <th>四级</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>1d2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td>1d3</td><td>1d2</td><td>1</td><td>—</td><td>—</td></tr>
+            <tr><td>1d4</td><td>1d3</td><td>1d2</td><td>1</td><td>—</td></tr>
+            <tr><td>1d6</td><td>1d4</td><td>1d3</td><td>1d2</td><td>1</td></tr>
+            <tr><td>1d8</td><td>1d6</td><td>1d4</td><td>1d3</td><td>1d2</td></tr>
+            <tr><td>1d10</td><td>1d8</td><td>1d6</td><td>1d4</td><td>1d3</td></tr>
+            <tr><td>1d12</td><td>1d10</td><td>1d8</td><td>1d6</td><td>1d4</td></tr>
+            <tr><td>2d4</td><td>1d6</td><td>1d4</td><td>1d3</td><td>1d2</td></tr>
+            <tr><td>2d6</td><td>1d10</td><td>1d8</td><td>1d6</td><td>1d4</td></tr>
+            <tr><td>2d8</td><td>2d6</td><td>1d10</td><td>1d8</td><td>1d6</td></tr>
+            <tr><td>2d10</td><td>2d8</td><td>2d6</td><td>1d10</td><td>1d8</td></tr>
+        </tbody>
+    </table>
+</div>

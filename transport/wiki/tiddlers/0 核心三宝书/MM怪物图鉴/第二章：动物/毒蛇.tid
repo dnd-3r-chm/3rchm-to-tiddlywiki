@@ -3,25 +3,25 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第二章：动物/毒蛇.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>毒蛇 (Viper Snake)</h1>
 
     <p>毒蛇的体型从大到小都有，攻击性不算强，但在逃跑之前通常会先进行一次迅雷不及掩耳的啮咬攻击。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>毒蛇的毒牙是猎食也是自卫的武器。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>毒素(特异)：</b>每次造成伤害后，毒蛇就会注入毒素(强韧检定如下表)。初始伤害与后续伤害均为1d6点体质伤害。豁免检定DC的调整值与体质调整值相同。</p>
     </div>
 
     <!-- 毒素DC表 -->
-    <div class="table-wrap">
-        <table class="toxin-table">
+    <div>
+        <table>
             <thead>
                 <tr>
-                    <th style="width:50%;">体型</th>
-                    <th style="width:50%;">强韧检定DC</th>
+                    <th>体型</th>
+                    <th>强韧检定DC</th>
                 </tr>
             </thead>
             <tbody>
@@ -35,38 +35,38 @@ type: text/vnd.tiddlywiki
     </div>
 
     <!-- 五体型数据表 -->
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-data">超小型毒蛇<br><span style="font-weight:normal;font-size:13px;">超小型动物</span></th>
-                    <th class="col-data">小型毒蛇<br><span style="font-weight:normal;font-size:13px;">小型动物</span></th>
-                    <th class="col-data">中型毒蛇<br><span style="font-weight:normal;font-size:13px;">中型动物</span></th>
-                    <th class="col-data">大型毒蛇<br><span style="font-weight:normal;font-size:13px;">大型动物</span></th>
-                    <th class="col-data">超大型毒蛇<br><span style="font-weight:normal;font-size:13px;">超大型动物</span></th>
+                    <th>资料栏位</th>
+                    <th>超小型毒蛇<br><span>超小型动物</span></th>
+                    <th>小型毒蛇<br><span>小型动物</span></th>
+                    <th>中型毒蛇<br><span>中型动物</span></th>
+                    <th>大型毒蛇<br><span>大型动物</span></th>
+                    <th>超大型毒蛇<br><span>超大型动物</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td class="col-data">d8 (1HP)</td><td class="col-data">1d8 (4HP)</td><td class="col-data">2d8 (9HP)</td><td class="col-data">3d8 (13HP)</td><td class="col-data">6d8+6 (33HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td class="col-data">+7</td><td class="col-data">+7</td><td class="col-data">+3</td><td class="col-data">+7</td><td class="col-data">+6</td></tr>
-                <tr><td class="col-1">速度</td><td class="col-data">15英尺 (3格)、<br>攀爬15英尺、游泳15英尺</td><td class="col-data">20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td><td class="col-data">20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td><td class="col-data">20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td><td class="col-data">20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td></tr>
-                <tr><td class="col-1">防御等级</td><td class="col-data">17 (+2体型、+3敏捷、+2天生)、<br>接触15、措手不及14</td><td class="col-data">17 (+1体型、+3敏捷、+3天生)、<br>接触14、措手不及14</td><td class="col-data">16 (+3敏捷、+3天生)、<br>接触13、措手不及13</td><td class="col-data">15 (-1体型、+3敏捷、+3天生)、<br>接触12、措手不及12</td><td class="col-data">15 (-2体型、+2敏捷、+5天生)、<br>接触10、措手不及13</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td class="col-data">+0 / -11</td><td class="col-data">+0 / -6</td><td class="col-data">+1 / +0</td><td class="col-data">+2 / +6</td><td class="col-data">+4 / +15</td></tr>
-                <tr><td class="col-1">攻击</td><td class="col-data">啮咬+5近战 (1附加毒素)</td><td class="col-data">啮咬+4近战 (1d2-2附加毒素)</td><td class="col-data">啮咬+4近战 (1d4附加毒素)</td><td class="col-data">啮咬+4近战 (1d4附加毒素)</td><td class="col-data">啮咬+6近战 (1d6+4附加毒素)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td class="col-data">啮咬+5近战 (1附加毒素)</td><td class="col-data">啮咬+4近战 (1d2-2附加毒素)</td><td class="col-data">啮咬+4近战 (1d4附加毒素)</td><td class="col-data">啮咬+4近战 (1d4附加毒素)</td><td class="col-data">啮咬+6近战 (1d6+4附加毒素)</td></tr>
-                <tr><td class="col-1">占用/触及</td><td class="col-data">2.5英尺/0英尺</td><td class="col-data">5英尺/5英尺</td><td class="col-data">5英尺/5英尺</td><td class="col-data">10英尺/5英尺</td><td class="col-data">15英尺/10英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td class="col-data">毒素</td><td class="col-data">毒素</td><td class="col-data">毒素</td><td class="col-data">毒素</td><td class="col-data">毒素</td></tr>
-                <tr><td class="col-1">特殊能力</td><td class="col-data">灵敏嗅觉</td><td class="col-data">灵敏嗅觉</td><td class="col-data">灵敏嗅觉</td><td class="col-data">灵敏嗅觉</td><td class="col-data">灵敏嗅觉</td></tr>
-                <tr><td class="col-1">豁免检定</td><td class="col-data">强韧+2、反射+5、意志+1</td><td class="col-data">强韧+2、反射+5、意志+1</td><td class="col-data">强韧+3、反射+6、意志+1</td><td class="col-data">强韧+3、反射+6、意志+2</td><td class="col-data">强韧+6、反射+7、意志+3</td></tr>
-                <tr><td class="col-1">属性</td><td class="col-data">力量4、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td class="col-data">力量6、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td class="col-data">力量8、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td class="col-data">力量10、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td class="col-data">力量16、敏捷15、<br>体质13、智力1、<br>感知12、魅力2</td></tr>
-                <tr><td class="col-1">技能</td><td class="col-data">平衡感+11、攀爬+11、<br>躲藏+15、聆听+6、<br>侦察+6、游泳+5</td><td class="col-data">平衡感+11、攀爬+11、<br>躲藏+11、聆听+7、<br>侦察+7</td><td class="col-data">平衡感+11、攀爬+11、<br>躲藏+12、聆听+5、<br>侦察+5、游泳+7</td><td class="col-data">平衡感+11、攀爬+11、<br>躲藏+8、聆听+5、<br>侦察+6、游泳+8</td><td class="col-data">平衡感+10、攀爬+11、<br>躲藏+3、聆听+7、<br>侦察+7、游泳+11</td></tr>
-                <tr><td class="col-1">专长</td><td class="col-data">精通先攻、<br>武器娴熟<sup>B</sup></td><td class="col-data">精通先攻、<br>武器娴熟<sup>B</sup></td><td class="col-data">武器娴熟</td><td class="col-data">精通先攻、<br>武器娴熟</td><td class="col-data">精通先攻、健跑、<br>专攻武器 (啮咬)</td></tr>
-                <tr><td class="col-1">环境</td><td class="col-data">温带沼泽</td><td class="col-data">温带沼泽</td><td class="col-data">温带沼泽</td><td class="col-data">温带沼泽</td><td class="col-data">温带沼泽</td></tr>
-                <tr><td class="col-1">组织</td><td class="col-data">单独</td><td class="col-data">单独</td><td class="col-data">单独</td><td class="col-data">单独</td><td class="col-data">单独</td></tr>
-                <tr><td class="col-1">挑战级数</td><td class="col-data">1/3</td><td class="col-data">1/2</td><td class="col-data">1</td><td class="col-data">2</td><td class="col-data">3</td></tr>
-                <tr><td class="col-1">进化</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">7-18HD (超大型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td></tr>
+                <tr><td>生命骰</td><td>d8 (1HP)</td><td>1d8 (4HP)</td><td>2d8 (9HP)</td><td>3d8 (13HP)</td><td>6d8+6 (33HP)</td></tr>
+                <tr><td>先攻</td><td>+7</td><td>+7</td><td>+3</td><td>+7</td><td>+6</td></tr>
+                <tr><td>速度</td><td>15英尺 (3格)、<br>攀爬15英尺、游泳15英尺</td><td>20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td><td>20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td><td>20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td><td>20英尺 (4格)、<br>攀爬20英尺、游泳20英尺</td></tr>
+                <tr><td>防御等级</td><td>17 (+2体型、+3敏捷、+2天生)、<br>接触15、措手不及14</td><td>17 (+1体型、+3敏捷、+3天生)、<br>接触14、措手不及14</td><td>16 (+3敏捷、+3天生)、<br>接触13、措手不及13</td><td>15 (-1体型、+3敏捷、+3天生)、<br>接触12、措手不及12</td><td>15 (-2体型、+2敏捷、+5天生)、<br>接触10、措手不及13</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+0 / -11</td><td>+0 / -6</td><td>+1 / +0</td><td>+2 / +6</td><td>+4 / +15</td></tr>
+                <tr><td>攻击</td><td>啮咬+5近战 (1附加毒素)</td><td>啮咬+4近战 (1d2-2附加毒素)</td><td>啮咬+4近战 (1d4附加毒素)</td><td>啮咬+4近战 (1d4附加毒素)</td><td>啮咬+6近战 (1d6+4附加毒素)</td></tr>
+                <tr><td>全力攻击</td><td>啮咬+5近战 (1附加毒素)</td><td>啮咬+4近战 (1d2-2附加毒素)</td><td>啮咬+4近战 (1d4附加毒素)</td><td>啮咬+4近战 (1d4附加毒素)</td><td>啮咬+6近战 (1d6+4附加毒素)</td></tr>
+                <tr><td>占用/触及</td><td>2.5英尺/0英尺</td><td>5英尺/5英尺</td><td>5英尺/5英尺</td><td>10英尺/5英尺</td><td>15英尺/10英尺</td></tr>
+                <tr><td>特殊攻击</td><td>毒素</td><td>毒素</td><td>毒素</td><td>毒素</td><td>毒素</td></tr>
+                <tr><td>特殊能力</td><td>灵敏嗅觉</td><td>灵敏嗅觉</td><td>灵敏嗅觉</td><td>灵敏嗅觉</td><td>灵敏嗅觉</td></tr>
+                <tr><td>豁免检定</td><td>强韧+2、反射+5、意志+1</td><td>强韧+2、反射+5、意志+1</td><td>强韧+3、反射+6、意志+1</td><td>强韧+3、反射+6、意志+2</td><td>强韧+6、反射+7、意志+3</td></tr>
+                <tr><td>属性</td><td>力量4、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td>力量6、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td>力量8、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td>力量10、敏捷17、<br>体质11、智力1、<br>感知12、魅力2</td><td>力量16、敏捷15、<br>体质13、智力1、<br>感知12、魅力2</td></tr>
+                <tr><td>技能</td><td>平衡感+11、攀爬+11、<br>躲藏+15、聆听+6、<br>侦察+6、游泳+5</td><td>平衡感+11、攀爬+11、<br>躲藏+11、聆听+7、<br>侦察+7</td><td>平衡感+11、攀爬+11、<br>躲藏+12、聆听+5、<br>侦察+5、游泳+7</td><td>平衡感+11、攀爬+11、<br>躲藏+8、聆听+5、<br>侦察+6、游泳+8</td><td>平衡感+10、攀爬+11、<br>躲藏+3、聆听+7、<br>侦察+7、游泳+11</td></tr>
+                <tr><td>专长</td><td>精通先攻、<br>武器娴熟<sup>B</sup></td><td>精通先攻、<br>武器娴熟<sup>B</sup></td><td>武器娴熟</td><td>精通先攻、<br>武器娴熟</td><td>精通先攻、健跑、<br>专攻武器 (啮咬)</td></tr>
+                <tr><td>环境</td><td>温带沼泽</td><td>温带沼泽</td><td>温带沼泽</td><td>温带沼泽</td><td>温带沼泽</td></tr>
+                <tr><td>组织</td><td>单独</td><td>单独</td><td>单独</td><td>单独</td><td>单独</td></tr>
+                <tr><td>挑战级数</td><td>1/3</td><td>1/2</td><td>1</td><td>2</td><td>3</td></tr>
+                <tr><td>进化</td><td>—</td><td>—</td><td>—</td><td>—</td><td>7-18HD (超大型)</td></tr>
+                <tr><td>等级修正值</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
             </tbody>
         </table>
     </div>

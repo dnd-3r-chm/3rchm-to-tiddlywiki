@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/B/眼魔.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
 
-    <h1>眼魔 (Beholder)</h1><div class="mm1-monster-art" data-mm1-image="眼魔" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/眼魔.jpg]]</div>
+    <h1>眼魔 (Beholder)</h1><div data-mm1-image="眼魔">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/眼魔.jpg]]</div>
 
 
 
@@ -23,7 +23,7 @@ type: text/vnd.tiddlywiki
 
 
 
-    <div class="table-wrap">
+    <div>
 
         <table>
 
@@ -31,9 +31,9 @@ type: text/vnd.tiddlywiki
 
                 <tr>
 
-                    <th class="col-1">资料栏位</th>
+                    <th>资料栏位</th>
 
-                    <th class="col-data">高斯眼魔 (Gauth)<br><span style="font-weight:normal;font-size:13px;">中型异怪</span></th>
+                    <th>高斯眼魔 (Gauth)<br><span>中型异怪</span></th>
 
                 </tr>
 
@@ -41,47 +41,47 @@ type: text/vnd.tiddlywiki
 
             <tbody>
 
-                <tr><td class="col-1">生命骰</td><td>6d8+18 (45HP)</td></tr>
+                <tr><td>生命骰</td><td>6d8+18 (45HP)</td></tr>
 
-                <tr><td class="col-1">先攻</td><td>+6</td></tr>
+                <tr><td>先攻</td><td>+6</td></tr>
 
-                <tr><td class="col-1">速度</td><td>5英尺 (1格)、飞行20英尺 (良好)</td></tr>
+                <tr><td>速度</td><td>5英尺 (1格)、飞行20英尺 (良好)</td></tr>
 
-                <tr><td class="col-1">防御等级</td><td>19 (+2敏捷、+7天生)、接触12、措手不及17</td></tr>
+                <tr><td>防御等级</td><td>19 (+2敏捷、+7天生)、接触12、措手不及17</td></tr>
 
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+4 / +3</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+4 / +3</td></tr>
 
-                <tr><td class="col-1">攻击</td><td>眼射线+6远程接触 及 啮咬-2近战 (1d6-1)</td></tr>
+                <tr><td>攻击</td><td>眼射线+6远程接触 及 啮咬-2近战 (1d6-1)</td></tr>
 
-                <tr><td class="col-1">全力攻击</td><td>眼射线+6远程接触 及 啮咬-3近战 (1d6-1)</td></tr>
+                <tr><td>全力攻击</td><td>眼射线+6远程接触 及 啮咬-3近战 (1d6-1)</td></tr>
 
-                <tr><td class="col-1">占据/触及</td><td>5英尺/5英尺</td></tr>
+                <tr><td>占据/触及</td><td>5英尺/5英尺</td></tr>
 
-                <tr><td class="col-1">特殊攻击</td><td>眼射线、震摄凝视</td></tr>
+                <tr><td>特殊攻击</td><td>眼射线、震摄凝视</td></tr>
 
-                <tr><td class="col-1">特殊能力</td><td>全域视野、黑暗视觉60英尺、飞行</td></tr>
+                <tr><td>特殊能力</td><td>全域视野、黑暗视觉60英尺、飞行</td></tr>
 
-                <tr><td class="col-1">豁免</td><td>强韧+5、反射+4、意志+9</td></tr>
+                <tr><td>豁免</td><td>强韧+5、反射+4、意志+9</td></tr>
 
-                <tr><td class="col-1">属性</td><td>力量8、敏捷14、体质16、智力15、感知15、魅力13</td></tr>
+                <tr><td>属性</td><td>力量8、敏捷14、体质16、智力15、感知15、魅力13</td></tr>
 
-                <tr><td class="col-1">技能</td><td>躲藏+11、神秘知识+11、聆听+4、搜索+15、侦察+17、生存+2 (追踪+4)</td></tr>
+                <tr><td>技能</td><td>躲藏+11、神秘知识+11、聆听+4、搜索+15、侦察+17、生存+2 (追踪+4)</td></tr>
 
-                <tr><td class="col-1">专长</td><td>警觉<sup>B</sup>、空袭、精通先攻、钢铁意志</td></tr>
+                <tr><td>专长</td><td>警觉<sup>B</sup>、空袭、精通先攻、钢铁意志</td></tr>
 
-                <tr><td class="col-1">环境</td><td>寒冷带丘陵</td></tr>
+                <tr><td>环境</td><td>寒冷带丘陵</td></tr>
 
-                <tr><td class="col-1">组织</td><td>单独、成双或聚集 (3-6)</td></tr>
+                <tr><td>组织</td><td>单独、成双或聚集 (3-6)</td></tr>
 
-                <tr><td class="col-1">挑战级数</td><td>6</td></tr>
+                <tr><td>挑战级数</td><td>6</td></tr>
 
-                <tr><td class="col-1">宝藏</td><td>标准</td></tr>
+                <tr><td>宝藏</td><td>标准</td></tr>
 
-                <tr><td class="col-1">阵营</td><td>通常守序邪恶</td></tr>
+                <tr><td>阵营</td><td>通常守序邪恶</td></tr>
 
-                <tr><td class="col-1">进化</td><td>7-12HD (中型) ; 13-18HD (大型)</td></tr>
+                <tr><td>进化</td><td>7-12HD (中型) ; 13-18HD (大型)</td></tr>
 
-                <tr><td class="col-1">等级修正值</td><td>—</td></tr>
+                <tr><td>等级修正值</td><td>—</td></tr>
 
             </tbody>
 
@@ -91,21 +91,21 @@ type: text/vnd.tiddlywiki
 
 
 
-    <div class="ability-box">
+    <div>
 
         <p><b>眼射线(超自然)：</b>高斯眼魔具有六种与法术效果类似的眼射线，施法者等级8。眼射线距离100英尺，豁免检定DC为14。这六种眼射线分别为：</p>
 
-        <div class="list-item"><b>睡眠：</b>效果与同名法术相同，但只影响一个生物，其HD不限(通过意志检定则无效)。高斯眼魔倾向以睡眠射线对付战士或物理攻击能力强的对手。</div>
+        <div><b>睡眠：</b>效果与同名法术相同，但只影响一个生物，其HD不限(通过意志检定则无效)。高斯眼魔倾向以睡眠射线对付战士或物理攻击能力强的对手。</div>
 
-        <div class="list-item"><b>造成中度伤：</b>效果与同名法术相同，造成2d8+8点伤害(通过意志检定则减半)。</div>
+        <div><b>造成中度伤：</b>效果与同名法术相同，造成2d8+8点伤害(通过意志检定则减半)。</div>
 
-        <div class="list-item"><b>解除魔法：</b>效果与同名法术相同，为目标性解除。高斯眼魔的解除检定1d20+8。</div>
+        <div><b>解除魔法：</b>效果与同名法术相同，为目标性解除。高斯眼魔的解除检定1d20+8。</div>
 
-        <div class="list-item"><b>焦灼射线：</b>效果与同名法术相同，造成4d6点火焰伤害(无豁免检定)。每次使用只产生一条射线。</div>
+        <div><b>焦灼射线：</b>效果与同名法术相同，造成4d6点火焰伤害(无豁免检定)。每次使用只产生一条射线。</div>
 
-        <div class="list-item"><b>麻痹：</b>目标须通过强韧检定，否则被麻痹2d10分钟。</div>
+        <div><b>麻痹：</b>目标须通过强韧检定，否则被麻痹2d10分钟。</div>
 
-        <div class="list-item"><b>衰弱：</b>效果与法术"衰弱射线"相同(无豁免检定)。</div>
+        <div><b>衰弱：</b>效果与法术"衰弱射线"相同(无豁免检定)。</div>
 
         <p><b>震摄凝视(超自然)：</b>震摄1轮，30英尺，通过意志检定则无效(DC=14)。豁免DC的调整值与魅力调整值相同。视线接触到高斯眼魔中央大眼的生物即遭受震摄凝视攻击。由于眼射线属于即时动作，高斯眼魔能采用一个标准动作，以震摄凝视集中攻击一个对手，同时并以其他小眼进行眼射线攻击。</p>
 
@@ -117,7 +117,7 @@ type: text/vnd.tiddlywiki
 
 
 
-    <div class="table-wrap">
+    <div>
 
         <table>
 
@@ -125,9 +125,9 @@ type: text/vnd.tiddlywiki
 
                 <tr>
 
-                    <th class="col-1">资料栏位</th>
+                    <th>资料栏位</th>
 
-                    <th class="col-data">眼魔 (Beholder)<br><span style="font-weight:normal;font-size:13px;">大型异怪</span></th>
+                    <th>眼魔 (Beholder)<br><span>大型异怪</span></th>
 
                 </tr>
 
@@ -135,47 +135,47 @@ type: text/vnd.tiddlywiki
 
             <tbody>
 
-                <tr><td class="col-1">生命骰</td><td>11d8+44 (93HP)</td></tr>
+                <tr><td>生命骰</td><td>11d8+44 (93HP)</td></tr>
 
-                <tr><td class="col-1">先攻</td><td>+6</td></tr>
+                <tr><td>先攻</td><td>+6</td></tr>
 
-                <tr><td class="col-1">速度</td><td>5英尺 (1格)、飞行20英尺 (良好)</td></tr>
+                <tr><td>速度</td><td>5英尺 (1格)、飞行20英尺 (良好)</td></tr>
 
-                <tr><td class="col-1">防御等级</td><td>26 (-1体型、+2敏捷、+15天生)、接触11、措手不及24</td></tr>
+                <tr><td>防御等级</td><td>26 (-1体型、+2敏捷、+15天生)、接触11、措手不及24</td></tr>
 
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+8 / +12</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+8 / +12</td></tr>
 
-                <tr><td class="col-1">攻击</td><td>眼射线+9远程接触 及 啮咬+7近战 (2d4)</td></tr>
+                <tr><td>攻击</td><td>眼射线+9远程接触 及 啮咬+7近战 (2d4)</td></tr>
 
-                <tr><td class="col-1">全力攻击</td><td>眼射线+9远程接触 及 啮咬+2近战 (2d4)</td></tr>
+                <tr><td>全力攻击</td><td>眼射线+9远程接触 及 啮咬+2近战 (2d4)</td></tr>
 
-                <tr><td class="col-1">占据/触及</td><td>10英尺/5英尺</td></tr>
+                <tr><td>占据/触及</td><td>10英尺/5英尺</td></tr>
 
-                <tr><td class="col-1">特殊攻击</td><td>眼射线</td></tr>
+                <tr><td>特殊攻击</td><td>眼射线</td></tr>
 
-                <tr><td class="col-1">特殊能力</td><td>全域视野、防魔法锥、黑暗视觉60英尺、飞行</td></tr>
+                <tr><td>特殊能力</td><td>全域视野、防魔法锥、黑暗视觉60英尺、飞行</td></tr>
 
-                <tr><td class="col-1">豁免</td><td>强韧+9、反射+5、意志+11</td></tr>
+                <tr><td>豁免</td><td>强韧+9、反射+5、意志+11</td></tr>
 
-                <tr><td class="col-1">属性</td><td>力量10、敏捷14、体质18、智力17、感知15、魅力15</td></tr>
+                <tr><td>属性</td><td>力量10、敏捷14、体质18、智力17、感知15、魅力15</td></tr>
 
-                <tr><td class="col-1">技能</td><td>躲藏+12、神秘知识+17、聆听+18、搜索+21、侦察+22、生存+2 (追踪+4)</td></tr>
+                <tr><td>技能</td><td>躲藏+12、神秘知识+17、聆听+18、搜索+21、侦察+22、生存+2 (追踪+4)</td></tr>
 
-                <tr><td class="col-1">专长</td><td>警觉<sup>B</sup>、空袭、强韧加强、精通先攻、钢铁意志</td></tr>
+                <tr><td>专长</td><td>警觉<sup>B</sup>、空袭、强韧加强、精通先攻、钢铁意志</td></tr>
 
-                <tr><td class="col-1">环境</td><td>寒冷带丘陵</td></tr>
+                <tr><td>环境</td><td>寒冷带丘陵</td></tr>
 
-                <tr><td class="col-1">组织</td><td>单独、成双或聚集 (3-6)</td></tr>
+                <tr><td>组织</td><td>单独、成双或聚集 (3-6)</td></tr>
 
-                <tr><td class="col-1">挑战级数</td><td>13</td></tr>
+                <tr><td>挑战级数</td><td>13</td></tr>
 
-                <tr><td class="col-1">宝藏</td><td>双倍标准</td></tr>
+                <tr><td>宝藏</td><td>双倍标准</td></tr>
 
-                <tr><td class="col-1">阵营</td><td>通常守序邪恶</td></tr>
+                <tr><td>阵营</td><td>通常守序邪恶</td></tr>
 
-                <tr><td class="col-1">进化</td><td>12-16HD (大型) ; 17-33HD (超大型)</td></tr>
+                <tr><td>进化</td><td>12-16HD (大型) ; 17-33HD (超大型)</td></tr>
 
-                <tr><td class="col-1">等级修正值</td><td>—</td></tr>
+                <tr><td>等级修正值</td><td>—</td></tr>
 
             </tbody>
 
@@ -185,35 +185,35 @@ type: text/vnd.tiddlywiki
 
 
 
-    <div class="ability-box">
+    <div>
 
         <p><b>眼射线(超自然)：</b>眼魔具有十种与法术效果类似的眼射线，施法者等级13。眼射线距离150英尺，豁免检定DC为17。这十种眼射线分别为：</p>
 
-        <div class="list-item"><b>魅惑怪物：</b>目标须通过意志检定，否则视同遭同名法术影响。眼魔经常于战斗开始时，先使用此能力混乱对手。眼魔会命令遭魅惑的目标制止伙伴或袖手旁观。</div>
+        <div><b>魅惑怪物：</b>目标须通过意志检定，否则视同遭同名法术影响。眼魔经常于战斗开始时，先使用此能力混乱对手。眼魔会命令遭魅惑的目标制止伙伴或袖手旁观。</div>
 
-        <div class="list-item"><b>魅惑人类：</b>目标须通过意志检定，否则视同遭同名法术影响。</div>
+        <div><b>魅惑人类：</b>目标须通过意志检定，否则视同遭同名法术影响。</div>
 
-        <div class="list-item"><b>解离：</b>目标须通过强韧检定，否则视同遭同名法术影响。眼魔喜欢以本能力对付最具威胁性的敌人。</div>
+        <div><b>解离：</b>目标须通过强韧检定，否则视同遭同名法术影响。眼魔喜欢以本能力对付最具威胁性的敌人。</div>
 
-        <div class="list-item"><b>恐惧：</b>效果与同名法术相同，但只影响一个生物。目标须通过意志检定，否则视同遭同名法术影响。眼魔喜欢于战斗初期以本能力对付战士或物理攻击能力强的对手，以消除其对状态。</div>
+        <div><b>恐惧：</b>效果与同名法术相同，但只影响一个生物。目标须通过意志检定，否则视同遭同名法术影响。眼魔喜欢于战斗初期以本能力对付战士或物理攻击能力强的对手，以消除其对状态。</div>
 
-        <div class="list-item"><b>死亡一指：</b>目标须通过强韧检定，否则视同遭同名法术影响。眼魔以本能力快速消灭危险对手。</div>
+        <div><b>死亡一指：</b>目标须通过强韧检定，否则视同遭同名法术影响。眼魔以本能力快速消灭危险对手。</div>
 
-        <div class="list-item"><b>石化：</b>目标须通过强韧检定，否则视同遭同名法术影响。眼魔喜欢以本能力对付敌人的施法者。除此之外，眼魔也会以本能力攻击外观有趣的对手(战斗结束后，眼魔会把石像带回巢穴当作装饰品)。</div>
+        <div><b>石化：</b>目标须通过强韧检定，否则视同遭同名法术影响。眼魔喜欢以本能力对付敌人的施法者。除此之外，眼魔也会以本能力攻击外观有趣的对手(战斗结束后，眼魔会把石像带回巢穴当作装饰品)。</div>
 
-        <div class="list-item"><b>造成中度伤：</b>效果与同名法术相同，造成2d8+10点伤害(通过意志检定则伤害减半)。</div>
+        <div><b>造成中度伤：</b>效果与同名法术相同，造成2d8+10点伤害(通过意志检定则伤害减半)。</div>
 
-        <div class="list-item"><b>睡眠：</b>效果与同名法术相同，但只影响一个生物，其HD不限(通过意志检定则无效)。眼魔倾向以睡眠射线对付战士或物理攻击能力强的对手。</div>
+        <div><b>睡眠：</b>效果与同名法术相同，但只影响一个生物，其HD不限(通过意志检定则无效)。眼魔倾向以睡眠射线对付战士或物理攻击能力强的对手。</div>
 
-        <div class="list-item"><b>缓慢：</b>效果与同名法术相同，但只影响一个生物。目标通过意志检定则无效。眼魔通常以本能力伴随解离、石化、死亡一指射线攻击同一目标。若上述三射线失败，本能力至少还可拖延对手。</div>
+        <div><b>缓慢：</b>效果与同名法术相同，但只影响一个生物。目标通过意志检定则无效。眼魔通常以本能力伴随解离、石化、死亡一指射线攻击同一目标。若上述三射线失败，本能力至少还可拖延对手。</div>
 
-        <div class="list-item"><b>心灵遥控：</b>眼魔可移动重达325磅的物品或生物，效果与同名法术相同。生物若通过意志检定则无效。</div>
+        <div><b>心灵遥控：</b>眼魔可移动重达325磅的物品或生物，效果与同名法术相同。生物若通过意志检定则无效。</div>
 
     </div>
 
 
 
-    <div class="ability-box">
+    <div>
 
         <p><b>战斗：</b>即使未被激怒，眼魔通常也会进行攻击。其物理攻击并不强，但眼魔会穿越至对手群中心，大量使用眼射线。接近敌人时，眼魔会尽力让对方混乱迷惑。</p>
 
@@ -227,7 +227,7 @@ type: text/vnd.tiddlywiki
 
 
 
-    <span class="title-bold">眼魔的社会结构</span>
+    <span>眼魔的社会结构</span>
 
     <p>眼魔是可恨、具侵略性、贪婪的生物。即便在可避免的状态下，眼魔也会选择攻击或支配其他生物。他们极度排外，厌恶所有不像自己的生物。</p>
 

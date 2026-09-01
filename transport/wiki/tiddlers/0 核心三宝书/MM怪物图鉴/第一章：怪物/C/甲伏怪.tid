@@ -3,39 +3,39 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/C/甲伏怪.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
-    <h1>甲伏怪 (Chuul)</h1><div class="mm1-monster-art" data-mm1-image="甲伏怪" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/甲伏怪.jpg]]</div>
+<div>
+    <h1>甲伏怪 (Chuul)</h1><div data-mm1-image="甲伏怪">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/甲伏怪.jpg]]</div>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-2">甲伏怪 (Chuul)<br><span style="font-weight:normal;font-size:13px;">大型异怪 (水生)</span></th>
+                    <th>资料栏位</th>
+                    <th>甲伏怪 (Chuul)<br><span>大型异怪 (水生)</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td>11d8+44 (93hp)</td></tr>
-                <tr><td class="col-1">先攻</td><td>+7</td></tr>
-                <tr><td class="col-1">速度</td><td>30英尺 (6格)，游泳20英尺</td></tr>
-                <tr><td class="col-1">防御等级</td><td>22 (-1体型，+3敏捷，+10天生)，接触12，措手不及19</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+8 / +17</td></tr>
-                <tr><td class="col-1">攻击</td><td>爪抓+12近战 (2d6+5)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td>2爪抓+12近战 (2d6+5)</td></tr>
-                <tr><td class="col-1">占据/触及</td><td>10英尺 / 5英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td>紧勒 3d6+5，精通攫抓，麻痹触须</td></tr>
-                <tr><td class="col-1">特殊能力</td><td>两栖，黑暗视觉60英尺，免疫毒素</td></tr>
-                <tr><td class="col-1">豁免</td><td>强韧+7，反射+6，意志+9</td></tr>
-                <tr><td class="col-1">属性</td><td>力量20，敏捷16，体质18，智力10，感知14，魅力5</td></tr>
-                <tr><td class="col-1">技能</td><td>躲藏+13，聆听+11，侦察+11，游泳+13</td></tr>
-                <tr><td class="col-1">专长</td><td>警觉，盲斗，战斗反射，精通先攻</td></tr>
-                <tr><td class="col-1">区域</td><td>温带沼泽</td></tr>
-                <tr><td class="col-1">组织</td><td>单独，成对，或成群 (3-5)</td></tr>
-                <tr><td class="col-1">挑战等级</td><td>7</td></tr>
-                <tr><td class="col-1">宝藏</td><td>1/10钱币；50%商品；标准物品</td></tr>
-                <tr><td class="col-1">阵营</td><td>通常混乱邪恶</td></tr>
-                <tr><td class="col-1">进化</td><td>12-16HD (大型) ; 17-33HD (超大型)</td></tr>
-                <tr><td class="col-1">等级调整</td><td>—</td></tr>
+                <tr><td>生命骰</td><td>11d8+44 (93hp)</td></tr>
+                <tr><td>先攻</td><td>+7</td></tr>
+                <tr><td>速度</td><td>30英尺 (6格)，游泳20英尺</td></tr>
+                <tr><td>防御等级</td><td>22 (-1体型，+3敏捷，+10天生)，接触12，措手不及19</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+8 / +17</td></tr>
+                <tr><td>攻击</td><td>爪抓+12近战 (2d6+5)</td></tr>
+                <tr><td>全力攻击</td><td>2爪抓+12近战 (2d6+5)</td></tr>
+                <tr><td>占据/触及</td><td>10英尺 / 5英尺</td></tr>
+                <tr><td>特殊攻击</td><td>紧勒 3d6+5，精通攫抓，麻痹触须</td></tr>
+                <tr><td>特殊能力</td><td>两栖，黑暗视觉60英尺，免疫毒素</td></tr>
+                <tr><td>豁免</td><td>强韧+7，反射+6，意志+9</td></tr>
+                <tr><td>属性</td><td>力量20，敏捷16，体质18，智力10，感知14，魅力5</td></tr>
+                <tr><td>技能</td><td>躲藏+13，聆听+11，侦察+11，游泳+13</td></tr>
+                <tr><td>专长</td><td>警觉，盲斗，战斗反射，精通先攻</td></tr>
+                <tr><td>区域</td><td>温带沼泽</td></tr>
+                <tr><td>组织</td><td>单独，成对，或成群 (3-5)</td></tr>
+                <tr><td>挑战等级</td><td>7</td></tr>
+                <tr><td>宝藏</td><td>1/10钱币；50%商品；标准物品</td></tr>
+                <tr><td>阵营</td><td>通常混乱邪恶</td></tr>
+                <tr><td>进化</td><td>12-16HD (大型) ; 17-33HD (超大型)</td></tr>
+                <tr><td>等级调整</td><td>—</td></tr>
             </tbody>
         </table>
     </div>
@@ -48,26 +48,26 @@ type: text/vnd.tiddlywiki
 
     <p>甲伏怪大多住在沼泽、丛林里，但某些甲伏怪适应了地下生活，在地底溪流或湖附近觅食。这类地底种群通常以捕食战蜥人和缺乏的卓尔为生。眼魔或夺心魔偶尔将甲伏怪养作奴仆。甲伏怪大约有 8 英尺长，体重可达 650 磅。甲伏怪说通用语(地底种群则说地底通用语)。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>甲伏怪喜欢待在岸边，潜伏在阴暗的水里，当它听到附近有猎物经过时(进入或离开水里)再用突袭来攻击对方。甲伏怪会用爪子擒抱并且紧勒一名敌人，再将其送到麻痹触须可触及的位置。甲伏怪会尽量让一只爪子空着，因此当它面对一大群敌人时，会先把麻痹或死掉的受害者丢在一边，继续用爪子擒抱、紧勒并麻痹其它对手。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>紧勒 (Constrict, Ex)：</b>一旦通过擒抱检定，甲伏怪将造成 3d6+5 点伤害。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>精通攫抓 (Improved Grab, Ex)：</b>要使用此能力，甲伏怪必须先用它的爪抓攻击命中对手。之后它可以在一个即时动作尝试擒抱而不会引发借机攻击。如果通过擒抱检定，它可以进行定身并可以紧勒，或者在下一轮将对手拉到触须可触及的位置上。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>麻痹触须 (Paralytic Tentacles, Ex)：</b>甲伏怪可用一个移动动作将爪子擒抱住的受害者送至它的触须处。这些触须的擒抱力量与爪子相同，但不造成伤害，而是分泌出一种麻痹性物质。被定身在触须上的对手在每个甲伏怪行动轮都必须通过一次 DC19 的强韧检定否则会麻痹 6 轮。该豁免 DC 基于体质。在被定身期间，无论麻痹与否，受害者每轮会自动受到该生物的颚部所造成的 1d8+2 点伤害。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>两栖 (Amphibious, Ex)：</b>尽管甲伏怪是水生，它们可以在陆地上长期生存。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>技能：</b>甲伏怪在游泳检定上有+8种族加值并总是可以取 10，即使是在匆忙或是被威胁的情况下。在沿直线游泳时，甲伏怪可以使用奔跑动作。</p>
     </div>
 

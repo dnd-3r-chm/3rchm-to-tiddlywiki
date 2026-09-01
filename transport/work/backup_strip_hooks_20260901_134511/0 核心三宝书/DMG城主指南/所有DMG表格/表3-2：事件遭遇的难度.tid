@@ -1,0 +1,33 @@
+title: 表3-2：事件遭遇的难度 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-2：事件遭遇的难度.htm
+type: text/vnd.tiddlywiki
+
+<table class="chm-word-table" style="BORDER-COLLAPSE:collapse" cellSpacing=0 cellPadding=2 width="100%" border=0><tr><td><b>表3-2：事件遭遇的难度</b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+<tr><td bgColor=#eeeeee>百分比</td>
+<td bgColor=#eeeeee>事件遭遇</td>
+<td bgColor=#eeeeee>说明</td>
+</tr>
+<tr><td>10%</td>
+<td>简易</td>
+<td>EL小于队伍等级</td>
+</tr>
+<tr><td bgColor=#eeeeee>20%</td>
+<td bgColor=#eeeeee>处理得宜则简易</td>
+<td bgColor=#eeeeee>特殊(见下方文字说明)</td>
+</tr>
+<tr><td>50%</td>
+<td>有挑战性</td>
+<td>EL等于队伍等级</td>
+</tr>
+<tr><td bgColor=#eeeeee>15%</td>
+<td bgColor=#eeeeee>非常困难</td>
+<td bgColor=#eeeeee>EL较队伍等级高1至4级</td>
+</tr>
+<tr><td>5%</td>
+<td>过度艰难</td>
+<td>EL较队伍等级高5级或以上</td>
+</tr></table>

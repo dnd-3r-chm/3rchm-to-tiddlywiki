@@ -12,13 +12,13 @@ type: text/vnd.tiddlywiki
     <th>奇特武器(火器)</th><th>价格</th><th>伤害值(小)</th><th>伤害值(中)</th><th>重击</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
 </tr>
 <tr>
-    <td colspan="8" class="sub-header" style="background:#f4efd2;">单手远程武器</td>
+    <td colspan="8">单手远程武器</td>
 </tr>
 <tr>
     <td>手枪</td><td>250金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>50英尺</td><td>3磅</td><td>穿刺</td>
 </tr>
 <tr>
-    <td colspan="8" class="sub-header">双手远程武器</td>
+    <td colspan="8">双手远程武器</td>
 </tr>
 <tr>
     <td>毛瑟枪</td><td>500金币</td><td>1d10</td><td>1d12</td><td>x3</td><td>150英尺</td><td>10磅</td><td>穿刺</td>
@@ -38,7 +38,7 @@ type: text/vnd.tiddlywiki
 </tr>
 </table>
 
-<div class="notes">
+<div>
 <p>(注一)使用爆炸武器不需要任何专长。</p>
 <p>(注二)请参考内文说明。</p>
 </div>

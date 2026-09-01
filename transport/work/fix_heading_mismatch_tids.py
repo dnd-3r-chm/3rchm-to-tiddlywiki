@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """修复已有 .tid 文件中标题标签闭合不匹配的问题。"""
+import _paths as P
 import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import convert_pilot as cp
 
-ROOT = r"E:\dnd3r_full\transport\wiki\tiddlers"
+ROOT = P.WIKI_TIDDLERS
 
 
 def process_file(path):

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """重新排版 译者名录1.1.tid，使其格式接近 前言.tid。"""
+import _paths as P
 import os
 import re
 import sys
@@ -8,7 +9,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import clean_spell_tids as cst
 
-TARGET = r"E:\dnd3r_full\transport\wiki\tiddlers\译者名录1.1.tid"
+TARGET = os.path.join(P.WIKI_TIDDLERS, "译者名录1.1.tid")
 
 
 def inner_text(block):

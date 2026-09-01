@@ -48,7 +48,7 @@ type: text/vnd.tiddlywiki
 <tr><td>—</td><td>—</td><td>99</td><td>高等抗音</td><td>+66,000金币</td></tr>
 <tr><td>100</td><td>100</td><td>100</td><td>重新掷骰两次 (注二)</td><td>—</td></tr>
 </table>
-<div class="notes">
+<div>
     <p>(注一)加上表7-2：盔甲与盾牌的价格以决定交易价格。</p>
     <p>(注二)如果重新掷骰两次得到的特殊能力相同，就只能得到该种能力。若掷到不同等级的同一能力，则只得到等级较高者。</p>
 </div>

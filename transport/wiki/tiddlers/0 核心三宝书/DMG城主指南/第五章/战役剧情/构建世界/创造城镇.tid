@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>创造城镇</h1>
 <p>有时你可能因为玩家人物的行动，而必须马上设计一个城镇。你可以利用表5-2，随机产生基本的设定：</p>
 
-<table class="class-table">
+<table>
 <tr><th colspan="4">表5-2：随机产生城镇</th></tr>
 <tr><th>百分骰</th><th>社区规模</th><th>人口(注一)</th><th>金币限额</th></tr>
 <tr><td>01-10</td><td>聚落</td><td>20-80</td><td>40 金币</td></tr>
@@ -19,5 +19,5 @@ type: text/vnd.tiddlywiki
 <tr><td>96-99</td><td>大城</td><td>12,001-25,000</td><td>40,000 金币</td></tr>
 <tr><td>100</td><td>都会</td><td>25,001以上</td><td>100,000 金币</td></tr>
 </table>
-<p class="note">(注一)成年人口数。根据该社区主要族群的不同，未成年人口数约为此数字的10%至40%。</p>
+<p>(注一)成年人口数。根据该社区主要族群的不同，未成年人口数约为此数字的10%至40%。</p>
 

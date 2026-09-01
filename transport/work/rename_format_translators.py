@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """将 译者名录1.1.tid 更名为 译者名录.tid，并把书名标题改为 [缩写]书名 格式。"""
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-OLD = r"E:\dnd3r_full\transport\wiki\tiddlers\译者名录1.1.tid"
-NEW = r"E:\dnd3r_full\transport\wiki\tiddlers\译者名录.tid"
+OLD = os.path.join(P.WIKI_TIDDLERS, "译者名录1.1.tid")
+NEW = os.path.join(P.WIKI_TIDDLERS, "译者名录.tid")
 
 # 根据 10 附录/出版书籍顺序.htm 中的缩写整理
 HEADING_MAP = {

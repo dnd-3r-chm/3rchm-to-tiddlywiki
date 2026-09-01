@@ -1,0 +1,20 @@
+title: 20级地下城事件遭遇 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/20级地下城事件遭遇.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>20级地下城事件遭遇</div>
+    <table>
+        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <tbody>
+            <tr><td class="dice">01–10</td><td class="desc">掷19级事件遭遇表</td></tr>
+            <tr><td class="dice">11–45</td><td class="desc">1个巴洛魔(魔鬼)</td></tr>
+            <tr><td class="dice">46–80</td><td class="desc">1个深狱炼魔(恶魔)</td></tr>
+            <tr><td class="dice">81–85</td><td class="desc">1头上古黑龙</td></tr>
+            <tr><td class="dice">86–90</td><td class="desc">1头老年龙(红龙或银龙)</td></tr>
+            <tr><td class="dice">91–95</td><td class="desc">1头古黄铜龙</td></tr>
+            <tr><td class="dice">96–100</td><td class="desc">1头极老赤铜龙</td></tr>
+        </tbody>
+    </table>
+</div>

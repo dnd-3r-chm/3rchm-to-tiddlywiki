@@ -7,17 +7,17 @@ type: text/vnd.tiddlywiki
 <h1>O - 奇物资料</h1>
 
 <!-- 天变球 -->
-<h2 class="category-title">天气控制</h2>
+<h2>天气控制</h2>
 <table>
-<colgroup><col style="width:16%;"><col style="width:66%;"><col style="width:18%;"></colgroup>
+<colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
 
 <!-- 1. 天变球 -->
 <tr>
-    <td>天变球<br><span style="font-weight:normal;font-size:12px;color:#555;">(Orb of Storms)</span></td>
+    <td>天变球<br><span>(Orb of Storms)</span></td>
     <td>
-        <p class="desc">直径8英寸的玻璃球。持有者可以召唤任何形态的天气，甚至包括具破坏力的超自然风暴。此球每天可以施展"操控天气"一次，每月可以施展"复仇风暴"一次。使用者还持续受到"忍受环境"效果的保护。</p>
-        <p class="stat">强烈学派不定。施法者等级：18。先决条件：制造奇物，"操控天气"、"忍受环境"、"复仇风暴"。重量：6磅。</p>
+        <p>直径8英寸的玻璃球。持有者可以召唤任何形态的天气，甚至包括具破坏力的超自然风暴。此球每天可以施展"操控天气"一次，每月可以施展"复仇风暴"一次。使用者还持续受到"忍受环境"效果的保护。</p>
+        <p>强烈学派不定。施法者等级：18。先决条件：制造奇物，"操控天气"、"忍受环境"、"复仇风暴"。重量：6磅。</p>
     </td>
     <td>48,000金币</td>
 </tr>

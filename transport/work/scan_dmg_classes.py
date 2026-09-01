@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-root = r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\DMG城主指南"
+root = P.DMG_TIDDLERS
 page_hits = []
 title_hits = []
 for dirpath, _, names in os.walk(root):

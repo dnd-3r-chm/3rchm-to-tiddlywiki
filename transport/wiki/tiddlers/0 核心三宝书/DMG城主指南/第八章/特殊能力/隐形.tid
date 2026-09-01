@@ -16,13 +16,13 @@ type: text/vnd.tiddlywiki
 
 <p>生物可使用听觉来察觉隐形生物，人物可于每轮中进行"聆听"检定，看看是否能察觉对方，这属于即时动作。若该人物的"聆听"检定结果，高于或等于对方的"潜行"检定结果，便能成功察觉对方(没有"潜行"技能的生物可改采敏捷检定，须计入防具检定减值)。若检定成功，可使该人物听见隐形生物"就在附近"，但要精确指出对方所在位置几乎是不可能的事(+20DC)。</p>
 
-<div class="rule-table-container">
-    <span class="rule-table-title">以"聆听"察觉隐形生物的难度等级</span>
-    <table class="rule-table">
+<div>
+    <span>以"聆听"察觉隐形生物的难度等级</span>
+    <table>
         <thead>
             <tr>
-                <th style="width: 65%;">隐形生物的状态</th>
-                <th style="width: 35%;">DC</th>
+                <th>隐形生物的状态</th>
+                <th>DC</th>
             </tr>
         </thead>
         <tbody>

@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
+import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-path = r"E:\dnd3r_full\如何使用大不全.htm"
+path = os.path.join(P.ROOT, "如何使用大不全.htm")
 raw = open(path, "rb").read()
 try:
     text = raw.decode("utf-8")

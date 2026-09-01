@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
 import os
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
 dirs = [
-    r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\DMG城主指南\第一章",
-    r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\DMG城主指南\简介",
+    os.path.join(P.DMG_TIDDLERS, "第一章"),
+    os.path.join(P.DMG_TIDDLERS, "简介"),
 ]
 
 for d in dirs:

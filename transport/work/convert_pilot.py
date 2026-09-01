@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Pilot conversion: convert a small set of HTML pages into .tid files."""
+import _paths as P
 import csv
 import os
 import re
@@ -10,9 +11,12 @@ import urllib.parse
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
-WIKI_TIDDLERS = os.path.join(ROOT, "transport", "wiki", "tiddlers")
-FINAL_MAPPING = os.path.join(ROOT, "transport", "work", "final_mapping.csv")
+# Phase 2 钩子清理逻辑（按书判定 class/id/style/font 边界）复用 strip_hooks
+import strip_hooks as SH
+
+ROOT = P.ROOT
+WIKI_TIDDLERS = P.WIKI_TIDDLERS
+FINAL_MAPPING = P.FINAL_MAPPING
 
 # 试点页面
 PILOT_FILES = [
@@ -41,7 +45,7 @@ def read_text(path):
 
 def extract_body(text):
     # 某些源文件会出现嵌套 <body>（WinCHM 外层 + 内层页面），
-    # 这里取“最后一个 <body>”到其后的第一个 </body>，即最内层正文。
+    # 这里取"最后一个 <body>"到其后的第一个 </body>，即最内层正文。
     opens = [m for m in re.finditer(r"<body[^>]*>", text, re.I)]
     if opens:
         start_m = opens[-1]
@@ -166,7 +170,7 @@ def _find_matching_div_close(body, start):
 
 
 def _try_convert_fold(body, input_pos):
-    """尝试把 input_pos 处的一个“按钮 + 隐藏 div”折叠块转换为 details/summary。"""
+    """尝试把 input_pos 处的一个"按钮 + 隐藏 div"折叠块转换为 details/summary。"""
     # 1. 向前找包含 margin-bottom:2px 的 header div
     prefix = body[:input_pos]
     opens = list(re.finditer(r"<div\b[^>]*>", prefix, re.I))
@@ -242,7 +246,7 @@ def _try_convert_fold(body, input_pos):
 
 
 def convert_showhide_blocks(body):
-    """把原始 CHM 中常见的“按钮 + 隐藏 div”折叠块转换为 <details>/<summary>。
+    """把原始 CHM 中常见的"按钮 + 隐藏 div"折叠块转换为 <details>/<summary>。
 
     支持多层嵌套，处理时从后往前逐个转换。
     """
@@ -259,13 +263,13 @@ def convert_showhide_blocks(body):
 
 
 def normalize_fullwidth_punct(body):
-    """用户规则：全角引号“”/括号（）替换为半角 ""/()（后续迁移统一，2026-09）。
+    """用户规则：全角引号""/括号（）替换为半角 ""/()（后续迁移统一，2026-09）。
 
     只替换引号与括号两类，不涉及其他全角标点。
     """
     return body.translate(str.maketrans({
-        "\u201c": '"',  # “ -> "
-        "\u201d": '"',  # ” -> "
+        "\u201c": '"',  # " -> "
+        "\u201d": '"',  # " -> "
         "\uff08": "(",  # （ -> (
         "\uff09": ")",  # ） -> )
     }))
@@ -326,7 +330,7 @@ def strip_table_classes(body):
     return _TABLE_CLASS_ATTR.sub(repl, body)
 
 
-def clean_html(body):
+def clean_html(body, book=None):
     # 去掉 script 和 style 块；节点内不保留单节点 CSS，统一由全局 cascading_stylesheet.css 控制
     body = re.sub(r"<script[^>]*>.*?</script>", "", body, flags=re.S | re.I)
     body = re.sub(r"<style[^>]*>.*?</style>", "", body, flags=re.S | re.I)
@@ -345,6 +349,9 @@ def clean_html(body):
     body = normalize_fullwidth_punct(body)
     # 用户规则：清理表格行内格式 class="g"/"l"/"w"（2026-08-31）
     body = strip_table_classes(body)
+    # Phase 2 固化：按书判定清理 class/id/style(<o:p>/<font>/伪标题 h3)，
+    # 使后续 4500 页新书直接产出干净内容，不再产生新钩子
+    body, _ = SH.process_body(body, book)
     return body.strip()
 
 

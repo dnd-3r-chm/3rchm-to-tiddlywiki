@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """给根目录节点追加指定的排版 style。"""
+import _paths as P
 import os
 import sys
 
@@ -19,9 +20,9 @@ h6{color:teal}
 """
 
 FILES = [
-    r"E:\dnd3r_full\transport\wiki\tiddlers\前言.tid",
-    r"E:\dnd3r_full\transport\wiki\tiddlers\如何使用大不全.tid",
-    r"E:\dnd3r_full\transport\wiki\tiddlers\译者名录.tid",
+    os.path.join(P.WIKI_TIDDLERS, "前言.tid"),
+    os.path.join(P.WIKI_TIDDLERS, "如何使用大不全.tid"),
+    os.path.join(P.WIKI_TIDDLERS, "译者名录.tid"),
 ]
 
 

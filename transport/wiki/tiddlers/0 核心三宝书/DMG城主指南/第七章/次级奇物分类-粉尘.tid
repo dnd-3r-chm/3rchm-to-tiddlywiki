@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>奇物分类 - 粉尘</h1>
 
 <table>
-<colgroup><col style="width:16%;"><col style="width:66%;"><col style="width:18%;"></colgroup>
+<colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
 <tr>

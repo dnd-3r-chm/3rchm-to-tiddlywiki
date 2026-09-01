@@ -6,13 +6,14 @@
   三维空间的移动、空中战术移动、逃逸与追赶、方格间的活动（标准度量与父同源，无独立内容，跳过）
 - 父节点自身内容保留在开头；子节点内容整体标题降一级（h1->h2 ... h6 保持），节点间 <p>&nbsp;</p> 分隔
 """
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-DIR = r"E:\dnd3r_full\transport\wiki\tiddlers\0 核心三宝书\DMG城主指南\第二章\更多移动规则"
+DIR = os.path.join(P.DMG_TIDDLERS, "第二章", "更多移动规则")
 ORDER = ["移动与方格", "移动与位置", "度量与方格", "斜向方格移动",
          "防具与负重量", "三维空间的移动", "空中战术移动", "逃逸与追赶", "方格间的活动"]
 

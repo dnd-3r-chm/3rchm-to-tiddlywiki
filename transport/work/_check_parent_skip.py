@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """检查 SKIP_SOURCES 中是否已含手动调整过（合并/拆分）的父节点源文件。"""
+import _paths as P
+import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-src = open(r"E:\dnd3r_full\transport\work\convert_book.py", encoding="utf-8").read()
+src = open(os.path.join(P.WORK, "convert_book.py"), encoding="utf-8").read()
 start = src.index("SKIP_SOURCES")
 end = src.index("}", start)
 block = src[start:end]

@@ -24,12 +24,12 @@ type: text/vnd.tiddlywiki
             <tr><td>超小型</td><td>2英尺</td><td>8磅</td><td>2.5英尺</td><td>0英尺</td><td>0英尺</td></tr>
             <tr><td>小型</td><td>4英尺</td><td>60磅</td><td>5英尺</td><td>5英尺</td><td>5英尺</td></tr>
             <tr><td>中型</td><td>8英尺</td><td>500磅</td><td>5英尺</td><td>5英尺</td><td>5英尺</td></tr>
-            <tr><td class="bold">大型</td><td>16英尺</td><td>4,000磅</td><td>10英尺</td><td>10英尺</td><td>5英尺</td></tr>
-            <tr><td class="bold">超大型</td><td>32英尺</td><td>32,000磅</td><td>15英尺</td><td>15英尺</td><td>10英尺</td></tr>
-            <tr><td class="bold">巨型</td><td>64英尺</td><td>250,000磅</td><td>20英尺</td><td>20英尺</td><td>15英尺</td></tr>
+            <tr><td>大型</td><td>16英尺</td><td>4,000磅</td><td>10英尺</td><td>10英尺</td><td>5英尺</td></tr>
+            <tr><td>超大型</td><td>32英尺</td><td>32,000磅</td><td>15英尺</td><td>15英尺</td><td>10英尺</td></tr>
+            <tr><td>巨型</td><td>64英尺</td><td>250,000磅</td><td>20英尺</td><td>20英尺</td><td>15英尺</td></tr>
         </tbody>
     </table>
-    <div class="note">
+    <div>
         <p><b>注一：</b>二足生物为高度，四足生物为体长(从鼻尖到尾巴的基部)。</p>
         <p><b>注二：</b>假设该生物密度和一般动物近似。岩石构成的生物可能更重。气体构成的生物可能更轻。</p>
     </div>

@@ -3,7 +3,7 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第五章：制作怪物/预估挑战级数-2.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>预估挑战级数</h1>
     <p>再进入其他更复杂的设计步骤之前，你应该在心里先揣摩好怪物究竟有多强，并依此定出挑战级数。挑战级数代表这只怪物能和几级的人物抗衡。设定怪物的生命骰、防御等级、攻击加值、特殊攻击、豁免检定和其他相关数据时，请以挑战级数为基准。</p>
     <p>举例而言，如果你希望做出一个只适合2级人物冒险队伍战斗用的怪物，它的AC就不应该是25。强悍的2级战士的攻击加值也许可以到达+6，也就是说，最强的人物必须掷出19或20才能打中这只怪物，牧师、游荡者或其他人物根本只有掷出20才能命中。</p>
@@ -22,33 +22,33 @@ type: text/vnd.tiddlywiki
     <p>值得注意的是，体型代表的是生物的物理体积而不是重量。如果生物密度偏高或偏低，体重就不会和体型成正比。举例来说，人类的幽魂几乎没有重量，但体型却是中型。</p>
     <p>生物体型会影响属性值和生命骰。表5-1中列举了不同体型生物的属性值、生命骰以及天生武器伤害值。这些数据可以作为参考，但并非绝对，本书中许多怪物就符合这些表列数据。</p>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">体型</th>
-                    <th class="col-1">挑战级数下限</th>
-                    <th class="col-1">力量</th>
-                    <th class="col-1">敏捷</th>
-                    <th class="col-1">体质</th>
-                    <th class="col-1">生命骰下限</th>
-                    <th class="col-1">生命骰上限</th>
-                    <th class="col-1">挥击或触手</th>
-                    <th class="col-1">啮咬</th>
-                    <th class="col-1">爪抓或螯刺</th>
-                    <th class="col-1">抵撞或尾巴</th>
+                    <th>体型</th>
+                    <th>挑战级数下限</th>
+                    <th>力量</th>
+                    <th>敏捷</th>
+                    <th>体质</th>
+                    <th>生命骰下限</th>
+                    <th>生命骰上限</th>
+                    <th>挥击或触手</th>
+                    <th>啮咬</th>
+                    <th>爪抓或螯刺</th>
+                    <th>抵撞或尾巴</th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">超微型</td><td>—</td><td>1</td><td>16-27</td><td>2-11</td><td>—</td><td>2</td><td>—</td><td>—</td><td>1</td><td>1</td></tr>
-                <tr><td class="col-1">微型</td><td>—</td><td>1</td><td>14-25</td><td>4-13</td><td>—</td><td>4</td><td>1</td><td>1</td><td>1d2</td><td>1</td></tr>
-                <tr><td class="col-1">超小型</td><td>—</td><td>2-5</td><td>12-23</td><td>4-15</td><td>—</td><td>6</td><td>1</td><td>1d2</td><td>1d2</td><td>1d2</td></tr>
-                <tr><td class="col-1">小型</td><td>—</td><td>4-11</td><td>10-20</td><td>6-17</td><td>1/2</td><td>—</td><td>1d3</td><td>1d3</td><td>1d3</td><td>1d4</td></tr>
-                <tr><td class="col-1">中型</td><td>—</td><td>8-19</td><td>8-19</td><td>8-19</td><td>1</td><td>—</td><td>1d4</td><td>1d4</td><td>1d4</td><td>1d6</td></tr>
-                <tr><td class="col-1">大型</td><td>2</td><td>18-27</td><td>6-17</td><td>10-23</td><td>2</td><td>—</td><td>1d6</td><td>1d8</td><td>1d6</td><td>1d8</td></tr>
-                <tr><td class="col-1">超大型</td><td>4</td><td>24-33</td><td>4-15</td><td>12-27</td><td>4</td><td>—</td><td>1d8</td><td>2d6</td><td>1d8</td><td>2d6</td></tr>
-                <tr><td class="col-1">巨型</td><td>6</td><td>30-41</td><td>4-13</td><td>14-31</td><td>12</td><td>—</td><td>2d6</td><td>2d8</td><td>2d6</td><td>2d8</td></tr>
-                <tr><td class="col-1">超巨型</td><td>10</td><td>36-49</td><td>2-11</td><td>18-39</td><td>24</td><td>—</td><td>2d8</td><td>4d6</td><td>2d8</td><td>4d6</td></tr>
+                <tr><td>超微型</td><td>—</td><td>1</td><td>16-27</td><td>2-11</td><td>—</td><td>2</td><td>—</td><td>—</td><td>1</td><td>1</td></tr>
+                <tr><td>微型</td><td>—</td><td>1</td><td>14-25</td><td>4-13</td><td>—</td><td>4</td><td>1</td><td>1</td><td>1d2</td><td>1</td></tr>
+                <tr><td>超小型</td><td>—</td><td>2-5</td><td>12-23</td><td>4-15</td><td>—</td><td>6</td><td>1</td><td>1d2</td><td>1d2</td><td>1d2</td></tr>
+                <tr><td>小型</td><td>—</td><td>4-11</td><td>10-20</td><td>6-17</td><td>1/2</td><td>—</td><td>1d3</td><td>1d3</td><td>1d3</td><td>1d4</td></tr>
+                <tr><td>中型</td><td>—</td><td>8-19</td><td>8-19</td><td>8-19</td><td>1</td><td>—</td><td>1d4</td><td>1d4</td><td>1d4</td><td>1d6</td></tr>
+                <tr><td>大型</td><td>2</td><td>18-27</td><td>6-17</td><td>10-23</td><td>2</td><td>—</td><td>1d6</td><td>1d8</td><td>1d6</td><td>1d8</td></tr>
+                <tr><td>超大型</td><td>4</td><td>24-33</td><td>4-15</td><td>12-27</td><td>4</td><td>—</td><td>1d8</td><td>2d6</td><td>1d8</td><td>2d6</td></tr>
+                <tr><td>巨型</td><td>6</td><td>30-41</td><td>4-13</td><td>14-31</td><td>12</td><td>—</td><td>2d6</td><td>2d8</td><td>2d6</td><td>2d8</td></tr>
+                <tr><td>超巨型</td><td>10</td><td>36-49</td><td>2-11</td><td>18-39</td><td>24</td><td>—</td><td>2d8</td><td>4d6</td><td>2d8</td><td>4d6</td></tr>
             </tbody>
         </table>
     </div>

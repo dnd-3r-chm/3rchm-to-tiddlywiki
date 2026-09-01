@@ -171,7 +171,11 @@ def convert_book(prefix):
         try:
             text = cp.read_text(src_path)
             body = cp.extract_body(text)
-            body = cp.clean_html(body)
+            # 构造「书」归属（与 strip_hooks.book_of 对齐）：
+            # 0 核心三宝书\XXX\... -> XXX；10 附录\... -> 10 附录
+            _parts = rel.split("\\")
+            book = _parts[1] if _parts[0] == "0 核心三宝书" and len(_parts) > 1 else _parts[0]
+            body = cp.clean_html(body, book)
             base_rel_dir = os.path.dirname(rel) if "\\" in rel else ""
             body = cp.rewrite_images(body, base_rel_dir)
             body = cp.rewrite_links(body, mapping, base_rel_dir)

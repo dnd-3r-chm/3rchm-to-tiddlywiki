@@ -9,9 +9,9 @@ type: text/vnd.tiddlywiki
 
 <p>制造魔法卷轴时，制造者需要一些文书工具。这些器材成本已经包含在制造成本中，也就是"12.5x法术等级x施法者等级"的金币。用来制造卷轴的器材和原料必须干净清洁。无论制造者之前已经抄写过多少次相同的法术，每份卷轴的制造耗费都不变。</p>
 
-<div class="table-title">卷轴基本价格(依职业区分)</div>
+<div>卷轴基本价格(依职业区分)</div>
 <table>
-    <colgroup><col style="width:14%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"></colgroup>
+    <colgroup><col><col><col><col><col></colgroup>
     <tr>
         <th>法术等级</th>
         <th>牧师、德鲁伊、法师</th>
@@ -30,11 +30,11 @@ type: text/vnd.tiddlywiki
     <tr><td>八级</td><td>3,000金币</td><td>3,200金币</td><td>—</td><td>—</td></tr>
     <tr><td>九级</td><td>3,825金币</td><td>4,050金币</td><td>—</td><td>—</td></tr>
 </table>
-<p class="note">(注一)施法者等级为职业等级的一半。本表列出的卷轴价格皆以最低施法者等级计算。</p>
+<p>(注一)施法者等级为职业等级的一半。本表列出的卷轴价格皆以最低施法者等级计算。</p>
 
-<div class="table-title">抄写卷轴的基本魔法供应品和经验值成本(依职业区分)</div>
+<div>抄写卷轴的基本魔法供应品和经验值成本(依职业区分)</div>
 <table>
-    <colgroup><col style="width:14%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"></colgroup>
+    <colgroup><col><col><col><col><col></colgroup>
     <tr>
         <th>法术等级</th>
         <th>牧师、德鲁伊、法师</th>
@@ -53,11 +53,11 @@ type: text/vnd.tiddlywiki
     <tr><td>八级</td><td>1,500金币+120XP</td><td>1,600金币+128XP</td><td>—</td><td>—</td></tr>
     <tr><td>九级</td><td>1,912金币5银币+153XP</td><td>2,025金币+162XP</td><td>—</td><td>—</td></tr>
 </table>
-<p class="note">(注一)施法者等级为职业等级的一半。本表列出的卷轴成本皆以最低施法者等级计算。</p>
+<p>(注一)施法者等级为职业等级的一半。本表列出的卷轴成本皆以最低施法者等级计算。</p>
 
 <p>制造者必须事先准备要抄在卷轴上的法术(对吟游诗人或术士而言，已知该法术即可)，而且必须提供所有材料或器材。如果该法术需要消耗经验值，制作者一开始就必须先付出这些经验值，再加上制作卷轴本身需要的经验值。制造一开始，材料就会消耗掉，但器材不会(下次还可用来制作其他卷轴)。制作物品时需要用到的准备好的法术，除非制造者休息或重新获得这些法术，否则便不能再施展已用于制造物品的法术。换句话说，这些法术栏位已被用掉，就像施展过了一样。</p>
 
 <p>制造卷轴需要的天数等于基本价格金币数除以1,000(取整数)。</p>
-<p style="text-indent:2em; margin-top:5px;">制造卷轴需要的专长：抄写卷轴。</p>
+<p>制造卷轴需要的专长：抄写卷轴。</p>
 
 

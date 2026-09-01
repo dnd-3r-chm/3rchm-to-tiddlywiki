@@ -3,17 +3,17 @@ tags: [[0 核心三宝书]] [[PHB玩家手册]]
 source: 0 核心三宝书/PHB玩家手册/11法术/法术描述/J.htm
 type: text/vnd.tiddlywiki
 
-<div class=Section1 style='layout-grid:15.6pt'>
+<div style='layout-grid:15.6pt'>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0'><b
 
 style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
 
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-fareast-language:
 
-ZH-CN'>跳跃术<span class=GramE>(</span></span></b><b style='mso-bidi-font-weight:
+ZH-CN'>跳跃术<span>(</span></span></b><b style='mso-bidi-font-weight:
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
@@ -25,21 +25,21 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 normal'><span lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:
 
-ZH-CN'><o:p></o:p></span></b></p>
+ZH-CN'></span></b></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
 mso-hansi-font-family:"Times New Roman";mso-fareast-language:ZH-CN'>变化系</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -55,7 +55,7 @@ style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
 style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
 
-"Times New Roman";mso-fareast-language:ZH-CN'>、<span class=GramE>巡林客</span></span><span
+"Times New Roman";mso-fareast-language:ZH-CN'>、<span>巡林客</span></span><span
 
 lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
@@ -65,11 +65,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'>1</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -81,11 +81,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>言语、姿势、材料</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -99,11 +99,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>标准动作</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -115,11 +115,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>接触</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -131,11 +131,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>接触到的生物</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -149,11 +149,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>分钟／每等级(解消)</span><span
 
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -165,11 +165,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>意志过无效(无害)</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.1pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.1pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><b style='mso-bidi-font-weight:normal'><span
 
@@ -181,11 +181,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>可</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
 
@@ -221,11 +221,11 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>(最大)。</span><span lang=EN-US
 
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+style='mso-fareast-language:ZH-CN'></span></p>
 
 
 
-<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0;
+<p style='text-indent:24.0pt;mso-char-indent-count:2.0;
 
 tab-stops:108.0pt'><i style='mso-bidi-font-style:normal'><span
 
@@ -237,7 +237,7 @@ style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font
 
 "Times New Roman";mso-fareast-language:ZH-CN'>一只蚱蜢后腿，在施法时折断。</span><span
 
-lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+lang=EN-US style='mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN'></span></p>
 
 
 

@@ -22,7 +22,7 @@ type: text/vnd.tiddlywiki
 <tr><td>60</td><td>半身铠甲</td><td>+750金币</td></tr>
 <tr><td>61-100</td><td>全身铠甲</td><td>+1,650金币</td></tr>
 </table>
-<div class="notes">
+<div>
     <p>所有魔法盔甲都是精制盔甲(比一般盔甲少1点防具检定减值)。</p>
     <p>(注一)加上表7-2：盔甲与盾牌中的价格以决定交易价格。</p>
 </div>

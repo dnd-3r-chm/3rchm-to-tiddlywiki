@@ -3,42 +3,42 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第五章：制作怪物/亚种与生命骰-3.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>亚种</h1>
     <p>与某种元素或能量形态有关联的怪物会被归类于特定亚种，在叙述文字中通常会以括号列举于生物类别之后。有些亚种代表的是生物类别以下更细的分类，如：不死生物(虚体)。有些亚种是同一生物类别具有的相同特征，如：人形生物(类地精)。</p>
     <p>常见的亚种及其特征请见以下说明，细节可以参见第七章。</p>
-    <div class="list-item"><span class="highlight">风系亚种(Air)：</span>此亚种与风元素界有不可分割的关联，通常是元素或异界生物。</div>
-    <div class="list-item"><span class="highlight">天使亚种(Angel)：</span>此亚种生物都属于天使之一，彼此之间具有类似特性。</div>
-    <div class="list-item"><span class="highlight">水生亚种(Aquatic)：</span>水生生物可以在水中呼吸，但不能在空气中呼吸。</div>
-    <div class="list-item"><span class="highlight">亚空亚种(Archon)：</span>此亚种生物都属于亚空神族之一，彼此之间具有类似特性。</div>
-    <div class="list-item"><span class="highlight">强力亚种(Augmented)：</span>由于成为范本生物而改变类别的生物就属于此亚种。</div>
-    <div class="list-item"><span class="highlight">巴特亚种(Baatezu)：</span>魔鬼的一支，又称为巴特魔，彼此之间具有类似特性。</div>
-    <div class="list-item"><span class="highlight">混乱亚种(Chaos)：</span>此亚种与混乱阵营的外层界有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
-    <div class="list-item"><span class="highlight">寒系亚种(Cold)：</span>此亚种对寒冷免疫，但容易受到火焰伤害。</div>
-    <div class="list-item"><span class="highlight">土系亚种(Earth)：</span>此亚种与土元素界有不可分割的关联，通常是元素或异界生物。</div>
-    <div class="list-item"><span class="highlight">爱拉亚种(Eladrin)：</span>天界生物的一支，又称为爱拉天族，彼此之间具有类似特性。</div>
-    <div class="list-item"><span class="highlight">邪恶亚种(Evil)：</span>此亚种与邪恶阵营的外层界有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
-    <div class="list-item"><span class="highlight">外界亚种(Extraplanar)：</span>原生界域并非物质界的生物，通常是元素或异界生物，会受到放逐或驱逐外界生物的法术影响。</div>
-    <div class="list-item"><span class="highlight">火系亚种(Fire)：</span>此亚种对火焰免疫，但容易受到寒冷伤害。</div>
-    <div class="list-item"><span class="highlight">地精亚种(Goblinoid)：</span>属于地精族之一。</div>
-    <div class="list-item"><span class="highlight">善良亚种(Good)：</span>此亚种与善良阵营的外界层有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
-    <div class="list-item"><span class="highlight">盖丁亚种(Guardinal)：</span>天界生物的一支，彼此之间具有类似特性。</div>
-    <div class="list-item"><span class="highlight">虚体亚种(Incorporeal)：</span>在物质界完全没有实体的生物，可以穿过坚实物体。</div>
-    <div class="list-item"><span class="highlight">守序亚种(Lawful)：</span>此亚种与守序阵营的外层界有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
-    <div class="list-item"><span class="highlight">原生亚种(Native)：</span>原生于物质界的异界生物。</div>
-    <div class="list-item"><span class="highlight">爬行亚种(Reptilian)：</span>人形生物且具有爬行生物的特征。</div>
-    <div class="list-item"><span class="highlight">变形亚种(Shapechanger)：</span>天生具有变形能力，可以变成不同样貌。</div>
-    <div class="list-item"><span class="highlight">生物群亚种(Swarm)：</span>成千上百小生物集合而成的生物群。</div>
-    <div class="list-item"><span class="highlight">塔那亚亚种(Tanar'ri)：</span>恶魔的一支，又称为塔那恶魔，彼此之间具有类似特性。</div>
-    <div class="list-item"><span class="highlight">水系亚种(Water)：</span>此亚种与水元素界有不可分割的关联，通常是元素或异界生物。</div>
+    <div><span>风系亚种(Air)：</span>此亚种与风元素界有不可分割的关联，通常是元素或异界生物。</div>
+    <div><span>天使亚种(Angel)：</span>此亚种生物都属于天使之一，彼此之间具有类似特性。</div>
+    <div><span>水生亚种(Aquatic)：</span>水生生物可以在水中呼吸，但不能在空气中呼吸。</div>
+    <div><span>亚空亚种(Archon)：</span>此亚种生物都属于亚空神族之一，彼此之间具有类似特性。</div>
+    <div><span>强力亚种(Augmented)：</span>由于成为范本生物而改变类别的生物就属于此亚种。</div>
+    <div><span>巴特亚种(Baatezu)：</span>魔鬼的一支，又称为巴特魔，彼此之间具有类似特性。</div>
+    <div><span>混乱亚种(Chaos)：</span>此亚种与混乱阵营的外层界有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
+    <div><span>寒系亚种(Cold)：</span>此亚种对寒冷免疫，但容易受到火焰伤害。</div>
+    <div><span>土系亚种(Earth)：</span>此亚种与土元素界有不可分割的关联，通常是元素或异界生物。</div>
+    <div><span>爱拉亚种(Eladrin)：</span>天界生物的一支，又称为爱拉天族，彼此之间具有类似特性。</div>
+    <div><span>邪恶亚种(Evil)：</span>此亚种与邪恶阵营的外层界有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
+    <div><span>外界亚种(Extraplanar)：</span>原生界域并非物质界的生物，通常是元素或异界生物，会受到放逐或驱逐外界生物的法术影响。</div>
+    <div><span>火系亚种(Fire)：</span>此亚种对火焰免疫，但容易受到寒冷伤害。</div>
+    <div><span>地精亚种(Goblinoid)：</span>属于地精族之一。</div>
+    <div><span>善良亚种(Good)：</span>此亚种与善良阵营的外界层有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
+    <div><span>盖丁亚种(Guardinal)：</span>天界生物的一支，彼此之间具有类似特性。</div>
+    <div><span>虚体亚种(Incorporeal)：</span>在物质界完全没有实体的生物，可以穿过坚实物体。</div>
+    <div><span>守序亚种(Lawful)：</span>此亚种与守序阵营的外层界有不可分割的关联，通常是异界生物，会受到特定阵营法术影响。</div>
+    <div><span>原生亚种(Native)：</span>原生于物质界的异界生物。</div>
+    <div><span>爬行亚种(Reptilian)：</span>人形生物且具有爬行生物的特征。</div>
+    <div><span>变形亚种(Shapechanger)：</span>天生具有变形能力，可以变成不同样貌。</div>
+    <div><span>生物群亚种(Swarm)：</span>成千上百小生物集合而成的生物群。</div>
+    <div><span>塔那亚亚种(Tanar'ri)：</span>恶魔的一支，又称为塔那恶魔，彼此之间具有类似特性。</div>
+    <div><span>水系亚种(Water)：</span>此亚种与水元素界有不可分割的关联，通常是元素或异界生物。</div>
 
     <h2>生命骰</h2>
     <p>此项目包括生命骰的数量和种类(面数)，以及生命值加值。生命骰的类别由生物类别所决定，而加值则是来自于生物的生命骰和体质值。</p>
     <p>生命骰之后的括号内会列出生物的平均生命值。平均生命值的计算方法是指取每个生命骰的平均值，再加上体质调整值后(每个生命骰至少有1点生命值)，最后乘以生命骰，小数点以下舍去。</p>
 
-    <div class="table-wrap">
+    <div>
         <table>
-            <thead><tr><th class="col-1">生命骰种类</th><th class="col-1">平均值</th></tr></thead>
+            <thead><tr><th>生命骰种类</th><th>平均值</th></tr></thead>
             <tbody>
                 <tr><td>1d4</td><td>2.5</td></tr>
                 <tr><td>1d6</td><td>3.5</td></tr>

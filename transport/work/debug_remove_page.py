@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
 import os
 import re
 import sys
 
-sys.path.insert(0, r"E:\dnd3r_full\transport\work")
+sys.path.insert(0, P.WORK)
 sys.stdout.reconfigure(encoding="utf-8")
 
 import clean_dmg_classes as c
 
 # 读取转换后的 tid（目前已被清空），但用源 body 测试
-src_path = r"E:\dnd3r_full\0 核心三宝书\DMG城主指南\所有DMG表格\表3-5：宝藏.htm"
+src_path = os.path.join(P.ROOT, "0 核心三宝书", "DMG城主指南", "所有DMG表格", "表3-5：宝藏.htm")
 raw = open(src_path, "rb").read()
 try:
     text = raw.decode("utf-8")

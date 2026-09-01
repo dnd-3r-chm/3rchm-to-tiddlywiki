@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>各种族人口分布</h1>
 <p>种族分布会依社区与外界交往的程度而定，孤立式社区较不与其他种族和地区往来，混合式社区偶尔会与其他种族和地区往来，融合式社区则常常与其他种族和地区往来。</p>
 
-<table class="class-table">
+<table>
 <tr><th>孤立式</th><th>混合式</th><th>融合式</th></tr>
 <tr><td>96% 人类</td><td>79% 人类</td><td>37% 人类</td></tr>
 <tr><td>2% 半身人</td><td>9% 半身人</td><td>20% 半身人</td></tr>

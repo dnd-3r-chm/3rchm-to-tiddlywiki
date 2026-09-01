@@ -1,0 +1,27 @@
+title: 14级地下城事件遭遇 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/14级地下城事件遭遇.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>14级地下城事件遭遇</div>
+    <table>
+        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <tbody>
+            <tr><td class="dice">01–10</td><td class="desc">掷13级事件遭遇表</td></tr>
+            <tr><td class="dice">11–15</td><td class="desc">1个星界使徒(天使)</td></tr>
+            <tr><td class="dice">16–20</td><td class="desc">1个号手神使</td></tr>
+            <tr><td class="dice">21–27</td><td class="desc">1d3+1个狂战魔(魔鬼)</td></tr>
+            <tr><td class="dice">28–35</td><td class="desc">1个判魂魔(魔鬼)</td></tr>
+            <tr><td class="dice">36–45</td><td class="desc">1d3+1个猎魔</td></tr>
+            <tr><td class="dice">46–52</td><td class="desc">2个移位兽王</td></tr>
+            <tr><td class="dice">53–63</td><td class="desc">2d4+2个石巨人与1个年长石巨人</td></tr>
+            <tr><td class="dice">64–69</td><td class="desc">1d3+1个石魔像</td></tr>
+            <tr><td class="dice">70–78</td><td class="desc">1个狼人王(兽化人)</td></tr>
+            <tr><td class="dice">79–80</td><td class="desc">1个飞翼夜影(夜影)</td></tr>
+            <tr><td class="dice">81–83</td><td class="desc">1d4+2个10级地精游荡者NPC</td></tr>
+            <tr><td class="dice">84–90</td><td class="desc">1个盖恐怖士巨怪</td></tr>
+            <tr><td class="dice">91–100</td><td class="desc">掷15级事件遭遇表</td></tr>
+        </tbody>
+    </table>
+</div>

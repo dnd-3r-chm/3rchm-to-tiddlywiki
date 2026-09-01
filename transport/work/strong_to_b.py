@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """全库替换 <strong> -> <b>、</strong> -> </b>（用户规则 2026-08-30）。跳过 $__ 系统文件。"""
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI = r"E:\dnd3r_full\transport\wiki\tiddlers"
+WIKI = P.WIKI_TIDDLERS
 
 files_changed = 0
 tags_changed = 0

@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 <p>银灰色的烟霭环绕玩家人物，向四面八方延伸。地图上唯一标记是一个直径10英尺的彩色池塘，这是通往其他位面的天然传送门，目的地随机决定。70%的彩色池塘为单向门。</p>
 
 <h2>星界事件遭遇(EL11)</h2>
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>遭遇</th><th>平均EL</th></tr>
 <tr><td>01-15</td><td>1个星界使徒(天使)</td><td>14</td></tr>
 <tr><td>16-25</td><td>1个青年红龙</td><td>13</td></tr>

@@ -1,0 +1,30 @@
+title: 巨螳螂 (MM-怪物图鉴)
+tags: [[0 核心三宝书]] [[MM怪物图鉴]]
+source: 0 核心三宝书/MM怪物图鉴/第三章：虫类生物/巨螳螂.htm
+type: text/vnd.tiddlywiki
+
+<div class="container"><h1>巨螳螂 (Giant Praying Mantis)</h1>
+<div class="table-wrap"><table><thead><tr><th class="col-1">资料栏位</th><th class="col-data">巨螳螂<br><span style="font-weight:normal;font-size:13px;">大型虫类</span></th></tr></thead><tbody>
+<tr><td class="col-1">生命骰</td><td>4d8+8 (28HP)</td></tr>
+<tr><td class="col-1">先攻</td><td>-1</td></tr>
+<tr><td class="col-1">速度</td><td>20英尺 (4格)、飞行40英尺 (不良)</td></tr>
+<tr><td class="col-1">防御等级</td><td>14 (-1体型、-1敏捷、+6天生)、接触8、措手不及14</td></tr>
+<tr><td class="col-1">基本攻击/擒抱</td><td>+3 / +11</td></tr>
+<tr><td class="col-1">攻击</td><td>爪抓+6近战 (1d8+4)</td></tr>
+<tr><td class="col-1">全力攻击</td><td>2爪抓+6近战 (1d8+4) 及 啮咬+1近战 (1d6+2)</td></tr>
+<tr><td class="col-1">占用/触及</td><td>10英尺/5英尺</td></tr>
+<tr><td class="col-1">特殊攻击</td><td>精通擒抱</td></tr>
+<tr><td class="col-1">特殊能力</td><td>黑暗视觉60英尺、虫类特性</td></tr>
+<tr><td class="col-1">豁免</td><td>强韧+6、反射+0、意志+3</td></tr>
+<tr><td class="col-1">属性</td><td>力量19、敏捷8、体质15、智力—、感知14、魅力11</td></tr>
+<tr><td class="col-1">技能</td><td>躲藏-1*、侦察+6</td></tr>
+<tr><td class="col-1">专长</td><td>—</td></tr>
+<tr><td class="col-1">环境</td><td>温带森林</td></tr>
+<tr><td class="col-1">组织</td><td>单独</td></tr>
+<tr><td class="col-1">挑战级数</td><td>3</td></tr>
+<tr><td class="col-1">进化</td><td>5-8HD (大型) ; 9-12HD (超大型)</td></tr>
+<tr><td class="col-1">等级修正值</td><td>—</td></tr>
+</tbody></table></div>
+<p>巨螳螂是非常有耐性的肉食昆虫，会一动也不动地静候猎物自己送上门。</p>
+<div class="ability-box"><p><b>战斗：</b>巨螳螂利用爪抓击中对手，即可利用即时动作进行擒抱攻击。通过擒抱检定的巨螳螂可定住对手并同时进行啮咬攻击。<br><b>技能：</b>巨螳螂在进行"躲藏"和"侦察"检定时具有+4种族加值。*因为身具保护色，巨螳螂在树林中进行"躲藏"检定时具有+12种族加值。</p></div>
+</div>

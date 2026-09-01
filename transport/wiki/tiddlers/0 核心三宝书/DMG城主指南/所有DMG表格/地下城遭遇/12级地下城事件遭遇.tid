@@ -3,30 +3,30 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/12级地下城事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>12级地下城事件遭遇</div>
     <table>
-        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <thead><tr><th>百分骰</th><th>事件遭遇</th></tr></thead>
         <tbody>
-            <tr><td class="dice">01–10</td><td class="desc">掷11级事件遭遇表</td></tr>
-            <tr><td class="dice">11–14</td><td class="desc">1d3+1个波达户</td></tr>
-            <tr><td class="dice">15–17</td><td class="desc">1个深渊高等石化蜥蜴</td></tr>
-            <tr><td class="dice">18–24</td><td class="desc">1d3+1个弗洛魔(魔鬼)</td></tr>
-            <tr><td class="dice">25–27</td><td class="desc">1d3+3个暗音盲怪</td></tr>
-            <tr><td class="dice">28–34</td><td class="desc">1d3+1个骨魔</td></tr>
-            <tr><td class="dice">35–38</td><td class="desc">1个移位兽王</td></tr>
-            <tr><td class="dice">39–45</td><td class="desc">1d4+1个霜巨人</td></tr>
-            <tr><td class="dice">46–48</td><td class="desc">1个狮天使(盖丁天族)</td></tr>
-            <tr><td class="dice">49–52</td><td class="desc">1个多头蛇蜥(十一头，炎蛇蜥或寒蛇蜥)</td></tr>
-            <tr><td class="dice">53–55</td><td class="desc">1个猎背信使(猎罪使)</td></tr>
-            <tr><td class="dice">56–58</td><td class="desc">1d3+2个夺心魔</td></tr>
-            <tr><td class="dice">59–62</td><td class="desc">10级半兽人野蛮人NPC与10级人类牧师NPC</td></tr>
-            <tr><td class="dice">63–66</td><td class="desc">1d3+1个幽魂纳迦</td></tr>
-            <tr><td class="dice">67–72</td><td class="desc">1个紫虫</td></tr>
-            <tr><td class="dice">73–77</td><td class="desc">1个树绳妖</td></tr>
-            <tr><td class="dice">78–84</td><td class="desc">1d3个贵族火蜥蜴</td></tr>
-            <tr><td class="dice">85–90</td><td class="desc">1d4+1个史拉绿蟾</td></tr>
-            <tr><td class="dice">91–100</td><td class="desc">掷13级事件遭遇表</td></tr>
+            <tr><td>01–10</td><td>掷11级事件遭遇表</td></tr>
+            <tr><td>11–14</td><td>1d3+1个波达户</td></tr>
+            <tr><td>15–17</td><td>1个深渊高等石化蜥蜴</td></tr>
+            <tr><td>18–24</td><td>1d3+1个弗洛魔(魔鬼)</td></tr>
+            <tr><td>25–27</td><td>1d3+3个暗音盲怪</td></tr>
+            <tr><td>28–34</td><td>1d3+1个骨魔</td></tr>
+            <tr><td>35–38</td><td>1个移位兽王</td></tr>
+            <tr><td>39–45</td><td>1d4+1个霜巨人</td></tr>
+            <tr><td>46–48</td><td>1个狮天使(盖丁天族)</td></tr>
+            <tr><td>49–52</td><td>1个多头蛇蜥(十一头，炎蛇蜥或寒蛇蜥)</td></tr>
+            <tr><td>53–55</td><td>1个猎背信使(猎罪使)</td></tr>
+            <tr><td>56–58</td><td>1d3+2个夺心魔</td></tr>
+            <tr><td>59–62</td><td>10级半兽人野蛮人NPC与10级人类牧师NPC</td></tr>
+            <tr><td>63–66</td><td>1d3+1个幽魂纳迦</td></tr>
+            <tr><td>67–72</td><td>1个紫虫</td></tr>
+            <tr><td>73–77</td><td>1个树绳妖</td></tr>
+            <tr><td>78–84</td><td>1d3个贵族火蜥蜴</td></tr>
+            <tr><td>85–90</td><td>1d4+1个史拉绿蟾</td></tr>
+            <tr><td>91–100</td><td>掷13级事件遭遇表</td></tr>
         </tbody>
     </table>
 </div>

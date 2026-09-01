@@ -2,6 +2,7 @@
 """DRY-RUN：计算标题新格式 具体标题 (缩写-书名) / 具体标题 (所属内容)，预览变化。
 不写任何文件。
 """
+import _paths as P
 import collections
 import csv
 import os
@@ -10,7 +11,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-FINAL_MAPPING = r"E:\dnd3r_full\transport\work\final_mapping.csv"
+FINAL_MAPPING = os.path.join(P.WORK, "final_mapping.csv")
 
 
 def calc_new(row):

@@ -3,36 +3,36 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/2级地下城事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>2级地下城事件遭遇</div>
     <table>
-        <thead><tr><th style="width:20%">百分骰</th><th style="width:80%">事件遭遇</th></tr></thead>
+        <thead><tr><th>百分骰</th><th>事件遭遇</th></tr></thead>
         <tbody>
-            <tr><td class="dice">01–10</td><td class="desc">掷1级事件遭遇表</td></tr>
-            <tr><td class="dice">11–12</td><td class="desc">1个圣光神使</td></tr>
-            <tr><td class="dice">13–19</td><td class="desc">1个大地精武者与1d4个地精武者</td></tr>
-            <tr><td class="dice">20–23</td><td class="desc">1个熊地精</td></tr>
-            <tr><td class="dice">24–26</td><td class="desc">1个锁喉怪</td></tr>
-            <tr><td class="dice">27–28</td><td class="desc">1个怯魔(魔鬼)</td></tr>
-            <tr><td class="dice">29–30</td><td class="desc">1个夸塞魔(恶魔)</td></tr>
-            <tr><td class="dice">31–32</td><td class="desc">1个小魔鬼(魔鬼)</td></tr>
-            <tr><td class="dice">33–35</td><td class="desc">1只凶暴蝙蝠</td></tr>
-            <tr><td class="dice">36–38</td><td class="desc">1d4+1只炼狱凶暴鼠</td></tr>
-            <tr><td class="dice">39–40</td><td class="desc">1d3+1个弗米工蚁</td></tr>
-            <tr><td class="dice">41–43</td><td class="desc">1d3+1个半身人武者</td></tr>
-            <tr><td class="dice">44–50</td><td class="desc">2d4+1个狗头人武者</td></tr>
-            <tr><td class="dice">51–55</td><td class="desc">1个鼠人(兽化人)</td></tr>
-            <tr><td class="dice">56–62</td><td class="desc">1d3+1个兽人武者</td></tr>
-            <tr><td class="dice">63–65</td><td class="desc">1只电蜥蜴</td></tr>
-            <tr><td class="dice">66–68</td><td class="desc">1个枭头熊骷髅</td></tr>
-            <tr><td class="dice">69–70</td><td class="desc">1个蝙蝠群</td></tr>
-            <tr><td class="dice">71–72</td><td class="desc">1个鼠群</td></tr>
-            <tr><td class="dice">73–74</td><td class="desc">1只土烂虫</td></tr>
-            <tr><td class="dice">75–79</td><td class="desc">1头座狼</td></tr>
-            <tr><td class="dice">80–83</td><td class="desc">1条(动物)</td></tr>
-            <tr><td class="dice">84–87</td><td class="desc">1d4+2小毒蛇(动物)</td></tr>
-            <tr><td class="dice">88–90</td><td class="desc">1超大型变种(虫类生物)</td></tr>
-            <tr><td class="dice">91–100</td><td class="desc">掷3级事件遭遇表</td></tr>
+            <tr><td>01–10</td><td>掷1级事件遭遇表</td></tr>
+            <tr><td>11–12</td><td>1个圣光神使</td></tr>
+            <tr><td>13–19</td><td>1个大地精武者与1d4个地精武者</td></tr>
+            <tr><td>20–23</td><td>1个熊地精</td></tr>
+            <tr><td>24–26</td><td>1个锁喉怪</td></tr>
+            <tr><td>27–28</td><td>1个怯魔(魔鬼)</td></tr>
+            <tr><td>29–30</td><td>1个夸塞魔(恶魔)</td></tr>
+            <tr><td>31–32</td><td>1个小魔鬼(魔鬼)</td></tr>
+            <tr><td>33–35</td><td>1只凶暴蝙蝠</td></tr>
+            <tr><td>36–38</td><td>1d4+1只炼狱凶暴鼠</td></tr>
+            <tr><td>39–40</td><td>1d3+1个弗米工蚁</td></tr>
+            <tr><td>41–43</td><td>1d3+1个半身人武者</td></tr>
+            <tr><td>44–50</td><td>2d4+1个狗头人武者</td></tr>
+            <tr><td>51–55</td><td>1个鼠人(兽化人)</td></tr>
+            <tr><td>56–62</td><td>1d3+1个兽人武者</td></tr>
+            <tr><td>63–65</td><td>1只电蜥蜴</td></tr>
+            <tr><td>66–68</td><td>1个枭头熊骷髅</td></tr>
+            <tr><td>69–70</td><td>1个蝙蝠群</td></tr>
+            <tr><td>71–72</td><td>1个鼠群</td></tr>
+            <tr><td>73–74</td><td>1只土烂虫</td></tr>
+            <tr><td>75–79</td><td>1头座狼</td></tr>
+            <tr><td>80–83</td><td>1条(动物)</td></tr>
+            <tr><td>84–87</td><td>1d4+2小毒蛇(动物)</td></tr>
+            <tr><td>88–90</td><td>1超大型变种(虫类生物)</td></tr>
+            <tr><td>91–100</td><td>掷3级事件遭遇表</td></tr>
         </tbody>
     </table>
 </div>

@@ -22,13 +22,14 @@ CHM 源表格页自带内联 <style>，定义了：
 注意：命令行参数请用上面的 ASCII 代号，**不要传中文**
 （PowerShell 会破坏命令行中的中文字符）。
 """
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI = r"E:\dnd3r_full\transport\wiki\tiddlers"
+WIKI = P.WIKI_TIDDLERS
 
 # 要清理的 class 值（精确匹配单个 class 值，不影响 noindent/page 等其他类）
 TARGETS = {"g", "l", "w"}

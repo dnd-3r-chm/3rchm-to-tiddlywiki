@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>表7-23：奥术卷轴</h1>
 
 <!-- 零级奥术 -->
-<div class="level-title">零级奥术</div>
+<div>零级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -37,7 +37,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 一级奥术 -->
-<div class="level-title">一级奥术</div>
+<div>一级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -88,7 +88,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 二级奥术 -->
-<div class="level-title">二级奥术</div>
+<div>二级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -154,7 +154,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 三级奥术 -->
-<div class="level-title">三级奥术</div>
+<div>三级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -209,7 +209,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 四级奥术 -->
-<div class="level-title">四级奥术</div>
+<div>四级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -268,7 +268,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 五级奥术 -->
-<div class="level-title">五级奥术</div>
+<div>五级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -321,13 +321,13 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>腹语术</td><td>1,125金币</td></tr>
 </table>
 
-<div class="notes-block">
+<div>
     <p>(注一)材料成分成本不能超过 1,000 金币，经验值耗费不能超过 300 点。</p>
     <p>(注二)材料成分成本不能超过 10,000 金币，经验值耗费不能超过 5,000 点。</p>
 </div>
 
 <!-- 六级奥术 -->
-<div class="level-title">六级奥术</div>
+<div>六级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -385,7 +385,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 七级奥术 -->
-<div class="level-title">七级奥术</div>
+<div>七级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -426,13 +426,13 @@ type: text/vnd.tiddlywiki
 <tr><td>98-100</td><td>力墙术</td><td>2,275金币</td></tr>
 </table>
 
-<div class="notes-block">
+<div>
     <p>(注一)材料成分成本不能超过 1,000 金币，经验值耗费不能超过 300 点。</p>
     <p>(注二)经验值耗费不超过 1000 金币。</p>
 </div>
 
 <!-- 八级奥术 -->
-<div class="level-title">八级奥术</div>
+<div>八级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -475,12 +475,12 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>锢魂术</td><td>13,000金币</td></tr>
 </table>
 
-<div class="notes-block">
+<div>
     <p>(注一)生物的HD不超过10。</p>
 </div>
 
 <!-- 九级奥术 -->
-<div class="level-title">九级奥术</div>
+<div>九级奥术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -511,12 +511,12 @@ type: text/vnd.tiddlywiki
 <tr><td>100</td><td>祈愿术</td><td>28,825金币</td></tr>
 </table>
 
-<div class="notes-block">
+<div>
     <p>(注一)如果材料成分成本不超过 10,000 金币，经验值耗费不超过 5,000 点。</p>
 </div>
 
 <!-- 底部规则注释 -->
-<div class="notes-block" style="border-top: 1px solid #b9a56b; padding-top: 12px;">
+<div>
     <ul>
 <li>卷轴所含法术种类(奥术或神术)和职业相符。施奥术者(法师、术士和吟游诗人)只能使用奥术卷轴；施神术者(牧师、德鲁伊、圣武士和游侠)只能使用神术卷轴(卷轴种类视制造者职业而定，例如：牧师制作的卷轴是神术卷轴，法师制作的是奥术卷轴)。</li>
 <li>使用者的职业法术列表中必须含有卷轴所含法术(见《玩家手册》第十一章各职业的法术列表)。</li>

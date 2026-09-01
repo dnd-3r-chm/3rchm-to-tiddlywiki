@@ -1,0 +1,29 @@
+title: 表7-3：随机盔甲类别 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表7-3：随机盔甲类别.htm
+type: text/vnd.tiddlywiki
+
+
+<h1>表7-3：随机盔甲类别</h1>
+<table>
+<tr>
+    <th>百分骰</th><th>盔甲</th><th>盔甲价格(注一)</th>
+</tr>
+<tr><td>01</td><td>厚布甲</td><td>+155金币</td></tr>
+<tr><td>02</td><td>皮甲</td><td>+160金币</td></tr>
+<tr><td>03-17</td><td>镶嵌皮甲</td><td>+175金币</td></tr>
+<tr><td>18-32</td><td>链甲衫</td><td>+250金币</td></tr>
+<tr><td>33-42</td><td>革甲</td><td>+165金币</td></tr>
+<tr><td>43</td><td>鳞甲</td><td>+200金币</td></tr>
+<tr><td>44</td><td>链甲</td><td>+300金币</td></tr>
+<tr><td>45-57</td><td>胸甲</td><td>+350金币</td></tr>
+<tr><td>58</td><td>板条甲</td><td>+350金币</td></tr>
+<tr><td>59</td><td>混织铁甲</td><td>+400金币</td></tr>
+<tr><td>60</td><td>半身铠甲</td><td>+750金币</td></tr>
+<tr><td>61-100</td><td>全身铠甲</td><td>+1,650金币</td></tr>
+</table>
+<div class="notes">
+    <p>所有魔法盔甲都是精制盔甲(比一般盔甲少1点防具检定减值)。</p>
+    <p>(注一)加上表7-2：盔甲与盾牌中的价格以决定交易价格。</p>
+</div>
+

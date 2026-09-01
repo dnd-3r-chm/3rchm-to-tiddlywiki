@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 <p>维持社区公权力的人不一定是掌权者本身，可能是一些既有的执法人员或组织。</p>
 <p>治安官 / 守卫队长 / 警长：通常由社区中最高等级的武者或战士担任，可参照下表使用百分骰随机决定。</p>
 
-<table class="class-table">
+<table>
 <tr><th>百分骰</th><th>出任</th></tr>
 <tr><td>01-60</td><td>等级最高的武者</td></tr>
 <tr><td>61-80</td><td>等级次高的战士</td></tr>

@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
 import os
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-root = r"E:\dnd3r_full\transport\wiki\tiddlers"
+root = P.WIKI_TIDDLERS
 hits = []
 for dirpath, _, names in os.walk(root):
     for name in names:

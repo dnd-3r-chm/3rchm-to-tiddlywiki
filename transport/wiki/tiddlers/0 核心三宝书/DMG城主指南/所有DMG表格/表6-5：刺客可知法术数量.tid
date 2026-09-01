@@ -27,7 +27,7 @@ type: text/vnd.tiddlywiki
 <tr><td>9</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
 <tr><td>10</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
 </table>
-<div class="notes">
+<div>
     <p>(注一)假设刺客的智力值足以获得该等级的额外法术。</p>
 </div>
 

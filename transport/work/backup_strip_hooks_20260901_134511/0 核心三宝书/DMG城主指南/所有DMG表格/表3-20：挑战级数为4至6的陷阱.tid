@@ -1,0 +1,50 @@
+title: 表3-20：挑战级数为4至6的陷阱 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-20：挑战级数为4至6的陷阱.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <div>表3-20：挑战级数为4至6的陷阱</div>
+    <table>
+        <thead><tr><th style="width:22%">百分骰</th><th style="width:58%">陷阱</th><th style="width:20%">CR</th></tr></thead>
+        <tbody>
+            <tr><td class="dice">01–02</td><td class="trap">"降咒"陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">03–05</td><td class="trap">掩藏陷坑陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">06–07</td><td class="trap">断柱崩梁陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">08–10</td><td class="trap">"守卫结界"陷阱(爆炸)</td><td class="cr">4</td></tr>
+            <tr><td class="dice">11–12</td><td class="trap">"闪电束"陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">13–15</td><td class="trap">陷坑陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">16–18</td><td class="trap">毒镖陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">19–21</td><td class="trap">"蛇纹法印"陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">22–24</td><td class="trap">尖刺陷坑陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">25–26</td><td class="trap">墙镶陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">27–29</td><td class="trap">水牢陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">30–32</td><td class="trap">阔口尖刺陷阱</td><td class="cr">4</td></tr>
+            <tr><td class="dice">33–35</td><td class="trap">掩藏陷坑陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">36–37</td><td class="trap">抹毒门把陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">38–40</td><td class="trap">落石陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">41–43</td><td class="trap">"火焰陷阱"</td><td class="cr">5</td></tr>
+            <tr><td class="dice">44–46</td><td class="trap">"火球术"陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">47–48</td><td class="trap">洪水陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">49–51</td><td class="trap">千镖齐发陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">52–53</td><td class="trap">活动巨斧雕像陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">54–55</td><td class="trap">"魅影杀手"陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">56–58</td><td class="trap">陷坑陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">59–61</td><td class="trap">墙里毒刺陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">62–64</td><td class="trap">尖刺陷坑陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">65–67</td><td class="trap">尖刺陷坑陷阱(80英尺深)</td><td class="cr">5</td></tr>
+            <tr><td class="dice">68–69</td><td class="trap">魔地尘雾陷阱</td><td class="cr">5</td></tr>
+            <tr><td class="dice">70–71</td><td class="trap">塌墙陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">72–74</td><td class="trap">压缩空间陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">75–77</td><td class="trap">"焰击术"陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">78–80</td><td class="trap">百矛齐飞陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">81–83</td><td class="trap">"守卫结界"陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">84–85</td><td class="trap">"闪电术"陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">86–88</td><td class="trap">崩落尖刺陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">89–91</td><td class="trap">尖刺陷坑陷阱(100英尺深)</td><td class="cr">6</td></tr>
+            <tr><td class="dice">92–94</td><td class="trap">旋风毒刃陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">95–97</td><td class="trap">阔口陷坑陷阱</td><td class="cr">6</td></tr>
+            <tr><td class="dice">98–100</td><td class="trap">翼龙毒箭陷阱</td><td class="cr">6</td></tr>
+        </tbody>
+    </table>
+</div>

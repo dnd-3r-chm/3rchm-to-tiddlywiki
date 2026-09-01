@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 <p>夸尔的羽符(Quaal's Feather Token)：具有不同功能的羽毛，每个羽符只能使用一次。种类说明如下：</p>
 
 <table>
-<colgroup><col style="width:20%;"><col style="width:65%;"><col style="width:15%;"></colgroup>
+<colgroup><col><col><col></colgroup>
 <tr>
     <th>羽符名称</th>
     <th>功能与说明</th>
@@ -47,6 +47,6 @@ type: text/vnd.tiddlywiki
 </tr>
 </table>
 
-<p style="text-indent:2em; margin-top:-5px;">中等咒法系。施法者等级：12。先决条件：制造奇物，"高等造物术"。</p>
+<p>中等咒法系。施法者等级：12。先决条件：制造奇物，"高等造物术"。</p>
 
 

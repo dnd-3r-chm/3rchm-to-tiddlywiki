@@ -3,57 +3,57 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第二章：动物/鲨.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>鲨 (Shark)</h1>
 
     <p>鲨是肉食性的鱼类，极富攻击性，会对接近身边的任何东西突然发动攻击。</p>
     <p>体型较小的鲨长约5到8英尺，除了他们的猎物之外，不会对其他生物造成威胁。大型鲨长达15英尺，具有相当的危险性。超大型鲨就非常可怕，如：大白鲨，长度甚至在20英尺以上。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>鲨会在猎物身旁慢慢回游，然后伺机冲上去用强而有力的大颚狠狠咬上一口。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>替代视觉(特异)：</b>鲨可以察觉半径30英尺内生物的位置，但只在水中有效。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>嗅觉异常灵敏(特异)：</b>在水中，鲨可以嗅到180英尺范围内的生物或1英里内的血腥味。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>技能：</b>鲨在进行任何特殊动作或闪身避祸时，"游泳"检定具有+8种族加值。即使分心或受困，他们在进行"游泳"检定时都可以随时取10。若以直线前进，则可在游泳时进行奔跑动作。</p>
     </div>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-data">中型鲨<br><span style="font-weight:normal;font-size:13px;">中型动物(水生)</span></th>
-                    <th class="col-data">大型鲨<br><span style="font-weight:normal;font-size:13px;">大型动物(水生)</span></th>
-                    <th class="col-data">超大型鲨<br><span style="font-weight:normal;font-size:13px;">超大型动物(水生)</span></th>
+                    <th>资料栏位</th>
+                    <th>中型鲨<br><span>中型动物(水生)</span></th>
+                    <th>大型鲨<br><span>大型动物(水生)</span></th>
+                    <th>超大型鲨<br><span>超大型动物(水生)</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td class="col-data">3d8+3 (16HP)</td><td class="col-data">7d8+7 (38HP)</td><td class="col-data">10d8+20 (65HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td class="col-data">+2</td><td class="col-data">+6</td><td class="col-data">+6</td></tr>
-                <tr><td class="col-1">速度</td><td class="col-data">游泳60英尺 (12格)</td><td class="col-data">游泳60英尺 (12格)</td><td class="col-data">游泳60英尺 (12格)</td></tr>
-                <tr><td class="col-1">防御等级</td><td class="col-data">15 (+2敏捷、+3天生)、接触12、措手不及13</td><td class="col-data">15 (-1体型、+2敏捷、+4天生)、接触11、措手不及13</td><td class="col-data">15 (-2体型、+2敏捷、+5天生)、接触10、措手不及13</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td class="col-data">+2 / +3</td><td class="col-data">+5 / +12</td><td class="col-data">+7 / +20</td></tr>
-                <tr><td class="col-1">攻击</td><td class="col-data">啮咬+4近战 (1d6+1)</td><td class="col-data">啮咬+7近战 (1d8+4)</td><td class="col-data">啮咬+10近战 (2d6+7)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td class="col-data">啮咬+4近战 (1d6+1)</td><td class="col-data">啮咬+7近战 (1d8+4)</td><td class="col-data">啮咬+10近战 (2d6+7)</td></tr>
-                <tr><td class="col-1">占用/触及</td><td class="col-data">5英尺/5英尺</td><td class="col-data">10英尺/5英尺</td><td class="col-data">15英尺/10英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td></tr>
-                <tr><td class="col-1">特殊能力</td><td class="col-data">替代视觉、嗅觉异常灵敏</td><td class="col-data">替代视觉、嗅觉异常灵敏</td><td class="col-data">替代视觉、嗅觉异常灵敏</td></tr>
-                <tr><td class="col-1">豁免</td><td class="col-data">强韧+4、反射+5、意志+2</td><td class="col-data">强韧+8、反射+7、意志+3</td><td class="col-data">强韧+11、反射+9、意志+4</td></tr>
-                <tr><td class="col-1">属性</td><td class="col-data">力量13、敏捷15、体质13、智力1、感知12、魅力2</td><td class="col-data">力量17、敏捷15、体质13、智力1、感知12、魅力2</td><td class="col-data">力量21、敏捷15、体质15、智力1、感知12、魅力2</td></tr>
-                <tr><td class="col-1">技能</td><td class="col-data">聆听+6、侦察+6、游泳+9</td><td class="col-data">聆听+8、侦察+7、游泳+11</td><td class="col-data">聆听+10、侦察+10、游泳+13</td></tr>
-                <tr><td class="col-1">专长</td><td class="col-data">警觉、武器娴熟</td><td class="col-data">警觉、强韧加强、精通先攻</td><td class="col-data">警觉、强韧加强、精通先攻、钢铁意志</td></tr>
-                <tr><td class="col-1">环境</td><td class="col-data">寒冷带水域</td><td class="col-data">寒冷带水域</td><td class="col-data">寒冷带水域</td></tr>
-                <tr><td class="col-1">组织</td><td class="col-data">单独、洋群 (2-5) 或一批 (6-11)</td><td class="col-data">单独、洋群 (2-5) 或一批 (6-11)</td><td class="col-data">单独、洋群 (2-5) 或一批 (6-11)</td></tr>
-                <tr><td class="col-1">挑战级数</td><td class="col-data">1</td><td class="col-data">2</td><td class="col-data">4</td></tr>
-                <tr><td class="col-1">进化</td><td class="col-data">4-6HD (中型)</td><td class="col-data">8-9HD (大型)</td><td class="col-data">11-17HD (超大型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td class="col-data">—</td><td class="col-data">—</td><td class="col-data">—</td></tr>
+                <tr><td>生命骰</td><td>3d8+3 (16HP)</td><td>7d8+7 (38HP)</td><td>10d8+20 (65HP)</td></tr>
+                <tr><td>先攻</td><td>+2</td><td>+6</td><td>+6</td></tr>
+                <tr><td>速度</td><td>游泳60英尺 (12格)</td><td>游泳60英尺 (12格)</td><td>游泳60英尺 (12格)</td></tr>
+                <tr><td>防御等级</td><td>15 (+2敏捷、+3天生)、接触12、措手不及13</td><td>15 (-1体型、+2敏捷、+4天生)、接触11、措手不及13</td><td>15 (-2体型、+2敏捷、+5天生)、接触10、措手不及13</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+2 / +3</td><td>+5 / +12</td><td>+7 / +20</td></tr>
+                <tr><td>攻击</td><td>啮咬+4近战 (1d6+1)</td><td>啮咬+7近战 (1d8+4)</td><td>啮咬+10近战 (2d6+7)</td></tr>
+                <tr><td>全力攻击</td><td>啮咬+4近战 (1d6+1)</td><td>啮咬+7近战 (1d8+4)</td><td>啮咬+10近战 (2d6+7)</td></tr>
+                <tr><td>占用/触及</td><td>5英尺/5英尺</td><td>10英尺/5英尺</td><td>15英尺/10英尺</td></tr>
+                <tr><td>特殊攻击</td><td>—</td><td>—</td><td>—</td></tr>
+                <tr><td>特殊能力</td><td>替代视觉、嗅觉异常灵敏</td><td>替代视觉、嗅觉异常灵敏</td><td>替代视觉、嗅觉异常灵敏</td></tr>
+                <tr><td>豁免</td><td>强韧+4、反射+5、意志+2</td><td>强韧+8、反射+7、意志+3</td><td>强韧+11、反射+9、意志+4</td></tr>
+                <tr><td>属性</td><td>力量13、敏捷15、体质13、智力1、感知12、魅力2</td><td>力量17、敏捷15、体质13、智力1、感知12、魅力2</td><td>力量21、敏捷15、体质15、智力1、感知12、魅力2</td></tr>
+                <tr><td>技能</td><td>聆听+6、侦察+6、游泳+9</td><td>聆听+8、侦察+7、游泳+11</td><td>聆听+10、侦察+10、游泳+13</td></tr>
+                <tr><td>专长</td><td>警觉、武器娴熟</td><td>警觉、强韧加强、精通先攻</td><td>警觉、强韧加强、精通先攻、钢铁意志</td></tr>
+                <tr><td>环境</td><td>寒冷带水域</td><td>寒冷带水域</td><td>寒冷带水域</td></tr>
+                <tr><td>组织</td><td>单独、洋群 (2-5) 或一批 (6-11)</td><td>单独、洋群 (2-5) 或一批 (6-11)</td><td>单独、洋群 (2-5) 或一批 (6-11)</td></tr>
+                <tr><td>挑战级数</td><td>1</td><td>2</td><td>4</td></tr>
+                <tr><td>进化</td><td>4-6HD (中型)</td><td>8-9HD (大型)</td><td>11-17HD (超大型)</td></tr>
+                <tr><td>等级修正值</td><td>—</td><td>—</td><td>—</td></tr>
             </tbody>
         </table>
     </div>

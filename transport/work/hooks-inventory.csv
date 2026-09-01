@@ -1,0 +1,11 @@
+﻿类型,值/归属,出现次数,涉及文件数,处置
+class,history-entry,1,1,移除
+class,v25-summary,1,1,移除
+class,v25-list,1,1,移除
+id,v25-history,1,1,移除
+style,MM怪物图鉴(全部),0,,移除
+style,PHB玩家手册(全部),231,,保留
+style,10 附录(mso-/大写属性),2,,移除
+style,10 附录(小写属性-免疫),240,,保留
+style,如何使用大不全.tid(小写属性-免疫),20,,保留
+style,前言.tid(小写属性-免疫),7,,保留

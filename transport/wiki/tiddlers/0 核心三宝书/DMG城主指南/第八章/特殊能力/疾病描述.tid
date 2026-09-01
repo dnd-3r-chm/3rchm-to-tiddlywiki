@@ -19,8 +19,8 @@ type: text/vnd.tiddlywiki
 <p><b>恶魔寒(Devil Chills)：</b>经由巴霸魔(barbazu)与深狱炼魔(pit fiends)传染。要连续三次成功通过检定才能康复(一般疾病只需连续两次成功便可康复)。</p>
 <p><b>腐热症(Filth Fever)：</b>经由凶暴鼠与食腐兽传染。人物若在腐秽的环境中受伤，亦可能染上此疾。</p>
 
-<h2 style="font-size:24px; border-bottom:2px solid #A44797; padding-bottom:5px; margin:25px 0 15px 0">表8-2：疾病</h2>
-<table class="class-table">
+<h2>表8-2：疾病</h2>
+<table>
 <tr><th>疾病</th><th>感染途径</th><th>DC</th><th>潜伏期</th><th>伤害</th></tr>
 <tr><td>失明症</td><td>食用</td><td>16</td><td>1d3天</td><td>1d4力量(注一)</td></tr>
 <tr><td>失心疯</td><td>呼吸</td><td>16</td><td>1天</td><td>1d6感知</td></tr>
@@ -33,10 +33,10 @@ type: text/vnd.tiddlywiki
 <tr><td>发颤症</td><td>接触</td><td>13</td><td>1天</td><td>1d8敏捷</td></tr>
 <tr><td>恶心症</td><td>接触</td><td>14</td><td>1天</td><td>1d4体质(注二)</td></tr>
 </table>
-<div class="note">(注一)每当病患自此疾病受到2点以上的伤害时，须进行另一次强韧检定，失败便永久目盲。</div>
-<div class="note">(注二)当病发时，人物必须再通过一次豁免检定，若未通过，其中1点暂时属性伤害变为永久属性吸取。</div>
-<div class="note">(注三)病患必须连续通过三次豁免检定，才能恢复健康。</div>
-<div class="note">(注四)通过豁免仍无法治愈，只有魔法医疗能够拯救病患。</div>
+<div>(注一)每当病患自此疾病受到2点以上的伤害时，须进行另一次强韧检定，失败便永久目盲。</div>
+<div>(注二)当病发时，人物必须再通过一次豁免检定，若未通过，其中1点暂时属性伤害变为永久属性吸取。</div>
+<div>(注三)病患必须连续通过三次豁免检定，才能恢复健康。</div>
+<div>(注四)通过豁免仍无法治愈，只有魔法医疗能够拯救病患。</div>
 
 <p><b>脑热症(Mindfire)：</b>这会使脑袋感到焦灼般的烧热，人物会因此昏迷。</p>
 <p><b>腐尸症(Mummy Rot)：</b>经由木乃伊传染。即使成功通过豁免检定也无法使人物完全康复(但不会继续受到伤害)。</p>

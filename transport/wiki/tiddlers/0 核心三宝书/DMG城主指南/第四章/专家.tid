@@ -13,13 +13,13 @@ type: text/vnd.tiddlywiki
 
 <p><b>生命骰：</b>d6。</p>
 
-<span class="sub-title">本职技能</span>
+<span>本职技能</span>
 <p>专家可以任意选择十项技能作为其职业技能。各技能说明请见《玩家手册》第四章。</p>
 <p>1级人物起始技能点数：(6+智力调整值)×4。升级可得到的技能点数：6+智力调整值。</p>
 
-<div class="table-title">表4-5：专家</div>
+<div>表4-5：专家</div>
 <table>
-    <colgroup><col style="width:15%;"><col style="width:21%;"><col style="width:16%;"><col style="width:16%;"><col style="width:16%;"></colgroup>
+    <colgroup><col><col><col><col><col></colgroup>
     <tr>
         <th>NPC等级</th>
         <th>基本攻击加值</th>
@@ -49,11 +49,11 @@ type: text/vnd.tiddlywiki
     <tr><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td></tr>
 </table>
 
-<span class="sub-title">职业特性</span>
+<span>职业特性</span>
 <p>表4-5为NPC职业：专家的职业特性。</p>
 <p><b>擅长武器与防具：</b>专家擅长所有简易武器与轻型盔甲，但不擅长使用盾牌。</p>
 
-<span class="sub-title">起始物品</span>
+<span>起始物品</span>
 <p>价值相当于3d4×10金币的装备。</p>
 
 

@@ -17,9 +17,9 @@ type: text/vnd.tiddlywiki
 
 
 
-<span class="sub-title">范例5级术士NPC</span>
+<span>范例5级术士NPC</span>
 
-<ul class="data-list">
+<ul>
 
     <li>狗头人5级术士；CR5；小型人形生物(爬行生物)；HD5d4+3；HP17；先攻权+6；速度30英尺；AC15，触碰13，措手不及13；基本攻击加值+2，擒抱-2；</li>
 
@@ -53,7 +53,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>魔宠数据(超小毒蛇魔宠)：</b></p>
 
-<ul class="data-list">
+<ul>
 
     <li>CR无；超小型魔法兽；HD1；HP8；先攻权+3；攀爬速度15英尺，游泳速度15英尺；AC20，触碰15，措手不及17；基本攻击加值+0，擒抱-11；</li>
 
@@ -83,7 +83,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>已知术士法术(6/7/5；DC=13+法术等级)：</b></p>
 
-<ul class="compact-list">
+<ul>
 
     <li><b>零级——</b>晕眩术，幻音术，法师帮手，冷冻射线，阅读魔法，疲乏之触；</li>
 
@@ -99,9 +99,9 @@ type: text/vnd.tiddlywiki
 
 
 
-<span class="sub-title">范例15级术士NPC</span>
+<span>范例15级术士NPC</span>
 
-<ul class="data-list">
+<ul>
 
     <li>狗头人15级术士；CR15；小型人形生物(爬行生物)；HD15d4+3；HP42；先攻权+6；速度30英尺；AC19，触碰15，措手不及17；基本攻击加值+7，擒抱+3；</li>
 
@@ -137,7 +137,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>15级魔宠数据(超小毒蛇魔宠)：</b></p>
 
-<ul class="data-list">
+<ul>
 
     <li>CR无；超小型魔法兽；HD15；HP21；先攻权+3；攀爬速度15英尺，游泳速度15英尺；AC25，触碰15，措手不及22；基本攻击加值+0，擒抱-11；</li>
 
@@ -167,7 +167,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>已知术士法术(6/8/8/7/7/7/7/4；DC=16+法术等级)：</b></p>
 
-<ul class="compact-list">
+<ul>
 
     <li><b>零级——</b>舞光术，晕眩术，侦测魔法，幻音术，法师帮手，冷冻射线，阅读魔法，提升抗力，疲乏之触；</li>
 

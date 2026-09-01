@@ -17,9 +17,9 @@ type: text/vnd.tiddlywiki
 
 <p>表4-1列出雇用各种雇工每日所需的花费。表上所列者为长期雇用的价格，若你只雇用某人一两天，他可能会收取两三倍的费用。</p>
 
-<div class="table-title">表4-1：雇工的价格</div>
+<div>表4-1：雇工的价格</div>
 <table>
-    <colgroup><col style="width:50%;"><col style="width:50%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>雇工</th>
         <th>每日价格</th>
@@ -45,11 +45,11 @@ type: text/vnd.tiddlywiki
     <tr><td>车夫</td><td>3银币</td></tr>
     <tr><td>佣人</td><td>2银币</td></tr>
 </table>
-<p class="note">(注一)如果雇用来制造特定物品，请以该物品的价格与所需制造时间计价。</p>
+<p>(注一)如果雇用来制造特定物品，请以该物品的价格与所需制造时间计价。</p>
 
-<span class="sub-title">雇工详细说明</span>
+<span>雇工详细说明</span>
 <p>表4-1列出的各种雇佣详述于下：</p>
-<ul class="profession-list">
+<ul>
     <li><b>炼金师：</b>专精于化学物品的人，包括药剂师(专长药物与医学)。</li>
     <li><b>牧人：</b>照顾动物的人员，包括牧羊人、养猪人与剪羊毛工人。</li>
     <li><b>建筑师/工程师：</b>受过教育的设计者，常负责大型建筑的规划，造船师也属此类。</li>

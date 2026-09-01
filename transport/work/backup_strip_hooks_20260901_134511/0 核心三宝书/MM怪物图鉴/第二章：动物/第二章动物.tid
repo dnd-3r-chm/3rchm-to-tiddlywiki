@@ -1,0 +1,21 @@
+title: 第二章：动物 (MM-怪物图鉴)
+tags: [[0 核心三宝书]] [[MM怪物图鉴]]
+source: 0 核心三宝书/MM怪物图鉴/第二章：动物/第二章动物.htm
+type: text/vnd.tiddlywiki
+
+<div class="container">
+    <h1>第二章：动物</h1>
+
+    <p>本章包含各种现存动物的数据以及基本资料。这些生物一切行动通常只凭本能，只有觅食或繁殖这类单纯的意念。大部分的动物，包括掠食者在内，除非本身或幼兽受到威胁，否则不会主动攻击。</p>
+
+    <p>动物没有缜密的逻辑推理能力，但具有"驯养动物"技能的人可以驯服并教导动物进行一些简单的动作。</p>
+
+    <p>某些草食动物不擅于使用天生武器进行攻击，因此，他们的天生武器视为次要攻击。此类动物的攻击和伤害字段中会特别加注以及说明。</p>
+
+    <span class="title-bold">动物特性：</span>
+    <p style="text-indent:0;margin-bottom:8px;">动物具有下列特性(叙述中特别注明者例外)。</p>
+    <div class="list-item"><span class="highlight">— 智力值 1 或 2</span>(智力值3以上的生物不属于动物)。昏暗视觉。</div>
+    <div class="list-item"><span class="highlight">— 阵营：总是中立</span>，人类的道德观不适用于动物。</div>
+    <div class="list-item"><span class="highlight">— 宝藏：无</span>，动物没有宝藏。</div>
+
+</div>

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import _paths as P
 import csv
 import os
 import re
@@ -7,7 +8,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
+ROOT = P.ROOT
 INV_CSV = os.path.join(ROOT, "transport", "work", "inventory.csv")
 
 found = 0

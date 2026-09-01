@@ -11,6 +11,7 @@
 用法：
     python _verify_links.py
 """
+import _paths as P
 import csv
 import os
 import re
@@ -18,8 +19,8 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI = r"E:\dnd3r_full\transport\wiki\tiddlers"
-LOG_DIR = r"E:\dnd3r_full\transport\logs"
+WIKI = P.WIKI_TIDDLERS
+LOG_DIR = P.LOGS
 REPORT = os.path.join(LOG_DIR, "link-report.csv")
 
 LINK_RE = re.compile(r"\[\[([^\[\]|]+)(?:\|([^\[\]]+))?\]\]")

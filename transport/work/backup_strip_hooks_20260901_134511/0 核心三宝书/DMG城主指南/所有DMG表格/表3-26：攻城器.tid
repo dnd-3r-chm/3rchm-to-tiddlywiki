@@ -1,0 +1,49 @@
+title: 表3-26：攻城器 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-26：攻城器.htm
+type: text/vnd.tiddlywiki
+<div class="container">
+    <div>表3-26：攻城器</div>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width:16%">品名</th>
+                <th style="width:14%">造价</th>
+                <th style="width:14%">伤害</th>
+                <th style="width:12%">致命</th>
+                <th style="width:22%">射程距离</th>
+                <th style="width:12%">一般操作人数</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>重型投石机</td><td>800金币</td><td>6d6</td><td>—</td><td>200英尺(至少100英尺)</td><td>4</td></tr>
+            <tr><td>轻型投石机</td><td>550金币</td><td>4d6</td><td>—</td><td>150英尺(至少100英尺)</td><td>2</td></tr>
+            <tr><td>弩炮</td><td>500金币</td><td>3d8</td><td>19-20</td><td>120英尺</td><td>1</td></tr>
+            <tr><td>攻城锤</td><td>1000金币</td><td>3d8(注一)</td><td>—</td><td>—</td><td>10</td></tr>
+            <tr><td>攻城塔</td><td>2000金币</td><td>—</td><td>—</td><td>—</td><td>20</td></tr>
+        </tbody>
+    </table>
+
+    <div class="notes">
+        <p>(注一)见该攻城器内容说明。</p>
+    </div>
+
+    <!-- ===== 第二张表 ===== -->
+    <div class="sub-title">投石机攻击调整值</div>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width:60%">状态</th>
+                <th style="width:40%">调整值</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>目标方格在视线外</td><td>6</td></tr>
+            <tr><td>成功击中(操作员可看见最接近的误击点)</td><td>每失手一次+2(至多+10)</td></tr>
+            <tr><td>成功击中(操作员无法看见最接近的误击点，但瞭望手可指)</td><td>每失手一次+1(至多+5)</td></tr>
+        </tbody>
+    </table>
+
+</div>

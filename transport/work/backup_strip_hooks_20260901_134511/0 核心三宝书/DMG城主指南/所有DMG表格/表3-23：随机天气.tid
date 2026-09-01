@@ -1,0 +1,29 @@
+title: 表3-23：随机天气 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-23：随机天气.htm
+type: text/vnd.tiddlywiki
+<div class="container">
+    <div>表3-23：随机天气</div>
+    <table>
+        <thead>
+            <tr>
+                <th style="width:12%">百分骰</th>
+                <th style="width:16%">天气</th>
+                <th style="width:24%">寒带气候</th>
+                <th style="width:24%">温带气候(注一)</th>
+                <th style="width:24%">沙漠</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>01–70</td><td class="state">正常天气</td><td>寒冷，平静</td><td>依季节正常变化(注二)</td><td>炎热，平静</td></tr>
+            <tr><td>71–80</td><td class="state">异常天气</td><td>热浪(01–30)或骤寒(31–100)</td><td>热浪(01–50)或骤寒(51–100)</td><td>炎热，刮风</td></tr>
+            <tr><td>81–90</td><td class="state">恶劣天气</td><td>降水(雪)</td><td>降水(形态视季节而定)</td><td>炎热，刮风</td></tr>
+            <tr><td>91–99</td><td class="state">风暴</td><td>冰雪暴</td><td>雷暴，冰雪暴</td><td>沙尘暴</td></tr>
+            <tr><td>100</td><td class="state">强烈风暴</td><td>风雪暴</td><td>暴风，风雪暴，飓风，龙卷风</td><td>豪雨</td></tr>
+        </tbody>
+    </table>
+    <div class="notes">
+        <p>(注一)包括森林、丘陵、沼泽、山脉、平原及温带水域。</p>
+        <p>(注二)冬寒夏热，春秋温和。沼泽地区冬天会稍微温暖些。</p>
+    </div>
+</div>

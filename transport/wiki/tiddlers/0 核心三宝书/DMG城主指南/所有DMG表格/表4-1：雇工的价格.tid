@@ -2,33 +2,33 @@ title: 表4-1：雇工的价格 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-1：雇工的价格.htm
 type: text/vnd.tiddlywiki
-<div class="container">
+<div>
     <div>表4-1：雇工的价格</div>
 
     <table>
         <thead>
             <tr>
-                <th style="width:25%">雇工</th>
-                <th style="width:25%">每日价格</th>
-                <th style="width:25%">雇工</th>
-                <th style="width:25%">每日价格</th>
+                <th>雇工</th>
+                <th>每日价格</th>
+                <th>雇工</th>
+                <th>每日价格</th>
             </tr>
         </thead>
         <tbody>
-            <tr><td class="emp">炼金师(注)</td><td class="price">1金币</td><td class="emp">技工(注)</td><td class="price">3银币</td></tr>
-            <tr><td class="emp">牧人</td><td class="price">15铜币</td><td class="emp">佣兵</td><td class="price">2银币</td></tr>
-            <tr><td class="emp">建筑师</td><td class="price">5银币</td><td class="emp">骑马佣兵</td><td class="price">4银币</td></tr>
-            <tr><td class="emp">状师</td><td class="price">1金币</td><td class="emp">佣兵领队</td><td class="price">6银币</td></tr>
-            <tr><td class="emp">书记</td><td class="price">4银币</td><td class="emp">脚夫</td><td class="price">1银币</td></tr>
-            <tr><td class="emp">大厨</td><td class="price">1银币</td><td class="emp">贤者</td><td class="price">2金币以上</td></tr>
-            <tr><td class="emp">艺人</td><td class="price">4银币</td><td class="emp">誉写员</td><td class="price">3银币</td></tr>
-            <tr><td class="emp">苦力工</td><td class="price">1银币</td><td class="emp">金属匠</td><td class="price">4银币(注一)</td></tr>
-            <tr><td class="emp">画师</td><td class="price">6银币</td><td class="emp">车夫</td><td class="price">3银币</td></tr>
-            <tr><td class="emp">女侍</td><td class="price">1银币</td><td class="emp">佣人</td><td class="price">2银币</td></tr>
+            <tr><td>炼金师(注)</td><td>1金币</td><td>技工(注)</td><td>3银币</td></tr>
+            <tr><td>牧人</td><td>15铜币</td><td>佣兵</td><td>2银币</td></tr>
+            <tr><td>建筑师</td><td>5银币</td><td>骑马佣兵</td><td>4银币</td></tr>
+            <tr><td>状师</td><td>1金币</td><td>佣兵领队</td><td>6银币</td></tr>
+            <tr><td>书记</td><td>4银币</td><td>脚夫</td><td>1银币</td></tr>
+            <tr><td>大厨</td><td>1银币</td><td>贤者</td><td>2金币以上</td></tr>
+            <tr><td>艺人</td><td>4银币</td><td>誉写员</td><td>3银币</td></tr>
+            <tr><td>苦力工</td><td>1银币</td><td>金属匠</td><td>4银币(注一)</td></tr>
+            <tr><td>画师</td><td>6银币</td><td>车夫</td><td>3银币</td></tr>
+            <tr><td>女侍</td><td>1银币</td><td>佣人</td><td>2银币</td></tr>
         </tbody>
     </table>
 
-    <div class="notes">
+    <div>
         <p>(注)如果雇用来制造特定物品，请以该物品的价格与所需制造时间计价。</p>
         <p>(注一)如果雇用来制造特定物品，请以该物品的价格与所需制造时间计价。</p>
     </div>

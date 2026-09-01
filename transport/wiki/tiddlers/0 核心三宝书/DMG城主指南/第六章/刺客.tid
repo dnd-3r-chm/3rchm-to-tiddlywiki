@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 <p>刺客下手迅速，招招致命，还精于渗透与易容，通常担任间谍、眼线、杀手或复仇代理人。他们精于解剖学、潜行、下毒等各种黑暗技艺训练，能精确地完成刺杀任务。</p>
 <p>游荡者、武僧和吟游诗人可成为躲在阴影中伺机偷袭的潜行刺客。战士、前职圣武士、巡林客、德鲁伊与野蛮人，则可成为武艺高强的刺客，他们在战场上杀敌的能力与暗杀技巧一样高超。术士、法师和牧师可能是最令人胆寒的刺客，他们可用法术干净利落地渗透与杀人。</p>
 <p>NPC刺客多半属于公会或秘密组织，其根据地通常隐藏在城内或荒郊野外的堡垒，有时会为掌权的邪恶人物效命，他们可能独自行事，也可能结伙。但即使单独行动，也很少在毫无后援的状况下行事。</p>
-<p style="text-indent:0;">生命骰：d6。</p>
+<p>生命骰：d6。</p>
 
 <h2>职业需要</h2>
 <p>要具备刺客的资格，人物必须符合以下所有条件：<br>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
 </ul>
 
 <h2>表6-4：刺客</h2>
-<table class="class-table">
+<table>
 <tr><th rowspan="2">职业等级</th><th rowspan="2">基本攻击加值</th><th rowspan="2">强韧检定</th><th rowspan="2">反射检定</th><th rowspan="2">意志检定</th><th rowspan="2">特殊能力</th><th colspan="4">每日法术数量</th></tr>
 <tr><th>一级</th><th>二级</th><th>三级</th><th>四级</th></tr>
 <tr><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+0</td><td>偷袭+1d6、夺命攻击、用毒、法术</td><td>0</td><td>—</td><td>—</td><td>—</td></tr>
@@ -60,7 +60,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>表6-5：刺客可知法术数量</h2>
-<table class="class-table">
+<table>
 <tr><th rowspan="2">职业等级</th><th colspan="4">可知法术数量</th></tr>
 <tr><th>一级</th><th>二级</th><th>三级</th><th>四级</th></tr>
 <tr><td>1</td><td>2(注一)</td><td>—</td><td>—</td><td>—</td></tr>

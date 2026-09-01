@@ -1,0 +1,36 @@
+title: 表2-4：生物体型 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表2-4：生物体型.htm
+type: text/vnd.tiddlywiki
+<div>
+    <h2>表2-4：生物体型</h2>
+    <table>
+        <thead>
+            <tr>
+                <th rowspan="2">体型</th>
+                <th rowspan="2">最大高度<br>(注一)</th>
+                <th rowspan="2">最大重量<br>(注二)</th>
+                <th rowspan="2">占用空间</th>
+                <th colspan="2">天生触及距离</th>
+            </tr>
+            <tr>
+                <th>高</th>
+                <th>长</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>超微型</td><td>6英寸或以下</td><td>1/8磅或以下</td><td>1/2英尺</td><td>0英尺</td><td>0英尺</td></tr>
+            <tr><td>微型</td><td>1英尺</td><td>1磅</td><td>1英尺</td><td>0英尺</td><td>0英尺</td></tr>
+            <tr><td>超小型</td><td>2英尺</td><td>8磅</td><td>2.5英尺</td><td>0英尺</td><td>0英尺</td></tr>
+            <tr><td>小型</td><td>4英尺</td><td>60磅</td><td>5英尺</td><td>5英尺</td><td>5英尺</td></tr>
+            <tr><td>中型</td><td>8英尺</td><td>500磅</td><td>5英尺</td><td>5英尺</td><td>5英尺</td></tr>
+            <tr><td class="bold">大型</td><td>16英尺</td><td>4,000磅</td><td>10英尺</td><td>10英尺</td><td>5英尺</td></tr>
+            <tr><td class="bold">超大型</td><td>32英尺</td><td>32,000磅</td><td>15英尺</td><td>15英尺</td><td>10英尺</td></tr>
+            <tr><td class="bold">巨型</td><td>64英尺</td><td>250,000磅</td><td>20英尺</td><td>20英尺</td><td>15英尺</td></tr>
+        </tbody>
+    </table>
+    <div class="note">
+        <p><b>注一：</b>二足生物为高度，四足生物为体长(从鼻尖到尾巴的基部)。</p>
+        <p><b>注二：</b>假设该生物密度和一般动物近似。岩石构成的生物可能更重。气体构成的生物可能更轻。</p>
+    </div>
+</div>

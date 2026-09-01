@@ -1,0 +1,89 @@
+title: 表3-13：机关陷阱CR调整值 (DMG-城主指南)
+tags: [[0 核心三宝书]] [[DMG城主指南]]
+source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-13：机关陷阱CR调整值.htm
+type: text/vnd.tiddlywiki
+<div class="container">
+    <div>表3-13：机关陷阱CR调整值</div>
+    <table>
+        <thead>
+            <tr><th style="width:65%">特色</th><th style="width:35%">CR调整值</th></tr>
+        </thead>
+        <tbody>
+            <!-- "搜索"DC 组 -->
+            <tr><td class="feature cat">"搜索"DC</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">15以下</td><td class="cr">1</td></tr>
+            <tr><td class="feature sub">25–29</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub">30以上</td><td class="cr">+2</td></tr>
+
+            <!-- "解除装置"DC 组 -->
+            <tr><td class="feature cat">"解除装置"DC</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">15以下</td><td class="cr">1</td></tr>
+            <tr><td class="feature sub">25–29</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub">30以上</td><td class="cr">+2</td></tr>
+
+            <!-- 反射检定DC 组 -->
+            <tr><td class="feature cat">反射检定DC(陷坑或其他进行豁免检定的陷阱)</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">15以下</td><td class="cr">1</td></tr>
+            <tr><td class="feature sub">16–24</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">25–29</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub">30以上</td><td class="cr">+2</td></tr>
+
+            <!-- 攻击检定 组 -->
+            <tr><td class="feature cat">攻击检定(近战或远程攻击陷阱)</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">+0以下</td><td class="cr">2</td></tr>
+            <tr><td class="feature sub">+1至+5</td><td class="cr">1</td></tr>
+            <tr><td class="feature sub">+6至+14</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">+15至+19</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub">+20至+24</td><td class="cr">+2</td></tr>
+
+            <!-- 伤害/效果 -->
+            <tr><td class="feature cat">伤害/效果</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">平均伤害</td><td class="cr">+1/7点伤害(注一)</td></tr>
+
+            <!-- 其他特色 -->
+            <tr><td class="feature cat">其他特色</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">炼金物品</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">如类似效果法术等级</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub">液态</td><td class="cr">+5</td></tr>
+            <tr><td class="feature sub">多目标</td><td class="cr">+1(从不失手则为0)</td></tr>
+            <tr><td class="feature sub">延击设计(1轮)</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub">延击设计(2轮)</td><td class="cr">+2</td></tr>
+            <tr><td class="feature sub">延击设计(3轮)</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub">延击设计(4轮以上)</td><td class="cr">1</td></tr>
+
+            <!-- 毒素 -->
+            <tr><td class="feature cat">毒素</td><td class="cr empty">—</td></tr>
+            <tr><td class="feature sub-sub">黑奎蛇毒液</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub-sub">大型蝎毒液</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub-sub">黑莲花毒液</td><td class="cr">+8</td></tr>
+            <tr><td class="feature sub-sub">烈赤根糊</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub-sub">血根草</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub-sub">中型蜘蛛毒液</td><td class="cr">+2</td></tr>
+            <tr><td class="feature sub-sub">青嘶泣</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub-sub">耐萨瑞毒</td><td class="cr">+4</td></tr>
+            <tr><td class="feature sub-sub">焦引熏烟</td><td class="cr">+6</td></tr>
+            <tr><td class="feature sub-sub">紫虫毒液</td><td class="cr">+4</td></tr>
+            <tr><td class="feature sub-sub">食腐虫脑浆</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub-sub">幻叶余炽</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub-sub">死刃夜露</td><td class="cr">+5</td></tr>
+            <tr><td class="feature sub-sub">暗菁华露</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub-sub">龙胆汁</td><td class="cr">+6</td></tr>
+            <tr><td class="feature sub-sub">小型蜈毒液</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub-sub">巨胡蜂毒液</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub-sub">帖内根</td><td class="cr">+5</td></tr>
+            <tr><td class="feature sub-sub">绿血油</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub-sub">魔地尘</td><td class="cr">+3</td></tr>
+            <tr><td class="feature sub-sub">夺魄迷雾</td><td class="cr">+4</td></tr>
+            <tr><td class="feature sub-sub">翼龙毒液</td><td class="cr">+5</td></tr>
+
+            <!-- 最后两项 -->
+            <tr><td class="feature sub">陷坑尖刺</td><td class="cr">+1</td></tr>
+            <tr><td class="feature sub">接触攻击</td><td class="cr">+1</td></tr>
+        </tbody>
+    </table>
+
+    <div class="notes">
+        <p>(注一)整除至最接近的7的倍数(若恰在两个7的倍数中间，取较高者)。例如：造成2d8伤害的陷阱(平均伤害为9点)取7，造成3d6伤害的陷阱(平均伤害为10.5点)则取14。</p>
+        <p style="margin-top:4px;">魔法陷阱：无论法术陷阱或魔法装置陷阱，基本CR都为1。魔法陷阱所使用的最高等级法术会调整其CR(见表3-14)。</p>
+    </div>
+</div>

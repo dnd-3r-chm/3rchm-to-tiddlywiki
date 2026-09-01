@@ -15,12 +15,13 @@
 改色流程：编辑下方常量/字典 -> 重跑本脚本 -> wiki 页面刷新即生效（无需重启）。
 样式 tiddler 为脚本生成物，重跑会覆盖，请勿手动编辑。
 """
+import _paths as P
 import os
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
+ROOT = P.ROOT
 OUT = os.path.join(ROOT, "transport", "wiki", "tiddlers", "标题配色.tid")
 
 DEFAULT_COLOR = "maroon"  # 未指定颜色的书，页面标题默认色

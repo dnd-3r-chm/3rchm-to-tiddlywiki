@@ -161,7 +161,7 @@ type: text/vnd.tiddlywiki
 
 	<p>你看，换行就出现了。为了方便起见，后文中笔者将按照个人习惯混合使用VS Code或Sublime text，但并不是非得使用哪一个编辑器才行，这只是笔者的个人习惯。如果你使用记事本认为足够方便，那么并不会对最终的成品有任何影响。</p>
 
-	<div style="float: left; BORDER: 1px solid; PADDING: 5px; margin-bottom: 3.6px;">
+	<div>
 
 		<h4>边栏：为什么不应该使用所见即所得的编辑器，或将word文档转成页面。</h4>
 

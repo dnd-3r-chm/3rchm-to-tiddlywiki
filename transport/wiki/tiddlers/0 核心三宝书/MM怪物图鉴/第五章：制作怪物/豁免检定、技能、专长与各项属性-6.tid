@@ -3,7 +3,7 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第五章：制作怪物/豁免检定、技能、专长与各项属性-6.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>豁免检定、技能、专长与各项属性</h1>
 
     <h2>豁免检定</h2>
@@ -13,9 +13,9 @@ type: text/vnd.tiddlywiki
     <h2>技能</h2>
     <p>列出你觉得生物应该具有的技能。技能总点数由生物类别、生命骰和智力所决定。凡是生物所具有的技能一律视为本职技能，提升一级需花费一点技能点数，技能最高级数为 3+HD。计算技能点数和技能最高级数时，生命骰不会视为生物具有一个生命骰。选择技能项目时也要以怪物概念为准。依照怪物的类别的习性，也特别注重侦察、聆听和潜行等技能的检定。</p>
 
-    <div class="table-wrap">
+    <div>
         <table>
-            <thead><tr><th class="col-1">生物类别</th><th class="col-1">技能点数</th></tr></thead>
+            <thead><tr><th>生物类别</th><th>技能点数</th></tr></thead>
             <tbody>
                 <tr><td>异怪</td><td>(2+智力调整值，最少1点)x(生命骰+3)</td></tr>
                 <tr><td>动物</td><td>(2+智力调整值，最少1点)x(生命骰+3)</td></tr>

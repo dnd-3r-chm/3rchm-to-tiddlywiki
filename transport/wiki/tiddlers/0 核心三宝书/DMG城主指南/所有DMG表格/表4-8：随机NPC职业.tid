@@ -3,29 +3,29 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-8：随机NPC职业.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <div>表4-8：随机NPC职业</div>
     <table>
         <thead>
             <tr>
-                <th style="width:22%">善良</th>
-                <th style="width:22%">中立</th>
-                <th style="width:22%">邪恶</th>
-                <th style="width:34%">职业</th>
+                <th>善良</th>
+                <th>中立</th>
+                <th>邪恶</th>
+                <th>职业</th>
             </tr>
         </thead>
         <tbody>
-            <tr><td>01–05</td><td>01–05</td><td>01–10</td><td class="class">野蛮人</td></tr>
-            <tr><td>06–10</td><td>06–10</td><td>11–15</td><td class="class">吟游诗人</td></tr>
-            <tr><td>11–30</td><td>11–15</td><td>16–35</td><td class="class">牧师</td></tr>
-            <tr><td>31–35</td><td>16–25</td><td>36–40</td><td class="class">德鲁伊</td></tr>
-            <tr><td>36–45</td><td>26–45</td><td>41–50</td><td class="class">战士</td></tr>
-            <tr><td>46–50</td><td>46–50</td><td>51–55</td><td class="class">武僧</td></tr>
-            <tr><td>51–55</td><td class="empty">—</td><td class="empty">—</td><td class="class">圣武士</td></tr>
-            <tr><td>56–65</td><td>51–55</td><td>56–60</td><td class="class">巡林客</td></tr>
-            <tr><td>66–75</td><td>56–75</td><td>61–80</td><td class="class">游荡者</td></tr>
-            <tr><td>76–80</td><td>76–80</td><td>81–85</td><td class="class">术士</td></tr>
-            <tr><td>81–100</td><td>81–100</td><td>86–100</td><td class="class">法师</td></tr>
+            <tr><td>01–05</td><td>01–05</td><td>01–10</td><td>野蛮人</td></tr>
+            <tr><td>06–10</td><td>06–10</td><td>11–15</td><td>吟游诗人</td></tr>
+            <tr><td>11–30</td><td>11–15</td><td>16–35</td><td>牧师</td></tr>
+            <tr><td>31–35</td><td>16–25</td><td>36–40</td><td>德鲁伊</td></tr>
+            <tr><td>36–45</td><td>26–45</td><td>41–50</td><td>战士</td></tr>
+            <tr><td>46–50</td><td>46–50</td><td>51–55</td><td>武僧</td></tr>
+            <tr><td>51–55</td><td>—</td><td>—</td><td>圣武士</td></tr>
+            <tr><td>56–65</td><td>51–55</td><td>56–60</td><td>巡林客</td></tr>
+            <tr><td>66–75</td><td>56–75</td><td>61–80</td><td>游荡者</td></tr>
+            <tr><td>76–80</td><td>76–80</td><td>81–85</td><td>术士</td></tr>
+            <tr><td>81–100</td><td>81–100</td><td>86–100</td><td>法师</td></tr>
         </tbody>
     </table>
 </div>

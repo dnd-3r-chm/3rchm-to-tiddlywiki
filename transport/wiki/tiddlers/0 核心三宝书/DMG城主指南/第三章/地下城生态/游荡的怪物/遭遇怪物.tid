@@ -11,12 +11,12 @@ type: text/vnd.tiddlywiki
 <p><b>游荡怪物摘要</b></p>
 <p>游荡怪物出现几率 0%</p>
 <p>以下情形掷百分骰决定</p>
-<p class="list-item highlight-row"> 人物在地下城里每经过1小时。</p>
-<p class="list-item highlight-row"> 人物制造噪音。</p>
-<p class="list-item highlight-row"> 生物经常出没的区域。</p>
+<p> 人物在地下城里每经过1小时。</p>
+<p> 人物制造噪音。</p>
+<p> 生物经常出没的区域。</p>
 <p>以下情况可斟酌增加或减少掷骰次数</p>
-<p class="list-item highlight-row"> 被清空的区域。</p>
-<p class="list-item highlight-row"> 离开地下城时。</p>
+<p> 被清空的区域。</p>
+<p> 离开地下城时。</p>
 
 <p>你可以指定特定游荡怪物作为地下城的居民，而不是随机决定。其中可能包括之前从玩家人物手中逃脱的怪物(或是玩家人物从其手中逃出)。其实你可以将游荡怪物想成随机事件。人物可能听到远处的战斗声、在地下城寻找线索或是在有着奇异波动灵光的地点，遇到游荡的怪物。</p>
 

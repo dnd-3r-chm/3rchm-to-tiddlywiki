@@ -3,13 +3,13 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/C/蛇鸡兽.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
 
-    <h1>蛇鸡兽 (Cockatrice)</h1><div class="mm1-monster-art" data-mm1-image="鸡蛇兽" style="text-align:center;margin:12px 0 18px;">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/鸡蛇兽.jpg]]</div>
+    <h1>蛇鸡兽 (Cockatrice)</h1><div data-mm1-image="鸡蛇兽">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/鸡蛇兽.jpg]]</div>
 
 
 
-    <div class="table-wrap">
+    <div>
 
         <table>
 
@@ -17,9 +17,9 @@ type: text/vnd.tiddlywiki
 
                 <tr>
 
-                    <th class="col-1">资料栏位</th>
+                    <th>资料栏位</th>
 
-                    <th class="col-2">蛇鸡兽 (Cockatrice)<br><span style="font-weight:normal;font-size:13px;">小型魔法兽</span></th>
+                    <th>蛇鸡兽 (Cockatrice)<br><span>小型魔法兽</span></th>
 
                 </tr>
 
@@ -27,47 +27,47 @@ type: text/vnd.tiddlywiki
 
             <tbody>
 
-                <tr><td class="col-1">生命骰</td><td>5d10 (27hp)</td></tr>
+                <tr><td>生命骰</td><td>5d10 (27hp)</td></tr>
 
-                <tr><td class="col-1">先攻</td><td>+3</td></tr>
+                <tr><td>先攻</td><td>+3</td></tr>
 
-                <tr><td class="col-1">速度</td><td>20英尺 (4格), 飞行60英尺 (不良)</td></tr>
+                <tr><td>速度</td><td>20英尺 (4格), 飞行60英尺 (不良)</td></tr>
 
-                <tr><td class="col-1">防御等级</td><td>14 (+1体型, +3敏捷), 接触14, 措手不及11</td></tr>
+                <tr><td>防御等级</td><td>14 (+1体型, +3敏捷), 接触14, 措手不及11</td></tr>
 
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+5 / -1</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+5 / -1</td></tr>
 
-                <tr><td class="col-1">攻击</td><td>啮咬+9近战 (1d4-2 外加石化)</td></tr>
+                <tr><td>攻击</td><td>啮咬+9近战 (1d4-2 外加石化)</td></tr>
 
-                <tr><td class="col-1">全力攻击</td><td>啮咬+9近战 (1d4-2 外加石化)</td></tr>
+                <tr><td>全力攻击</td><td>啮咬+9近战 (1d4-2 外加石化)</td></tr>
 
-                <tr><td class="col-1">占据/触及</td><td>5英尺 / 5英尺</td></tr>
+                <tr><td>占据/触及</td><td>5英尺 / 5英尺</td></tr>
 
-                <tr><td class="col-1">特殊攻击</td><td>石化</td></tr>
+                <tr><td>特殊攻击</td><td>石化</td></tr>
 
-                <tr><td class="col-1">特殊能力</td><td>黑暗视觉60尺, 昏暗视觉</td></tr>
+                <tr><td>特殊能力</td><td>黑暗视觉60尺, 昏暗视觉</td></tr>
 
-                <tr><td class="col-1">豁免</td><td>强韧+4, 反射+7, 意志+2</td></tr>
+                <tr><td>豁免</td><td>强韧+4, 反射+7, 意志+2</td></tr>
 
-                <tr><td class="col-1">属性</td><td>力量6, 敏捷17, 体质11, 智力2, 感知13, 魅力9</td></tr>
+                <tr><td>属性</td><td>力量6, 敏捷17, 体质11, 智力2, 感知13, 魅力9</td></tr>
 
-                <tr><td class="col-1">技能</td><td>聆听+7, 侦察+7</td></tr>
+                <tr><td>技能</td><td>聆听+7, 侦察+7</td></tr>
 
-                <tr><td class="col-1">专长</td><td>警觉, 闪避, 武器娴熟<sup>B</sup></td></tr>
+                <tr><td>专长</td><td>警觉, 闪避, 武器娴熟<sup>B</sup></td></tr>
 
-                <tr><td class="col-1">区域</td><td>温带平原</td></tr>
+                <tr><td>区域</td><td>温带平原</td></tr>
 
-                <tr><td class="col-1">组织</td><td>单独, 成双, 成群飞翔 (3-5), 或集群飞翔 (6-13)</td></tr>
+                <tr><td>组织</td><td>单独, 成双, 成群飞翔 (3-5), 或集群飞翔 (6-13)</td></tr>
 
-                <tr><td class="col-1">挑战等级</td><td>3</td></tr>
+                <tr><td>挑战等级</td><td>3</td></tr>
 
-                <tr><td class="col-1">宝物</td><td>无</td></tr>
+                <tr><td>宝物</td><td>无</td></tr>
 
-                <tr><td class="col-1">阵营</td><td>总是中立</td></tr>
+                <tr><td>阵营</td><td>总是中立</td></tr>
 
-                <tr><td class="col-1">进化</td><td>6-8HD (小型) ; 9-15HD (中型)</td></tr>
+                <tr><td>进化</td><td>6-8HD (小型) ; 9-15HD (中型)</td></tr>
 
-                <tr><td class="col-1">等级调整</td><td>—</td></tr>
+                <tr><td>等级调整</td><td>—</td></tr>
 
             </tbody>
 
@@ -85,13 +85,13 @@ type: text/vnd.tiddlywiki
 
 
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
 
     <p>蛇鸡兽会猛烈的攻击任何它们认为会威胁到自己或者其巢穴的东西。成群的蛇鸡兽会尽可能淹没对手并使它们陷入混乱，有时还会直接飞到它们的对手面前。</p>
 
 
 
-    <div class="ability-box">
+    <div>
 
         <p><b>石化 (Petrification, Su)：</b>生物如果被蛇鸡兽的啮咬命中必须通过DC12的强韧检定否则立即变成石头。此项豁免DC基于体质。蛇鸡兽免疫同类的石化能力，但其他石化能力依然能对其起作用(例如美杜莎 medusa 的凝视攻击、石化牛 gorgon 的喷吐武器、法术石化术 flesh to stone，或是其他类似效应)。</p>
 

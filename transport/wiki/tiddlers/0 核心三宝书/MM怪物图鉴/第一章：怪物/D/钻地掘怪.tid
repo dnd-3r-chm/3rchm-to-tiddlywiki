@@ -3,39 +3,39 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/D/钻地掘怪.htm
 type: text/vnd.tiddlywiki
 
-<div class="container">
+<div>
     <h1>钻地掘怪 (Delver)</h1>
 
-    <div class="table-wrap">
+    <div>
         <table>
             <thead>
                 <tr>
-                    <th class="col-1">资料栏位</th>
-                    <th class="col-2">钻地掘怪 (Delver)<br><span style="font-weight:normal;font-size:13px;">超大型异怪</span></th>
+                    <th>资料栏位</th>
+                    <th>钻地掘怪 (Delver)<br><span>超大型异怪</span></th>
                 </tr>
             </thead>
             <tbody>
-                <tr><td class="col-1">生命骰</td><td>15d8+78 (145HP)</td></tr>
-                <tr><td class="col-1">先攻</td><td>+5</td></tr>
-                <tr><td class="col-1">速度</td><td>30英尺 (6格)、遁地10英尺</td></tr>
-                <tr><td class="col-1">防御等级</td><td>24 (-2体型、+1敏捷、+15天生)、接触9、措手不及23</td></tr>
-                <tr><td class="col-1">基本攻击/擒抱</td><td>+11 / +27</td></tr>
-                <tr><td class="col-1">攻击</td><td>挥击+17近战 (1d6+8 附加2d6强酸)</td></tr>
-                <tr><td class="col-1">全力攻击</td><td>2挥击+17近战 (1d6+8 附加2d6强酸)</td></tr>
-                <tr><td class="col-1">占据/触及</td><td>15英尺 / 10英尺</td></tr>
-                <tr><td class="col-1">特殊攻击</td><td>腐蚀黏液</td></tr>
-                <tr><td class="col-1">特殊能力</td><td>黑暗视觉60英尺、对强酸免疫、塑石、颤动感知60英尺</td></tr>
-                <tr><td class="col-1">豁免</td><td>强韧+12、反射+6、意志+11</td></tr>
-                <tr><td class="col-1">属性</td><td>力量27、敏捷13、体质21、智力14、感知14、魅力12</td></tr>
-                <tr><td class="col-1">技能</td><td>地下城知识+14、自然知识+4、聆听+20、潜行+17、侦察+20、生存+14 (地底+16)</td></tr>
-                <tr><td class="col-1">专长</td><td>警觉、盲战、强韧加强、精通先攻、猛力攻击、健壮</td></tr>
-                <tr><td class="col-1">环境</td><td>地底</td></tr>
-                <tr><td class="col-1">组织</td><td>单独</td></tr>
-                <tr><td class="col-1">挑战级数</td><td>9</td></tr>
-                <tr><td class="col-1">宝藏</td><td>无</td></tr>
-                <tr><td class="col-1">阵营</td><td>通常绝对中立</td></tr>
-                <tr><td class="col-1">进化</td><td>16-30HD (超大型) ; 31-45HD (巨型)</td></tr>
-                <tr><td class="col-1">等级修正值</td><td>—</td></tr>
+                <tr><td>生命骰</td><td>15d8+78 (145HP)</td></tr>
+                <tr><td>先攻</td><td>+5</td></tr>
+                <tr><td>速度</td><td>30英尺 (6格)、遁地10英尺</td></tr>
+                <tr><td>防御等级</td><td>24 (-2体型、+1敏捷、+15天生)、接触9、措手不及23</td></tr>
+                <tr><td>基本攻击/擒抱</td><td>+11 / +27</td></tr>
+                <tr><td>攻击</td><td>挥击+17近战 (1d6+8 附加2d6强酸)</td></tr>
+                <tr><td>全力攻击</td><td>2挥击+17近战 (1d6+8 附加2d6强酸)</td></tr>
+                <tr><td>占据/触及</td><td>15英尺 / 10英尺</td></tr>
+                <tr><td>特殊攻击</td><td>腐蚀黏液</td></tr>
+                <tr><td>特殊能力</td><td>黑暗视觉60英尺、对强酸免疫、塑石、颤动感知60英尺</td></tr>
+                <tr><td>豁免</td><td>强韧+12、反射+6、意志+11</td></tr>
+                <tr><td>属性</td><td>力量27、敏捷13、体质21、智力14、感知14、魅力12</td></tr>
+                <tr><td>技能</td><td>地下城知识+14、自然知识+4、聆听+20、潜行+17、侦察+20、生存+14 (地底+16)</td></tr>
+                <tr><td>专长</td><td>警觉、盲战、强韧加强、精通先攻、猛力攻击、健壮</td></tr>
+                <tr><td>环境</td><td>地底</td></tr>
+                <tr><td>组织</td><td>单独</td></tr>
+                <tr><td>挑战级数</td><td>9</td></tr>
+                <tr><td>宝藏</td><td>无</td></tr>
+                <tr><td>阵营</td><td>通常绝对中立</td></tr>
+                <tr><td>进化</td><td>16-30HD (超大型) ; 31-45HD (巨型)</td></tr>
+                <tr><td>等级修正值</td><td>—</td></tr>
             </tbody>
         </table>
     </div>
@@ -54,15 +54,15 @@ type: text/vnd.tiddlywiki
 
     <p>钻地掘怪通晓土族语、地底通用语。</p>
 
-    <span class="title-bold">战斗</span>
+    <span>战斗</span>
     <p>钻地掘怪喜欢躲在通道中进行战斗。如此一来，以附肢攻击时侧面就不会露出破绽。</p>
     <p>若感到战斗即将来临，钻地掘怪会构筑蜂巢状的信道区域，相互以1至2英寸厚的岩石隔开。这样，钻地掘怪就可快速溶解间隔，冲出突袭对手。</p>
 
-    <div class="ability-box">
+    <div>
         <p><b>腐蚀黏液(特异)：</b>钻地掘怪分泌含高度腐蚀性物质的黏液。该黏液对岩石特别有效。只要轻轻一摸，钻地掘怪就可对生物或物品造成2d6点强酸伤害。对金属生物或物品可造成4d8点伤害，对岩石生物(包括土元素)或物品则造成8d10点伤害。只要被其挥击碰到，身上就会留下一些黏液，造成2d6点伤害，且接下来2轮每轮再各受2d6点伤害。大量(至少一品脱)清水或弱酸，例如醋，可以冲掉黏液。除非通过反射检定(DC=22)，否则对手的防具与衣物立即溶解，变得无用。同理，除非通过反射检定(DC=22)，否则击中钻地掘怪的武器亦立即溶解。除非通过反射检定(DC=22)，否则以天生武器击中钻地掘怪的生物每次均因黏液而受伤。豁免DC的调整值与体质调整值相同。</p>
     </div>
 
-    <div class="ability-box">
+    <div>
         <p><b>塑石(特异)：</b>钻地掘怪可调整黏液特性，不溶解岩石，而只暂时软化岩石。每10分钟一次，钻地掘怪可软化并形塑最多25立方英尺的岩石，效果与法术"塑石术"相同(施法者等级15)。</p>
     </div>
 

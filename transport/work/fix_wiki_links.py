@@ -6,6 +6,7 @@ TiddlyWiki 语法：[[显示文字|目标Tiddler]]
 早期脚本误生成为：[[目标Tiddler|显示文字]]
 本脚本根据 final_mapping 中的已知标题自动纠正。
 """
+import _paths as P
 import csv
 import os
 import re
@@ -13,8 +14,8 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full\transport\wiki\tiddlers"
-FINAL_MAPPING = r"E:\dnd3r_full\transport\work\final_mapping.csv"
+ROOT = P.WIKI_TIDDLERS
+FINAL_MAPPING = os.path.join(P.WORK, "final_mapping.csv")
 
 
 def load_known_titles():

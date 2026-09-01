@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>沙漠地形</h1>
 <p>无论热带、温带或寒带地区都有沙漠，所有的沙漠都有一项共同特征：少雨。沙漠地形分为三类：寒漠(常见于寒带地区)、砾漠(常见于温带地区)、沙漠(常见于热带)。</p>
 
-<p class="table-caption">沙漠地形特征</p>
+<p>沙漠地形特征</p>
 <table>
 <tr><th></th><th colspan="3">沙漠地形类型</th></tr>
 <tr><td></td><td>寒漠</td><td>砾漠</td><td>沙漠</td></tr>
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 <tr><td>沙丘</td><td>—</td><td>—</td><td>50%</td></tr>
 </table>
 
-<p class="table-caption">暖带沙漠事件遭遇表范例(EL=7)</p>
+<p>暖带沙漠事件遭遇表范例(EL=7)</p>
 <table>
 <tr><th>百分骰</th><th>事件遭遇</th><th>平均EL</th></tr>
 <tr><td>01-07</td><td>1个男面翔狮兽</td><td>9</td></tr>

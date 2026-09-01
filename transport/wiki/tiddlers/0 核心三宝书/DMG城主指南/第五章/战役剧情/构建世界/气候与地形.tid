@@ -9,14 +9,14 @@ type: text/vnd.tiddlywiki
 <p>每个地区都有特定的地形与气候，这牵涉到该处的自然景观、四季变化、常见天气与栖息物种。</p>
 <p>有些气候与地形是难以并存的，例如热带雨林不可能邻接寒带苔原(除非有魔法效应)。某些地形可能会特别适合包括玩家人物在内的常见种族的生存繁衍，不过每种地形都有自己的原生怪物、动物及智慧生物。</p>
 
-<h2 style="font-size:24px; border-bottom:1px solid #d9c78a; padding-bottom:5px; margin-top:20px; border-bottom:2px solid #A44797">气候环境</h2>
+<h2>气候环境</h2>
 <ul>
 <li><b>寒冷：</b>包括极地与寒带。任何冬季比其他季节都长的地方都属于寒冷气候。</li>
 <li><b>温和：</b>一年中暖季和寒冬时间大约相等。</li>
 <li><b>暖热：</b>包括热带与亚热带。任何夏季比其他季节都长的地方都属于暖热气候。</li>
 </ul>
 
-<h2 style="font-size:24px; border-bottom:1px solid #d9c78a; padding-bottom:5px; margin-top:20px; border-bottom:2px solid #A44797">地貌类型</h2>
+<h2>地貌类型</h2>
 <ul>
 <li><b>水域：</b>包括咸水和淡水区域。</li>
 <li><b>沙漠：</b>草木稀疏的干旱地区。</li>

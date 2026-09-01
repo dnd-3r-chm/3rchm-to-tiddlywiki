@@ -6,6 +6,7 @@
 - source 在 csv 中未命中时报告并保留原 tags（不静默修改）。
 - 幂等：再次运行无变化。
 """
+import _paths as P
 import csv
 import os
 import re
@@ -13,7 +14,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = r"E:\dnd3r_full"
+ROOT = P.ROOT
 WIKI_TIDDLERS = os.path.join(ROOT, "transport", "wiki", "tiddlers")
 FINAL_MAPPING = os.path.join(ROOT, "transport", "work", "final_mapping.csv")
 

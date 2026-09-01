@@ -4,12 +4,13 @@
 说明：PowerShell 的命令行参数会破坏中文字符，因此不能用 `python -c` 写日志，
 必须经由本脚本文件（UTF-8）写入。用后即删。
 """
+import _paths as P
 import os
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-LOG_DIR = r"E:\dnd3r_full\transport\logs"
+LOG_DIR = P.LOGS
 LOG_FILE = os.path.join(LOG_DIR, "转换日志.log")
 
 os.makedirs(LOG_DIR, exist_ok=True)

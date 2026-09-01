@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
 <p><b>领导力调整值：</b>领导力除了基本数值(人物等级+魅力调整值)，还受到许多因素影响。人物的声誉是由部属或追随者的观点而定，这会升高或降低其领导力。</p>
 
 <table>
-    <colgroup><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"><col style="width:10%;"></colgroup>
+    <colgroup><col><col><col><col><col><col><col><col><col></colgroup>
     <tr>
         <th>领导力</th><th>部属等级</th>
         <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th>
@@ -52,12 +52,12 @@ type: text/vnd.tiddlywiki
 <p><b>追随者的等级与数量：</b>人物可带领的各等级人数上限。例如：领导力14的人物最多可以带领15个1级和一个2级的追随者。</p>
 
 <!-- 修正因素 -->
-<span class="sub-title">修正因素与调整值</span>
+<span>修正因素与调整值</span>
 
 <!-- 表1：声誉 -->
 <p><b>领导者的声誉：</b></p>
 <table>
-    <colgroup><col style="width:70%;"><col style="width:30%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>领导者的声誉</th>
         <th>调整值</th>
@@ -73,7 +73,7 @@ type: text/vnd.tiddlywiki
 <!-- 表2：部属 -->
 <p><b>影响人物吸收部属的其他因素与调整值：</b></p>
 <table>
-    <colgroup><col style="width:70%;"><col style="width:30%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>领导者</th>
         <th>领导力调整值</th>
@@ -82,13 +82,13 @@ type: text/vnd.tiddlywiki
     <tr><td>招募不同阵营的部属</td><td>-1</td></tr>
     <tr><td>造成部属死亡</td><td>-2 (a)</td></tr>
 </table>
-<p class="note" style="text-indent:0;">● 每个部属死亡的效果会累计。</p>
+<p>● 每个部属死亡的效果会累计。</p>
 
 <!-- 表3：追随者 -->
 <p><b>领导者的影响(针对追随者)：</b></p>
 <p>追随者与考量的条件与部属不同。当人物吸收新追随者时，将受以下状况影响。</p>
 <table>
-    <colgroup><col style="width:70%;"><col style="width:30%;"></colgroup>
+    <colgroup><col><col></colgroup>
     <tr>
         <th>领导者</th>
         <th>领导力调整值</th>

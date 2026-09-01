@@ -7,44 +7,44 @@ type: text/vnd.tiddlywiki
 <h1>L - 奇物资料</h1>
 
 <!-- 照明与透镜类 -->
-<h2 class="category-title">照明与透镜</h2>
+<h2>照明与透镜</h2>
 <table>
-<colgroup><col style="width:16%;"><col style="width:66%;"><col style="width:18%;"></colgroup>
+<colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
 
 <!-- 1. 显像灯笼 -->
 <tr>
-    <td>显像灯笼<br><span style="font-weight:normal;font-size:12px;color:#555;">(Lantern of Revealing)</span></td>
+    <td>显像灯笼<br><span>(Lantern of Revealing)</span></td>
     <td>
-        <p class="desc">看起来像是一般附盖提灯，但点燃之后，25英尺内所有隐形生物或物体都会显现，效果如同"消除隐形"法术。</p>
-        <p class="stat">微弱塑能系。施法者等级：5。先决条件：制造奇物，"消除隐形"。重量：2磅。</p>
+        <p>看起来像是一般附盖提灯，但点燃之后，25英尺内所有隐形生物或物体都会显现，效果如同"消除隐形"法术。</p>
+        <p>微弱塑能系。施法者等级：5。先决条件：制造奇物，"消除隐形"。重量：2磅。</p>
     </td>
     <td>30,000金币</td>
 </tr>
 
 <!-- 2. 侦察透镜 -->
 <tr>
-    <td>侦察透镜<br><span style="font-weight:normal;font-size:12px;color:#555;">(Lens of Detection)</span></td>
+    <td>侦察透镜<br><span>(Lens of Detection)</span></td>
     <td>
-        <p class="desc">此圆形棱柱可让使用者更容易看清楚事物细节，"搜索"检定有+5加值，追踪时"野外求生"检定有+5加值。此镜直径约六英寸，放在架子里，并附有提把。</p>
-        <p class="stat">中等预言系。施法者等级：9。先决条件：制造奇物，"真知术"。重量：1磅。</p>
+        <p>此圆形棱柱可让使用者更容易看清楚事物细节，"搜索"检定有+5加值，追踪时"野外求生"检定有+5加值。此镜直径约六英寸，放在架子里，并附有提把。</p>
+        <p>中等预言系。施法者等级：9。先决条件：制造奇物，"真知术"。重量：1磅。</p>
     </td>
     <td>3,500金币</td>
 </tr>
 </table>
 
 <!-- 乐器与建造类 -->
-<h2 class="category-title">乐器与建造</h2>
+<h2>乐器与建造</h2>
 <table>
-<colgroup><col style="width:16%;"><col style="width:66%;"><col style="width:18%;"></colgroup>
+<colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
 
 <!-- 3. 土木七弦琴 -->
 <tr>
-    <td>土木七弦琴<br><span style="font-weight:normal;font-size:12px;color:#555;">(Lyre of Building)</span></td>
+    <td>土木七弦琴<br><span>(Lyre of Building)</span></td>
     <td>
-        <p class="desc">如果正确弹奏，可以抵消300码内对所有不动建筑物(墙、屋顶、地板等)的攻击，包括"音爆号角"、"解离术"、攻城锤或其他攻城器。每天可使用一次，每次保护历时30分钟。他还可以帮助建造各式建筑物，如：房子、矿坑、隧道、壕沟等，每周可使用一次。弹奏30分钟达成的进度等于100名工人工作三天的进度。弹奏超过1小时后，每超过1小时，弹奏者须进行"表演：弦乐器"检定(DC=18)，如果未通过则必须停止演奏，且一周之内不能再使用此功能。</p>
-        <p class="stat">微弱变化系。施法者等级：6。先决条件：制造奇物，"鬼斧神工"。重量：5磅。</p>
+        <p>如果正确弹奏，可以抵消300码内对所有不动建筑物(墙、屋顶、地板等)的攻击，包括"音爆号角"、"解离术"、攻城锤或其他攻城器。每天可使用一次，每次保护历时30分钟。他还可以帮助建造各式建筑物，如：房子、矿坑、隧道、壕沟等，每周可使用一次。弹奏30分钟达成的进度等于100名工人工作三天的进度。弹奏超过1小时后，每超过1小时，弹奏者须进行"表演：弦乐器"检定(DC=18)，如果未通过则必须停止演奏，且一周之内不能再使用此功能。</p>
+        <p>微弱变化系。施法者等级：6。先决条件：制造奇物，"鬼斧神工"。重量：5磅。</p>
     </td>
     <td>13,000金币</td>
 </tr>

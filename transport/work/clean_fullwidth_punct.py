@@ -6,12 +6,13 @@
     “ ” -> " "    （ ） -> ( )
 跳过 $__ 前缀的系统/手动维护文件（$:/tags/SideBar、$:/DefaultTiddlers 等）。
 """
+import _paths as P
 import os
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-WIKI_TIDDLERS = r"E:\dnd3r_full\transport\wiki\tiddlers"
+WIKI_TIDDLERS = P.WIKI_TIDDLERS
 MAP = {"\u201c": '"', "\u201d": '"', "\uff08": "(", "\uff09": ")"}
 
 

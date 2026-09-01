@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Parse CHM Contents.hhc into a flat mapping table (CSV)."""
+import _paths as P
 import csv
 import html
 import os
@@ -8,8 +9,8 @@ import sys
 import urllib.parse
 from html.parser import HTMLParser
 
-HHC_PATH = r"E:\dnd3r_full\Contents.hhc"
-OUT_CSV = r"E:\dnd3r_full\transport\work\hhc_mapping.csv"
+HHC_PATH = os.path.join(P.ROOT, "Contents.hhc")
+OUT_CSV = os.path.join(P.WORK, "hhc_mapping.csv")
 
 
 class HHCParser(HTMLParser):

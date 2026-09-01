@@ -7,39 +7,39 @@ type: text/vnd.tiddlywiki
 <h1>表4-11：邪恶NPC人物种族或生物种类</h1>
 <table>
 <tr><th>野蛮人</th><th>吟游诗人</th><th>牧师</th><th>德鲁伊</th><th>战士</th><th>武僧</th><th>巡林客</th><th>游荡者</th><th>术士</th><th>法师</th><th>人物种族／生物种类</th><th>等级(注二)</th></tr>
-<tr><td>—</td><td>01-02</td><td>—</td><td>—</td><td>01-02</td><td>—</td><td>—</td><td>01</td><td>—</td><td>—</td><td class="race">地底矮人</td><td>正常</td></tr>
-<tr><td>—</td><td>03</td><td>—</td><td>—</td><td>03-04</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td class="race">丘陵矮人</td><td>正常</td></tr>
-<tr><td>—</td><td>04</td><td>—</td><td>—</td><td>05</td><td>—</td><td>01</td><td>02</td><td>—</td><td>01-10</td><td class="race">高精灵</td><td>正常</td></tr>
-<tr><td>01</td><td>05</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>01</td><td>—</td><td class="race">野精灵</td><td>正常</td></tr>
-<tr><td>02-03</td><td>02</td><td>06-08</td><td>01-02</td><td>06-07</td><td>—</td><td>02-11</td><td>03</td><td>—</td><td>11</td><td class="race">木精灵</td><td>正常</td></tr>
-<tr><td>04</td><td>03-17</td><td>09-18</td><td>03</td><td>08-12</td><td>01-10</td><td>12-28</td><td>04-18</td><td>02-16</td><td>12-26</td><td class="race">半精灵</td><td>正常</td></tr>
-<tr><td>05</td><td>18</td><td>19-20</td><td>—</td><td>13</td><td>—</td><td>29</td><td>19-38</td><td>17-21</td><td>27</td><td class="race">轻足半身人</td><td>正常</td></tr>
-<tr><td>06</td><td>19</td><td>21</td><td>—</td><td>14</td><td>—</td><td>—</td><td>39</td><td>22</td><td>—</td><td class="race">地底半身人</td><td>正常</td></tr>
-<tr><td>—</td><td>20</td><td>22</td><td>04</td><td>—</td><td>—</td><td>30</td><td>40</td><td>23</td><td>28</td><td class="race">高半身人</td><td>正常</td></tr>
-<tr><td>07-29</td><td>21-22</td><td>23-25</td><td>05-06</td><td>15-23</td><td>11-20</td><td>31-39</td><td>41-50</td><td>24-28</td><td>—</td><td class="race">半兽人</td><td>正常</td></tr>
-<tr><td>30-39</td><td>23-97</td><td>26-56</td><td>07-56</td><td>24-53</td><td>21-90</td><td>40-69</td><td>51-70</td><td>29-68</td><td>29-78</td><td class="race">人类</td><td>正常</td></tr>
-<tr><td>40-44</td><td>—</td><td>57-63</td><td>57-71</td><td>54</td><td>—</td><td>70-71</td><td>—</td><td>69</td><td>—</td><td class="race">蜥人族</td><td>正常</td></tr>
-<tr><td>45</td><td>98</td><td>64</td><td>72</td><td>55</td><td>—</td><td>—</td><td>71-85</td><td>70</td><td>—</td><td class="race">地精</td><td>正常</td></tr>
-<tr><td>46</td><td>—</td><td>65</td><td>73</td><td>56-80</td><td>91-93</td><td>72</td><td>86</td><td>71</td><td>79-80</td><td class="race">狗头人</td><td>正常</td></tr>
-<tr><td>47</td><td>—</td><td>66</td><td>74</td><td>81</td><td>—</td><td>—</td><td>87</td><td>72-86</td><td>—</td><td class="race">兽人</td><td>正常</td></tr>
-<tr><td>48-77</td><td>—</td><td>67</td><td>75</td><td>82-86</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td class="race">泰夫林(神魔裔)</td><td>正常</td></tr>
-<tr><td>78</td><td>99</td><td>68</td><td>—</td><td>—</td><td>94</td><td>—</td><td>88-89</td><td>—</td><td>81</td><td class="race">黑暗精灵(女性)</td><td>-1</td></tr>
-<tr><td>—</td><td>—</td><td>69-71</td><td>—</td><td>87</td><td>—</td><td>—</td><td>—</td><td>—</td><td>82-91</td><td class="race">黑暗精灵(男性)</td><td>-1</td></tr>
-<tr><td>—</td><td>—</td><td>72</td><td>—</td><td>88</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td class="race">灰矮人</td><td>-1</td></tr>
-<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>89</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td class="race">迪洛矮人</td><td>-1</td></tr>
-<tr><td>79-83</td><td>—</td><td>73-74</td><td>76-100</td><td>91</td><td>—</td><td>73-92</td><td>—</td><td>87</td><td>92</td><td class="race">豺狼人</td><td>-1</td></tr>
-<tr><td>84</td><td>—</td><td>75-89</td><td>—</td><td>92</td><td>—</td><td>93</td><td>—</td><td>88-90</td><td>—</td><td class="race">战蜥人</td><td>-1</td></tr>
-<tr><td>85-86</td><td>—</td><td>90-91</td><td>—</td><td>93</td><td>—</td><td>94</td><td>90-93</td><td>91</td><td>93</td><td class="race">熊地精</td><td>-2</td></tr>
-<tr><td>87-90</td><td>—</td><td>92</td><td>—</td><td>94</td><td>—</td><td>95</td><td>—</td><td>92</td><td>—</td><td class="race">食人魔</td><td>-2</td></tr>
-<tr><td>91-94</td><td>—</td><td>93</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>93</td><td>—</td><td class="race">牛头人</td><td>-4</td></tr>
-<tr><td>—</td><td>—</td><td>94</td><td>—</td><td>95</td><td>—</td><td>—</td><td>94</td><td>94</td><td>94</td><td class="race">夺心魔</td><td>-8</td></tr>
-<tr><td>—</td><td>—</td><td>95</td><td>—</td><td>96</td><td>95-96</td><td>—</td><td>—</td><td>95</td><td>95-96</td><td class="race">食人魔巫师</td><td>-8</td></tr>
-<tr><td>—</td><td>—</td><td>96</td><td>—</td><td>97</td><td>97-98</td><td>96</td><td>95-96</td><td>96</td><td>97</td><td class="race">鼠人(兽化人)(注一)</td><td>-1</td></tr>
-<tr><td>95-96</td><td>100</td><td>97</td><td>—</td><td>98</td><td>—</td><td>97-98</td><td>97</td><td>97</td><td>98</td><td class="race">狼人(兽化人)(注一)</td><td>-1</td></tr>
-<tr><td>97-98</td><td>—</td><td>98-99</td><td>—</td><td>99</td><td>99</td><td>98-99</td><td>98</td><td>98</td><td>99</td><td class="race">半炼狱生物(注一)</td><td>-2</td></tr>
-<tr><td>99-100</td><td>—</td><td>100</td><td>—</td><td>100</td><td>100</td><td>100</td><td>99-100</td><td>100</td><td>100</td><td class="race">半龙(注一)</td><td>-2</td></tr>
+<tr><td>—</td><td>01-02</td><td>—</td><td>—</td><td>01-02</td><td>—</td><td>—</td><td>01</td><td>—</td><td>—</td><td>地底矮人</td><td>正常</td></tr>
+<tr><td>—</td><td>03</td><td>—</td><td>—</td><td>03-04</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>丘陵矮人</td><td>正常</td></tr>
+<tr><td>—</td><td>04</td><td>—</td><td>—</td><td>05</td><td>—</td><td>01</td><td>02</td><td>—</td><td>01-10</td><td>高精灵</td><td>正常</td></tr>
+<tr><td>01</td><td>05</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>01</td><td>—</td><td>野精灵</td><td>正常</td></tr>
+<tr><td>02-03</td><td>02</td><td>06-08</td><td>01-02</td><td>06-07</td><td>—</td><td>02-11</td><td>03</td><td>—</td><td>11</td><td>木精灵</td><td>正常</td></tr>
+<tr><td>04</td><td>03-17</td><td>09-18</td><td>03</td><td>08-12</td><td>01-10</td><td>12-28</td><td>04-18</td><td>02-16</td><td>12-26</td><td>半精灵</td><td>正常</td></tr>
+<tr><td>05</td><td>18</td><td>19-20</td><td>—</td><td>13</td><td>—</td><td>29</td><td>19-38</td><td>17-21</td><td>27</td><td>轻足半身人</td><td>正常</td></tr>
+<tr><td>06</td><td>19</td><td>21</td><td>—</td><td>14</td><td>—</td><td>—</td><td>39</td><td>22</td><td>—</td><td>地底半身人</td><td>正常</td></tr>
+<tr><td>—</td><td>20</td><td>22</td><td>04</td><td>—</td><td>—</td><td>30</td><td>40</td><td>23</td><td>28</td><td>高半身人</td><td>正常</td></tr>
+<tr><td>07-29</td><td>21-22</td><td>23-25</td><td>05-06</td><td>15-23</td><td>11-20</td><td>31-39</td><td>41-50</td><td>24-28</td><td>—</td><td>半兽人</td><td>正常</td></tr>
+<tr><td>30-39</td><td>23-97</td><td>26-56</td><td>07-56</td><td>24-53</td><td>21-90</td><td>40-69</td><td>51-70</td><td>29-68</td><td>29-78</td><td>人类</td><td>正常</td></tr>
+<tr><td>40-44</td><td>—</td><td>57-63</td><td>57-71</td><td>54</td><td>—</td><td>70-71</td><td>—</td><td>69</td><td>—</td><td>蜥人族</td><td>正常</td></tr>
+<tr><td>45</td><td>98</td><td>64</td><td>72</td><td>55</td><td>—</td><td>—</td><td>71-85</td><td>70</td><td>—</td><td>地精</td><td>正常</td></tr>
+<tr><td>46</td><td>—</td><td>65</td><td>73</td><td>56-80</td><td>91-93</td><td>72</td><td>86</td><td>71</td><td>79-80</td><td>狗头人</td><td>正常</td></tr>
+<tr><td>47</td><td>—</td><td>66</td><td>74</td><td>81</td><td>—</td><td>—</td><td>87</td><td>72-86</td><td>—</td><td>兽人</td><td>正常</td></tr>
+<tr><td>48-77</td><td>—</td><td>67</td><td>75</td><td>82-86</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>泰夫林(神魔裔)</td><td>正常</td></tr>
+<tr><td>78</td><td>99</td><td>68</td><td>—</td><td>—</td><td>94</td><td>—</td><td>88-89</td><td>—</td><td>81</td><td>黑暗精灵(女性)</td><td>-1</td></tr>
+<tr><td>—</td><td>—</td><td>69-71</td><td>—</td><td>87</td><td>—</td><td>—</td><td>—</td><td>—</td><td>82-91</td><td>黑暗精灵(男性)</td><td>-1</td></tr>
+<tr><td>—</td><td>—</td><td>72</td><td>—</td><td>88</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>灰矮人</td><td>-1</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>89</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>迪洛矮人</td><td>-1</td></tr>
+<tr><td>79-83</td><td>—</td><td>73-74</td><td>76-100</td><td>91</td><td>—</td><td>73-92</td><td>—</td><td>87</td><td>92</td><td>豺狼人</td><td>-1</td></tr>
+<tr><td>84</td><td>—</td><td>75-89</td><td>—</td><td>92</td><td>—</td><td>93</td><td>—</td><td>88-90</td><td>—</td><td>战蜥人</td><td>-1</td></tr>
+<tr><td>85-86</td><td>—</td><td>90-91</td><td>—</td><td>93</td><td>—</td><td>94</td><td>90-93</td><td>91</td><td>93</td><td>熊地精</td><td>-2</td></tr>
+<tr><td>87-90</td><td>—</td><td>92</td><td>—</td><td>94</td><td>—</td><td>95</td><td>—</td><td>92</td><td>—</td><td>食人魔</td><td>-2</td></tr>
+<tr><td>91-94</td><td>—</td><td>93</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>93</td><td>—</td><td>牛头人</td><td>-4</td></tr>
+<tr><td>—</td><td>—</td><td>94</td><td>—</td><td>95</td><td>—</td><td>—</td><td>94</td><td>94</td><td>94</td><td>夺心魔</td><td>-8</td></tr>
+<tr><td>—</td><td>—</td><td>95</td><td>—</td><td>96</td><td>95-96</td><td>—</td><td>—</td><td>95</td><td>95-96</td><td>食人魔巫师</td><td>-8</td></tr>
+<tr><td>—</td><td>—</td><td>96</td><td>—</td><td>97</td><td>97-98</td><td>96</td><td>95-96</td><td>96</td><td>97</td><td>鼠人(兽化人)(注一)</td><td>-1</td></tr>
+<tr><td>95-96</td><td>100</td><td>97</td><td>—</td><td>98</td><td>—</td><td>97-98</td><td>97</td><td>97</td><td>98</td><td>狼人(兽化人)(注一)</td><td>-1</td></tr>
+<tr><td>97-98</td><td>—</td><td>98-99</td><td>—</td><td>99</td><td>99</td><td>98-99</td><td>98</td><td>98</td><td>99</td><td>半炼狱生物(注一)</td><td>-2</td></tr>
+<tr><td>99-100</td><td>—</td><td>100</td><td>—</td><td>100</td><td>100</td><td>100</td><td>99-100</td><td>100</td><td>100</td><td>半龙(注一)</td><td>-2</td></tr>
 </table>
-<div class="notes">
+<div>
 <p>(注一)重掷一次决定NPC的种族或种类(重掷时则忽略此说明)。</p>
 <p>(注二)若生物太强，须降低其等级使游戏平衡。若降低后的等级小于或等于0级，则重掷。</p>
 </div>

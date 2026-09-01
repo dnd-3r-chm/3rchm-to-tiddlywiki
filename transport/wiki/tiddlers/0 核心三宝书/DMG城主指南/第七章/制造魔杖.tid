@@ -11,9 +11,9 @@ type: text/vnd.tiddlywiki
 
 <p>制造者必须事先准备欲储存在魔杖上的法术(对吟游诗人或术士而言，已知该法术即可)，以及法术需要的器材。若法术有材料成分，还必须提供50份(1发1份)。如果该法术需要消耗经验值，制作者一开始就必须先付出这些经验值(乘以50)，再加上制作魔杖本身需要的经验值。制造一开始，材料就会消耗掉，但器材不会(下次还可用来制作其他魔杖)。制作物品一开始就会用到准备好的法术，因此制造者于制造时不能再施展已用于制造物品的法术。换句话说，这些法术栏位已被用掉，就像施展过了一样。</p>
 
-<div class="table-title">魔杖基本价格(依职业区分)</div>
+<div>魔杖基本价格(依职业区分)</div>
 <table>
-    <colgroup><col style="width:14%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"></colgroup>
+    <colgroup><col><col><col><col><col></colgroup>
     <tr>
         <th>法术等级</th>
         <th>牧师、德鲁伊、法师</th>
@@ -27,11 +27,11 @@ type: text/vnd.tiddlywiki
     <tr><td>三级</td><td>11,250金币</td><td>13,500金币</td><td>15,750金币</td><td>11,250金币</td></tr>
     <tr><td>四级</td><td>21,000金币</td><td>24,000金币</td><td>30,000金币</td><td>21,000金币</td></tr>
 </table>
-<p class="note">(注一)施法者等级为职业等级的一半。本表列出的魔杖价格皆以最低施法者等级计算。</p>
+<p>(注一)施法者等级为职业等级的一半。本表列出的魔杖价格皆以最低施法者等级计算。</p>
 
-<div class="table-title">制造魔杖的基本魔法供应品和经验值成本(依职业区分)</div>
+<div>制造魔杖的基本魔法供应品和经验值成本(依职业区分)</div>
 <table>
-    <colgroup><col style="width:14%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"><col style="width:21.5%;"></colgroup>
+    <colgroup><col><col><col><col><col></colgroup>
     <tr>
         <th>法术等级</th>
         <th>牧师、德鲁伊、法师</th>
@@ -45,10 +45,10 @@ type: text/vnd.tiddlywiki
     <tr><td>三级</td><td>5,625金币+450XP</td><td>6,750金币+540XP</td><td>7,875金币+630XP</td><td>5,625金币+450XP</td></tr>
     <tr><td>四级</td><td>10,500金币+840XP</td><td>12,000金币+960XP</td><td>15,000金币+1,200XP</td><td>10,500金币+840XP</td></tr>
 </table>
-<p class="note">(注一)施法者等级为职业等级的一半。本表列出的魔杖成本皆以最低施法者等级计算。</p>
+<p>(注一)施法者等级为职业等级的一半。本表列出的魔杖成本皆以最低施法者等级计算。</p>
 
 <p>制造魔杖需要的天数等于基本价格金币数除以1,000(取整数)。例如石肤术魔杖和魅惑怪物魔杖的制造时间皆为21天。</p>
 
-<p style="text-indent:2em; margin-top:5px;">制造魔杖需要的专长：制造魔杖。</p>
+<p>制造魔杖需要的专长：制造魔杖。</p>
 
 

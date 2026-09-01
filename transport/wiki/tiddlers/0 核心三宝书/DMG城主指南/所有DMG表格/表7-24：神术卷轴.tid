@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <h1>表7-24：神术卷轴</h1>
 
 <!-- 零级神术 -->
-<div class="level-title">零级神术</div>
+<div>零级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -29,7 +29,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 一级神术 -->
-<div class="level-title">一级神术</div>
+<div>一级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -80,7 +80,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 二级神术 -->
-<div class="level-title">二级神术</div>
+<div>二级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -140,7 +140,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 三级神术 -->
-<div class="level-title">三级神术</div>
+<div>三级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -193,7 +193,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 四级神术 -->
-<div class="level-title">四级神术</div>
+<div>四级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -234,7 +234,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 五级神术 -->
-<div class="level-title">五级神术</div>
+<div>五级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -277,12 +277,12 @@ type: text/vnd.tiddlywiki
 <tr><td>95-97</td><td>石墙术</td><td>1,125金币</td></tr>
 <tr><td>98-100</td><td>蛛墙术</td><td>1,125金币</td></tr>
 </table>
-<div class="notes-block">
+<div>
     <p>(注一)"圣居"或"邪恶居"的影响范围内可带有至高四级的法术。</p>
 </div>
 
 <!-- 六级神术 -->
-<div class="level-title">六级神术</div>
+<div>六级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -325,12 +325,12 @@ type: text/vnd.tiddlywiki
 <tr><td>95-97</td><td>御风而行</td><td>1,650金币</td></tr>
 <tr><td>98-100</td><td>回返真言</td><td>1,650金币</td></tr>
 </table>
-<div class="notes-block">
+<div>
     <p>(注一)约60英尺立方大小的区域。</p>
 </div>
 
 <!-- 七级神术 -->
-<div class="level-title">七级神术</div>
+<div>七级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -362,7 +362,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 八级神术 -->
-<div class="level-title">八级神术</div>
+<div>八级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -395,7 +395,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <!-- 九级神术 -->
-<div class="level-title">九级神术</div>
+<div>九级神术</div>
 <table>
 <tr>
     <th>百分骰</th><th>法术</th><th>价格</th>
@@ -420,7 +420,7 @@ type: text/vnd.tiddlywiki
 <tr><td>96-99</td><td>共鸣术</td><td>3,825金币</td></tr>
 <tr><td>100</td><td>完全复生术</td><td>28,825金币</td></tr>
 </table>
-<div class="notes-block">
+<div>
     <p>(注一)材料成份价值不得超过100金币，且不能消耗经验值。</p>
 </div>
 
