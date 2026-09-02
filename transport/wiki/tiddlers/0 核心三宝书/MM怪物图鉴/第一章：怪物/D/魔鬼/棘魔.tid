@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>棘魔 (Barbed Devil / Hamatula)<br><span>中型异界生物 (巴特、邪恶、外界、守序)</span></th>
+                    <th>棘魔 (Barbed Devil / Hamatula)<br>中型异界生物 (巴特、邪恶、外界、守序)</th>
                 </tr>
             </thead>
             <tbody>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
 
     <p>棘魔，亦称哈玛魔，通常是藏宝库守卫或巴托九狱最强大生物的保镖。棘魔约7英尺高，约300磅重。</p>
 
-    <span>战斗</span>
+    战斗
     <p>棘魔以爪抓急切地攻击，试图戳刺对手。若对手逃过擒抱，则以"人类定身术"能力使其失去行动能力。</p>
     <p>在计算伤害减免时，棘魔的天生武器与持有武器都视为邪恶阵营与守序阵营。</p>
 

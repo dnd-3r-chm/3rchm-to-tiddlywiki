@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-头部.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 头部</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 虔信经匣 -->
 <tr>
     <td>虔信经匣</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>1,000金币</td>
 </tr>
 
-<!-- 2. 易容帽 -->
 <tr>
     <td>易容帽</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>1,800金币</td>
 </tr>
 
-<!-- 3. 智慧头带 -->
 <tr>
     <td>智慧头带</td>
     <td>
@@ -40,7 +36,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币 (+2)<br>16,000金币 (+4)<br>36,000金币 (+6)</td>
 </tr>
 
-<!-- 4. 劝诱头带 -->
 <tr>
     <td>劝诱头带</td>
     <td>
@@ -50,7 +45,6 @@ type: text/vnd.tiddlywiki
     <td>4,500金币</td>
 </tr>
 
-<!-- 5. 通晓语言及阅读魔法头盔 -->
 <tr>
     <td>通晓语言及阅读魔法头盔</td>
     <td>
@@ -60,7 +54,6 @@ type: text/vnd.tiddlywiki
     <td>5,200金币</td>
 </tr>
 
-<!-- 6. 次级爆裂头带 -->
 <tr>
     <td>次级爆裂头带</td>
     <td>
@@ -71,4 +64,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

@@ -191,7 +191,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>高等武器专精(1,2)</td><td>擅长该武器、高等专攻该武器，专攻该武器、武器专精，战士等级12</td><td>该武器伤害掷骰+4</td></tr>
 
-<tr><td colspan="3">&nbsp;</td></tr>
+<tr><td colspan="3"> </td></tr>
 
 <tr><td><b>制造物品专长</b></td><td><b>先决条件</b></td><td><b>效果</b></td></tr>
 
@@ -211,7 +211,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>抄录卷轴</td><td>施法者等级1</td><td>制造魔法卷轴</td></tr>
 
-<tr><td colspan="3">&nbsp;</td></tr>
+<tr><td colspan="3"> </td></tr>
 
 <tr><td><b>超魔法专长</b></td><td><b>先决条件</b></td><td><b>效果</b></td></tr>
 

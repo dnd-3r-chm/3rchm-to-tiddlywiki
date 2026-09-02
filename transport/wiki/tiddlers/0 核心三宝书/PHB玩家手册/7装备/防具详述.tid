@@ -7,11 +7,11 @@ type: text/vnd.tiddlywiki
 
 <table align="center"><tr><td colspan="9"><b>表7-6：防具</b></td></tr>
 
-<tr><td rowspan="2"><b>盔甲</b></td><td rowspan="2"><b>价格</b></td><td rowspan="2" style="width: 4em;"><b>盔甲 或 盾牌加值</b></td><td rowspan="2" style="width: 3em;"><b>最大敏捷加值</b></td><td rowspan="2" style="width: 3em;"><b>防具检定减值</b></td><td rowspan="2" style="width: 3em;"><b>奥术失效机率</b></td><td colspan="2"><b>速度</b></td><td rowspan="2"><b>重量(1)</b></td></tr>
+<tr><td rowspan="2"><b>盔甲</b></td><td rowspan="2"><b>价格</b></td><td rowspan="2"><b>盔甲 或 盾牌加值</b></td><td rowspan="2"><b>最大敏捷加值</b></td><td rowspan="2"><b>防具检定减值</b></td><td rowspan="2"><b>奥术失效机率</b></td><td colspan="2"><b>速度</b></td><td rowspan="2"><b>重量(1)</b></td></tr>
 
 <tr><td><b>30呎</b></td><td><b>20呎</b></td></tr>
 
-<tr><td colspan="9" style="height: 0.5em;"></td></tr>
+<tr><td colspan="9"></td></tr>
 
 <tr><td colspan="9"><b>轻型盔甲</b></td></tr>
 
@@ -23,7 +23,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>链甲衫</td><td>100金币</td><td>+4</td><td>+4</td><td>-2</td><td>20%</td><td>30呎</td><td>20呎</td><td>25磅</td></tr>
 
-<tr><td colspan="9" style="height: 0.5em;"></td></tr>
+<tr><td colspan="9"></td></tr>
 
 <tr><td colspan="9"><b>中型盔甲</b></td></tr>
 
@@ -35,7 +35,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>胸甲</td><td>200金币</td><td>+5</td><td>+3</td><td>-4</td><td>25%</td><td>20呎</td><td>15呎</td><td>30磅</td></tr>
 
-<tr><td colspan="9" style="height: 0.5em;"></td></tr>
+<tr><td colspan="9"></td></tr>
 
 <tr><td colspan="9"><b>重型盔甲</b></td></tr>
 
@@ -47,7 +47,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>全身铠甲</td><td>1,500金币</td><td>+8</td><td>+1</td><td>-6</td><td>35%</td><td>20呎(2)</td><td>15呎(2)</td><td>50磅</td></tr>
 
-<tr><td colspan="9" style="height: 0.5em;"></td></tr>
+<tr><td colspan="9"></td></tr>
 
 <tr><td colspan="9"><b>盾牌</b></td></tr>
 
@@ -71,7 +71,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>盾牌用尖刺</td><td>+10金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>－</td><td>－</td><td>+5磅</td></tr></table>
 
-<ul style="list-style-type: decimal;"><li>表列值为中型人物所使用的防具重量，小型人物所使用的防具重量为表上的一半，大型人物所使用的防具重量为表列的两倍。</li>
+<ul><li>表列值为中型人物所使用的防具重量，小型人物所使用的防具重量为表上的一半，大型人物所使用的防具重量为表列的两倍。</li>
 
 <li>穿着重型盔甲奔跑时，只能以三倍(而非四倍)速度前进。</li>
 

@@ -87,7 +87,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td>第五宿敌</td><td>3</td><td>3</td><td>3</td><td>3</td></tr></table>
 
-<table style="float:right;border: 0; margin-top: 1em;" width="33%"><tr>
+<table width="33%"><tr>
 
 <td colspan="2"><b>表3-14：巡林客宿敌</b></td></tr>
 
@@ -237,7 +237,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>技能选择</b>：选择总数为6+智力调整值的技能数。</p>
 
-<table style="margin-left: 2em;"><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
+<table><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
 
 <tr><td>生存</td><td>4</td><td>感知</td><td>─</td></tr>
 

@@ -4,16 +4,16 @@ type: text/css
 
 /* 标题配色 —— 由 transport/work/gen_styles.py 生成，请勿手动编辑；改色改脚本后重跑。 */
 
-/* 1) 默认：未指定颜色的页面，h1-h6 标题（h2.tc-title 页面大标题条除外） */
+/* 1) 默认：未指定颜色的页面，h1-h6 标题(h2.tc-title 页面大标题条除外) */
 .tc-tiddler-frame.tc-tiddler-view-frame h1, .tc-tiddler-frame.tc-tiddler-view-frame h2:not(.tc-title), .tc-tiddler-frame.tc-tiddler-view-frame h3, .tc-tiddler-frame.tc-tiddler-view-frame h4, .tc-tiddler-frame.tc-tiddler-view-frame h5, .tc-tiddler-frame.tc-tiddler-view-frame h6 { color: maroon; }
 
-/* 2) 按书覆盖（未列出 = 默认 maroon） */
+/* 2) 按书覆盖(未列出 = 默认 maroon) */
 /* DMG城主指南 h1h2 */
 .tc-tiddler-frame.tc-tiddler-view-frame[data-tags*="DMG城主指南"] h1, .tc-tiddler-frame.tc-tiddler-view-frame[data-tags*="DMG城主指南"] h2:not(.tc-title) { color: navy; }
 /* DMG城主指南 h3h6 */
 .tc-tiddler-frame.tc-tiddler-view-frame[data-tags*="DMG城主指南"] h3, .tc-tiddler-frame.tc-tiddler-view-frame[data-tags*="DMG城主指南"] h4, .tc-tiddler-frame.tc-tiddler-view-frame[data-tags*="DMG城主指南"] h5, .tc-tiddler-frame.tc-tiddler-view-frame[data-tags*="DMG城主指南"] h6 { color: steelblue; }
 
-/* 3) 根目录页面（前言/译者名录/如何使用大不全）：h1/h2 与 h3-h6 分开配色 */
+/* 3) 根目录页面(前言/译者名录/如何使用大不全)：h1/h2 与 h3-h6 分开配色 */
 .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="前言"] h1, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="前言"] h2:not(.tc-title), .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="译者名录"] h1, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="译者名录"] h2:not(.tc-title), .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="如何使用大不全"] h1, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="如何使用大不全"] h2:not(.tc-title) { color: DarkSlateGray; }
 .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="前言"] h3, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="前言"] h4, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="前言"] h5, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="前言"] h6, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="译者名录"] h3, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="译者名录"] h4, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="译者名录"] h5, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="译者名录"] h6, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="如何使用大不全"] h3, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="如何使用大不全"] h4, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="如何使用大不全"] h5, .tc-tiddler-frame.tc-tiddler-view-frame[data-tiddler-title="如何使用大不全"] h6 { color: teal; }
 

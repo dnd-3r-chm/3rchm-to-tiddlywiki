@@ -3,10 +3,8 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表7-24：神术卷轴.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>表7-24：神术卷轴</h1>
 
-<!-- 零级神术 -->
 <div>零级神术</div>
 <table>
 <tr>
@@ -28,7 +26,6 @@ type: text/vnd.tiddlywiki
 <tr><td>94-100</td><td>恩赐</td><td>12金币5银币</td></tr>
 </table>
 
-<!-- 一级神术 -->
 <div>一级神术</div>
 <table>
 <tr>
@@ -79,7 +76,6 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>一级召唤盟友术</td><td>25金币</td></tr>
 </table>
 
-<!-- 二级神术 -->
 <div>二级神术</div>
 <table>
 <tr>
@@ -139,7 +135,6 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>诚实之域</td><td>150金币</td></tr>
 </table>
 
-<!-- 三级神术 -->
 <div>三级神术</div>
 <table>
 <tr>
@@ -192,7 +187,6 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>风墙术</td><td>375金币</td></tr>
 </table>
 
-<!-- 四级神术 -->
 <div>四级神术</div>
 <table>
 <tr>
@@ -233,7 +227,6 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>融身入林</td><td>700金币</td></tr>
 </table>
 
-<!-- 五级神术 -->
 <div>五级神术</div>
 <table>
 <tr>
@@ -281,7 +274,6 @@ type: text/vnd.tiddlywiki
     <p>(注一)"圣居"或"邪恶居"的影响范围内可带有至高四级的法术。</p>
 </div>
 
-<!-- 六级神术 -->
 <div>六级神术</div>
 <table>
 <tr>
@@ -329,7 +321,6 @@ type: text/vnd.tiddlywiki
     <p>(注一)约60英尺立方大小的区域。</p>
 </div>
 
-<!-- 七级神术 -->
 <div>七级神术</div>
 <table>
 <tr>
@@ -361,7 +352,6 @@ type: text/vnd.tiddlywiki
 <tr><td>98-100</td><td>混沌真言</td><td>2,275金币</td></tr>
 </table>
 
-<!-- 八级神术 -->
 <div>八级神术</div>
 <table>
 <tr>
@@ -394,7 +384,6 @@ type: text/vnd.tiddlywiki
 <tr><td>97-100</td><td>旋风术</td><td>3,000金币</td></tr>
 </table>
 
-<!-- 九级神术 -->
 <div>九级神术</div>
 <table>
 <tr>
@@ -423,5 +412,3 @@ type: text/vnd.tiddlywiki
 <div>
     <p>(注一)材料成份价值不得超过100金币，且不能消耗经验值。</p>
 </div>
-
-

@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>贝克风精 (Belker)<br><span>大型元素(风系、外界)</span></th>
+                    <th>贝克风精 (Belker)<br>大型元素(风系、外界)</th>
                 </tr>
             </thead>
             <tbody>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>大多数情况下，贝克风精以爪抓及啮咬进行战斗。</p>
 
     <div>

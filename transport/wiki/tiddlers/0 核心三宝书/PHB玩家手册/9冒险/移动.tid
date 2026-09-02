@@ -75,7 +75,7 @@ type: text/vnd.tiddlywiki
 
 <p>战斗时请使用147页列举的战术速度。一般而言，人物在战斗中不是用走的，而是急行或奔跑。如果人物在移动正常距离再进行一些动作，如：施法或攻击，则视为是以半轮时间急行、半轮时间做事。</p>
 
-<table style="float: right; margin-left: 0.5em; width: 50%;"><tr><td colspan="3"><b>表9-4：受阻移动</b></td></tr>
+<table><tr><td colspan="3"><b>表9-4：受阻移动</b></td></tr>
 
 <tr><td><b>状况</b></td><td><b>范例</b></td><td><b>额外消耗的移动力</b></td></tr>
 
@@ -117,7 +117,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>奔跑：</b>你不能长时间连续奔跑。有规律地跑跑停停其实就是急行。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="4"><b>表9-5：地形与大陆移动</b></td></tr>
+<table><tr><td colspan="4"><b>表9-5：地形与大陆移动</b></td></tr>
 
 <tr><td><b>地形</b></td><td><b>公路</b></td><td><b>道路</b></td><td><b>荒野</b></td></tr>
 
@@ -203,6 +203,6 @@ type: text/vnd.tiddlywiki
 
 <tr><td>三桅帆船(扬帆并划桨)</td><td>4哩</td><td>96哩</td></tr></table>
 
-<ul style="list-style-type: decimal;"><li>四足生物(如：马)比人类能背负更重的东西，请参见"负重能力"章节。</li>
+<ul><li>四足生物(如：马)比人类能背负更重的东西，请参见"负重能力"章节。</li>
 
 <li>木筏、驳船和平底货船用于河流或湖泊。如果顺流而下，把水的流速(通常3哩／小时)加到船速上。而除了划船的10小时之外，如果有人掌舵，则船就能再额外顺流漂行14小时，也就是每天多42哩的航行距离。这几种船不能逆流划行，但可以藉由沿岸的动物拖曳而上。</li></ul>

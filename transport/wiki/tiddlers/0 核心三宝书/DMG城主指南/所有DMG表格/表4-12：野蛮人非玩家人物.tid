@@ -3,7 +3,6 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-12：野蛮人非玩家人物.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>表4-12：野蛮人非玩家人物</h1>
 <table>
 <tr><th>等级</th><th>HP</th><th>AC</th><th>近战</th><th>远程</th><th>强韧 / 反射 / 意志</th><th>技能点数 / 专长</th><th>物品</th></tr>
@@ -28,4 +27,3 @@ type: text/vnd.tiddlywiki
 <tr><td>19</td><td>166</td><td>29</td><td>+30/25/20/15</td><td>+27/22/17/12</td><td>+13/+8/+6</td><td>88/7</td><td>+5胸甲、天生防御护符+3、防护戒指+3、+4近战、+3远程、巨力腰带+6、敏捷手套+2、16,000金币</td></tr>
 <tr><td>20</td><td>175</td><td>29</td><td>+31/26/21/16</td><td>+30/25/20/15</td><td>+14/+9/+7</td><td>92/7</td><td>66,000金币，其余同19级</td></tr>
 </table>
-

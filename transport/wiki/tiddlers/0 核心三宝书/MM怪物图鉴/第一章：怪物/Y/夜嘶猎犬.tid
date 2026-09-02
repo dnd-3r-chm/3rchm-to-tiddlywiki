@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>夜嘶猎犬 (Yeth Hound)<br><span>中型异界生物 (外界、邪恶)</span></th>
+                    <th>夜嘶猎犬 (Yeth Hound)<br>中型异界生物 (外界、邪恶)</th>
                 </tr>
             </thead>
             <tbody>
@@ -40,7 +40,7 @@ type: text/vnd.tiddlywiki
 
     <p>夜嘶猎犬会在夜空中低飞滑翔，找寻合适的猎物。夜嘶猎犬肩高5英尺，重约400磅。夜嘶猎犬不会说话，但听得懂炼狱语。</p>
 
-    <span>战斗</span>
+    战斗
     <p>夜嘶猎犬只在夜晚狩猎，因为他们非常畏惧阳光，即使有性命之忧，也不会在白天出没。在计算伤害减免时，夜嘶猎犬的天生武器或其他持用武器都视为邪恶阵营。</p>
 
     <div>

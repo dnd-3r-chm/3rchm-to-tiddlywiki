@@ -3,32 +3,29 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-13：机关陷阱CR调整值.htm
 type: text/vnd.tiddlywiki
 <div>
-    <div>表3-13：机关陷阱CR调整值</div>
+<div>表3-13：机关陷阱CR调整值</div>
     <table>
         <thead>
             <tr><th>特色</th><th>CR调整值</th></tr>
         </thead>
         <tbody>
-            <!-- "搜索"DC 组 -->
+            
             <tr><td>"搜索"DC</td><td>—</td></tr>
             <tr><td>15以下</td><td>1</td></tr>
             <tr><td>25–29</td><td>+1</td></tr>
             <tr><td>30以上</td><td>+2</td></tr>
 
-            <!-- "解除装置"DC 组 -->
             <tr><td>"解除装置"DC</td><td>—</td></tr>
             <tr><td>15以下</td><td>1</td></tr>
             <tr><td>25–29</td><td>+1</td></tr>
             <tr><td>30以上</td><td>+2</td></tr>
 
-            <!-- 反射检定DC 组 -->
             <tr><td>反射检定DC(陷坑或其他进行豁免检定的陷阱)</td><td>—</td></tr>
             <tr><td>15以下</td><td>1</td></tr>
             <tr><td>16–24</td><td>—</td></tr>
             <tr><td>25–29</td><td>+1</td></tr>
             <tr><td>30以上</td><td>+2</td></tr>
 
-            <!-- 攻击检定 组 -->
             <tr><td>攻击检定(近战或远程攻击陷阱)</td><td>—</td></tr>
             <tr><td>+0以下</td><td>2</td></tr>
             <tr><td>+1至+5</td><td>1</td></tr>
@@ -36,11 +33,9 @@ type: text/vnd.tiddlywiki
             <tr><td>+15至+19</td><td>+1</td></tr>
             <tr><td>+20至+24</td><td>+2</td></tr>
 
-            <!-- 伤害/效果 -->
             <tr><td>伤害/效果</td><td>—</td></tr>
             <tr><td>平均伤害</td><td>+1/7点伤害(注一)</td></tr>
 
-            <!-- 其他特色 -->
             <tr><td>其他特色</td><td>—</td></tr>
             <tr><td>炼金物品</td><td>—</td></tr>
             <tr><td>如类似效果法术等级</td><td>—</td></tr>
@@ -51,7 +46,6 @@ type: text/vnd.tiddlywiki
             <tr><td>延击设计(3轮)</td><td>+1</td></tr>
             <tr><td>延击设计(4轮以上)</td><td>1</td></tr>
 
-            <!-- 毒素 -->
             <tr><td>毒素</td><td>—</td></tr>
             <tr><td>黑奎蛇毒液</td><td>+1</td></tr>
             <tr><td>大型蝎毒液</td><td>+3</td></tr>
@@ -76,7 +70,6 @@ type: text/vnd.tiddlywiki
             <tr><td>夺魄迷雾</td><td>+4</td></tr>
             <tr><td>翼龙毒液</td><td>+5</td></tr>
 
-            <!-- 最后两项 -->
             <tr><td>陷坑尖刺</td><td>+1</td></tr>
             <tr><td>接触攻击</td><td>+1</td></tr>
         </tbody>

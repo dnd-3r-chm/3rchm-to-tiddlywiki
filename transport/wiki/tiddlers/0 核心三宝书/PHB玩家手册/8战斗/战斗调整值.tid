@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 <p>战斗并不只是面对面刀剑互砍，无论攻击或防御，如果占到最佳的位置，往往可以左右胜负。以下将针对各种有利或不利的状况进行说明。</p>
 
-<table style="float: right; margin-left: 0.5em; width: 50%;"><tr><td colspan="3"><b>表8-5：攻击检定调整值</b></td></tr>
+<table><tr><td colspan="3"><b>表8-5：攻击检定调整值</b></td></tr>
 
 <tr><td><b>攻击者状况</b></td><td><b>近战</b></td><td><b>远程</b></td></tr>
 
@@ -27,7 +27,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>挤身狭窄空间</td><td>-4</td><td>-4</td></tr>
 
-<tr><td colspan="3"><ul style="list-style-type: decimal;"><li>被纠缠的人物在敏捷上会受到-4减值，此减值也会影响攻击检定。</li>
+<tr><td colspan="3"><ul><li>被纠缠的人物在敏捷上会受到-4减值，此减值也会影响攻击检定。</li>
 
 <li>防御者的AC失去敏捷加值。如果防御者目盲，表列的加值就不适用。</li>
 
@@ -43,11 +43,9 @@ type: text/vnd.tiddlywiki
 
 <p>进行远程攻击时，判断目标是否具有掩蔽的规则如下：你选择占用空间的任一角，从此点分别画一条直线到目标生物占用空间的各角落，只要有一条直线会经过掩蔽物的方格或边界，或是经过其他生物占据的方格，目标即视为具有掩蔽，AC可获得+4加值。</p>
 
-<p></p>
-
 <p>对邻接方格的敌人进行近战攻击时，只要连接两方格的任一直线穿过墙壁(矮墙也算)，目标即视为具有掩蔽。对邻接方格以外的敌人进行近战攻击时(如：长型武器)，判断掩蔽的规则与远程攻击相同。</p>
 
-<table style="float: right; margin-left: 0.5em; width: 50%;"><tr><td colspan="3"><b>表8-6：AC调整值</b></td></tr>
+<table><tr><td colspan="3"><b>表8-6：AC调整值</b></td></tr>
 
 <tr><td><b>防御者状况</b></td><td><b>近战</b></td><td><b>远程</b></td></tr>
 
@@ -77,7 +75,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>处于被震慑状态</td><td>-2(1)</td><td>-2(1)</td></tr>
 
-<tr><td colspan="3"><ul style="list-style-type: decimal;"><li>防御者的AC失去敏捷加值。</li>
+<tr><td colspan="3"><ul><li>防御者的AC失去敏捷加值。</li>
 
 <li>被纠缠的人物在敏捷值上会受到-4减值。</li>
 

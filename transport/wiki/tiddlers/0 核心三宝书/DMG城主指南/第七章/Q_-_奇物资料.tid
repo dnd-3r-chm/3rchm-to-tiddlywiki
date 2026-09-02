@@ -3,18 +3,15 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/Q_-_奇物资料.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>Q - 奇物资料</h1>
 
-<!-- 夸尔的羽符 -->
 <h2>夸尔的羽符</h2>
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 夸尔的羽符 -->
 <tr>
-    <td>夸尔的羽符<br><span>(Quaal's Feather Token)</span></td>
+    <td>夸尔的羽符<br>(Quaal's Feather Token)</td>
     <td>
         <p>具有不同功能的羽毛，每个羽符只能使用一次。种类说明如下：</p>
         <ul>
@@ -40,15 +37,13 @@ type: text/vnd.tiddlywiki
 </tr>
 </table>
 
-<!-- 艾罗娜的箭袋 -->
 <h2>容器与箭袋</h2>
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 2. 艾罗娜的箭袋 -->
 <tr>
-    <td>艾罗娜的箭袋<br><span>(Quiver of Ehlonna)</span></td>
+    <td>艾罗娜的箭袋<br>(Quiver of Ehlonna)</td>
     <td>
         <p>看似标准箭袋，仔细检查会发现他有三个部分，每一个部分都是一个异次元空间，可以储放的空间比看上去还多。第一个是最小的部分，可以容纳60个大小和形状与箭相似的物体；第二个空间稍长，可以容纳18个大小和形状与标枪相似的物体；第三个空间最长，可以容纳6个大小与形状与弓相似的物体(矛、法杖等)。一旦放有物品，使用者可以从中取出内容物。无论放多少物品，此箭袋重量不变。</p>
         <p>中等咒法系。施法者等级：9。先决条件：制造奇物，"李欧蒙秘藏箱"。重量：2磅。</p>
@@ -56,5 +51,3 @@ type: text/vnd.tiddlywiki
     <td>1,800金币</td>
 </tr>
 </table>
-
-

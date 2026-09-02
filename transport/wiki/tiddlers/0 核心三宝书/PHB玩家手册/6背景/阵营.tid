@@ -17,47 +17,47 @@ type: text/vnd.tiddlywiki
 
 <p>阵营可作为你扮演时的参考。如果你扮演得不像原先你为人物设定的阵营，却像另一个阵营，DM可以改变人物的阵营以符合其表现。</p>
 
-<table style="float: right; margin-left: 0.5em; width: 45%;"><tr><td colspan="3"><b>表6-1：生物、种族和职业的阵营</b></td></tr>
+<table><tr><td colspan="3"><b>表6-1：生物、种族和职业的阵营</b></td></tr>
 
-<tr><td style="width: 33.3%;"><b>守序善良</b></td><td style="width: 33.4%;"><b>中立善良</b></td><td style="width: 33.3%;"><b>混乱善良</b></td></tr>
+<tr><td><b>守序善良</b></td><td><b>中立善良</b></td><td><b>混乱善良</b></td></tr>
 
-<tr><td><i style="color:red;">亚空神族</i></td><td><i style="color:red;">盖丁天族</i></td><td><i style="color:red;">爱菈天族</i></td></tr>
+<tr><td><i>亚空神族</i></td><td><i>盖丁天族</i></td><td><i>爱菈天族</i></td></tr>
 
 <tr><td>金龙</td><td>侏儒</td><td>赤铜龙</td></tr>
 
-<tr><td><i style="color:red;">翼狮</i></td><td>人马</td><td><i style="color:red;">独角兽</i></td></tr>
+<tr><td><i>翼狮</i></td><td>人马</td><td><i>独角兽</i></td></tr>
 
 <tr><td>矮人</td><td>巨鹰</td><td>精灵</td></tr>
 
-<tr><td><i style="color:red;">圣武士</i></td><td><i style="color:red;">伪龙</i></td><td>巡林客</td></tr>
+<tr><td><i>圣武士</i></td><td><i>伪龙</i></td><td>巡林客</td></tr>
 
-<tr><td colspan="3" style="height: 0.5em;"></td></tr>
+<tr><td colspan="3"></td></tr>
 
 <tr><td><b>守序中立</b></td><td><b>绝对中立</b></td><td><b>混乱中立</b></td></tr>
 
-<tr><td>武僧</td><td><i style="color:red;">动物</i></td><td>半精灵</td></tr>
+<tr><td>武僧</td><td><i>动物</i></td><td>半精灵</td></tr>
 
 <tr><td>法师</td><td>半身人</td><td>半兽人</td></tr>
 
-<tr><td><i style="color:red;">弗米蚁族</i></td><td>人类</td><td>野蛮人</td></tr>
+<tr><td><i>弗米蚁族</i></td><td>人类</td><td>野蛮人</td></tr>
 
-<tr><td><i style="color:red;">火矮人</i></td><td>蜥人族</td><td>吟游诗人</td></tr>
+<tr><td><i>火矮人</i></td><td>蜥人族</td><td>吟游诗人</td></tr>
 
 <tr><td></td><td>德鲁伊</td><td>游荡者</td></tr>
 
-<tr><td colspan="3" style="height: 0.5em;"></td></tr>
+<tr><td colspan="3"></td></tr>
 
 <tr><td><b>守序邪恶</b></td><td><b>中立邪恶</b></td><td><b>混乱邪恶</b></td></tr>
 
-<tr><td><i style="color:red;">魔鬼</i></td><td>黑暗精灵</td><td><i style="color:red;">恶魔</i></td></tr>
+<tr><td><i>魔鬼</i></td><td>黑暗精灵</td><td><i>恶魔</i></td></tr>
 
 <tr><td>蓝龙</td><td>地精</td><td>红龙</td></tr>
 
-<tr><td>眼魔</td><td><i style="color:red;">怨魂</i></td><td><i style="color:red;">吸血鬼</i></td></tr>
+<tr><td>眼魔</td><td><i>怨魂</i></td><td><i>吸血鬼</i></td></tr>
 
-<tr><td>食人魔巫师</td><td>伊特怪</td><td><i style="color:red;">战蜥人</i></td></tr>
+<tr><td>食人魔巫师</td><td>伊特怪</td><td><i>战蜥人</i></td></tr>
 
-<tr><td>大地精</td><td><i style="color:red;">囚魂尸</i></td><td>豺狼人</td></tr>
+<tr><td>大地精</td><td><i>囚魂尸</i></td><td>豺狼人</td></tr>
 
 <tr><td>狗头人</td><td></td><td>食人魔</td></tr>
 

@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-身体.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 身体</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 骨符法袍 -->
 <tr>
     <td>骨符法袍</td>
     <td>
@@ -27,7 +25,6 @@ type: text/vnd.tiddlywiki
     <td>2,400金币</td>
 </tr>
 
-<!-- 2. 脱逃背心 -->
 <tr>
     <td>脱逃背心</td>
     <td>
@@ -37,7 +34,6 @@ type: text/vnd.tiddlywiki
     <td>5,200金币</td>
 </tr>
 
-<!-- 3. 杂货法袍 -->
 <tr>
     <td>杂货法袍</td>
     <td>
@@ -75,7 +71,6 @@ type: text/vnd.tiddlywiki
     <td>7,000金币</td>
 </tr>
 
-<!-- 4. 德鲁伊祭袍 -->
 <tr>
     <td>德鲁伊祭袍</td>
     <td>
@@ -86,4 +81,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

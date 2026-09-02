@@ -3,24 +3,21 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-颈部.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>奇物分类 - 颈部</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 贤者之手 -->
 <tr>
     <td>贤者之手</td>
     <td>
         <p>经过防腐处理的精灵手掌，用一条金链子挂在使用者的脖子上(占用空间如同一条魔法项链)。使用者可以使用"法师之手"。</p>
         <p>微弱变化系。施法者等级：2。先决条件：制造奇物，"法师之手"。</p>
     </td>
-    <td>900金币<br><span>(重量: 2磅)</span></td>
+    <td>900金币<br>(重量: 2磅)</td>
 </tr>
 
-<!-- 2. 天生防御护符 -->
 <tr>
     <td>天生防御护符</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>2,000金币 (+1)<br>8,000金币 (+2)<br>18,000金币 (+3)<br>32,000金币 (+4)<br>50,000金币 (+5)</td>
 </tr>
 
-<!-- 3. 破魔圣甲虫 -->
 <tr>
     <td>破魔圣甲虫</td>
     <td>
@@ -40,7 +36,6 @@ type: text/vnd.tiddlywiki
     <td>2,500金币</td>
 </tr>
 
-<!-- 4. 健康护符 -->
 <tr>
     <td>健康护符</td>
     <td>
@@ -50,7 +45,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币 (+2)<br>16,000金币 (+4)<br>36,000金币 (+6)</td>
 </tr>
 
-<!-- 5. 重拳护符 -->
 <tr>
     <td>重拳护符</td>
     <td>
@@ -61,4 +55,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

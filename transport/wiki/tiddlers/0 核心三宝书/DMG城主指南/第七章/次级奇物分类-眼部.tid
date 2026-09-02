@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-眼部.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 眼部</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 微观镜片 -->
 <tr>
     <td>微观镜片</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>1,250金币</td>
 </tr>
 
-<!-- 2. 鹰眼镜片 -->
 <tr>
     <td>鹰眼镜片</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>2,500金币</td>
 </tr>
 
-<!-- 3. 侦察透镜 -->
 <tr>
     <td>侦察透镜</td>
     <td>
@@ -41,4 +37,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

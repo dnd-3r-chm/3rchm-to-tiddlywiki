@@ -139,7 +139,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>技能选择</b>：选择总数为4+智力调整值的技能数。</p>
 
-<table style="margin-left: 2em;"><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
+<table><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
 
 <tr><td>攀爬</td><td>4</td><td>力量</td><td>-1</td></tr>
 

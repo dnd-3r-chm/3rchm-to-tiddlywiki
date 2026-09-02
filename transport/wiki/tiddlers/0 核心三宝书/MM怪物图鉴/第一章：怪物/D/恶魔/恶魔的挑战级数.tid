@@ -8,24 +8,23 @@ type: text/vnd.tiddlywiki
     <p>接下来几页的恶魔速览：</p>
 
     <div>
-        <!-- 左栏 -->
+        
         <div>
-            <div><span>CR2</span><span>怯魔</span>成群攻击的小恶魔。</div>
-            <div><span>CR2</span><span>夸塞魔</span>协助邪恶凡人的聪明小鬼。</div>
-            <div><span>CR6</span><span>巴创魔</span>高而瘦削的长牙刺客。</div>
-            <div><span>CR7</span><span>魅魔</span>具有多种风貌的诱人妖妇。</div>
-            <div><span>CR9</span><span>弗洛魔</span>似秃鹰的野蛮战士，喜好战斗。</div>
-            <div><span>CR10</span><span>狩魔蛛</span>蛛形的笨重生物，同时猎杀恶魔与凡人。</div>
+            <div>CR2怯魔成群攻击的小恶魔。</div>
+            <div>CR2夸塞魔协助邪恶凡人的聪明小鬼。</div>
+            <div>CR6巴创魔高而瘦削的长牙刺客。</div>
+            <div>CR7魅魔具有多种风貌的诱人妖妇。</div>
+            <div>CR9弗洛魔似秃鹰的野蛮战士，喜好战斗。</div>
+            <div>CR10狩魔蛛蛛形的笨重生物，同时猎杀恶魔与凡人。</div>
         </div>
 
-        <!-- 右栏 -->
         <div>
-            <div><span>CR11</span><span>狂战魔</span>蛙形恶魔，散发令人丧失动作能力的臭气，以诱惑凡人堕落为目标。</div>
-            <div><span>CR11</span><span>猎魔蛛</span>恐怖的蛛形构装生物，拥有致命的眼射线。</div>
-            <div><span>CR13</span><span>迷诱魔</span>以权力诱惑凡人的高壮恶魔。</div>
-            <div><span>CR14</span><span>判魂魔</span>臃肿的猿形地狱判官，拥有致命的打击能力。</div>
-            <div><span>CR17</span><span>六臂蛇魔</span>六只手臂的蛇形恶魔皇后，深渊部队的将军。</div>
-            <div><span>CR20</span><span>巴洛魔</span>强力的火焰恶魔王，拥有斩首剑与可怕的类法术能力。</div>
+            <div>CR11狂战魔蛙形恶魔，散发令人丧失动作能力的臭气，以诱惑凡人堕落为目标。</div>
+            <div>CR11猎魔蛛恐怖的蛛形构装生物，拥有致命的眼射线。</div>
+            <div>CR13迷诱魔以权力诱惑凡人的高壮恶魔。</div>
+            <div>CR14判魂魔臃肿的猿形地狱判官，拥有致命的打击能力。</div>
+            <div>CR17六臂蛇魔六只手臂的蛇形恶魔皇后，深渊部队的将军。</div>
+            <div>CR20巴洛魔强力的火焰恶魔王，拥有斩首剑与可怕的类法术能力。</div>
         </div>
     </div>
 

@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 <p>除了预设技能、专长之外，每个职业的起始套组都列有预设的装备。使用起始套组时，你可以略加调整，将预设装备换成其他装备，但新装备的价格不能超过预设装备。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="2"><b>表7-1：随机起始金钱</b></td></tr>
+<table><tr><td colspan="2"><b>表7-1：随机起始金钱</b></td></tr>
 
 <tr><td><b>职业</b></td><td><b>数量(平均值)</b></td></tr>
 

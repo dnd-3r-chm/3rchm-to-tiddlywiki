@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-手腕.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>奇物分类 - 手腕</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 防御护腕 (价格较低) -->
 <tr>
     <td>防御护腕</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>1,000金币 (+1)<br>4,000金币 (+2)<br>9,000金币 (+3)<br>16,000金币 (+4)<br>25,000金币 (+5)<br>36,000金币 (+6)<br>49,000金币 (+7)<br>64,000金币 (+8)</td>
 </tr>
 
-<!-- 2. 次级神射手护腕 -->
 <tr>
     <td>次级神射手护腕</td>
     <td>
@@ -31,4 +28,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

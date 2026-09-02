@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-手套.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 手套</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 食人魔巨力手套 -->
 <tr>
     <td>食人魔巨力手套</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币</td>
 </tr>
 
-<!-- 2. 辟矢夺箭手套 -->
 <tr>
     <td>辟矢夺箭手套</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币</td>
 </tr>
 
-<!-- 3. 敏捷手套 -->
 <tr>
     <td>敏捷手套</td>
     <td>
@@ -40,7 +36,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币 (+2)<br>16,000金币 (+4)<br>36,000金币 (+6)</td>
 </tr>
 
-<!-- 4. 游泳攀爬手套 -->
 <tr>
     <td>游泳攀爬手套</td>
     <td>
@@ -51,4 +46,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

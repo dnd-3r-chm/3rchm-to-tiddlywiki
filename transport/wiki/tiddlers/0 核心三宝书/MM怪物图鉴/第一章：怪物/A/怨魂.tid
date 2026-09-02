@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>怨魂 (Allip)<br><span>中型不死生物 (虚体)</span></th>
+                    <th>怨魂 (Allip)<br>中型不死生物 (虚体)</th>
                 </tr>
             </thead>
             <tbody>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>怨魂无法造成实体伤害，然而却不自觉。怨魂会持续攻击对手，但对手毫发无伤。</p>
 
     <div>

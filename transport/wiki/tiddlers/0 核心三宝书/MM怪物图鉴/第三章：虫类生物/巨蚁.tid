@@ -6,7 +6,7 @@ type: text/vnd.tiddlywiki
 <div><h1>巨蚁 (Giant Ant)</h1><p>巨蚁是最顽强的虫类，能够适应任何环境。巨工蚁和巨工蚁长约6英尺，巨蚁后则可以长达9英尺。</p>
 <div><p><b>强酸螫刺(特异)：</b>巨蚁腹部有腺体能够分泌强酸，通过螫刺注入敌人体内。只要成功抓住对手，每轮都可以尝试进行螫刺攻击(+3攻击加值)，命中则造成1d4+1点穿刺伤害和1d4点强酸伤害。</p></div>
 <div><p><b>精通擒抱(特异)：</b>当巨蚁啮咬到对手时，即可利用即时动作进行擒抱攻击(视为擒抱)。通过擒抱检定的巨蚁可定住对手并同时进行强酸螫刺攻击。</p></div>
-<div><table><thead><tr><th>资料栏位</th><th>巨工蚁<br><span>中型虫类</span></th><th>巨兵蚁<br><span>中型虫类</span></th><th>巨蚁后<br><span>大型虫类</span></th></tr></thead><tbody>
+<div><table><thead><tr><th>资料栏位</th><th>巨工蚁<br>中型虫类</th><th>巨兵蚁<br>中型虫类</th><th>巨蚁后<br>大型虫类</th></tr></thead><tbody>
 <tr><td>生命骰</td><td>2d8 (9HP)</td><td>2d8+2 (11HP)</td><td>4d8+4 (22HP)</td></tr>
 <tr><td>先攻</td><td>+0</td><td>+0</td><td>-1</td></tr>
 <tr><td>速度</td><td>50英尺 (10格)、攀爬20英尺</td><td>50英尺 (10格)、攀爬20英尺</td><td>40英尺 (8格)</td></tr>

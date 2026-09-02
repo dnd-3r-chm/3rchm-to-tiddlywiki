@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-乐器.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 乐器</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 唤鼠乐笙 -->
 <tr>
     <td>唤鼠乐笙</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>1,150金币</td>
 </tr>
 
-<!-- 2. 幻音乐笙 -->
 <tr>
     <td>幻音乐笙</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>1,800金币</td>
 </tr>
 
-<!-- 3. 迷雾号角 -->
 <tr>
     <td>迷雾号角</td>
     <td>
@@ -40,7 +36,6 @@ type: text/vnd.tiddlywiki
     <td>2,000金币</td>
 </tr>
 
-<!-- 4. 开门钟琴 -->
 <tr>
     <td>开门钟琴</td>
     <td>
@@ -50,7 +45,6 @@ type: text/vnd.tiddlywiki
     <td>3,000金币</td>
 </tr>
 
-<!-- 5. 战栗乐笙(新增补全) -->
 <tr>
     <td>战栗乐笙</td>
     <td>
@@ -60,7 +54,6 @@ type: text/vnd.tiddlywiki
     <td>6,000金币</td>
 </tr>
 
-<!-- 6. 御善防恶号角 -->
 <tr>
     <td>御善防恶号角</td>
     <td>
@@ -71,4 +64,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

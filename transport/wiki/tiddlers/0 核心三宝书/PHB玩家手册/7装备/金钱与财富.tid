@@ -7,9 +7,9 @@ type: text/vnd.tiddlywiki
 
 <p>组队的冒险者通常都是以钱币来购买物品，农民之间则是以物易物，并且用干酪与谷物来缴税。贵族则是以权力做为交易的筹码，例如：矿坑、港口或农场的所有权，或以重量计价的金条作买卖，而非一般的金币。</p>
 
-<table style="border: 0; width: 100%;">
+<table>
 
-<tr><td rowspan="6" style="border: 0; width: 66%;"><h2>钱币</h2>
+<tr><td rowspan="6"><h2>钱币</h2>
 
 <p>冒险者最常用的货币是金币。1金币大约可以买到一个腰包、50呎麻绳或是一头山羊。一个普通专业工匠一天大约能够赚1金币。虽然金币是流通货币，但商人之间牵涉到上千金币的交易，不会真的拿出这么多金币来交换。金币只是用来衡量物价的单位，金条、信用状或等值物品才是大盘商人的实际货币。</p>
 
@@ -31,11 +31,11 @@ type: text/vnd.tiddlywiki
 
 <tr><td>白金币(pp)</td><td>=</td><td>1000</td><td>100</td><td>10</td><td>1</td></tr></table>
 
-<hr style="border: 0;">
+<hr>
 
-<table style="border: 0; width: 100%;">
+<table>
 
-<tr><td rowspan="15" style="border: 0; width: 66%;">
+<tr><td rowspan="15">
 
 <h2>钱币以外的财富</h2>
 

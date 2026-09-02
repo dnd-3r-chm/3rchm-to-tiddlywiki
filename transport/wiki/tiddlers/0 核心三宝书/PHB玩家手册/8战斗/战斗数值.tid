@@ -15,11 +15,11 @@ type: text/vnd.tiddlywiki
 
 <h2>攻击加值 (Attack Bonus)</h2>
 
-<p class="noindent" align="center"><b>近战武器的攻击加值=基本攻击加值+力量调整值+体型调整值</b></p>
+<p align="center"><b>近战武器的攻击加值=基本攻击加值+力量调整值+体型调整值</b></p>
 
-<p class="noindent" align="center"><b>远程武器的攻击加值=基本攻击加值+敏捷调整值+体型调整值+距离减值</b></p>
+<p align="center"><b>远程武器的攻击加值=基本攻击加值+敏捷调整值+体型调整值+距离减值</b></p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="2"><b>表8-1：体型调整值</b></td></tr>
+<table><tr><td colspan="2"><b>表8-1：体型调整值</b></td></tr>
 
 <tr><td><b>体型</b></td><td><b>体型调整值</b></td></tr>
 
@@ -75,7 +75,7 @@ type: text/vnd.tiddlywiki
 
 <p>你的防御等级(简称AC)表示对手要击中你有多困难。也就是说，他的攻击检定结果必须等于或大于这个数值，才能击中你。一般而言，没有任何防具的人，他的AC是10。AC的计算公式如下：</p>
 
-<p class="noindent" align="center"><b>AC=10+盔甲加值+盾牌加值+敏捷调整值+体型调整值</b></p>
+<p align="center"><b>AC=10+盔甲加值+盾牌加值+敏捷调整值+体型调整值</b></p>
 
 <p><b>盔甲和盾牌加值：</b>你的盔甲和盾牌都会对AC提供加值，这代表它们能抵抗攻击的防护程度。</p>
 
@@ -123,7 +123,7 @@ type: text/vnd.tiddlywiki
 
 <p>当你遭到特殊攻击或魔法攻击时，通常需要做豁免检定，以决定是否可以抵销或减低某些效果。豁免检定如同攻击检定，也是掷一次d20加上豁免加值，此加值取决于你的职业、等级和属性值，公式如下：</p>
 
-<p class="noindent" align="center"><b>豁免检定调整值=基本豁免加值+属性调整值</b></p>
+<p align="center"><b>豁免检定调整值=基本豁免加值+属性调整值</b></p>
 
 <p><b>豁免检定分类：</b>豁免检定可以分为强韧、反射和意志三种。</p>
 

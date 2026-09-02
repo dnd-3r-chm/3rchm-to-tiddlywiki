@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 <p>以下是各项专长的说明格式。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;">
+<div>
 
 <h4>专长名称 [专长类型] (原名)</h4>
 

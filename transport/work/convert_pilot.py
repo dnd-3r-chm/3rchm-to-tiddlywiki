@@ -263,16 +263,25 @@ def convert_showhide_blocks(body):
 
 
 def normalize_fullwidth_punct(body):
-    """用户规则：全角引号""/括号（）替换为半角 ""/()（后续迁移统一，2026-09）。
+    """用户规则（2026-09-02 扩展）：搬运后 tid 正文内不得出现全角 ASCII。
 
-    只替换引号与括号两类，不涉及其他全角标点。
+    全角英文字母 A-Za-z、数字 0-9、括号 （）、弯引号 “”‘’ 一律转为半角。
+    （早期只覆盖 “” （），本次扩展字母/数字/弯引号‘’。）
     """
-    return body.translate(str.maketrans({
-        "\u201c": '"',  # " -> "
-        "\u201d": '"',  # " -> "
-        "\uff08": "(",  # （ -> (
-        "\uff09": ")",  # ） -> )
-    }))
+    trans = {
+        # 弯引号 -> 直引号
+        "\u201c": '"', "\u201d": '"', "\u2018": "'", "\u2019": "'",
+        # 全角括号
+        "\uff08": "(", "\uff09": ")",
+    }
+    # 全角字母 A-Z / a-z
+    for i in range(26):
+        trans[chr(0xFF21 + i)] = chr(0x41 + i)  # Ａ-Ｚ -> A-Z
+        trans[chr(0xFF41 + i)] = chr(0x61 + i)  # ａ-ｚ -> a-z
+    # 全角数字 ０-９
+    for i in range(10):
+        trans[chr(0xFF10 + i)] = chr(0x30 + i)
+    return body.translate(str.maketrans(trans))
 
 
 def normalize_bullet_paragraphs(body):

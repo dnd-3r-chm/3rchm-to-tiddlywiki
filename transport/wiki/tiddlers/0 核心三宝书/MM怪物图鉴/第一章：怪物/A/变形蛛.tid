@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>变形蛛 (Aranea)<br><span>中型魔法兽(变形)</span></th>
+                    <th>变形蛛 (Aranea)<br>中型魔法兽(变形)</th>
                 </tr>
             </thead>
             <tbody>
@@ -42,7 +42,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>变形蛛尽量使用蛛网与法术，避免近战。战斗时，变形蛛会先试着让最具侵略性的敌人无法移动或分心。变形蛛通常携住对手以要求赎金。</p>
 
     <div>

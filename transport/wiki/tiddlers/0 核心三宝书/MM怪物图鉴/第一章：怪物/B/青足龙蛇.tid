@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>青足龙蛇 (Behir)<br><span>超大型魔法兽</span></th>
+                    <th>青足龙蛇 (Behir)<br>超大型魔法兽</th>
                 </tr>
             </thead>
             <tbody>
@@ -46,7 +46,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>青足龙蛇倾向先以啮咬与擒抱攻击对手，然后再紧勒或生吞。只有在以躯体缠住对手的状况下，青足龙蛇才能使用爪抓。若遭大量敌人围困，青足龙蛇会采取喷吐攻击。</p>
 
     <div>

@@ -45,7 +45,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>以标准动作进行防御式攻击(Fighting Defensively)：</b>当你采取攻击动作时，可以选择进行防御式攻击：若你如此作，在该轮内所有攻击都受-4减值，但在AC上获得+2闪避加值。这个加值可以与"寓守于攻"专长(见92页)所获得的加值累计。</p>
 
-<div style="margin-left: 0.5em; margin-right: 0.5em; padding: 0.5em; border: solid 1px black;">
+<div>
 
 <h4>重击 (Critical Hits)</h4>
 
@@ -123,7 +123,7 @@ type: text/vnd.tiddlywiki
 
 <p>你可以花费两个标准动作时间执行一个整轮动作，称为跨轮动作。跨轮动作由目前这一轮开始，下轮结束。举例而言，当你动作受限，每回合只能进行一个标准动作时，每3轮可以射一发重弩：装填一次需要2轮(跨轮动作)，射击需要1轮；若要施展施法时间为整轮的法术，也可以由目前这一轮开始，下轮结束。全力攻击、冲刺、奔跑和撤退不能跨轮执行。</p>
 
-<div style="margin-left: 0.5em; margin-right: 0.5em; padding: 0.5em; border: solid 1px black;">
+<div>
 
 <h4>加快战斗的步调</h4>
 

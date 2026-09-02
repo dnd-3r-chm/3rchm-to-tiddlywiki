@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 </div>
 
 <div>生物数据</div>
-<!-- 为容纳三种状态的复杂数据，采用表格形式展示，与原版排版保持风格一致 -->
+
 <table>
 <thead>
 <tr>

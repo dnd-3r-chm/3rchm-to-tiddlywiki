@@ -3,7 +3,7 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-11：设置地下城.htm
 type: text/vnd.tiddlywiki
 <div>
-    <div>表3-11：设置地下城</div>
+<div>表3-11：设置地下城</div>
     <table>
         <thead>
             <tr>
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
             </tr>
         </thead>
         <tbody>
-            <!-- 左侧 1~50，右侧 51~100 逐行对应 -->
+            
             <tr><td>01</td><td>壁龛</td><td>51</td><td>织布机</td></tr>
             <tr><td>02</td><td>神坛</td><td>52</td><td>松动石材</td></tr>
             <tr><td>03</td><td>拱门</td><td>53</td><td>手铐</td></tr>

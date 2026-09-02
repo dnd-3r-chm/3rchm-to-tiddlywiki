@@ -3,21 +3,13 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-肩膀.htm
 type: text/vnd.tiddlywiki
 
-
-
 <h1>奇物分类 - 肩膀</h1>
-
-
 
 <table>
 
 <colgroup><col><col><col></colgroup>
 
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
-
-
-
-<!-- 1. 抗力斗篷 (+1) -->
 
 <tr>
 
@@ -35,10 +27,6 @@ type: text/vnd.tiddlywiki
 
 </tr>
 
-
-
-<!-- 2. 精灵斗篷 (新增补全) -->
-
 <tr>
 
     <td>精灵斗篷</td>
@@ -54,10 +42,6 @@ type: text/vnd.tiddlywiki
     <td>2,500金币</td>
 
 </tr>
-
-
-
-<!-- 3. 魅力斗篷 -->
 
 <tr>
 
@@ -75,10 +59,6 @@ type: text/vnd.tiddlywiki
 
 </tr>
 
-
-
-<!-- 4. 抗力斗篷 (+2至+5) -->
-
 <tr>
 
     <td>抗力斗篷</td>
@@ -94,10 +74,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币 (+2)<br>9,000金币 (+3)<br>16,000金币 (+4)<br>25,000金币 (+5)</td>
 
 </tr>
-
-
-
-<!-- 5. 鳐鱼斗篷 -->
 
 <tr>
 
@@ -115,8 +91,4 @@ type: text/vnd.tiddlywiki
 
 </tr>
 
-
-
 </table>
-
-

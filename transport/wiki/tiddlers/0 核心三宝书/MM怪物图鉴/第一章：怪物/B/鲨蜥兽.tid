@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>鲨蜥兽 (Bulette)<br><span>超大型魔法兽</span></th>
+                    <th>鲨蜥兽 (Bulette)<br>超大型魔法兽</th>
                 </tr>
             </thead>
             <tbody>
@@ -46,7 +46,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>只要是可以吃的东西，鲨蜥兽就攻击。从容易或者最近的下手。鲨蜥兽唯一不吃的生物就是精灵，也讨厌矮人的味道。遁地时，鲨蜥兽靠颤动感知侦测猎物。一旦发现可以吃的东西(也就是察觉震动)，便以头部冲出地面，展开攻击。</p>
 
     <p>鲨蜥兽个性极差。愚蠢、卑鄙、毫无所惧。对手体型、能力、数量它都不会放在眼里。</p>

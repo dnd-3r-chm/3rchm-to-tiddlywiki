@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
     <h1>活化物体 (Animated Object)</h1><div data-mm1-image="活化物品">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/活化物品.jpg]]</div>
     <p>活化物体各种大小、形状、颜色都有。它们是由法术"活化物体"或类似的超自然能力创造产生。</p>
 
-    <span>战斗</span>
+    战斗
     <p>活化物体只能听从活化者的指令进行战斗。他们毫不犹豫，全力执行该指令。活化物体不用呼吸，也不会疲倦，可以成为能干的属下。</p>
 
     <p>随着形态不同，活化物体可能会拥有下列特殊能力。</p>
@@ -39,10 +39,10 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>大型活化物体<br><span>大型构装生物</span></th>
-                    <th>超大型活化物体<br><span>超大型构装生物</span></th>
-                    <th>巨型活化物体<br><span>巨型构装生物</span></th>
-                    <th>超巨型活化物体<br><span>超巨型构装生物</span></th>
+                    <th>大型活化物体<br>大型构装生物</th>
+                    <th>超大型活化物体<br>超大型构装生物</th>
+                    <th>巨型活化物体<br>巨型构装生物</th>
+                    <th>超巨型活化物体<br>超巨型构装生物</th>
                 </tr>
             </thead>
             <tbody>

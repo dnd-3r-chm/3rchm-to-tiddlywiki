@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 <p>几乎所有法术都分属于八大魔法学派，相同魔法学派的法术具有相似的作用方式。只有少数法术为"共通"类，不属于任何学派。(如"秘法印记"、"有限祈愿术"、"魔法恒定术"、"魔法伎俩"和"祈愿术")。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;">
+<div>
 
 <h4>防护系 (Abjuration)</h4>
 
@@ -251,7 +251,7 @@ type: text/vnd.tiddlywiki
 
 <p>自愿放弃豁免检定：受术者可以自愿放弃豁免检定，接受法术效果。即使受术者对某些效果有特殊抗力(如：精灵对睡眠效果有抗力)，他也可以将抗力压抑下来，自愿接受法术效果。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="2"><b>表10-1：受魔法攻击影响的物品</b></td></tr>
+<table><tr><td colspan="2"><b>表10-1：受魔法攻击影响的物品</b></td></tr>
 
 <tr><td><b>顺序<sup>1</sup></b></td><td><b>物品</b></td></tr>
 

@@ -3,10 +3,8 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表7-23：奥术卷轴.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>表7-23：奥术卷轴</h1>
 
-<!-- 零级奥术 -->
 <div>零级奥术</div>
 <table>
 <tr>
@@ -36,7 +34,6 @@ type: text/vnd.tiddlywiki
 <tr><td>97-100</td><td>腹语术</td><td>12金币5银币</td></tr>
 </table>
 
-<!-- 一级奥术 -->
 <div>一级奥术</div>
 <table>
 <tr>
@@ -87,7 +84,6 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>腹语术</td><td>25金币</td></tr>
 </table>
 
-<!-- 二级奥术 -->
 <div>二级奥术</div>
 <table>
 <tr>
@@ -153,7 +149,6 @@ type: text/vnd.tiddlywiki
 <tr><td>100</td><td>风讯术</td><td>200金币</td></tr>
 </table>
 
-<!-- 三级奥术 -->
 <div>三级奥术</div>
 <table>
 <tr>
@@ -208,7 +203,6 @@ type: text/vnd.tiddlywiki
 <tr><td>99-100</td><td>风墙术</td><td>375金币</td></tr>
 </table>
 
-<!-- 四级奥术 -->
 <div>四级奥术</div>
 <table>
 <tr>
@@ -267,7 +261,6 @@ type: text/vnd.tiddlywiki
 <tr><td>100</td><td>监牢之域</td><td>1,000金币</td></tr>
 </table>
 
-<!-- 五级奥术 -->
 <div>五级奥术</div>
 <table>
 <tr>
@@ -326,7 +319,6 @@ type: text/vnd.tiddlywiki
     <p>(注二)材料成分成本不能超过 10,000 金币，经验值耗费不能超过 5,000 点。</p>
 </div>
 
-<!-- 六级奥术 -->
 <div>六级奥术</div>
 <table>
 <tr>
@@ -384,7 +376,6 @@ type: text/vnd.tiddlywiki
 <tr><td>98-100</td><td>力墙术</td><td>1,650金币</td></tr>
 </table>
 
-<!-- 七级奥术 -->
 <div>七级奥术</div>
 <table>
 <tr>
@@ -431,7 +422,6 @@ type: text/vnd.tiddlywiki
     <p>(注二)经验值耗费不超过 1000 金币。</p>
 </div>
 
-<!-- 八级奥术 -->
 <div>八级奥术</div>
 <table>
 <tr>
@@ -479,7 +469,6 @@ type: text/vnd.tiddlywiki
     <p>(注一)生物的HD不超过10。</p>
 </div>
 
-<!-- 九级奥术 -->
 <div>九级奥术</div>
 <table>
 <tr>
@@ -515,7 +504,6 @@ type: text/vnd.tiddlywiki
     <p>(注一)如果材料成分成本不超过 10,000 金币，经验值耗费不超过 5,000 点。</p>
 </div>
 
-<!-- 底部规则注释 -->
 <div>
     <ul>
 <li>卷轴所含法术种类(奥术或神术)和职业相符。施奥术者(法师、术士和吟游诗人)只能使用奥术卷轴；施神术者(牧师、德鲁伊、圣武士和游侠)只能使用神术卷轴(卷轴种类视制造者职业而定，例如：牧师制作的卷轴是神术卷轴，法师制作的是奥术卷轴)。</li>
@@ -523,5 +511,3 @@ type: text/vnd.tiddlywiki
 <li>使用者的属性值必须达到要求(例如法师智力值达 15 才能施展五级法术)。</li>
 </ul>
 </div>
-
-

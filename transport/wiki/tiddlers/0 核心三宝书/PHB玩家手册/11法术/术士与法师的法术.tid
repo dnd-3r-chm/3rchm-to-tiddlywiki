@@ -5,7 +5,7 @@ type: text/vnd.tiddlywiki
 
 <h1>术士与法师的法术</h1>
 
-<p><i style="color: maroon;">在本页中，如有译名与常见的其它译名存在差别，将以"收录原文译名/常见的其它译名 (英文名)"格式进行标注。</i></p>
+<p><i>在本页中，如有译名与常见的其它译名存在差别，将以"收录原文译名/常见的其它译名 (英文名)"格式进行标注。</i></p>
 
 <h3>术士与法师的零级法术(戏法)</h3>
 
@@ -489,7 +489,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>驱逐术 (Dismissal)：</b>强迫生物回到原属位面。</p>
 
-<p><b>魔邓肯密室 (Mordenkainen’s Private Sanctum)：</b>防止任何人窥看或探知某区域，持续时间24小时。</p>
+<p><b>魔邓肯密室 (Mordenkainen's Private Sanctum)：</b>防止任何人窥看或探知某区域，持续时间24小时。</p>
 
 <h5>咒法系 (Conjuration)</h5>
 
@@ -737,7 +737,7 @@ type: text/vnd.tiddlywiki
 
 <h5>塑能系 (Evocation)</h5>
 
-<p><b>毕格比擒抱掌/毕格比擒拿掌 (Digby’s Grasping Hand)：</b>出现用来掩护、推动或进行擒抱的魔手。</p>
+<p><b>毕格比擒抱掌/毕格比擒拿掌 (Digby's Grasping Hand)：</b>出现用来掩护、推动或进行擒抱的魔手。</p>
 
 <p><b>延迟爆裂火球 (Delayed Blast Fireball)：</b>每等级造成1d6点火焰伤害，你可以将炸裂时间延后五轮。</p>
 

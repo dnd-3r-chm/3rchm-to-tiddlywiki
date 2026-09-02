@@ -61,7 +61,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>0级</b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td></tr>
 
-<tr><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td style="width: 8em;">吟唱、逸闻知识、破咒曲、迷魂、提振士气+1</td><td>2</td><td>─</td><td>─</td><td>─</td><td>─</td><td>─</td><td>─</td></tr>
+<tr><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td>吟唱、逸闻知识、破咒曲、迷魂、提振士气+1</td><td>2</td><td>─</td><td>─</td><td>─</td><td>─</td><td>─</td><td>─</td></tr>
 
 <tr><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td></td><td>3</td><td>0</td><td>─</td><td>─</td><td>─</td><td>─</td><td>─</td></tr>
 
@@ -215,7 +215,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>技能选择</b>：选择总数为6+智力调整值的技能数。</p>
 
-<table style="margin-left: 2em;"><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
+<table><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
 
 <tr><td>表演(弦乐)</td><td>4</td><td>魅力</td><td>─</td></tr>
 

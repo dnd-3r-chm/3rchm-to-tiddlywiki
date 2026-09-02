@@ -4,7 +4,7 @@ source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/S/小妖精.htm
 type: text/vnd.tiddlywiki
 
 <div>
-<!-- ==================== 小妖精 (Sprite) ==================== -->
+
 <div>
 <h1>小妖精 (Sprite)</h1>
 <small>精类生物</small>
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 <p><b>技能：</b>所有小妖精在进行"搜索"、"侦察"与"聆听"检定时都具有+2种族加值。</p>
 </div>
 <div></div>
-<!-- ==================== 格利精 (Grig) ==================== -->
+
 <div>
 <h1>格利精 (Grig)</h1>
 <small>超小型精类生物 | 挑战级数 1</small>
@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
 <p>*他们在森林环境中进行"潜行"检定时具有+5种族加值。</p>
 </div>
 <div></div>
-<!-- ==================== 尼克精 (Nixie) ==================== -->
+
 <div>
 <h1>尼克精 (Nixie)</h1><div data-mm1-image="尼克精">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/尼克精.jpg]]</div>
 <small>小型精类生物 (水生) | 挑战级数 1</small>
@@ -66,7 +66,7 @@ type: text/vnd.tiddlywiki
 <p>*尼克精在水中进行"躲藏"检定时具有+5种族加值。</p>
 </div>
 <div></div>
-<!-- ==================== 皮克精 (Pixie) ==================== -->
+
 <div>
 <h1>皮克精 (Pixie)</h1>
 <small>小型精类生物 | 挑战级数 4 (施展"奥图迷舞"时为5)</small>

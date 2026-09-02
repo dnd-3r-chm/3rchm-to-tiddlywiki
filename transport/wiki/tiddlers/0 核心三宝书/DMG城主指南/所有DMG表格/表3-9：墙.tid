@@ -82,7 +82,7 @@ type: text/vnd.tiddlywiki
                 <td>60hp</td>
                 <td>21</td>
             </tr>
-            <!-- 魔法墙(特殊行) -->
+            
             <tr>
                 <td><b>魔法墙(注二)</b></td>
                 <td>—</td>
@@ -94,7 +94,6 @@ type: text/vnd.tiddlywiki
         </tbody>
     </table>
 
-    <!-- 注释 -->
     <div>
         <div>
             (注一) 每长宽各10英尺区域的生命值。

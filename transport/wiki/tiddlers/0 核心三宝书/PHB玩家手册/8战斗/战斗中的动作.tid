@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 <p>例如，某个武僧在先攻值15的时候动作，他的震慑破可以震慑某个生物一轮。这个效果可以持续到下一轮的先攻值16做完动作，在先攻值15开始动作之前才会结束。</p>
 
-<table style="float: right; margin-left: 0.5em; width: 50%;"><tr><td colspan="2"><h6>表8-2：战斗中的动作</h6></td></tr>
+<table><tr><td colspan="2"><h6>表8-2：战斗中的动作</h6></td></tr>
 
 <tr><td><b>标准动作</b></td><td><b>借机攻击(1)</b></td></tr>
 
@@ -75,7 +75,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>使用超自然能力</td><td>否</td></tr>
 
-<tr><td colspan="2" style="height: 0.5em;"></td></tr>
+<tr><td colspan="2"></td></tr>
 
 <tr><td><b>移动动作</b></td><td><b>借机攻击(1)</b></td></tr>
 
@@ -105,7 +105,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>从容器中拿出物品</td><td>是</td></tr>
 
-<tr><td colspan="2" style="height: 0.5em;"></td></tr>
+<tr><td colspan="2"></td></tr>
 
 <tr><td><b>整轮动作</b></td><td><b>借机攻击(1)</b></td></tr>
 
@@ -135,7 +135,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>撤退(5)</td><td>否</td></tr>
 
-<tr><td colspan="2" style="height: 0.5em;"></td></tr>
+<tr><td colspan="2"></td></tr>
 
 <tr><td><b>自由动作</b></td><td><b>借机攻击(1)</b></td></tr>
 
@@ -151,7 +151,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>说话</td><td>否</td></tr>
 
-<tr><td colspan="2" style="height: 0.5em;"></td></tr>
+<tr><td colspan="2"></td></tr>
 
 <tr><td><b>非动作</b></td><td><b>借机攻击(1)</b></td></tr>
 
@@ -159,7 +159,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>5呎移动</td><td>否</td></tr>
 
-<tr><td colspan="2" style="height: 0.5em;"></td></tr>
+<tr><td colspan="2"></td></tr>
 
 <tr><td><b>视情况而定的动作</b></td><td><b>借机攻击(1)</b></td></tr>
 
@@ -171,7 +171,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>使用专长(8)</td><td>不一定</td></tr>
 
-<tr><td colspan="2"><ul style="list-style-type: decimal;"><li>不管所做动作为何，只要离开敌人威胁方格，就会引发借机攻击。此栏表示该动作本身是否会引发借机攻击(不包含移动)。</li>
+<tr><td colspan="2"><ul><li>不管所做动作为何，只要离开敌人威胁方格，就会引发借机攻击。此栏表示该动作本身是否会引发借机攻击(不包含移动)。</li>
 
 <li>如果协助他人进行会引发借机攻击的动作，你本身也会引发借机攻击。</li>
 

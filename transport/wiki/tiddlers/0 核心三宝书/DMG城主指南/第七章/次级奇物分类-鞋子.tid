@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-鞋子.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 鞋子</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 精灵靴 -->
 <tr>
     <td>精灵靴</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>2,500金币</td>
 </tr>
 
-<!-- 2. 北地靴 -->
 <tr>
     <td>北地靴</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>2,500金币</td>
 </tr>
 
-<!-- 3. 蛛行鞋 -->
 <tr>
     <td>蛛行鞋</td>
     <td>
@@ -40,7 +36,6 @@ type: text/vnd.tiddlywiki
     <td>4,800金币</td>
 </tr>
 
-<!-- 4. 跑跳靴 -->
 <tr>
     <td>跑跳靴</td>
     <td>
@@ -51,4 +46,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

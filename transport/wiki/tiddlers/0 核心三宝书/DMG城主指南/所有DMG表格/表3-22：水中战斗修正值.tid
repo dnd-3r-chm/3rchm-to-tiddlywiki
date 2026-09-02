@@ -3,17 +3,17 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-22：水中战斗修正值.htm
 type: text/vnd.tiddlywiki
 <div>
-    <div>表3-22：水中战斗修正值</div>
+<div>表3-22：水中战斗修正值</div>
     <table>
         <thead>
-            <!-- 攻击/伤害 分类标题行 -->
+            
             <tr>
                 <th>状态</th>
                 <th colspan="2">攻击/伤害</th>
                 <th>移动</th>
                 <th>失去平衡(注四)</th>
             </tr>
-            <!-- 列标题行 -->
+            
             <tr>
                 <th>状态</th>
                 <th>挥砍或敲击</th>

@@ -3,8 +3,6 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第四章/领导力.htm
 type: text/vnd.tiddlywiki
 
-
-
 <h1>领导力(一般专长)</h1>
 
 <p>你是他人追随的对象，对于招募部属和追随者很在行。</p>
@@ -51,10 +49,8 @@ type: text/vnd.tiddlywiki
 
 <p><b>追随者的等级与数量：</b>人物可带领的各等级人数上限。例如：领导力14的人物最多可以带领15个1级和一个2级的追随者。</p>
 
-<!-- 修正因素 -->
-<span>修正因素与调整值</span>
+修正因素与调整值
 
-<!-- 表1：声誉 -->
 <p><b>领导者的声誉：</b></p>
 <table>
     <colgroup><col><col></colgroup>
@@ -70,7 +66,6 @@ type: text/vnd.tiddlywiki
     <tr><td>残酷</td><td>-2</td></tr>
 </table>
 
-<!-- 表2：部属 -->
 <p><b>影响人物吸收部属的其他因素与调整值：</b></p>
 <table>
     <colgroup><col><col></colgroup>
@@ -84,7 +79,6 @@ type: text/vnd.tiddlywiki
 </table>
 <p>● 每个部属死亡的效果会累计。</p>
 
-<!-- 表3：追随者 -->
 <p><b>领导者的影响(针对追随者)：</b></p>
 <p>追随者与考量的条件与部属不同。当人物吸收新追随者时，将受以下状况影响。</p>
 <table>
@@ -97,5 +91,3 @@ type: text/vnd.tiddlywiki
     <tr><td>时常迁移</td><td>-1</td></tr>
     <tr><td>造成追随者死亡</td><td>-1</td></tr>
 </table>
-
-

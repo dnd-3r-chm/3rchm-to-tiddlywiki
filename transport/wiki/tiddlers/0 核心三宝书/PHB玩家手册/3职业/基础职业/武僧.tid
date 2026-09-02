@@ -125,7 +125,7 @@ type: text/vnd.tiddlywiki
 
 <p>武僧的徒手攻击威力比一般人强，伤害值列于表3-10。表中所列为中体型武僧之徒手伤害值。小体型武僧的徒手伤害值较少，而大体型武僧的徒手伤害值则较多。见表3-11：小体型或大体型武僧之徒手伤害值。</p>
 
-<table style="margin-left: 2em;"><tr><td colspan="3"><b>表3-11：小体型或大体型武僧徒手伤害值</b></td></tr>
+<table><tr><td colspan="3"><b>表3-11：小体型或大体型武僧徒手伤害值</b></td></tr>
 
 <tr><td><b>等级</b></td><td><b>伤害值(小体型武僧)</b></td><td><b>伤害值(大体型武僧)</b></td></tr>
 
@@ -191,7 +191,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>技能选择</b>：选择总数为5+智力调整值的技能数。</p>
 
-<table style="margin-left: 2em;"><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
+<table><tr><td><b>技能</b></td><td><b>级数</b></td><td><b>关键属性</b></td><td><b>防具检定减值</b></td></tr>
 
 <tr><td>聆听</td><td>4</td><td>感知</td><td>─</td></tr>
 

@@ -3,18 +3,15 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/K_-_奇物资料.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>K - 奇物资料</h1>
 
-<!-- 卡夫统灵药 -->
 <h2>药膏</h2>
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 卡夫统灵药 -->
 <tr>
-    <td>卡夫统灵药<br><span>(Keoghtom's Ointment)</span></td>
+    <td>卡夫统灵药<br>(Keoghtom's Ointment)</td>
     <td>
         <p>一小罐软膏，直径三英寸、高一英寸，可以使用5次。吞服或涂在中毒处，可以解除毒性(如同"中和毒性")，涂在患病部位可以治病(如同"移除疾病")。涂在伤口上，可以治愈1d8+5点伤害(如同"治疗轻伤")。</p>
         <p>微弱咒法系。施法者等级：5。先决条件：制造奇物，"治疗轻伤"、"中和毒性"、"移除疾病"。重量：0.5磅。</p>
@@ -22,5 +19,3 @@ type: text/vnd.tiddlywiki
     <td>4,000金币</td>
 </tr>
 </table>
-
-

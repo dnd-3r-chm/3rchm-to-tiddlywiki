@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>蛰伏伪怪 (Cloaker)<br><span>大型异怪</span></th>
+                    <th>蛰伏伪怪 (Cloaker)<br>大型异怪</th>
                 </tr>
             </thead>
             <tbody>
@@ -46,7 +46,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>蛰伏伪怪通常静静的躺着，查看和聆听四周的动静，找寻猎物的踪迹。面对单独的敌人时，蛰伏伪怪会使用包卷攻击。面对多名敌人时，它会有尾巴抽打，并配合它的低鸣和阴影转移来减少敌人的数量，然后再包卷最后的幸存者。数只蛰伏伪怪在战斗时通常会分散开来，留下一到两只在后面使用特殊能力，其他的则在前面展开近战。</p>
 
     <div>

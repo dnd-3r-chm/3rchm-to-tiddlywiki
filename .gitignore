@@ -172,6 +172,7 @@ test-style-render.html
 # ------------------------------------------------------------
 transport/work/dry_*.txt
 transport/work/run_*.txt
+transport/work/_*.txt
 transport/work/backup_*_20[0-9][0-9]*/
 transport/work/_*.py
 *.pyc

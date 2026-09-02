@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>奇美拉 (Chimera)<br><span>大型魔法兽</span></th>
+                    <th>奇美拉 (Chimera)<br>大型魔法兽</th>
                 </tr>
             </thead>
             <tbody>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>作为一名致命的敌人，奇美拉喜欢突袭猎物。它会经常从空中俯冲下来或者隐藏不动直到开始冲刺。它的龙头可以使用喷吐武器攻击来代替啮咬。数只奇美拉会协同作战。</p>
 
     <div>

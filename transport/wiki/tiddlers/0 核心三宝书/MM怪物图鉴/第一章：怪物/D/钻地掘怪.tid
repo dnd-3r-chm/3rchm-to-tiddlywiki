@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>钻地掘怪 (Delver)<br><span>超大型异怪</span></th>
+                    <th>钻地掘怪 (Delver)<br>超大型异怪</th>
                 </tr>
             </thead>
             <tbody>
@@ -54,7 +54,7 @@ type: text/vnd.tiddlywiki
 
     <p>钻地掘怪通晓土族语、地底通用语。</p>
 
-    <span>战斗</span>
+    战斗
     <p>钻地掘怪喜欢躲在通道中进行战斗。如此一来，以附肢攻击时侧面就不会露出破绽。</p>
     <p>若感到战斗即将来临，钻地掘怪会构筑蜂巢状的信道区域，相互以1至2英寸厚的岩石隔开。这样，钻地掘怪就可快速溶解间隔，冲出突袭对手。</p>
 

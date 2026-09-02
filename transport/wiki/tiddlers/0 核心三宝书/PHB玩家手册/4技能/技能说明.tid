@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 <p>以下为技能叙述的格式。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;"><h2>技能标题</h2>
+<div><h2>技能标题</h2>
 
 <p>除了技能名称，亦包含下列资讯。</p>
 
@@ -203,7 +203,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>—</td><td>表面光滑垂直，几乎无法攀爬。</td></tr></table>
 
-<table style="margin-top: 0.5em;" align="center"><tr><td><b>难度等级调整值</b></td><td><b>状况实例</b></td></tr>
+<table align="center"><tr><td><b>难度等级调整值</b></td><td><b>状况实例</b></td></tr>
 
 <tr><td>-10<sup>1</sup></td><td>烟囱状(不论是天然或人工)、或有二面平行的墙壁可供利用(DC减少10)。</td></tr>
 
@@ -278,7 +278,6 @@ type: text/vnd.tiddlywiki
 <p>(2) 例如，在施展耗费1轮或更长时间法术，或进行耗费超过一个整轮动作的行动(如"解除装置")半途。又或者，被借机攻击或针对施法(对施法时间为单动作之法术)或行动(对耗费不超过一个整轮动作的行动)的准备攻击击中而受伤。</p>
 
 <p>(3) 例如"马友夫强酸箭"。<p>
-
 <p>(4) 如果该法术不须豁免检定，则将其视为可进行豁免检定般计算。</p>
 
 <p><b>动作：</b>无。"专注"检定不算动作，属于即时动作(被动情况)或其他动作的一部分(主动情况)。</p>
@@ -311,7 +310,7 @@ type: text/vnd.tiddlywiki
 
 <p>请依以下方式决定制造物品所需之时间与金钱：</p>
 
-<ul style="list-style-type: decimal;"><li>从第七章或《地下城主指南》找出欲制造物品之价格。若找不到，则由DM决定。把价格换算成银币(1金币=10银币)。</li>
+<ul><li>从第七章或《地下城主指南》找出欲制造物品之价格。若找不到，则由DM决定。把价格换算成银币(1金币=10银币)。</li>
 
 <li>由下表决定DC，或由DM决定DC。</li>
 
@@ -417,7 +416,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>共效：</b>若人物"唬骗"、"贵族与皇室知识"、或"察言观色"的技能级数大于等于5，"交涉"检定有+2加值。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;"><h3>影响NPC的态度</h3>
+<div><h3>影响NPC的态度</h3>
 
 <p>请见下表决定影响NPC态度的"交涉"检定(或魅力检定)结果。影响动物或魔法兽态度的"理解动物"检定也适用此表。关于NPC态度，请见《地下城主指南》。</p>
 
@@ -485,7 +484,7 @@ type: text/vnd.tiddlywiki
 
 <p>若通过"解除装置"检定，游荡者也可以解除"火焰陷阱"、"守卫结界"、"魔法徽记"或"传送法阵"法术陷阱。然而，"荆棘丛生"和"刺石术"法术陷阱无法以"解除装置"解除。关于各法术说明，请见第十一章。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;"><h3>打败陷阱的其他方法</h3>
+<div><h3>打败陷阱的其他方法</h3>
 
 <p>即使不用"解除装置"，也可以破坏陷阱。</p>
 
@@ -501,7 +500,7 @@ type: text/vnd.tiddlywiki
 
 <h2>易容 (魅力) (Disguise)</h2>
 
-<table style="float: right; width: 50%;"><tr><td><b>易容</b></td><td><b>调整值</b></td></tr>
+<table><tr><td><b>易容</b></td><td><b>调整值</b></td></tr>
 
 <tr><td>粗略改装</td><td>+5</td></tr>
 
@@ -511,7 +510,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>扮成其他年龄层<sup>1</sup></td><td>-2<sup>2</sup></td></tr>
 
-<tr><td colspan="2"><p class="noindent">(1)调整值可累加。<br>
+<tr><td colspan="2"><p>(1)调整值可累加。<br>
 
 (2)年龄层每多差1层(少年、青年、中年、老年、与暮年)，调整值再-2。</p></td></tr></table>
 
@@ -525,7 +524,7 @@ type: text/vnd.tiddlywiki
 
 <p>若人物冒充某特定人士，则认识该特定人士者的"侦察"检定可有加值。同时，这些人视为必然产生怀疑，须进行对抗检定。请见下表。</p>
 
-<table style="float: left; width: 33%; margin-right: 0.5em;"><tr><td><b>熟识程度</b></td><td><b>加值</b></td></tr>
+<table><tr><td><b>熟识程度</b></td><td><b>加值</b></td></tr>
 
 <tr><td>点头之交</td><td>+4</td></tr>
 
@@ -555,7 +554,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>检定：</b>请见下表决定各状况之"脱逃"检定DC。</p>
 
-<table style="float: right; width: 50%; "><tr><td><b>束缚</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>束缚</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>绳索</td><td>对方"绳技"检定结果+10</td></tr>
 
@@ -595,7 +594,7 @@ type: text/vnd.tiddlywiki
 
 <p>"伪造文书"检定由DM秘密执行，因此玩者无从得知人物伪造的好坏。和"易容"相同，无人检查文件便不须检定。伪造者和检查者须进行"伪造文书"的对抗检定。随状况不同，检查者可能有加值或减值。请见下表。</p>
 
-<table style="float: left; width: 40%; margin-right: 0.5em;"><tr><td><b>检查者的状况</b></td><td><b>调整值</b></td></tr>
+<table><tr><td><b>检查者的状况</b></td><td><b>调整值</b></td></tr>
 
 <tr><td>不认得该文件的形式</td><td>-2</td></tr>
 
@@ -645,7 +644,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>检定：</b>检定DC取决于人物之目的。</p>
 
-<table style="float: left; margin-right: 0.5em;"><tr><td><b>目的</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>目的</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>驾驭动物</td><td>10</td></tr>
 
@@ -689,7 +688,7 @@ type: text/vnd.tiddlywiki
 
 <li>工作(DC 15)：该动物推拉中度或重度负荷。</li></ul>
 
-<table style="float: left; margin-right: 0.5em;"><tr><td><b>一般工作</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>一般工作</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>战斗用骑乘</td><td>20</td></tr>
 
@@ -747,7 +746,7 @@ type: text/vnd.tiddlywiki
 
 <p>检定：DC与效果取决于人物之目的。</p>
 
-<table style="float: left; width: 50%; margin-right: 0.5em;"><tr><td><b>目的</b></td><td width="33%"><b>难度等级</b></td></tr>
+<table><tr><td><b>目的</b></td><td width="33%"><b>难度等级</b></td></tr>
 
 <tr><td>急救</td><td>15</td></tr>
 
@@ -843,7 +842,7 @@ type: text/vnd.tiddlywiki
 
 <p>拥有"跳跃"技能的人物，"跳跃"检定成功表示人物以双脚落地。进行未受训"跳跃"检定的人物，若检定结果小于DC+5，表示人物以倒地姿势落地。</p>
 
-<table style="float: left; margin-right: 0.5em; width: 55%;"><tr><td><b>跳远距离</b></td><td><b>难度等级<sup>1</sup></b></td><td><b>跳高距离<sup>2</sup></b></td><td><b>难度等级<sup>3</sup></b></td></tr>
+<table><tr><td><b>跳远距离</b></td><td><b>难度等级<sup>1</sup></b></td><td><b>跳高距离<sup>2</sup></b></td><td><b>难度等级<sup>3</sup></b></td></tr>
 
 <tr><td>5呎</td><td>5</td><td>1呎</td><td>4</td></tr>
 
@@ -875,7 +874,7 @@ type: text/vnd.tiddlywiki
 
 <p>跳高攀住东西时，检定成功表示人物跳跃距离足够。若再通过DC 15的"攀爬"检定(属于移动动作)，即可往上攀。若"跳跃"检定失败，表示人物跳跃距离不足，又回到起跳点。和跳远相同，若无20呎助跑空间，则DC加倍。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td><b>体型</b></td><td><b>垂直可触距离</b></td></tr>
+<table><tr><td><b>体型</b></td><td><b>垂直可触距离</b></td></tr>
 
 <tr><td>超巨型</td><td>128呎</td></tr>
 
@@ -975,7 +974,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>未受训：</b>未受训"知识"检定即为智力检定。由于没研究过该学问，人物所知仅限于一般常识(DC10或以下)。</p>
 
-<div style="margin: 0.5em; padding: 0.5em; border: black 1px solid;"><h3>玩者知识与人物知识</h3>
+<div><h3>玩者知识与人物知识</h3>
 
 <p>处理玩者不具备的人物知识很容易，直接进行"知识"检定即可。例如，"地理知识"技能级数高的人物，其玩者不用把战役设定里的地理资料背熟，就能使用该技能。</p>
 
@@ -1057,7 +1056,7 @@ type: text/vnd.tiddlywiki
 
 <p>本技能可开挂锁、密码锁、或字谜锁。开锁时，人物手边至少须有适当的简单工具(凿子、撬杆、钥匙模、铁丝等)。若无小偷工具(Thieves' tools，130页)，只使用普通工具的状况下，"开锁"检定有-2环境减值。使用精制品小偷工具可有+2环境加值。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td><b>锁</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>锁</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>简单锁</td><td>20</td></tr>
 
@@ -1083,7 +1082,7 @@ type: text/vnd.tiddlywiki
 
 <p>"表演"技能分为九大子项，每子项又各自包含不同的表现方式、乐器、或技巧。请见下表。DM可视情况增加之。</p>
 
-<table style="float: right; width: 60%; margin-left: 0.5em;"><tr><td style="width: 2em;"><b>难度等级</b></td><td><b>表演</b></td></tr>
+<table><tr><td><b>难度等级</b></td><td><b>表演</b></td></tr>
 
 <tr><td>10</td><td>例行表演。基本上，在公共场所卖艺和行乞差不多。人物每天可赚1d10铜币。</td></tr>
 
@@ -1147,7 +1146,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>检定：</b>一般骑术动作不须检定，人物可毫无困难地套鞍、上座骑、骑乘、和下座骑。然而，某些骑术动作须进行检定。请见下表。</p>
 
-<table style="float: left; margin-right: 0.5em;"><tr><td><b>骑术动作</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>骑术动作</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>以双膝控制座骑</td><td>5</td></tr>
 
@@ -1249,7 +1248,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>检定：</b>若检定成功，人物可避免被骗(请见本章67页有关"唬骗"之说明)。人物也可使用本技能留意周遭是否有不寻常的事件，或判断某人是否值得信任。DM可秘密进行"察言观色"检定，如此一来，人物便无从得知检定结果好坏。</p>
 
-<table style="float: left; margin-right: 0.5em;"><tr><td><b>目的</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>目的</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>直觉</td><td>20</td></tr>
 
@@ -1423,7 +1422,7 @@ type: text/vnd.tiddlywiki
 
 <p>"侦察"也可拆穿使用"易容"的人(请见本章72页关于"易容"之说明)，或于听不见与无法理解对方说话的状态下读唇。</p>
 
-<table style="float: left; margin-right: 0.5em;"><tr><td><b>状况</b></td><td><b>减值</b></td></tr>
+<table><tr><td><b>状况</b></td><td><b>减值</b></td></tr>
 
 <tr><td>每10呎距离</td><td>-1</td></tr>
 
@@ -1461,7 +1460,7 @@ type: text/vnd.tiddlywiki
 
 <p>除非职业为巡林客，或拥有专长"追迹"，否则人物无法以"生存"追踪复杂痕迹(请见下述：限制)。</p>
 
-<table align="center"><tr><td style="width: 3em;"><b>难度<br>等级</b></td><td><b>目的</b></td></tr>
+<table align="center"><tr><td><b>难度<br>等级</b></td><td><b>目的</b></td></tr>
 
 <tr><td>10</td><td>野外生活。一边打猎觅食(不用饮水与食物补给)，一边前进，最高速度为大陆移动速度的一半。检定结果每比10多2，人物便可多供给一人份饮水与食物。</td></tr>
 
@@ -1511,7 +1510,7 @@ type: text/vnd.tiddlywiki
 
 <p>沈到水面下的人物(不论检定失败或故意)必须屏住呼吸。在屏住呼吸的状态下，人物最多可维持的轮数等于人物的体质，且仅能进行移动动作或即时动作。若进行标准动作或整轮动作(例如攻击)，剩余可屏住呼吸的轮数即减1(因此，在屏住呼吸的状态下战斗，人物仅能维持正常一半的时间)。这段期间结束后，若人物欲继续屏住呼吸，每轮须进行DC 10的体质检定，且每多一轮，DC再增加1。若检定失败，人物即溺水(关于窒息相关规则，请见《地下城主指南》)。</p>
 
-<table style="float:right; width: 50%; margin-left: 0.5em;"><tr><td><b>水域状况</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>水域状况</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>风平浪静</td><td>10</td></tr>
 
@@ -1541,7 +1540,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>检定：</b>人物可缓和坠落力道或翻过对手，也可使用本技能娱乐观众(如同"表演")。请见下表决定检定DC。</p>
 
-<table align="center" width="100%"><tr><td style="width: 2em;"><b>难度等级</b></td><td><b>目的</b></td></tr>
+<table align="center" width="100%"><tr><td><b>难度等级</b></td><td><b>目的</b></td></tr>
 
 <tr><td rowspan="2">15</td><td>计算坠落伤害时，坠落距离可少算10呎。</td></tr>
 
@@ -1551,7 +1550,7 @@ type: text/vnd.tiddlywiki
 
 <p>若地面存有障碍物或危险，例如天然岩壁地面或灌木丛，进行"翻滚"的难度便增加。请见下表调整DC。</p>
 
-<table style="float:left; width: 67%; margin-right: 0.5em;"><tr><td><b>地面</b></td><td><b>DC调整值</b></td></tr>
+<table><tr><td><b>地面</b></td><td><b>DC调整值</b></td></tr>
 
 <tr><td>轻度障碍(碎石、疏碎石、浅湿地<sup>1</sup>、灌木丛)</td><td>+2</td></tr>
 
@@ -1591,7 +1590,7 @@ type: text/vnd.tiddlywiki
 
 <p>人物必须有意识地模仿。也就是说，欲进行"使用魔法装置"检定，人物本身必须知道自己正尝试模仿何种要素。请见下表决定检定DC。</p>
 
-<table style="float:left; width: 40%; margin-right: 0.5em;"><tr><td><b>目的</b></td><td><b>难度等级</b></td></tr>
+<table><tr><td><b>目的</b></td><td><b>难度等级</b></td></tr>
 
 <tr><td>胡乱启用</td><td>25</td></tr>
 
@@ -1659,7 +1658,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>检定：</b>大多数的"绳技"检定都不难。请见下表决定检定DC。</p>
 
-<table style="float:left; width: 70%; margin-right: 0.5em;"><tr>
+<table><tr>
 
 <td><b>难度等级</b></td><td><b>目的</b></td></tr>
 

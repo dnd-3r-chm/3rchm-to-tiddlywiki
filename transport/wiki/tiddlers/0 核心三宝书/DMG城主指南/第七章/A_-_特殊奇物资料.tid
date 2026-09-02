@@ -3,16 +3,13 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/A_-_特殊奇物资料.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>A - 特殊奇物资料</h1>
 
-<!-- 护符类 -->
 <h2>护符</h2>
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 健康护符 -->
 <tr>
     <td>健康护符</td>
     <td>
@@ -22,7 +19,6 @@ type: text/vnd.tiddlywiki
     <td>4,000金币 (+2)<br>16,000金币 (+4)<br>36,000金币 (+6)</td>
 </tr>
 
-<!-- 2. 重拳护符 -->
 <tr>
     <td>重拳护符</td>
     <td>
@@ -32,7 +28,6 @@ type: text/vnd.tiddlywiki
     <td>6,000金币 (+1)<br>24,000金币 (+2)<br>54,000金币 (+3)<br>96,000金币 (+4)<br>150,000金币 (+5)</td>
 </tr>
 
-<!-- 3. 天生防御护符 -->
 <tr>
     <td>天生防御护符</td>
     <td>
@@ -42,7 +37,6 @@ type: text/vnd.tiddlywiki
     <td>2,000金币 (+1)<br>8,000金币 (+2)<br>18,000金币 (+3)<br>32,000金币 (+4)<br>50,000金币 (+5)</td>
 </tr>
 
-<!-- 4. 异界传送护符 -->
 <tr>
     <td>异界传送护符</td>
     <td>
@@ -52,7 +46,6 @@ type: text/vnd.tiddlywiki
     <td>120,000金币</td>
 </tr>
 
-<!-- 5. 回避侦测护符 -->
 <tr>
     <td>回避侦测护符</td>
     <td>
@@ -64,7 +57,6 @@ type: text/vnd.tiddlywiki
 
 </table>
 
-<!-- 夸力许装置 -->
 <h2>夸力许装置</h2>
 <table>
 <colgroup><col><col><col></colgroup>
@@ -100,4 +92,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

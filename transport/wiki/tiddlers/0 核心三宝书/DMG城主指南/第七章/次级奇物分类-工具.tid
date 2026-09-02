@@ -3,14 +3,12 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/第七章/次级奇物分类-工具.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>次级奇物分类 - 工具</h1>
 
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
 
-<!-- 1. 护盾别针 -->
 <tr>
     <td>护盾别针</td>
     <td>
@@ -20,7 +18,6 @@ type: text/vnd.tiddlywiki
     <td>1,500金币</td>
 </tr>
 
-<!-- 2. 诚实蜡烛 -->
 <tr>
     <td>诚实蜡烛</td>
     <td>
@@ -30,7 +27,6 @@ type: text/vnd.tiddlywiki
     <td>2,500金币</td>
 </tr>
 
-<!-- 3. 攀爬绳 -->
 <tr>
     <td>攀爬绳</td>
     <td>
@@ -41,7 +37,6 @@ type: text/vnd.tiddlywiki
     <td>3,000金币</td>
 </tr>
 
-<!-- 4. 冥想熏香 -->
 <tr>
     <td>冥想熏香</td>
     <td>
@@ -52,7 +47,6 @@ type: text/vnd.tiddlywiki
     <td>4,900金币</td>
 </tr>
 
-<!-- 5. 无尽烟壶 -->
 <tr>
     <td>无尽烟壶</td>
     <td>
@@ -62,7 +56,6 @@ type: text/vnd.tiddlywiki
     <td>5,400金币</td>
 </tr>
 
-<!-- 6. 莫林汤匙 -->
 <tr>
     <td>莫林汤匙</td>
     <td>
@@ -72,7 +65,6 @@ type: text/vnd.tiddlywiki
     <td>5,400金币</td>
 </tr>
 
-<!-- 7. 风扇 -->
 <tr>
     <td>风扇</td>
     <td>
@@ -82,7 +74,6 @@ type: text/vnd.tiddlywiki
     <td>5,500金币</td>
 </tr>
 
-<!-- 8. 折叠船 -->
 <tr>
     <td>折叠船</td>
     <td>
@@ -94,7 +85,6 @@ type: text/vnd.tiddlywiki
     <td>7,200金币</td>
 </tr>
 
-<!-- 9. 换气瓶 -->
 <tr>
     <td>换气瓶</td>
     <td>
@@ -105,4 +95,3 @@ type: text/vnd.tiddlywiki
 </tr>
 
 </table>
-

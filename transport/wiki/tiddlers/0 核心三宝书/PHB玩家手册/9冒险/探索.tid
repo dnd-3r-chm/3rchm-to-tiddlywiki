@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 
 <p>当你进入黑暗危险的区域时，必须想办法看见四周。矮人和半兽人有黑暗视觉能力，其他种族则需要光源。你可以使用火把、提灯或法术制造光源，照明距离和持续时间请见表9-7的说明。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="4"><b>表9-7：光源和照明距离</b></td></tr>
+<table><tr><td colspan="4"><b>表9-7：光源和照明距离</b></td></tr>
 
 <tr><td><b>物品</b></td><td><b>明亮</b></td><td><b>昏暗</b></td><td><b>持续时间</b></td></tr>
 
@@ -33,7 +33,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>火把</td><td>20呎</td><td>40呎</td><td>1小时</td></tr>
 
-<tr><td colspan="4" style="height: 0.5em;"></td></tr>
+<tr><td colspan="4"></td></tr>
 
 <tr><td><b>法术</b></td><td><b>明亮</b></td><td><b>昏暗</b></td><td><b>持续时间</b></td></tr>
 
@@ -89,7 +89,7 @@ type: text/vnd.tiddlywiki
 
 <li><i>受损物品：</i>除非生命值降到0而完全损毁，否则受损物品仍保持正常功用。举例而言，持用受损武器在伤害掷骰上不会受到减值，受损的防具或盾牌也保有完整AC加值。受损而未毁坏的物品可以相关工艺技能修复。</li></ul>
 
-<table style="border: 0px transparent;"><tr style="border: 0px transparent;" valign="top"><td style="border: 0px transparent; width: 50%;">
+<table><tr valign="top"><td>
 
 <table><tr><td colspan="4"><b>表9-8：一般防具、武器和盾牌的硬度及生命值</b></td></tr>
 
@@ -127,7 +127,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>塔盾</td><td>─</td><td>5</td><td>20</td></tr></table>
 
-</td><td style="border: 0px transparent; width: 50%;">
+</td><td>
 
 <table><tr><td colspan="3"><b>表9-9：材质的硬度及生命值</b></td></tr>
 
@@ -153,11 +153,11 @@ type: text/vnd.tiddlywiki
 
 <tr><td>精金</td><td>20</td><td>40/每吋厚度</td></tr></table>
 
-<ul style="list-style-type: decimal;"><li>此处数据都以中型防具、武器和盾牌为准。其他大小的武器，体型每增大一级HP乘以2，每缩小一级HP除以2。</li>
+<ul><li>此处数据都以中型防具、武器和盾牌为准。其他大小的武器，体型每增大一级HP乘以2，每缩小一级HP除以2。</li>
 
 <li>因材质而有不同，见表9-9。</li></ul>
 
-</td></tr><tr style="border: 0px transparent;" valign="top"><td style="border: 0px transparent; width: 50%;">
+</td></tr><tr valign="top"><td>
 
 <table><tr><td colspan="2"><b>表9-10：物品大小和防御等级</b></td></tr>
 
@@ -181,7 +181,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>超微型(药水)</td><td>+8</td></tr></table>
 
-</td><td style="border: 0px transparent; width: 50%;">
+</td><td>
 
 <table><tr><td colspan="4"><b>表9-11：物品的硬度及生命值</b></td></tr>
 
@@ -223,7 +223,7 @@ type: text/vnd.tiddlywiki
 
 <h4>蛮力破坏</h4>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="2"><b>表9-12：蛮力破坏或崩断难度</b></td></tr>
+<table><tr><td colspan="2"><b>表9-12：蛮力破坏或崩断难度</b></td></tr>
 
 <tr><td><b>通过力量检定以</b></td><td><b>DC</b></td></tr>
 
@@ -267,7 +267,7 @@ type: text/vnd.tiddlywiki
 
 <p>队伍成员如果靠的很近，可以互相保护，但却容易同时被法术所伤，有时稍微散开一点也是个好主意。</p>
 
-<div style="margin-left: 0.5em; margin-right: 0.5em; padding: 0.5em; border: solid 1px black;"><h3>玩家技巧</h3>
+<div><h3>玩家技巧</h3>
 
 <p>玩家可以帮忙使游戏进行更为顺利。</p>
 

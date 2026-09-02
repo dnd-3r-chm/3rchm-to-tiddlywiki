@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 
 <h2>已修订内容：</h2>
 
-<table style="margin-left: 2em;"><tr style="font-weight: bold;"><td>项目</td><td>原文内容</td><td>修订后内容</td><td rowspan=28></td><td>项目</td><td>原文内容</td><td>修订后内容</td><td rowspan=28></td><td>项目</td><td>原文内容</td><td>修订后内容</td></tr>
+<table><tr><td>项目</td><td>原文内容</td><td>修订后内容</td><td rowspan=28></td><td>项目</td><td>原文内容</td><td>修订后内容</td><td rowspan=28></td><td>项目</td><td>原文内容</td><td>修订后内容</td></tr>
 
 <tr><td>属性</td><td>睿智</td><td>感知</td><td rowspan=4>物品</td><td>法杖</td><td>魔杖</td><td rowspan=11>神祇</td><td>海朗纽斯</td><td>海若尼斯</td></tr>
 

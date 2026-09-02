@@ -3,10 +3,8 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表5-5：现代武器.htm
 type: text/vnd.tiddlywiki
 
-
 <h1>表5-5：现代武器</h1>
 
-<!-- 火器表格 -->
 <table>
 <tr>
     <th>异种武器(火器)</th><th>伤害值(小)</th><th>伤害值(中)</th><th>重击</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
@@ -39,7 +37,6 @@ type: text/vnd.tiddlywiki
 
 <div>(注一)用以发射破片型与烟幕型榴弹，见下表。</div>
 
-<!-- 爆炸武器表格 -->
 <table>
 <tr>
     <th>爆炸武器(注一)</th><th>伤害值</th><th>爆炸半径</th><th>射程单位</th><th>重量</th><th>伤害类别</th>
@@ -59,5 +56,3 @@ type: text/vnd.tiddlywiki
     <p>(注一)使用爆炸武器不需要任何专长。</p>
     <p>(注二)请参考内文说明。</p>
 </div>
-
-

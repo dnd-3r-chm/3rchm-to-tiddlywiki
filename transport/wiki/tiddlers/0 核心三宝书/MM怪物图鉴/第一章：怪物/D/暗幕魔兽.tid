@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>暗幕魔兽 (Darkmantle)<br><span>小型魔法兽</span></th>
+                    <th>暗幕魔兽 (Darkmantle)<br>小型魔法兽</th>
                 </tr>
             </thead>
             <tbody>
@@ -44,7 +44,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>暗幕魔兽会掉到猎物头上，用触手围住猎物头部攻击。一旦得手，便尝试紧缩窒息敌人。若第一次攻击失败，就会往上飞再试一次。</p>
 
     <div>

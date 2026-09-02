@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 <h3>技能检定</h3>
 
-<table style="float: right; width: 67%;"><tr><td colspan="2"><b>表4-3：难度等级实例</b></td></tr>
+<table><tr><td colspan="2"><b>表4-3：难度等级实例</b></td></tr>
 
 <tr><td><b>难度等级</b></td><td><b>实例(使用之技能)</b></td></tr>
 
@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
 
 <h4>对抗检定</h4>
 
-<table style="float: right; width: 67%;"><tr><td colspan="3"><b>表4-4：对抗检定的实例</b></td></tr>
+<table><tr><td colspan="3"><b>表4-4：对抗检定的实例</b></td></tr>
 
 <tr><td><b>目的</b></td><td><b>技能(关键属性)</b></td><td><b>对抗技能(关键属性)</b></td></tr>
 
@@ -93,7 +93,7 @@ type: text/vnd.tiddlywiki
 
 <p>DM可视外在环境，以下列四种方式改变检定成功的条件：</p>
 
-<ul style="list-style-type: decimal;"><li>当情况有利人物工作时，给予+2环境加值。例如，拥有非常合用的工具、获得其他人物帮助(有关帮助他人，请见本章65页后述)、或刚好拥有适当的知识等。</li>
+<ul><li>当情况有利人物工作时，给予+2环境加值。例如，拥有非常合用的工具、获得其他人物帮助(有关帮助他人，请见本章65页后述)、或刚好拥有适当的知识等。</li>
 
 <li>当情况不利人物工作时，给予-2环境减值。例如，使用临时找到的不适合工具、资讯错误等。</li>
 
@@ -221,7 +221,7 @@ type: text/vnd.tiddlywiki
 
 <h3>属性检定</h3>
 
-<table style="float: right; width: 50%;"><tr><td colspan="2"><b>表4-6：属性检定实例</b></td></tr>
+<table><tr><td colspan="2"><b>表4-6：属性检定实例</b></td></tr>
 
 <tr><td><b>目的</b></td><td><b>关键属性</b></td></tr>
 

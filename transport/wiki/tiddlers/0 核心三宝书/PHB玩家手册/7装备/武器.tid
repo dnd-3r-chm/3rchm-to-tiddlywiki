@@ -57,7 +57,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>价格：</b>这是武器的售价，单位为金币或银币，表列价格包含所有配件，如：剑附有剑鞘，箭附有箭袋等。小型和中型武器的价格与表列相同，大型武器的价格是表列价格两倍。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="3"><b>表7-4：超小型和大型武器的伤害值</b></td></tr>
+<table><tr><td colspan="3"><b>表7-4：超小型和大型武器的伤害值</b></td></tr>
 
 <tr><td><b>中型武器</b></td><td><b>超小型</b></td><td><b>大型</b></td></tr>
 

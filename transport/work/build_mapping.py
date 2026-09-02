@@ -112,8 +112,18 @@ def main():
         if title_used2[r["Tiddler标题"]] > 1:
             r["Tiddler标题"] = insert_disambig(r["Tiddler标题"], r["源文件相对路径"])
 
-    # 全角引号/括号 -> 半角（用户规则，与转换管道/已转换内容一致，2026-09）
-    _trans = str.maketrans({"\u201c": '"', "\u201d": '"', "\uff08": "(", "\uff09": ")"})
+    # 全角 ASCII -> 半角（用户规则，2026-09-02 扩展至字母/数字/弯引号‘’，
+    # 与 convert_pilot.normalize_fullwidth_punct / clean_fullwidth_punct 一致）
+    _trans = {
+        "\u201c": '"', "\u201d": '"', "\u2018": "'", "\u2019": "'",
+        "\uff08": "(", "\uff09": ")",
+    }
+    for i in range(26):
+        _trans[chr(0xFF21 + i)] = chr(0x41 + i)
+        _trans[chr(0xFF41 + i)] = chr(0x61 + i)
+    for i in range(10):
+        _trans[chr(0xFF10 + i)] = chr(0x30 + i)
+    _trans = str.maketrans(_trans)
     for r in out_rows:
         r["HHC标题"] = r["HHC标题"].translate(_trans)
         r["Tiddler标题"] = r["Tiddler标题"].translate(_trans)

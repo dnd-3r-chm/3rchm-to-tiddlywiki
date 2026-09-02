@@ -79,7 +79,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>超巨型</td><td>x16</td><td>x12</td><td>x32</td><td>x12</td></tr></table>
 
-<ul style="list-style-type: decimal;"><li>盔甲或盾牌加值除以2。</li></ul>
+<ul><li>盔甲或盾牌加值除以2。</li></ul>
 
 <h2>穿脱盔甲</h2>
 
@@ -103,6 +103,6 @@ type: text/vnd.tiddlywiki
 
 <tr><td>半身铠甲或全身铠甲</td><td>4分钟(2)</td><td>4分钟(1)</td><td>1d4+1分钟(1)</td></tr></table>
 
-<ul style="list-style-type: decimal;"><li>如果有人在旁协助的话，时间减半。未从事其他动作的人物可以协助邻近一或两个人物卸甲，但是两个人物不能互相协助卸甲。</li>
+<ul><li>如果有人在旁协助的话，时间减半。未从事其他动作的人物可以协助邻近一或两个人物卸甲，但是两个人物不能互相协助卸甲。</li>
 
 <li>着装此类盔甲必须有人协助。如果没有人协助，你只能紧急着装。</li></ul>

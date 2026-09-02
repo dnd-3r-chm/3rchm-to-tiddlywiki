@@ -3,7 +3,7 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-24：风力效果.htm
 type: text/vnd.tiddlywiki
 <div>
-    <div>表3-24：风力效果</div>
+<div>表3-24：风力效果</div>
     <table>
         <colgroup>
             <col>
@@ -24,29 +24,29 @@ type: text/vnd.tiddlywiki
             </tr>
         </thead>
         <tbody>
-            <!-- 微风 -->
+            
             <tr><td>微风</td><td>0-10英里</td><td>—</td><td>任意</td><td>无</td><td>—</td></tr>
-            <!-- 常风 -->
+            
             <tr><td>常风</td><td>11-20英里</td><td>—</td><td>任意</td><td>无</td><td>—</td></tr>
-            <!-- 强风 -->
+            
             <tr><td rowspan="2">强风</td><td rowspan="2">21-30英里</td><td>-2 / -</td><td>超小型或以下</td><td>击倒</td><td>10</td></tr>
             <tr><td>—</td><td>小型或以上</td><td>无</td><td>—</td></tr>
-            <!-- 烈风 -->
+            
             <tr><td rowspan="4">烈风</td><td rowspan="4">31-50英里</td><td>-4 / -</td><td>超小型</td><td>吹离</td><td>15</td></tr>
             <tr><td>—</td><td>小型</td><td>击倒</td><td>—</td></tr>
             <tr><td>—</td><td>中型</td><td>受阻</td><td>—</td></tr>
             <tr><td>—</td><td>大型或以上</td><td>无</td><td>—</td></tr>
-            <!-- 风暴 -->
+            
             <tr><td rowspan="4">风暴</td><td rowspan="4">51-74英里</td><td>不可能 / -4</td><td>小型或以下</td><td>吹离</td><td>18</td></tr>
             <tr><td>—</td><td>中型</td><td>击倒</td><td>—</td></tr>
             <tr><td>—</td><td>大型或超大型</td><td>受阻</td><td>—</td></tr>
             <tr><td>—</td><td>巨型或超巨型</td><td>无</td><td>—</td></tr>
-            <!-- 飓风 -->
+            
             <tr><td rowspan="4">飓风</td><td rowspan="4">75-174英里</td><td>不可能 / -8</td><td>中型或以下</td><td>吹离</td><td>20</td></tr>
             <tr><td>—</td><td>大型</td><td>击倒</td><td>—</td></tr>
             <tr><td>—</td><td>超大型</td><td>受阻</td><td>—</td></tr>
             <tr><td>—</td><td>巨型或超巨型</td><td>无</td><td>—</td></tr>
-            <!-- 龙卷风 -->
+            
             <tr><td rowspan="3">龙卷风</td><td rowspan="3">175-300英里</td><td>不可能 / 不可能</td><td>大型或以下</td><td>吹离</td><td>30</td></tr>
             <tr><td>—</td><td>超大型</td><td>击倒</td><td>—</td></tr>
             <tr><td>—</td><td>巨型或超巨型</td><td>受阻</td><td>—</td></tr>

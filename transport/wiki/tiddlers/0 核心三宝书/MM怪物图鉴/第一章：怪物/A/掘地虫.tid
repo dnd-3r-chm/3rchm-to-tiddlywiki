@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>掘地虫 (Ankheg)<br><span>大型魔法兽</span></th>
+                    <th>掘地虫 (Ankheg)<br>大型魔法兽</th>
                 </tr>
             </thead>
             <tbody>
@@ -46,7 +46,7 @@ type: text/vnd.tiddlywiki
         </table>
     </div>
 
-    <span>战斗</span>
+    战斗
     <p>掘地虫通常蛰伏于地面下方5至10英尺处，以触毛侦测猎物。一旦发现，他们就钻出地面攻击(视为冲刺，然而掘地虫无须先移动10英尺才能攻击)。</p>
     <p>聚集的掘地虫分享领地，但不互相合作。多只掘地虫攻击时，会各自擒抱不同的目标。若目标数量不够，掘地虫会争抢拉扯同一目标。</p>
 

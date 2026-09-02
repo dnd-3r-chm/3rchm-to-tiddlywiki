@@ -63,7 +63,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>投石索弹丸[x10]</td><td>1银币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>5磅</td><td>－</td></tr>
 
-<tr><td colspan="8" style="height: 0.5em;"></td></tr>
+<tr><td colspan="8"></td></tr>
 
 <tr><td><b>军用武器</b></td><td><b>价格</b></td><td><b>伤害值(S)</b></td><td><b>伤害值(M)</b></td><td><b>重击</b></td><td><b>射程单位</b></td><td><b>重量(1)</b></td><td><b>伤害类别(2)</b></td></tr>
 
@@ -153,7 +153,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>箭[x20]</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>3磅</td><td>－</td></tr>
 
-<tr><td colspan="8" style="height: 0.5em;"></td></tr>
+<tr><td colspan="8"></td></tr>
 
 <tr><td><b>异种武器</b></td><td><b>价格</b></td><td><b>伤害值(S)</b></td><td><b>伤害值(M)</b></td><td><b>重击</b></td><td><b>射程单位</b></td><td><b>重量(1)</b></td><td><b>伤害类别(2)</b></td></tr>
 
@@ -209,7 +209,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>手里剑[x5]</td><td>1金币</td><td>1</td><td>1d2</td><td>x2</td><td>10呎</td><td>1/2磅</td><td>穿刺</td></tr></table>
 
-<ul style="list-style-type: decimal;"><li>中型武器的重量。小型武器重量为表列的一半，大型武器为两倍。</li>
+<ul><li>中型武器的重量。小型武器重量为表列的一半，大型武器为两倍。</li>
 
 <li>同时列有两种伤害类别时，若为"A与B"的格式，则表示武器同时可以造成两种伤害。若为"A或B"，则人物必须在攻击前决定造成哪种伤害。</li>
 
@@ -219,13 +219,13 @@ type: text/vnd.tiddlywiki
 
 <li>双头武器。</li>
 
-<li><i style="color: maroon;">"十手"为官中PHB的译名，实际上Sai应作"钗"或"短叉"，"十手"为Jitte。为何在这里旧事重提呢？因为我们还会在OA里见到十手的，那个时候就是真的十手(Jitte)了。<br>
+<li><i>"十手"为官中PHB的译名，实际上Sai应作"钗"或"短叉"，"十手"为Jitte。为何在这里旧事重提呢？因为我们还会在OA里见到十手的，那个时候就是真的十手(Jitte)了。<br>
 
 同理的，破魔锥(Siangham)可以考据到马来西亚，属于当地华人的拳道用武器，没有译名(也没有附图)。或者你也可以认为它是一种峨眉刺的变体。</i></li>
 
 <li>表列的不同种类的弩，其弩矢价格和重量一致。但是，由于连发弩的弩矢需要特制的矢匣，因此会比普通的弩矢更贵(也更重)。连发弩的1个含5支弩矢的矢匣价格为1gp，而普通弩矢相同价格购买到的一个矢匣为10支弩矢。</li>
 
-<li><i style="color: maroon;">硬头锤(Mace)泛指所有不带有钉头的钝器锤。PHB附图中的硬头锤，其锤头附有几片垂直的凸缘，也可称作"页锤"。</i></li></ul>
+<li><i>硬头锤(Mace)泛指所有不带有钉头的钝器锤。PHB附图中的硬头锤，其锤头附有几片垂直的凸缘，也可称作"页锤"。</i></li></ul>
 
 <h2>详述</h2>
 

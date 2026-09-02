@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 
     <p>闪现犬有自己的语言，由各种吠叫、低嚎、咆哮组成，可传递复杂讯息。非打猎期间，闪现犬会互相嬉戏，并严密保护幼犬。外来者偶尔尝试偷走幼犬，以训练当作守卫动物。闪现犬与移位兽是宿敌。</p>
 
-    <span>战斗</span>
+    战斗
     <p>闪现犬成群出猎，以看似随机的方式传送移位，直到包围目标为止。此时，闪现犬便拥有夹击优势。</p>
 
     <div>
@@ -30,7 +30,7 @@ type: text/vnd.tiddlywiki
             <thead>
                 <tr>
                     <th>资料栏位</th>
-                    <th>闪现犬 (Blink Dog)<br><span>中型魔法兽</span></th>
+                    <th>闪现犬 (Blink Dog)<br>中型魔法兽</th>
                 </tr>
             </thead>
             <tbody>

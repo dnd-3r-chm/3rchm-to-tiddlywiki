@@ -3,9 +3,9 @@ tags: [[10 附录]]
 source: 10 附录/老前言.htm
 type: text/vnd.tiddlywiki
 
-<h1 style="text-align:center">龙与地下城3R扩展规则大全</h1>
+<h1>龙与地下城3R扩展规则大全</h1>
 
-<p style="color:maroon" align=center><i>版本号： 2.23_240927&nbsp; 每周(？)更新版</i></p>
+<p align=center><i>版本号： 2.23_240927  每周(？)更新版</i></p>
 
 <p>本文件是由玩家自行翻译的D&D3.5e扩展规则。中文翻译的版权归各翻译者所有。本文件只是对翻译资料作整理，并尽可能编辑成各页面保持排版上的一致性和名称上的一致性，以方便学习和查阅。</p>
 
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 <p>在扩展大全v2.1的基础上，编者对原有内容进行了增删调整。希望获得其他内容的读者，敬请访问纯美苹果园自行查询，如因此产生不便，编者在此向各位读者道歉，还望包涵。</p>
 
-<ul style="list-style-type: none; ">
+<ul>
 
 <li>纯美苹果园：<u>http://www.goddessfantasy.net/bbs/index.php</u><br>
 
@@ -27,29 +27,27 @@ type: text/vnd.tiddlywiki
 
 <li>扩展大全github仓库：<u>https://github.com/dnd-3r-chm/dnd-3r-chm</u></li></ul>
 
-<p style="font-size: 14px;"><i>以上链接均建议复制进浏览器中打开，请勿在chm中点击打开，chm调用的是IE内核，并且不支持HTML5，总之就很老旧。</i></p>
+<p><i>以上链接均建议复制进浏览器中打开，请勿在chm中点击打开，chm调用的是IE内核，并且不支持HTML5，总之就很老旧。</i></p>
 
 <h2>参与人员</h2>
 
-<h3 style="display: inline">总编辑：</h3>
+<h3>总编辑：</h3>
 
-<p style="display: inline;">苍龙(1.0)、归兮北冥(2.0)、风华(2.2)</p>
+<p>苍龙(1.0)、归兮北冥(2.0)、风华(2.2)</p>
 
-<div style="margin-top: 3.6px;">
+<div>
 
-	<div style="margin-bottom: 3.6px;">
+	<div>
 
-		<h4 style="display: inline">STAFF</h4>
+		<h4>STAFF</h4>
 
-		<input type="button" value="显示" style="font-family: '微软雅黑'; font-size:12px; margin-left: 2em;" 
-
-		onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; &nbsp; &nbsp; &nbsp; &nbsp;this.innerText = ''; this.value = '隐藏'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = '显示'; }">
+		<input type="button" value="显示"onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';        this.innerText = ''; this.value = '隐藏'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = '显示'; }">
 
 	</div>
 
-	<div style="padding: 10px; border: 1px inset;">
+	<div>
 
-		<div style="display: none;">
+		<div>
 
 			<table><tr><td>●  呆萌</td><td>●  空白派</td><td>●  响酱世界第一</td><td>●  sleepinglord</td><td>●  鲤鱼</td><td>●  落网的书虫</td></tr>
 
@@ -131,21 +129,19 @@ type: text/vnd.tiddlywiki
 
 <div>
 
-	<div style="margin-bottom:3.6px">
+	<div>
 
-		<h5 style="display: inline">致谢：</h5>
+		<h5>致谢：</h5>
 
-		<p style="display: inline;">特别感谢以下在CHM制作过程中提供大力支持的同好！</p>
+		<p>特别感谢以下在CHM制作过程中提供大力支持的同好！</p>
 
-		<input type="button" value="显示" style="font-family: '微软雅黑'; font-size:12px; margin-left: 2em;" 
-
-		onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; &nbsp; &nbsp; &nbsp; &nbsp;this.innerText = ''; this.value = '隐藏'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = '显示'; }">
+		<input type="button" value="显示"onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';        this.innerText = ''; this.value = '隐藏'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = '显示'; }">
 
 	</div>
 
-	<div style="padding: 10px; border: 1px inset;">
+	<div>
 
-		<div style="display: none;">
+		<div>
 
 			<table><tr><td>●  秋风</td><td>●  达拉第</td><td>●  落网的书虫</td><td>●  sleepinglord</td><td>●  Ryogi Shiki</td><td>●  尽点</td></tr>
 

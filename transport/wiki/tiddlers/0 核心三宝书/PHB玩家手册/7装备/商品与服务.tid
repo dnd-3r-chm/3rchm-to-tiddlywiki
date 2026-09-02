@@ -7,9 +7,9 @@ type: text/vnd.tiddlywiki
 
 <p>除了武器和防具之外，冒险者还需要其他装备，表7-8列举数十种商品的价格和重量，还有人物可能会用到的服务项目。</p>
 
-<table style="border: 0; width: 100%;"><tr><td colspan="3" style="width: 33%;"><b>表7-8：商品与服务</b></td>
+<table><tr><td colspan="3"><b>表7-8：商品与服务</b></td>
 
-<td rowspan="71" style="border: 0;">
+<td rowspan="71">
 
 <h2>冒险装备</h2>
 
@@ -245,11 +245,11 @@ type: text/vnd.tiddlywiki
 
 <tr><td>磨刀石</td><td>2铜币</td><td>1磅</td></tr>
 
-<tr><td colspan="3">注：重量栏为"─"符号者表示没有重量或重量不计。<ul style="list-style-type: decimal;"><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
+<tr><td colspan="3">注：重量栏为"─"符号者表示没有重量或重量不计。<ul><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
 
-<table style="border: 0; width: 100%; margin-top: 0.5em;"><tr><td colspan="3" style="width: 33%"><b>特殊物品</b></td>
+<table><tr><td colspan="3"><b>特殊物品</b></td>
 
-<td rowspan="13" style="border: 0;">
+<td rowspan="13">
 
 <h2>特殊物品</h2>
 
@@ -291,7 +291,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>火柴</td><td>1金币</td><td>─</td></tr>
 
-<tr><td colspan="3">注：重量栏为"─"符号者表示没有重量或重量不计。<ul style="list-style-type: decimal;"><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
+<tr><td colspan="3">注：重量栏为"─"符号者表示没有重量或重量不计。<ul><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
 
 <p>不死生物或邪恶异界生物若遭扁瓶装的圣水直接击中，会受2d4点伤害，5呎内的所有该类生物也会被波及而受到1点伤害。</p>
 
@@ -311,9 +311,9 @@ type: text/vnd.tiddlywiki
 
 <p><b>火柴：</b>一端包裹炼金化合物质的短木棒，只要在粗糙的表面上摩擦便会点燃。用火柴生火比使用燧石、铁片(或放大镜)和火绒快。使用火柴点燃火把属于标准动作(而非整轮动作)，点燃其他物品也至少需要一个标准动作的时间。</p>
 
-<table style="border: 0; width: 100%; margin-top: 0.5em;"><tr><td colspan="3" style="width: 33%"><b>职业与技能工具</b></td>
+<table><tr><td colspan="3"><b>职业与技能工具</b></td>
 
-<td rowspan="23" style="border: 0;">
+<td rowspan="23">
 
 <h2>职业与技能工具</h2>
 
@@ -323,7 +323,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>工艺工具(Artisan's Tools)：</b>此工具包含工艺制造所须之特殊工具。如果没有此工具，便只能使用临时替代工具，"工艺"技能检定受到-2减值。</p>
 
-<p><b>工艺工具(精制品)(Artisan’s Tools, Masterwork)：</b>这是特制的工艺工具，若有此工具，进行"工艺"技能检定时有+2环境加值。</p>
+<p><b>工艺工具(精制品)(Artisan's Tools, Masterwork)：</b>这是特制的工艺工具，若有此工具，进行"工艺"技能检定时有+2环境加值。</p>
 
 <p><b>攀爬工具(Climber's Kit)：</b>此工具包括岩钉、鞋钉、手套与攀岩吊带。若有此工具，进行"攀爬"技能检定时有+2环境加值。</p>
 
@@ -389,7 +389,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td colspan="3">注：重量栏为"─"符号者表示没有重量或重量不计。</p>
 
-<ul style="list-style-type: decimal;"><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
+<ul><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
 
 <p><b>乐器，普通或精制品(Musical Instrument, Common or Masterwork)：</b>短笛、萧、长笛、曼陀林与萧姆管都是常见的乐器。精制品乐器的音质比普通乐器更好，使用时可让"表演"技能检定有+2环境加值。</p>
 
@@ -407,9 +407,9 @@ type: text/vnd.tiddlywiki
 
 <p><b>水钟(Water Clock)：</b>此笨重装置经设定后，可在一天内记录时间，误差不超过半小时。本装置是以固定的滴速确定时间，所以必须有水源。这多半是富有人家的装饰品或奥术研究者的工具。大多数人很难得知正确的时间，对他们而言，这也不是很必要。</p>
 
-<table style="border: 0; width: 100%; margin-top: 0.5em;"><tr><td colspan="3" style="width: 33%"><b>衣着</b></td>
+<table><tr><td colspan="3"><b>衣着</b></td>
 
-<td rowspan="15" style="border: 0;">
+<td rowspan="15">
 
 <h2>衣着</h2>
 
@@ -461,7 +461,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td colspan="3">注：重量栏为"─"符号者表示没有重量或重量不计。</p>
 
-<ul style="list-style-type: decimal;"><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
+<ul><li>供小体型人物使用时，其重量或容器容量皆为表列的四分之一。</li></ul></td></tr></table>
 
 <p><b>贵族服装：</b>这套服饰装饰华美，缀满贵重金属与宝石，是融入贵族社交圈的必备品。想跻身贵族者都需要一枚玺戒(见前文关于冒险装备的说明)与一些珠宝(至少价值100金币以上)。</p>
 
@@ -473,9 +473,9 @@ type: text/vnd.tiddlywiki
 
 <p><b>旅行者服装：</b>包含靴子、羊毛裙或羊毛裤、坚韧的腰带、衬衫(或许再加上背心或外套)以及附头罩的斗篷。</p>
 
-<table style="border: 0; width: 100%; margin-top: 0.5em;"><tr><td colspan="3" style="width: 33%"><b>饮食与住宿</b></td>
+<table><tr><td colspan="3"><b>饮食与住宿</b></td>
 
-<td rowspan="21" style="border: 0;">
+<td rowspan="21">
 
 <h2>饮食与住宿</h2>
 
@@ -525,9 +525,9 @@ type: text/vnd.tiddlywiki
 
 <tr><td>醇酿(每瓶)</td><td>10金币</td><td>1.5磅</td></tr></table>
 
-<table style="border: 0; width: 100%; margin-top: 0.5em;"><tr><td colspan="3" style="width: 33%"><b>座骑与相关装备</b></td>
+<table><tr><td colspan="3"><b>座骑与相关装备</b></td>
 
-<td rowspan="40" style="border: 0;">
+<td rowspan="40">
 
 <h2>座骑与相关装备</h2>
 
@@ -537,7 +537,7 @@ type: text/vnd.tiddlywiki
 
 <p>马(大型非类人生物)用盔甲价格为人类(中型类人生物)用的4倍，重量则为2倍(见123页特殊生物防具的边栏说明)。若为矮种马或其他中体型座骑，重量与表中所列相同，价格则为2倍。</p>
 
-<table style="float: right; margin-left: 0.5em;"><tr><td colspan="4"><b>速度</b></td></tr>
+<table><tr><td colspan="4"><b>速度</b></td></tr>
 
 <tr><td><b>座骑用盔甲</b></td><td><b>(40呎)</b></td><td><b>(50呎)</b></td><td><b>(60呎)</b></td></tr>
 
@@ -679,9 +679,9 @@ type: text/vnd.tiddlywiki
 
 <p><b>战船(Warship)：</b>战船长100呎，除了一根主桅杆之外，也可以划桨前进，船身两旁各有60到80个桨位。虽然可以载运160名士兵，但因为没有足够空间装粮食，航程有限。战船无法横渡海洋，只能沿岸航行，也不能载货，扬帆或划桨的速度都是每小时2.5哩。</p>
 
-<table style="border: 0; width: 100%; margin-top: 0.5em;"><tr><td colspan="2" style="width: 33%"><b>施法及服务</b></td>
+<table><tr><td colspan="2"><b>施法及服务</b></td>
 
-<td rowspan="19" style="border: 0;">
+<td rowspan="19">
 
 <h2>施法及服务</h2>
 
@@ -697,7 +697,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>过路费(Road or Gate Toll)：</b>经过有人保养或看守的道路时，通常要付过路费。有时候，某些大城市会对进城或出城的人收取过路费。</p>
 
-<p><b>雇船(Ship’s Passage)：</b>大部分船只不会专门载运乘客，但货物旁边通常还可以挤出几个空位让人搭乘。体型超过中型的生物不适合搭船，必须花费表列价格的两倍。</p>
+<p><b>雇船(Ship's Passage)：</b>大部分船只不会专门载运乘客，但货物旁边通常还可以挤出几个空位让人搭乘。体型超过中型的生物不适合搭船，必须花费表列价格的两倍。</p>
 
 <p><b>法术：</b>这是请施法者为你施法的费用。当然，你必须先找到一位肯为你施法的施法者，还得等他有空的时间(包含法术准备时间，通常得等到24小时之后)。如果想带施法者到其他地方为你施法(例如：到危险的地下城为你施展"敲击术")，你必须努力与他交涉，通常对方的回答应该是："不！"</p>
 
