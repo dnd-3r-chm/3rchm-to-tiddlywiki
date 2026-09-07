@@ -2,6 +2,7 @@ title: 权杖 (MIC-万物大全)
 tags: [[2 万物万法万律]] [[MIC万物大全]]
 source: 2 万物万法万律/MIC万物大全/工具/权杖.htm
 type: text/vnd.tiddlywiki
+
 <h4>超魔权杖(METAMAGIC RODS)</h4>
 
 <p>超魔权杖拥有超魔专长的能量但并不会改变目标法术的法术位等级。以下超魔权杖跟地下城主指南236页的超魔权杖使用方式相同。</p>
@@ -384,7 +385,17 @@ type: text/vnd.tiddlywiki
 
 <p>反转一个法术会改变权杖的颜色，这取决于所反转的法术的派系，如下表所示。</p>
 
-<table><tr><td><b>派系</b></td><td><b>颜色</b></td></tr><tr><td>防护</td><td>蓝色</td></tr><tr><td>咒法</td><td>黄色</td></tr><tr><td>预言</td><td>靛青</td></tr><tr><td>附魔</td><td>绿色</td></tr><tr><td>塑能</td><td>红色</td></tr><tr><td>幻术</td><td>紫色</td></tr><tr><td>死灵</td><td>黑色</td></tr><tr><td>变化</td><td>橙色</td></tr></table>
+<table>
+<tr><td><b>派系</b></td><td><b>颜色</b></td></tr>
+<tr><td>防护</td><td>蓝色</td></tr>
+<tr><td>咒法</td><td>黄色</td></tr>
+<tr><td>预言</td><td>靛青</td></tr>
+<tr><td>附魔</td><td>绿色</td></tr>
+<tr><td>塑能</td><td>红色</td></tr>
+<tr><td>幻术</td><td>紫色</td></tr>
+<tr><td>死灵</td><td>黑色</td></tr>
+<tr><td>变化</td><td>橙色</td></tr>
+</table>
 
 <p>遗物能力：当你建立了合适的神圣连接，激活颠倒权杖效果改为自动反射以你为目标的九个等级的法术。它还能给予你精通反制法术能力。</p>
 

@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-6：宝石.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <h2>表3-6：宝石</h2>
-    <table>
+<h2>表3-6：宝石</h2>
+
+<table>
         <thead><tr><th>百分骰</th><th>价格</th><th>平均</th><th>范例</th></tr></thead>
         <tbody>
             <tr><td>01–25</td><td>4d4金币</td><td>10金币</td><td>玛瑙、天青石、蓝水晶、赤铁矿、青金石、孔雀石、黑曜石、猫眼石、土耳其玉、杂色珍珠</td></tr>
@@ -16,4 +16,3 @@ type: text/vnd.tiddlywiki
             <tr><td>100</td><td>2d4×1,000金币</td><td>5,000金币</td><td>祖母绿、钻石</td></tr>
         </tbody>
     </table>
-</div>

@@ -4,6 +4,7 @@ source: 0 核心三宝书/DMG城主指南/所有DMG表格/表8-3：毒素.htm
 type: text/vnd.tiddlywiki
 
 <h1>表8-3：毒素</h1>
+
 <table>
 <tr>
     <th>毒素</th><th>类别</th><th>初始伤害</th><th>后续伤害</th><th>价格</th>
@@ -38,6 +39,5 @@ type: text/vnd.tiddlywiki
 <tr><td>死刃夜露</td><td>伤口DC=20</td><td>1d6体质</td><td>2d6体质</td><td>1,800 金币</td></tr>
 <tr><td>紫虫毒</td><td>伤口DC=24</td><td>1d6力量</td><td>2d6力量</td><td>700 金币</td></tr>
 </table>
-<div>
-    <p>(注一)永久吸取，而非暂时伤害。</p>
-</div>
+
+<p>(注一)永久吸取，而非暂时伤害。</p>

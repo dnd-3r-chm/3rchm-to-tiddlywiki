@@ -35,7 +35,9 @@ type: text/vnd.tiddlywiki
 
 <h4>表6-1：奥灵师</h4>
 
-<table><tbody align=center><tr><td>等级</td><td>基本攻击加值</td><td>强韧豁免</td><td>反射豁免</td><td>意志豁免</td><td>每日法术/已知异能</td></tr>
+<table>
+<tbody align=center>
+<tr><td>等级</td><td>基本攻击加值</td><td>强韧豁免</td><td>反射豁免</td><td>意志豁免</td><td>每日法术/已知异能</td></tr>
 
 <tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>+1奥术施法者等级/+1显能者等级</td></tr>
 
@@ -55,7 +57,9 @@ type: text/vnd.tiddlywiki
 
 <tr><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td>+1奥术施法者等级/+1显能者等级</td></tr>
 
-<tr><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>+1奥术施法者等级/+1显能者等级</td></tr></tbody></table>
+<tr><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>+1奥术施法者等级/+1显能者等级</td></tr>
+</tbody>
+</table>
 
 <h2>职业能力</h2>
 

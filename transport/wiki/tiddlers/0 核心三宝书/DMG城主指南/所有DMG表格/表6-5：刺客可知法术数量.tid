@@ -4,6 +4,7 @@ source: 0 核心三宝书/DMG城主指南/所有DMG表格/表6-5：刺客可知�
 type: text/vnd.tiddlywiki
 
 <h1>表6-5：刺客可知法术数量</h1>
+
 <table>
 <tr>
     <th rowspan="2">职业等级</th>
@@ -26,6 +27,5 @@ type: text/vnd.tiddlywiki
 <tr><td>9</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
 <tr><td>10</td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
 </table>
-<div>
-    <p>(注一)假设刺客的智力值足以获得该等级的额外法术。</p>
-</div>
+
+<p>(注一)假设刺客的智力值足以获得该等级的额外法术。</p>

@@ -3,11 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-3：望族.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表4-3：望族</div>
-    <div>生命骰：d8</div>
+<p>表4-3：望族 生命骰：d8</p>
 
-    <table>
+<table>
         <thead>
             <tr>
                 <th>NPC等级</th>
@@ -40,5 +38,3 @@ type: text/vnd.tiddlywiki
             <tr><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td></tr>
         </tbody>
     </table>
-
-</div>

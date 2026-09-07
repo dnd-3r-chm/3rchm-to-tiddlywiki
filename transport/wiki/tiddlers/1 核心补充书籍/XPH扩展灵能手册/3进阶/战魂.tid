@@ -15,53 +15,47 @@ type: text/vnd.tiddlywiki
 
 <p><b>阵营</b>：任何非混乱。</p>
 
-<p>
+<p><b>基础攻击加值</b>：+3。</p>
 
-<b>基础攻击加值</b>：+3。</p>
+<p><b>技能</b>：知识(历史)2级，知识(灵能)8级。</p>
 
-<p>
+<p><b>灵能</b>：必须有至少1点灵能点储备。</p>
 
-<b>技能</b>：知识(历史)2级，知识(灵能)8级。</p>
-
-<p>
-
-<b>灵能</b>：必须有至少1点灵能点储备。</p>
-
-<p>
-
-<b>特殊</b>：必须有另外一名战魂的指导，获得塔勒利克文本，或者属于一个拥有塔勒利克文本的组织。</p>
+<p><b>特殊</b>：必须有另外一名战魂的指导，获得塔勒利克文本，或者属于一个拥有塔勒利克文本的组织。</p>
 
 <h2>职业特性</h2>
 
 <p><b>生命骰</b>：D10</p>
 
-<p>
+<p><b>本职技能</b>：自我催眠(感知)[*]，专注(体质)[*]，威吓(魅力)，知识(历史)(智力)，知识(灵能)(智力)[*]，辨识灵能(智力)[*]。</p>
 
-<b>本职技能</b>：自我催眠(感知)[*]，专注(体质)[*]，威吓(魅力)，知识(历史)(智力)，知识(灵能)(智力)[*]，辨识灵能(智力)[*]。</p>
+<p><i>[*] 参阅本书第3章以获取新技能和现有技能扩展使用。参阅PHB第4章以获取其他技能描述。</i></p>
 
-<p>
+<p><b>升级技能点</b>：2+智力修正值。</p>
 
-<i>[*] 参阅本书第3章以获取新技能和现有技能扩展使用。参阅PHB第4章以获取其他技能描述。</i></p>
-
-<p>
-
-<b>升级技能点</b>：2+智力修正值。</p>
-
-<p>
-
-<b>擅长武器与防具</b>：战魂不获得任何武器和盔甲熟练。</p>
+<p><b>擅长武器与防具</b>：战魂不获得任何武器和盔甲熟练。</p>
 
 <h4>表6-9：战魂</h4>
 
-<table><tbody align=center><tr><td><b>等级</b></td><td><b>基础攻击加值</b></td><td><b>强韧</b></td><td><b>反射</b></td><td><b>意志</b></td><td><b>特殊</b></td><td><b>每日灵能点</b></td><td><b>已知异能</b></td><td><b>最高已知能级</b></td></tr>
+<table>
+<tbody align=center>
+<tr><td><b>等级</b></td><td><b>基础攻击加值</b></td><td><b>强韧</b></td><td><b>反射</b></td><td><b>意志</b></td><td><b>特殊</b></td><td><b>每日灵能点</b></td><td><b>已知异能</b></td><td><b>最高已知能级</b></td></tr>
 
 <tr><td>1</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>个人优越之链+2</td><td>2</td><td>1</td><td>1</td></tr>
 
-<tr><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td>防御姿态之链+2</td><td>5</td><td>2</td><td>1</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>持久身躯(DR1/-)</td><td>9</td><td>2</td><td>1</td></tr><tr><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td>——</td><td>14</td><td>3</td><td>2</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td>扫荡之击</td><td>20</td><td>3</td><td>2</td></tr><tr><td>6</td><td>+6</td><td>+5</td><td>+5</td><td>+2</td><td>持久身躯(DR2/-)</td><td>28</td><td>4</td><td>3</td></tr><tr><td>7</td><td>+7</td><td>+5</td><td>+5</td><td>+2</td><td>个人优越之链+4</td><td>37</td><td>4</td><td>3</td></tr><tr"><td>8</td><td>+8</td><td>+6</td><td>+6</td><td>+2</td><td>防御姿态之链+4</td><td>47</td><td>5</td><td>4</td></tr>
+<tr><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td>防御姿态之链+2</td><td>5</td><td>2</td><td>1</td></tr>
+<tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>持久身躯(DR1/-)</td><td>9</td><td>2</td><td>1</td></tr>
+<tr><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td>——</td><td>14</td><td>3</td><td>2</td></tr>
+<tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td>扫荡之击</td><td>20</td><td>3</td><td>2</td></tr>
+<tr><td>6</td><td>+6</td><td>+5</td><td>+5</td><td>+2</td><td>持久身躯(DR2/-)</td><td>28</td><td>4</td><td>3</td></tr>
+<tr><td>7</td><td>+7</td><td>+5</td><td>+5</td><td>+2</td><td>个人优越之链+4</td><td>37</td><td>4</td><td>3</td></tr>
+<tr"><td>8</td><td>+8</td><td>+6</td><td>+6</td><td>+2</td><td>防御姿态之链+4</td><td>47</td><td>5</td><td>4</td></tr>
 
 <tr><td>9</td><td>+9</td><td>+6</td><td>+6</td><td>+3</td><td>持久身躯(DR3/-)</td><td>58</td><td>5</td><td>4</td></tr>
 
-<tr><td>10</td><td>+10</td><td>+7</td><td>+7</td><td>+3</td><td>无敌力量之链</td><td>70</td><td>6</td><td>5</td></tr></tbody></table>
+<tr><td>10</td><td>+10</td><td>+7</td><td>+7</td><td>+3</td><td>无敌力量之链</td><td>70</td><td>6</td><td>5</td></tr>
+</tbody>
+</table>
 
 <h2>职业能力</h2>
 

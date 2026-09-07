@@ -2,9 +2,10 @@ title: 表3-15：机关陷阱费用调整值 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-15：机关陷阱费用调整值.htm
 type: text/vnd.tiddlywiki
-<div>
-<div>表3-15：机关陷阱费用调整值</div>
-    <table>
+
+<p>表3-15：机关陷阱费用调整值</p>
+
+<table>
         <thead><tr><th>特色</th><th>费用调整值</th></tr></thead>
         <tbody>
             <tr><td>触发类型</td><td>—</td></tr>
@@ -47,7 +48,5 @@ type: text/vnd.tiddlywiki
             <tr><td>炼金物品</td><td>物品费用(见《玩家手册》表7-8)</td></tr>
         </tbody>
     </table>
-    <div>
-        <p>(注一)若陷阱为自动重新作用需×20。</p>
-    </div>
-</div>
+
+<p>(注一)若陷阱为自动重新作用需×20。</p>

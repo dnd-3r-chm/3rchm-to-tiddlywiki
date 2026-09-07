@@ -21,7 +21,9 @@ type: text/vnd.tiddlywiki
 
 <h4>树顶通道 <i>Treetop Roads</i></h4>
 
-<table align=center><tbody align=center><tr><td>类型</td><td>硬度</td><td>HP</td><td>破坏DC</td><td>负重</td><td>平衡DC<sup>[2]</sup></td></tr>
+<table align=center>
+<tbody align=center>
+<tr><td>类型</td><td>硬度</td><td>HP</td><td>破坏DC</td><td>负重</td><td>平衡DC<sup>[2]</sup></td></tr>
 
 <tr><td>楼梯</td><td>5</td><td>20<sup>[1]</sup></td><td>23</td><td>500磅<sup>[1]</sup></td><td>10</td></tr>
 
@@ -29,7 +31,9 @@ type: text/vnd.tiddlywiki
 
 <tr><td>护栏</td><td>5</td><td>10</td><td>18</td><td>150磅</td><td>20</td></tr>
 
-<tr><td>绳索(吊桥)</td><td>0</td><td>8</td><td>23</td><td>400磅</td><td>12<sup>[3]</sup></td></tr></tbody></table>
+<tr><td>绳索(吊桥)</td><td>0</td><td>8</td><td>23</td><td>400磅</td><td>12<sup>[3]</sup></td></tr>
+</tbody>
+</table>
 
 <p>[1] 奇怪的木质结构使得HP和负重能力是普通建筑结构的两倍。</p>
 
@@ -47,7 +51,9 @@ type: text/vnd.tiddlywiki
 
 <h4>绳桥上的战斗 <i>Rope Bridge Combat</i></h4>
 
-<table align=center><tbody align=center><tr><td>攻击类型</td><td>攻击罚值</td><td>平衡DC</td></tr>
+<table align=center>
+<tbody align=center>
+<tr><td>攻击类型</td><td>攻击罚值</td><td>平衡DC</td></tr>
 
 <tr><td>单手攻击(另一只闲置：空手)</td><td>-2</td><td>10</td></tr>
 
@@ -55,7 +61,9 @@ type: text/vnd.tiddlywiki
 
 <tr><td>单手远程</td><td>-2</td><td>10</td></tr>
 
-<tr><td>双手远程</td><td>-2</td><td>10</td></tr></tbody></table>
+<tr><td>双手远程</td><td>-2</td><td>10</td></tr>
+</tbody>
+</table>
 
 <p>[*] 这一类别包括使用武器并携带重型盾牌或其他装备的角色。</p>
 

@@ -2,6 +2,7 @@ title: 改良 (MIC-万物大全)
 tags: [[2 万物万法万律]] [[MIC万物大全]]
 source: 2 万物万法万律/MIC万物大全/武器/附魔/改良.htm
 type: text/vnd.tiddlywiki
+
 <p><b>酸爆</b>[改良]</p>
 
 <p><b>价格加值</b>：+1</p>
@@ -24,7 +25,12 @@ type: text/vnd.tiddlywiki
 
 <p>远程武器将会将此效果付给弹药。</p>
 
-<table><tr><td><b>重击倍数</b></td><td><b>额外酸伤害</b></td></tr><tr><td>*2</td><td>1d10</td></tr><tr><td>*3</td><td>2d10</td></tr><tr><td>*4</td><td>3d10</td></tr></table>
+<table>
+<tr><td><b>重击倍数</b></td><td><b>额外酸伤害</b></td></tr>
+<tr><td>*2</td><td>1d10</td></tr>
+<tr><td>*3</td><td>2d10</td></tr>
+<tr><td>*4</td><td>3d10</td></tr>
+</table>
 
 <p><b>制造需求</b>：制造魔法武器和防具，强酸箭</p>
 
@@ -46,7 +52,12 @@ type: text/vnd.tiddlywiki
 
 <p><b>效果</b>：干爆武器的效果如同干燥武器(见上)。另外，当武器成功重击时会产生干燥的暴风，造成如下表所示的额外伤害。(这一效果同样影响通常情况下不受重击额外伤害的目标)伤害总量由武器的重击倍数决定，并且对植物和水系亚种元素生物造成双倍伤害。这个风暴不会伤害你或目标以外的生物。这是一个持续的、不需要激活的影响，即使干燥属性未被启动，武器也仍然能在重击时造成额外伤害。</p>
 
-<table><tr><td><b>重击倍数</b></td><td><b>额外伤害</b></td><td><b>植物/元素伤害</b></td></tr><tr><td>&#215;2</td><td>1d8</td><td>2d8</td></tr><tr><td>&#215;3</td><td>2d8</td><td>4d8</td></tr><tr><td>&#215;4</td><td>3d8</td><td>6d8</td></tr></table>
+<table>
+<tr><td><b>重击倍数</b></td><td><b>额外伤害</b></td><td><b>植物/元素伤害</b></td></tr>
+<tr><td>&#215;2</td><td>1d8</td><td>2d8</td></tr>
+<tr><td>&#215;3</td><td>2d8</td><td>4d8</td></tr>
+<tr><td>&#215;4</td><td>3d8</td><td>6d8</td></tr>
+</table>
 
 <p>另外重击还会让生物疲乏8小时，或直到它喝掉至少1加仑的水或其它水溶液体。</p>
 
@@ -266,7 +277,12 @@ type: text/vnd.tiddlywiki
 
 <p>弹射武器会自动把这一能力赋予其发射的弹药。</p>
 
-<table><tr><td><b>重击伤害</b></td><td><b>额外伤害</b></td><td><b>善良外位面生物伤害</b></td></tr><tr><td>&#215;2</td><td>1d10</td><td>2d10</td></tr><tr><td>&#215;3</td><td>2d10</td><td>4d10</td></tr><tr><td>&#215;4</td><td>3d10</td><td>6d10</td></tr></table>
+<table>
+<tr><td><b>重击伤害</b></td><td><b>额外伤害</b></td><td><b>善良外位面生物伤害</b></td></tr>
+<tr><td>&#215;2</td><td>1d10</td><td>2d10</td></tr>
+<tr><td>&#215;3</td><td>2d10</td><td>4d10</td></tr>
+<tr><td>&#215;4</td><td>3d10</td><td>6d10</td></tr>
+</table>
 
 <p><b>制造需求</b>：制造魔法武器及防具，造成致命伤。</p>
 
@@ -296,7 +312,12 @@ type: text/vnd.tiddlywiki
 
 <p>弹射武器会自动给予其发射的弹药此类力量。</p>
 
-<table><tr><td><b>重击伤害</b></td><td><b>额外伤害</b></td></tr><tr><td>&#215;2</td><td>1d6</td></tr><tr><td>&#215;3</td><td>2d6</td></tr><tr><td>&#215;4</td><td>3d6</td></tr></table>
+<table>
+<tr><td><b>重击伤害</b></td><td><b>额外伤害</b></td></tr>
+<tr><td>&#215;2</td><td>1d6</td></tr>
+<tr><td>&#215;3</td><td>2d6</td></tr>
+<tr><td>&#215;4</td><td>3d6</td></tr>
+</table>
 
 <p><b>制造需求</b>：制造魔法武器及防具，力场冲击(万法31)或冲击波(灵能85)。</p>
 
@@ -328,7 +349,12 @@ type: text/vnd.tiddlywiki
 
 <p>弹射武器会自动将这个属性附加给由它发射的弹药。</p>
 
-<table><tr><td><b>重击倍数</b></td><td><b>额外伤害</b></td><td><b>邪恶异界生物额外伤害</b></td></tr><tr><td>X2</td><td>1D10</td><td>2D10</td></tr><tr><td>X3</td><td>2D10</td><td>4D10</td></tr><tr><td>X4</td><td>3D10</td><td>6D10</td></tr></table>
+<table>
+<tr><td><b>重击倍数</b></td><td><b>额外伤害</b></td><td><b>邪恶异界生物额外伤害</b></td></tr>
+<tr><td>X2</td><td>1D10</td><td>2D10</td></tr>
+<tr><td>X3</td><td>2D10</td><td>4D10</td></tr>
+<tr><td>X4</td><td>3D10</td><td>6D10</td></tr>
+</table>
 
 <p><b>先决条件</b>：制造魔法武器与盔甲，治疗致命伤(cure critical wounds)</p>
 
@@ -360,7 +386,12 @@ type: text/vnd.tiddlywiki
 
 <p>弹射武器会自动将这个属性附加给由它发射的弹药。</p>
 
-<table><tr><td><b>重击倍数</b></td><td><b>额外伤害</b></td></tr><tr><td>X2</td><td>1D8</td></tr><tr><td>X3</td><td>2D8</td></tr><tr><td>X4</td><td>3D8</td></tr></table>
+<table>
+<tr><td><b>重击倍数</b></td><td><b>额外伤害</b></td></tr>
+<tr><td>X2</td><td>1D8</td></tr>
+<tr><td>X3</td><td>2D8</td></tr>
+<tr><td>X4</td><td>3D8</td></tr>
+</table>
 
 <p><b>先决条件</b>：制造魔法武器和盔甲，  咆哮术(shout)或音鸣爆(sound burst)</p>
 

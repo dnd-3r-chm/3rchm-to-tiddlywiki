@@ -2,9 +2,10 @@ title: 表3-11：设置地下城 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-11：设置地下城.htm
 type: text/vnd.tiddlywiki
-<div>
-<div>表3-11：设置地下城</div>
-    <table>
+
+<p>表3-11：设置地下城</p>
+
+<table>
         <thead>
             <tr>
                 <th>百分骰<br>(1–50)</th>
@@ -67,4 +68,3 @@ type: text/vnd.tiddlywiki
             <tr><td>50</td><td>台子</td><td>100</td><td>作业台</td></tr>
         </tbody>
     </table>
-</div>

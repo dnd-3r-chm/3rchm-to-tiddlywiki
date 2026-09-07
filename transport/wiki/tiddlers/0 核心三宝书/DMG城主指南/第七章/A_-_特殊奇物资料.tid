@@ -6,6 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>A - 特殊奇物资料</h1>
 
 <h2>护符</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
@@ -58,6 +59,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>夸力许装置</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
@@ -86,9 +88,6 @@ type: text/vnd.tiddlywiki
             <tr><td>10</td><td>打开 / 关闭舱门</td></tr>
         </table>
 
-        <p>强烈塑能系和变化系。施法者等级：19。先决条件：制造奇物，"活化物体"、"不灭明焰"，"知识：建筑及工程"技能级数达8。重量：500磅。</p>
-    </td>
-    <td>90,000金币</td>
-</tr>
+<p>强烈塑能系和变化系。施法者等级：19。先决条件：制造奇物，"活化物体"、"不灭明焰"，"知识：建筑及工程"技能级数达8。重量：500磅。</p>
 
-</table>
+<p>90,000金币</p>

@@ -6,6 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>R - 奇物资料</h1>
 
 <h2>传送与法袍</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -93,14 +94,15 @@ type: text/vnd.tiddlywiki
             <tr><td>91-96</td><td>窗户(2英尺x4英尺，最深2英尺)</td></tr>
             <tr><td>97-100</td><td>可携式攻城槌</td></tr>
         </table>
-        <p>同一物品可以存有多件。一旦补丁被取下，就不能再补上。</p>
-        <p>中等变化系。施法者等级：9。先决条件：制造奇物，"鬼斧神工"。重量：1磅。</p>
-    </td>
-    <td>7,000金币</td>
-</tr>
-</table>
+
+<p>同一物品可以存有多件。一旦补丁被取下，就不能再补上。</p>
+
+<p>中等变化系。施法者等级：9。先决条件：制造奇物，"鬼斧神工"。重量：1磅。</p>
+
+<p>7,000金币</p>
 
 <h2>绳索</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>

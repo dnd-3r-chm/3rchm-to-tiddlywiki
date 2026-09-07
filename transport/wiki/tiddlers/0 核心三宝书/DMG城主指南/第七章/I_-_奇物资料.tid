@@ -6,6 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>I - 奇物资料</h1>
 
 <h2>熏香与奇物</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -21,6 +22,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>艾恩石 (Ioun Stones)</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -51,14 +53,15 @@ type: text/vnd.tiddlywiki
             <tr><td>橘</td><td>棱形</td><td>施法者等级+1</td><td>30,000金币</td></tr>
             <tr><td>淡紫及绿</td><td>椭圆形</td><td>吸收至高八级的法术(注二)</td><td>40,000金币</td></tr>
         </table>
-        <p>(注一)吸收法术等级总数达二十级，石头就会耗竭，变为暗灰色，失去用处。</p>
-        <p>(注二)吸收法术等级总数达五十级，石头就会耗竭，变为暗灰色，失去用处。</p>
-    </td>
-    <td>4,000~40,000金币</td>
-</tr>
-</table>
+
+<p>(注一)吸收法术等级总数达二十级，石头就会耗竭，变为暗灰色，失去用处。</p>
+
+<p>(注二)吸收法术等级总数达五十级，石头就会耗竭，变为暗灰色，失去用处。</p>
+
+<p>4,000~40,000金币</p>
 
 <h2>束缚与控制</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -74,6 +77,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>空间与收容</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -99,8 +103,7 @@ type: text/vnd.tiddlywiki
             <tr><td>87</td><td>恶魔(弗洛魔)</td><td>100</td><td>恶魔(巴洛魔)或魔鬼(深狱炼魔)，机会各半</td></tr>
             <tr><td>88</td><td>恶魔(狂战魔)</td><td></td><td></td></tr>
         </table>
-        <p>强烈咒法系。施法者等级：20。先决条件：制造奇物，"锢魂术"。重量：1磅。</p>
-    </td>
-    <td>170,000金币(空瓶)</td>
-</tr>
-</table>
+
+<p>强烈咒法系。施法者等级：20。先决条件：制造奇物，"锢魂术"。重量：1磅。</p>
+
+<p>170,000金币(空瓶)</p>

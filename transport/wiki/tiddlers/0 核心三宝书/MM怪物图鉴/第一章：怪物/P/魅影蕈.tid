@@ -3,22 +3,24 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/P/魅影蕈.htm
 type: text/vnd.tiddlywiki
 
-<div>
-<div>
-<h1>魅影蕈 (Phantom Fungus)</h1><div data-mm1-image="魅影蕈">[img[0 核心三宝书/MM怪物图鉴/_images/MM1/魅影蕈.jpg]]</div>
-<small>中型植物 | 挑战级数 3</small>
-</div>
-<div>
+<h1>魅影蕈 (Phantom Fungus)</h1>
+
+<p>[img[0 核心三宝书/MM怪物图鉴/_images/MM1/魅影蕈.jpg]] 中型植物 | 挑战级数 3</p>
+
 <p>咯吱咯吱的细小足音，加上奇特的霉味，让你警觉到有生物靠近——但却又什么都看不到。</p>
+
 <p>魅影蕈只有死了之后才会被人看到。其外形由褐色与绿褐色团块组合而成，顶着一个瘤状的主要团块，这就是他们的感觉器官。他们靠着一张裂嘴与成排牙齿猎食或攻击，由四只短腿支撑身体来移动。</p>
+
 <p>这种会走动的蕈类天生隐形，对地底生物来说不只是种恐怖威胁。</p>
-</div>
-<div>魅影蕈资料</div>
-<table><tr><td>资料栏位</td><td>魅影蕈 (Phantom Fungus)<br/><small>中型植物</small></td></tr><tr><td>生命骰</td><td>2d8+6 (15HP)</td></tr><tr><td>先攻</td><td>+0</td></tr><tr><td>速度</td><td>20英尺 (4格)</td></tr><tr><td>防御等级</td><td>14 (+4天生)、接触10、措手不及14</td></tr><tr><td>基本攻击/擒抱</td><td>+1 / +3</td></tr><tr><td>攻击</td><td>啮咬+3近战 (1d6+3)</td></tr><tr><td>全力攻击</td><td>啮咬+3近战 (1d6+3)</td></tr><tr><td>占据/触及</td><td>5英尺 / 5英尺</td></tr><tr><td>特殊攻击</td><td>—</td></tr><tr><td>特殊能力</td><td>昏暗视觉、植物特性、高等隐形</td></tr><tr><td>豁免</td><td>强韧+6、反射+0、意志+0</td></tr><tr><td>属性</td><td>力量14、敏捷10、体质16、智力2、感知11、魅力9</td></tr><tr><td>技能</td><td>聆听+4、潜行+6、侦察+4</td></tr><tr><td>专长</td><td>警觉</td></tr><tr><td>环境</td><td>地底</td></tr><tr><td>组织</td><td>单独</td></tr><tr><td>宝藏</td><td>无</td></tr><tr><td>阵营</td><td>总是绝对中立</td></tr><tr><td>进化</td><td>3-4HD (中型)；5-6HD (大型)</td></tr><tr><td>等级修正值</td><td>—</td></tr></table>
-<div>战斗</div>
-<div>
+
+<p>魅影蕈资料</p>
+
+<table><tr><td>资料栏位</td><td>魅影蕈 (Phantom Fungus)<br><small>中型植物</small></td></tr><tr><td>生命骰</td><td>2d8+6 (15HP)</td></tr><tr><td>先攻</td><td>+0</td></tr><tr><td>速度</td><td>20英尺 (4格)</td></tr><tr><td>防御等级</td><td>14 (+4天生)、接触10、措手不及14</td></tr><tr><td>基本攻击/擒抱</td><td>+1 / +3</td></tr><tr><td>攻击</td><td>啮咬+3近战 (1d6+3)</td></tr><tr><td>全力攻击</td><td>啮咬+3近战 (1d6+3)</td></tr><tr><td>占据/触及</td><td>5英尺 / 5英尺</td></tr><tr><td>特殊攻击</td><td>—</td></tr><tr><td>特殊能力</td><td>昏暗视觉、植物特性、高等隐形</td></tr><tr><td>豁免</td><td>强韧+6、反射+0、意志+0</td></tr><tr><td>属性</td><td>力量14、敏捷10、体质16、智力2、感知11、魅力9</td></tr><tr><td>技能</td><td>聆听+4、潜行+6、侦察+4</td></tr><tr><td>专长</td><td>警觉</td></tr><tr><td>环境</td><td>地底</td></tr><tr><td>组织</td><td>单独</td></tr><tr><td>宝藏</td><td>无</td></tr><tr><td>阵营</td><td>总是绝对中立</td></tr><tr><td>进化</td><td>3-4HD (中型)；5-6HD (大型)</td></tr><tr><td>等级修正值</td><td>—</td></tr></table>
+
+<p>战斗</p>
+
 <p>魅影蕈通常静静地漫游寻觅猎物。他会在任何场所攻击落单生物，若遇上一整个队伍，他会选择开阔空间以增加胜率。</p>
+
 <p><b>高等隐形 (超自然)：</b>为恒定能力，魅影蕈即使在攻击时都保持隐形。其运作方式很像"高等隐形术" (施法者等级12)，但持续到魅影蕈死亡为止。此能力不受"消除隐形"法术影响。魅影蕈死后1分钟才会现形。</p>
+
 <p><b>技能：</b>魅影蕈在进行"潜行"检定时具有+5加值。</p>
-</div>
-</div>

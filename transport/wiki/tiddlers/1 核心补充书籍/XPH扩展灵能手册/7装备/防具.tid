@@ -2,12 +2,14 @@ title: 盔甲与盾牌 (XPH-扩展灵能手册)
 tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
 source: 1 核心补充书籍/XPH扩展灵能手册/7装备/防具.htm
 type: text/vnd.tiddlywiki
+
 <h1>盔甲与盾牌</h1>
+
 <p>通常，灵能防具和等价的魔法物品相同，包括增强加值、累加和相关的其他基本能力(见 DMG，p216，表 7-2"护甲与盾牌")。增强加值就是增强加值，不管是魔法还是灵能带来的。</p>
 
 <p>灵能防具和标准及魔法等价品不同之处是在其结构中嵌入了水晶。特别强力的防具可 能完全由明亮色调的或透明的水晶组成。</p>
 
-<b>随机生成：</b>如果你按照上述的表7-2掷骰选择了盔甲和盾牌，参考DMG，p216并酌情按该书书上列表掷骰(表7-2、7-3和7-4)。
+<p><b>随机生成：</b>如果你按照上述的表7-2掷骰选择了盔甲和盾牌，参考DMG，p216并酌情按该书书上列表掷骰(表7-2、7-3和7-4)。</p>
 
 <p><b>特别提示：</b>因为本书并未提供特别的盔甲或盾牌，当使用DMG表7-2时，重投所有的指向特定物品的结果——或者，作为另一个选择，将"特定的盔甲"或"特定的盾牌" 视为"特殊能力并再投一次"(如果你希望你的游戏中有比正常情况下更多的灵能盔甲和盾牌能力的话)。</p>
 
@@ -17,7 +19,28 @@ type: text/vnd.tiddlywiki
 
 <p>智能物品有特殊能力，有时会有非凡能力和特殊意图。使用DMG，p268中的规则来定义智能物品，按需要用显能替换施法。无论如何，智能物品该有独特的风格——别害怕给它心灵能力。例如，一个灵能头盔可以有能力自行展现异能。或者一面盾牌可以对抗特定的灵能生物时给予额外的保护，比如吉斯洋基人。</p>
 
-<table><tr><td colspan="5"><b>表7-3：灵能盔甲特殊能力</b></td><td rowspan="19"></td><td colspan="5"><b>表7-3：灵能盾牌特殊能力</b></td></tr><tr><td><b>次等</b></td><td><b>中等</b></td><td><b>高等</b></td><td><b>特殊能力</b></td><td><b>基础价格调整值</b></td><td><b>次等</b></td><td><b>中等</b></td><td><b>高等</b></td><td><b>特殊能力</b></td><td><b>基础价格调整值</b></td></tr><tr><td>01-30</td><td>01-07</td><td>01-03</td><td>加速 Quickness</td><td>+1 加值 1</td><td>01-35</td><td>01-05</td><td>01-03</td><td>鼓舞 Heartening</td><td>+720 金币</td></tr><tr><td>31-74</td><td>08-30</td><td>04-05</td><td>着陆 Landing</td><td>+4000 金币</td><td>35-60</td><td>06-10</td><td>04-05</td><td>远程 Ranged</td><td>+1 加值 1</td></tr><tr><td>75-80</td><td>31-46</td><td>06-10</td><td>浮力 Floating</td><td>+4000 金币</td><td>61-89</td><td>11-15</td><td>06-10</td><td>连心 Linked</td><td>+6000 金币</td></tr><tr><td>81-96</td><td>47-55</td><td>11-20</td><td>连心 Linked</td><td>+6000 金币</td><td>90-97</td><td>16-35</td><td>11-24</td><td>抗能 Power resistance (13)</td><td>+2 加值 1</td></tr><tr><td>97</td><td>56-66</td><td>21-30</td><td>视野 Seeing</td><td>+6000 金币</td><td>98</td><td>36-58</td><td>25-34</td><td>显能 Manifester</td><td>+10800 金币</td></tr><tr><td>98</td><td>67-75</td><td>31-40</td><td>抗能 Power resistance (13)</td><td>+2 加值 1</td><td>99</td><td>69-88*</td><td>35-44</td><td>厌恶 Averter</td><td>+12960 金币</td></tr><tr><td>99</td><td>76-83</td><td>41-50</td><td>星质 Ectoplasmic</td><td>+10800 金币</td><td>——</td><td>89-92</td><td>45-54</td><td>消失 Vanishing</td><td>+3 加值 1</td></tr><tr><td>——</td><td>84-89</td><td>51-60</td><td>闪烁 Gleaming</td><td>+3 加值 1</td><td>——</td><td>93-96</td><td>55-64</td><td>抗能 Power resistance (15)</td><td>+3 加值 1</td></tr><tr><td>——</td><td>90-94</td><td>61-70</td><td>抗能 Power resistance (15)</td><td>+3 加值 1</td><td>——</td><td>97-98</td><td>65-74</td><td>墙壁 Wall</td><td>+20160 金币</td></tr><tr><td>——</td><td>95-98</td><td>71-77</td><td>消失 Vanishing</td><td>+3 加值 1</td><td>——</td><td>99</td><td>75-81</td><td>护心 Mindarmor</td><td>+24000 金币</td></tr><tr><td>——</td><td>99</td><td>78-83</td><td>护心 Mindarmor</td><td>+24000 金币</td><td>——</td><td>——</td><td>82-88</td><td>抗能 Power resistance (17)</td><td>+4 加值 1</td></tr><tr><td>——</td><td>——</td><td>84-89</td><td>抗能 Power resistance (17)</td><td>+4 加值 1</td><td>——</td><td>——</td><td>89-93</td><td>搬运 Aporter</td><td>+40320 金币</td></tr><tr><td>——</td><td>——</td><td>90-94</td><td>辐射 Radiant</td><td>+4 加值 1</td><td>——</td><td>——</td><td>94-96</td><td>时隙 Time buttress</td><td>+5 加值 1</td></tr><tr><td>——</td><td>——</td><td>95-96</td><td>搬运 Aporter</td><td>+40320 金币</td><td>——</td><td>——</td><td>97-99</td><td>抗能 Power resistance (19)</td><td>+5 加值 1</td></tr><tr><td>——</td><td>——</td><td>97-98</td><td>抗能 Power resistance (19)</td><td>+5 加值 1</td><td>100</td><td>100</td><td>100</td><td>再投两次 2</td><td>——</td></tr><tr><td>——</td><td>——</td><td>99</td><td>穿墙 Phasing</td><td>+65520 金币</td></tr><tr><td>100</td><td>100</td><td>100</td><td>再投两次 2</td><td>——</td></tr><tr><td colspan="11">译注：喂，盾牌的59-68 呢？<br> 1 将此增强加值加到DMG，p216 的表7-2 以决定其总交易价格。<br> 2 若你两次投出了同一种特殊能力，只计算一次。若它们是同一能力的不同版本，使用较好的那个。</td></tr></table>
+<table>
+<tr><td colspan="5"><b>表7-3：灵能盔甲特殊能力</b></td><td rowspan="19"></td><td colspan="5"><b>表7-3：灵能盾牌特殊能力</b></td></tr>
+<tr><td><b>次等</b></td><td><b>中等</b></td><td><b>高等</b></td><td><b>特殊能力</b></td><td><b>基础价格调整值</b></td><td><b>次等</b></td><td><b>中等</b></td><td><b>高等</b></td><td><b>特殊能力</b></td><td><b>基础价格调整值</b></td></tr>
+<tr><td>01-30</td><td>01-07</td><td>01-03</td><td>加速 Quickness</td><td>+1 加值 1</td><td>01-35</td><td>01-05</td><td>01-03</td><td>鼓舞 Heartening</td><td>+720 金币</td></tr>
+<tr><td>31-74</td><td>08-30</td><td>04-05</td><td>着陆 Landing</td><td>+4000 金币</td><td>35-60</td><td>06-10</td><td>04-05</td><td>远程 Ranged</td><td>+1 加值 1</td></tr>
+<tr><td>75-80</td><td>31-46</td><td>06-10</td><td>浮力 Floating</td><td>+4000 金币</td><td>61-89</td><td>11-15</td><td>06-10</td><td>连心 Linked</td><td>+6000 金币</td></tr>
+<tr><td>81-96</td><td>47-55</td><td>11-20</td><td>连心 Linked</td><td>+6000 金币</td><td>90-97</td><td>16-35</td><td>11-24</td><td>抗能 Power resistance (13)</td><td>+2 加值 1</td></tr>
+<tr><td>97</td><td>56-66</td><td>21-30</td><td>视野 Seeing</td><td>+6000 金币</td><td>98</td><td>36-58</td><td>25-34</td><td>显能 Manifester</td><td>+10800 金币</td></tr>
+<tr><td>98</td><td>67-75</td><td>31-40</td><td>抗能 Power resistance (13)</td><td>+2 加值 1</td><td>99</td><td>69-88*</td><td>35-44</td><td>厌恶 Averter</td><td>+12960 金币</td></tr>
+<tr><td>99</td><td>76-83</td><td>41-50</td><td>星质 Ectoplasmic</td><td>+10800 金币</td><td>——</td><td>89-92</td><td>45-54</td><td>消失 Vanishing</td><td>+3 加值 1</td></tr>
+<tr><td>——</td><td>84-89</td><td>51-60</td><td>闪烁 Gleaming</td><td>+3 加值 1</td><td>——</td><td>93-96</td><td>55-64</td><td>抗能 Power resistance (15)</td><td>+3 加值 1</td></tr>
+<tr><td>——</td><td>90-94</td><td>61-70</td><td>抗能 Power resistance (15)</td><td>+3 加值 1</td><td>——</td><td>97-98</td><td>65-74</td><td>墙壁 Wall</td><td>+20160 金币</td></tr>
+<tr><td>——</td><td>95-98</td><td>71-77</td><td>消失 Vanishing</td><td>+3 加值 1</td><td>——</td><td>99</td><td>75-81</td><td>护心 Mindarmor</td><td>+24000 金币</td></tr>
+<tr><td>——</td><td>99</td><td>78-83</td><td>护心 Mindarmor</td><td>+24000 金币</td><td>——</td><td>——</td><td>82-88</td><td>抗能 Power resistance (17)</td><td>+4 加值 1</td></tr>
+<tr><td>——</td><td>——</td><td>84-89</td><td>抗能 Power resistance (17)</td><td>+4 加值 1</td><td>——</td><td>——</td><td>89-93</td><td>搬运 Aporter</td><td>+40320 金币</td></tr>
+<tr><td>——</td><td>——</td><td>90-94</td><td>辐射 Radiant</td><td>+4 加值 1</td><td>——</td><td>——</td><td>94-96</td><td>时隙 Time buttress</td><td>+5 加值 1</td></tr>
+<tr><td>——</td><td>——</td><td>95-96</td><td>搬运 Aporter</td><td>+40320 金币</td><td>——</td><td>——</td><td>97-99</td><td>抗能 Power resistance (19)</td><td>+5 加值 1</td></tr>
+<tr><td>——</td><td>——</td><td>97-98</td><td>抗能 Power resistance (19)</td><td>+5 加值 1</td><td>100</td><td>100</td><td>100</td><td>再投两次 2</td><td>——</td></tr>
+<tr><td>——</td><td>——</td><td>99</td><td>穿墙 Phasing</td><td>+65520 金币</td></tr>
+<tr><td>100</td><td>100</td><td>100</td><td>再投两次 2</td><td>——</td></tr>
+<tr><td colspan="11">译注：喂，盾牌的59-68 呢？<br> 1 将此增强加值加到DMG，p216 的表7-2 以决定其总交易价格。<br> 2 若你两次投出了同一种特殊能力，只计算一次。若它们是同一能力的不同版本，使用较好的那个。</td></tr>
+</table>
 
 <h3>灵能盔甲及盾牌特殊能力描述</h3>
 

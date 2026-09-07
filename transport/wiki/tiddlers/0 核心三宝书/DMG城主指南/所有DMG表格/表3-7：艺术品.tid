@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-7：艺术品.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <h2>表3-7：艺术品</h2>
-    <table>
+<h2>表3-7：艺术品</h2>
+
+<table>
         <thead><tr><th>百分数</th><th>价格</th><th>平均</th><th>范例</th></tr></thead>
         <tbody>
             <tr><td>01–10</td><td>1d10×10金币</td><td>55金币</td><td>银器、象牙雕像、金丝手镯。</td></tr>
@@ -22,4 +22,3 @@ type: text/vnd.tiddlywiki
             <tr><td>100</td><td>2d6×1,000金币</td><td>7,000金币</td><td>钻石戒指、镶祖母绿的金杯。</td></tr>
         </tbody>
     </table>
-</div>

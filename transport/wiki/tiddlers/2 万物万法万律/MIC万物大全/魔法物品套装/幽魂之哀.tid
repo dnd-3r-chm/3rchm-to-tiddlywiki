@@ -2,6 +2,7 @@ title: 幽魂之哀 (MIC-万物大全)
 tags: [[2 万物万法万律]] [[MIC万物大全]]
 source: 2 万物万法万律/MIC万物大全/魔法物品套装/幽魂之哀.htm
 type: text/vnd.tiddlywiki
+
 <h4>幽魂之哀(Wraith's Woe)</h4>
 
 <p><b>简介</b></p>
@@ -12,11 +13,20 @@ type: text/vnd.tiddlywiki
 
 <p><b>"幽魂之哀"套件和能力</b></p>
 
-<table><tr><td><b>套件</b></td><td><b>部位</b></td><td><b>价格(物品等级)</b></td><td><b>能力</b></td></tr><tr><td>保命领带</td><td>喉部</td><td>14,000(14)</td><td>对亡灵生物AC+2；每天防护三个负向等级</td></tr><tr><td>战灵拳套</td><td>双手</td><td>4,000(8)</td><td>忽略对虚体生物的失手率；对虚体生物的近战攻击有额外的1d6伤害</td></tr><tr><td>猎魂衫</td><td>躯干</td><td>6,000(10)</td><td>"亡灵无视术"</td></tr></table>
+<table>
+<tr><td><b>套件</b></td><td><b>部位</b></td><td><b>价格(物品等级)</b></td><td><b>能力</b></td></tr>
+<tr><td>保命领带</td><td>喉部</td><td>14,000(14)</td><td>对亡灵生物AC+2；每天防护三个负向等级</td></tr>
+<tr><td>战灵拳套</td><td>双手</td><td>4,000(8)</td><td>忽略对虚体生物的失手率；对虚体生物的近战攻击有额外的1d6伤害</td></tr>
+<tr><td>猎魂衫</td><td>躯干</td><td>6,000(10)</td><td>"亡灵无视术"</td></tr>
+</table>
 
 <p><b>"幽魂之哀"套装奖励</b></p>
 
-<table><tr><td>套件数量</td><td>效果</td></tr><tr><td>2件</td><td>"侦测亡灵"</td></tr><tr><td>3件</td><td>每天一次，治疗所有属性伤害并恢复一项属性上的所有属性吸取</td></tr></table>
+<table>
+<tr><td>套件数量</td><td>效果</td></tr>
+<tr><td>2件</td><td>"侦测亡灵"</td></tr>
+<tr><td>3件</td><td>每天一次，治疗所有属性伤害并恢复一项属性上的所有属性吸取</td></tr>
+</table>
 
 <p><b>套装奖励</b></p>
 

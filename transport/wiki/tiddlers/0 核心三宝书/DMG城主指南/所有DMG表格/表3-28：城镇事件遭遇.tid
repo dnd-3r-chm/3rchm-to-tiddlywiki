@@ -3,10 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-28：城镇事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表3-28：城镇事件遭遇</div>
+<p>表3-28：城镇事件遭遇</p>
 
-    <table>
+<table>
         <thead>
             <tr>
                 <th>d20</th>
@@ -31,5 +30,3 @@ type: text/vnd.tiddlywiki
             <tr><td>12</td><td>竞赛</td><td>25+</td><td>崇拜者</td></tr>
         </tbody>
     </table>
-
-</div>

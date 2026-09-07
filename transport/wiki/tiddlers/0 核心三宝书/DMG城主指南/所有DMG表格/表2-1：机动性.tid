@@ -2,9 +2,10 @@ title: 表2-1：机动性 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表2-1：机动性.htm
 type: text/vnd.tiddlywiki
-<div>
+
 <h2>表2-1：机动性</h2>
-    <table>
+
+<table>
         <thead>
             <tr>
                 <th>机动性</th>
@@ -30,4 +31,3 @@ type: text/vnd.tiddlywiki
             <tr><td>升降缓冲</td><td>零</td><td>零</td><td>5英尺</td><td>10英尺</td><td>20英尺</td></tr>
         </tbody>
     </table>
-</div>

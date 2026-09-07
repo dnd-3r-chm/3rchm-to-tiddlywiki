@@ -4,6 +4,7 @@ source: 0 核心三宝书/DMG城主指南/所有DMG表格/表5-2：随机产生�
 type: text/vnd.tiddlywiki
 
 <h1>表5-2：随机产生城镇</h1>
+
 <table>
 <tr>
     <th>百分骰</th><th>社区规模</th><th>人口(注一)</th><th>金币限额</th>
@@ -17,6 +18,5 @@ type: text/vnd.tiddlywiki
 <tr><td>96-99</td><td>大城</td><td>12,001-25,000</td><td>40,000 金币</td></tr>
 <tr><td>100</td><td>都会</td><td>25,001以上</td><td>100,000 金币</td></tr>
 </table>
-<div>
+
 <p>(注一)成年人口数。根据该社区主要族群的不同，未成年人口数约为此数字的10%至40%。</p>
-</div>

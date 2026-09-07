@@ -2,7 +2,9 @@ title: 武器 (XPH-扩展灵能手册)
 tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
 source: 1 核心补充书籍/XPH扩展灵能手册/7装备/武器.htm
 type: text/vnd.tiddlywiki
+
 <h5>武器</h5>
+
 <p>尽管通常它们通常遵循魔法武器的规则，但灵能武器在设计上和普通及魔法武器不同。许多灵能武器都有水晶成分，有一些完全由水晶组成。许多灵能武器在刃或柄上还有 复杂的花纹，引导心灵能量流时会不断闪烁。</p>
 
 <p>灵能武器有+1 到+5 范围内的增强加值。这些加值作用于战斗中的攻击和伤害检定， 也可以有效克服生物的魔法伤害减免。所有灵能武器都是精制品武器，但其在攻击检定上 精制品加值不和在攻击检定上的增强加值累加。</p>
@@ -33,7 +35,8 @@ type: text/vnd.tiddlywiki
 
 <p>表7-5：灵能近战武器特殊能力</p>
 
-<table><tr><td>次等</td><td>中等</td><td>高等</td><td>特殊能力</td><td>基础价格调整值</td></tr>
+<table>
+<tr><td>次等</td><td>中等</td><td>高等</td><td>特殊能力</td><td>基础价格调整值</td></tr>
 <tr><td>01-15</td><td>01-10</td><td>——</td><td>灵伤 Psychokinetic</td><td>+1 加值 1</td></tr>
 <tr><td>16-45</td><td>11-25</td><td>01-09</td><td>消解 Dissipater</td><td>+1 加值 1</td></tr>
 <tr><td>46-55</td><td>26-30</td><td>10-12</td><td>幸运 Lucky</td><td>+1 加值 1</td></tr>
@@ -51,15 +54,19 @@ type: text/vnd.tiddlywiki
 <tr><td>——</td><td>92-93</td><td>78-83</td><td>破灵 Soulbreaker</td><td>+3 加值 1</td></tr>
 <tr><td>——</td><td>94</td><td>84-86</td><td>灵力 Psychic</td><td>+35000 金币</td></tr>
 <tr><td>——</td><td>95</td><td>87-90</td><td>夺命 Coup de grace</td><td>+5 加值 1</td></tr>
-<tr><td>100</td><td>96-100</td><td>91-100</td><td>再投两次 2</td><td>——</td></tr></table>
+<tr><td>100</td><td>96-100</td><td>91-100</td><td>再投两次 2</td><td>——</td></tr>
+</table>
 
 <p>又来了…47-50 呢？</p>
 
 <p>1 将此增强加值加到DMG，p222 的表7-9 以决定其总交易价格。</p>
 
-2 若你两次投出了同一种特殊能力，或其与你之前投出的能力无法共存，或新的能力将是武器的总增强加值超过+10 的限制，则再重投。武器的增强加值和其特殊能力等效加值的和不能超过+10。 <br><br>表7-6：灵能远程武器特殊能力
+<p>2 若你两次投出了同一种特殊能力，或其与你之前投出的能力无法共存，或新的能力将是武器的总增强加值超过+10 的限制，则再重投。武器的增强加值和其特殊能力等效加值的和不能超过+10。</p>
 
-<table><tr><td>次等</td><td>中等</td><td>高等</td><td>特殊能力</td><td>基础价格调整值</td></tr>
+<p>表7-6：灵能远程武器特殊能力</p>
+
+<table>
+<tr><td>次等</td><td>中等</td><td>高等</td><td>特殊能力</td><td>基础价格调整值</td></tr>
 <tr><td>01-20</td><td>01-15</td><td>——</td><td>传送 Teleporting</td><td>+1 加值 1</td></tr>
 <tr><td>21-40</td><td>16-30</td><td>——</td><td>灵伤 Psychokinetic</td><td>+1 加值 1</td></tr>
 <tr><td>41-100</td><td>31-45</td><td>01-30</td><td>撞击 Collision</td><td>+2 加值 1</td></tr>
@@ -70,7 +77,8 @@ type: text/vnd.tiddlywiki
 <tr><td>——</td><td>79-82</td><td>74-79</td><td>移位 Dislocator</td><td>+3 加值 1</td></tr>
 <tr><td>——</td><td>83-98</td><td>80-90</td><td>高等移位 Great dislocator</td><td>+4 加值 1</td></tr>
 <tr><td>——</td><td>——</td><td>91-97</td><td>夺命 Coup de grace</td><td>+5 加值 1</td></tr>
-<tr><td>——</td><td>99-100</td><td>98-100</td><td>再投两次 2</td><td>——</td></tr></table>
+<tr><td>——</td><td>99-100</td><td>98-100</td><td>再投两次 2</td><td>——</td></tr>
+</table>
 
 <p>1 将此增强加值加到DMG，p222 的表7-9 以决定其总交易价格。</p>
 
@@ -136,12 +144,14 @@ type: text/vnd.tiddlywiki
 
 <p>灵力 Psychic：灵力武器的威力取决于它的使用者。在非灵能生物手中，它如同一把非魔法，非灵能的精制品武器。当被灵能生物持用时，该武器的增强加值就如下表所示般基 于持用者当前灵能点储备出现。在持有者的灵能点消耗掉时，这一增强加值会减少，而在 灵能点增加(任何方法都可以)到下一级时增加。</p>
 
-<table><tr><td>灵能点储备</td><td>增强加值</td></tr>
+<table>
+<tr><td>灵能点储备</td><td>增强加值</td></tr>
 <tr><td>1-4</td><td>+1</td></tr>
 <tr><td>5-29</td><td>+2</td></tr>
 <tr><td>30-79</td><td>+3</td></tr>
 <tr><td>80-129</td><td>+4</td></tr>
-<tr><td>130 或更高</td><td>+5</td></tr></table>
+<tr><td>130 或更高</td><td>+5</td></tr>
+</table>
 
 <p>强烈心灵预言系灵光；显能者等级：17；"制造灵能武器和防具"专长，"逆转现实"异能；交易价格：+35000 金币。</p>
 

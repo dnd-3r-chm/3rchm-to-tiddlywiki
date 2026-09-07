@@ -3,8 +3,9 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第三章：虫类生物/巨锹甲虫.htm
 type: text/vnd.tiddlywiki
 
-<div><h1>巨锹甲虫 (Giant Stag Beetle)</h1>
-<div><table><thead><tr><th>资料栏位</th><th>巨锹甲虫<br>大型虫类</th></tr></thead><tbody>
+<h1>巨锹甲虫 (Giant Stag Beetle)</h1>
+
+<table><thead><tr><th>资料栏位</th><th>巨锹甲虫<br>大型虫类</th></tr></thead><tbody>
 <tr><td>生命骰</td><td>7d8+21 (52HP)</td></tr>
 <tr><td>先攻</td><td>+0</td></tr>
 <tr><td>速度</td><td>20英尺 (4格)</td></tr>
@@ -24,7 +25,8 @@ type: text/vnd.tiddlywiki
 <tr><td>挑战级数</td><td>4</td></tr>
 <tr><td>进化</td><td>8-10HD (大型) ; 11-21HD (超大型)</td></tr>
 <tr><td>等级修正值</td><td>—</td></tr>
-</tbody></table></div>
+</tbody></table>
+
 <p>巨锹甲虫是会破坏农作物的严重害虫。一只巨锹甲虫可以在很短的时间内吃光一整片田地。成年巨锹甲虫身长约10英尺。</p>
-<div><p><b>践踏：</b>通过反射检定 (DC=19) 则伤害减半。豁免检定DC的调整值与力量调整值相同。</p></div>
-</div>
+
+<p><b>践踏：</b>通过反射检定 (DC=19) 则伤害减半。豁免检定DC的调整值与力量调整值相同。</p>

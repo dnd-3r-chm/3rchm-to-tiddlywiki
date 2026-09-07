@@ -3,11 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-19：挑战级数为1至3的陷阱.htm
 type: text/vnd.tiddlywiki
 
-<div>
+<p>表3-19：挑战级数为1至3的陷阱</p>
 
-    <div>表3-19：挑战级数为1至3的陷阱</div>
-
-    <table>
+<table>
 
         <thead><tr><th>百分骰</th><th>陷阱</th><th>CR</th></tr></thead>
 
@@ -90,5 +88,3 @@ type: text/vnd.tiddlywiki
         </tbody>
 
     </table>
-
-</div>

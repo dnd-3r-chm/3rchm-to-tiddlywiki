@@ -3,10 +3,11 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表2-2：武器大小增加的伤害值.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <h2>表2-2：武器大小增加的伤害值</h2>
-    <div>该武器比中型大的级距</div>
-    <table>
+<h2>表2-2：武器大小增加的伤害值</h2>
+
+<p>该武器比中型大的级距</p>
+
+<table>
         <thead>
             <tr>
                 <th>中型伤害</th>
@@ -30,4 +31,3 @@ type: text/vnd.tiddlywiki
             <tr><td>2d10</td><td>4d8</td><td>6d8</td><td>8d8</td><td>12d8</td></tr>
         </tbody>
     </table>
-</div>

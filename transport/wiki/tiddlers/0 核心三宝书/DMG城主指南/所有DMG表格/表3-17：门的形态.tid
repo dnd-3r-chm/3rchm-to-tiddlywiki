@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-17：门的形态.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表3-17：门的形态</div>
-    <table>
+<p>表3-17：门的形态</p>
+
+<table>
         <thead><tr><th>百分骰</th><th>形态(击破DC)</th></tr></thead>
         <tbody>
             <tr><td>01–08</td><td>木制，简单，没锁</td></tr>
@@ -44,4 +44,3 @@ type: text/vnd.tiddlywiki
             <tr><td>100</td><td>魔法强化的门，重掷一次以决定形态，木门击破DC为30，石门及铁门为40。</td></tr>
         </tbody>
     </table>
-</div>

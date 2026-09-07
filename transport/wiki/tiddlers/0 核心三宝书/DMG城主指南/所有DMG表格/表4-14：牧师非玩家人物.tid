@@ -4,6 +4,7 @@ source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-14：牧师非玩
 type: text/vnd.tiddlywiki
 
 <h1>表4-14：牧师非玩家人物</h1>
+
 <table>
 <tr>
     <th>等级</th><th>HP</th><th>AC</th><th>近战</th><th>远程</th>
@@ -30,6 +31,5 @@ type: text/vnd.tiddlywiki
 <tr><td>19</td><td>127</td><td>26</td><td>+16/11/6</td><td>+14/9/4</td><td>+13/+6/+18</td><td>132/7</td><td>6/8/8/8/7/7/6/6/4/4</td><td>114,000金币，其余同18级</td></tr>
 <tr><td>20</td><td>133</td><td>26</td><td>+17/12/7</td><td>+15/10/5</td><td>+14/+6/+20</td><td>138/7</td><td>6/8/8/8/8/7/6/6/6/5</td><td>164,000金币，其余同18级</td></tr>
 </table>
-<div>
+
 <p>(注一)包含领域法术。每法术等级都必须从所属领域中选择一个法术。</p>
-</div>

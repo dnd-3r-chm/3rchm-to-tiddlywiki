@@ -11,9 +11,10 @@ type: text/vnd.tiddlywiki
 
 <p>如同PHB中所述(见PHB，p66"技能共效")，通常来说，一项技能的级数达到5就可以给予其共效技能+2加值。"表3-2：技能共效"指出了本章技能的共效情况。</p>
 
-<h4>表3-1：每级技能点数 </h4>
+<h4>表3-1：每级技能点数</h4>
 
-<table align=center><tr><td>职业</td><td>1级人物的技能点数[1]</td><td>升级时得到的技能点数[2]</td></tr>
+<table align=center>
+<tr><td>职业</td><td>1级人物的技能点数[1]</td><td>升级时得到的技能点数[2]</td></tr>
 
 <tr><td>心灵术士</td><td>(2+智力调整值)×4</td><td>2+智力调整值</td></tr>
 
@@ -21,7 +22,8 @@ type: text/vnd.tiddlywiki
 
 <tr><td>魂刃者</td><td>(4+智力调整值)×4</td><td>4+智力调整值</td></tr>
 
-<tr><td>狂念者</td><td>(4+智力调整值)×4</td><td>4+智力调整值</td></tr></table>
+<tr><td>狂念者</td><td>(4+智力调整值)×4</td><td>4+智力调整值</td></tr>
+</table>
 
 <p>[1] 1级人类再+4；</p>
 
@@ -29,7 +31,9 @@ type: text/vnd.tiddlywiki
 
 <h4>表3-3：技能</h4>
 
-<table align=center><tbody align=center><tr><td rowSpan=2>技能</td><td colspan=6>心灵术士</td><td rowSpan=2>心灵武士</td><td rowSpan=2>魂刃者</td><td rowSpan=2>狂念者</td><td rowSpan=2>未受训</td><td rowSpan=2>关键属性</td></tr>
+<table align=center>
+<tbody align=center>
+<tr><td rowSpan=2>技能</td><td colspan=6>心灵术士</td><td rowSpan=2>心灵武士</td><td rowSpan=2>魂刃者</td><td rowSpan=2>狂念者</td><td rowSpan=2>未受训</td><td rowSpan=2>关键属性</td></tr>
 
 <tr><td>百变者</td><td>操能者</td><td>灵旅者</td><td>洞察者</td><td>创形者</td><td>传心者</td></tr>
 
@@ -111,21 +115,21 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>使用灵能装置</b>[1]</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>不可</td><td>魅力</td></tr>
 
-<tr><td><b>绳技</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>可</td><td>敏捷</td></tr></tbody></table>
+<tr><td><b>绳技</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>可</td><td>敏捷</td></tr>
+</tbody>
+</table>
 
 <p>[1] 本章中描述的技能(其他所有技能的描述见PHB)；</p>
 
-<p>
+<p>[2] 在此技能检定使用防具检定减值；</p>
 
-[2] 在此技能检定使用防具检定减值；</p>
-
-<p>
-
-[3] 在此技能检定中使用双倍的防具检定减值。</p>
+<p>[3] 在此技能检定中使用双倍的防具检定减值。</p>
 
 <h4>表3-2：技能共效</h4>
 
-<table align=center><tbody align=center><tr><td>级数达到5的技能</td><td>获得+2加值的技能</td></tr>
+<table align=center>
+<tbody align=center>
+<tr><td>级数达到5的技能</td><td>获得+2加值的技能</td></tr>
 
 <tr><td>自我催眠</td><td>知识(灵能)检定</td></tr>
 
@@ -135,4 +139,6 @@ type: text/vnd.tiddlywiki
 
 <tr><td>辨识灵能</td><td>使用灵能石时的使用灵能装置检定</td></tr>
 
-<tr><td>使用灵能装置</td><td>辨识灵能石时的辨识灵能检定</td></tr></tbody></table>
+<tr><td>使用灵能装置</td><td>辨识灵能石时的辨识灵能检定</td></tr>
+</tbody>
+</table>

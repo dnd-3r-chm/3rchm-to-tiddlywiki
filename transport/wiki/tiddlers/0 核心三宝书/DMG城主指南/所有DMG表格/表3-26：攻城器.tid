@@ -2,10 +2,10 @@ title: 表3-26：攻城器 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-26：攻城器.htm
 type: text/vnd.tiddlywiki
-<div>
-<div>表3-26：攻城器</div>
 
-    <table>
+<p>表3-26：攻城器</p>
+
+<table>
         <thead>
             <tr>
                 <th>品名</th>
@@ -25,13 +25,11 @@ type: text/vnd.tiddlywiki
         </tbody>
     </table>
 
-    <div>
-        <p>(注一)见该攻城器内容说明。</p>
-    </div>
+<p>(注一)见该攻城器内容说明。</p>
 
-    <div>投石机攻击调整值</div>
+<p>投石机攻击调整值</p>
 
-    <table>
+<table>
         <thead>
             <tr>
                 <th>状态</th>
@@ -44,5 +42,3 @@ type: text/vnd.tiddlywiki
             <tr><td>成功击中(操作员无法看见最接近的误击点，但瞭望手可指)</td><td>每失手一次+1(至多+5)</td></tr>
         </tbody>
     </table>
-
-</div>

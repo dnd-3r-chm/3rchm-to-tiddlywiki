@@ -6,6 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>奇物分类 - 药水、药剂、药膏与染料</h1>
 
 <h2>药剂</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
@@ -17,6 +18,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>药水</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
@@ -58,6 +60,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>药膏</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>
@@ -94,6 +97,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>染料</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称</th><th>详细说明</th><th>价格</th></tr>

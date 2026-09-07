@@ -2,7 +2,9 @@ title: 灵物 (XPH-扩展灵能手册)
 tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
 source: 1 核心补充书籍/XPH扩展灵能手册/7装备/灵物.htm
 type: text/vnd.tiddlywiki
+
 <h5>灵物(universal item)</h5>
+
 <p>这是所有不在其他类别中的物品的归总。任何人都能使用灵物(除非说明中另有指明)。</p>
 
 <p><b>物理描述：</b>不定。</p>
@@ -17,15 +19,103 @@ type: text/vnd.tiddlywiki
 
 <p>表7-14：次等灵物</p>
 
-<table><tr><td>d%</td><td>物品</td><td>交易价格</td></tr><tr><td>01–04</td><td>碎晶(+1，任意一个技能)Shard (+1, any one skill)</td><td>10 金币</td></tr><tr><td>05–07</td><td>碎晶(+2，任意一个技能)Shard (+2, any one skill)</td><td>40 金币</td></tr><tr><td>08–10</td><td>蠕行灵纹(任意一级异能)Crawling tattoo (any 1st level)</td><td>50 金币</td></tr><tr><td>11–14</td><td>冲击波蠕行灵纹 Crawling tattoo of concussion</td><td>50 金币</td></tr><tr><td>15–18</td><td>碎晶(+3，任意一个技能)Shard (+3, any one skill)</td><td>90 金币</td></tr><tr><td>19–21</td><td>碎晶(+4，任意一个技能)Shard (+4, any one skill)</td><td>160 金币</td></tr><tr><td>22–24</td><td>碎晶(+5，任意一个技能)Shard (+5, any one skill)</td><td>250 金币</td></tr><tr><td>25–28</td><td>蠕行灵纹(任意二级异能)Crawling tattoo (any 2nd level)</td><td>300 金币</td></tr><tr><td>29–31</td><td>脑力锁定珍珠 Pearl, brain lock</td><td>300 金币</td></tr><tr><td>32–35</td><td>碎晶(+6，任意一个技能)Shard (+6, any one skill)</td><td>360 金币</td></tr><tr><td>36–38</td><td>碎晶(+7，任意一个技能)Shard (+7, any one skill)</td><td>490 金币</td></tr><tr><td>39–41</td><td>重踏靴 Boots of stomping</td><td>600 金币</td></tr><tr><td>42–44</td><td>碎晶(+8，任意一个技能)Shard (+8, any one skill)</td><td>640 金币</td></tr><tr><td>45–47</td><td>蠕行灵纹(任意三级异能)Crawling tattoo (any 3rd level)</td><td>750 金币</td></tr><tr><td>48–50</td><td>能量束蠕行灵纹 Crawling tattoo of energy bolt</td><td>750 金币</td></tr><tr><td>51–53</td><td>呼吸之灾珍珠 Pearl, breath crisis</td><td>750 金币</td></tr><tr><td>54–56</td><td>碎晶(+9，任意一个技能)Shard (+9, any one skill)</td><td>810 金币</td></tr><tr><td>57–59</td><td>轻身靴 Boots of landing</td><td>1000 金币</td></tr><tr><td>60–63</td><td>次级灵铐 Psionic restraints, lesser</td><td>1000 金币</td></tr><tr><td>64–67</td><td>碎晶(+10，任意一个技能)Shard (+10, any one skill)</td><td>1000 金币</td></tr><tr><td>68–71</td><td>人格寄生珍珠 Pearl, personality parasite</td><td>1400 金币</td></tr><tr><td>72–75</td><td>水晶知识面具 Crystal mask of knowledge</td><td>2500 金币</td></tr><tr><td>76–79</td><td>水晶语言面具 Crystal mask of languages</td><td>2500 金币</td></tr><tr><td>80–85</td><td>扩展视野镜片 Eyes of expanded vision</td><td>3000 金币</td></tr><tr><td>86–89</td><td>阅读物体手套 Gloves of object reading</td><td>3000 金币</td></tr><tr><td>90–92</td><td>暗示镜 Mirror of suggestion</td><td>3600 金币</td></tr><tr><td>93–94</td><td>中级灵铐 Psionic restraints, average</td><td>6000 金币</td></tr><tr><td>95–97</td><td>自由意志项圈 Torc of free will</td><td>6000 金币</td></tr><tr><td>98-100</td><td>滑行靴 Boots of skating</td><td>7000 金币</td></tr></table>
+<table>
+<tr><td>d%</td><td>物品</td><td>交易价格</td></tr>
+<tr><td>01–04</td><td>碎晶(+1，任意一个技能)Shard (+1, any one skill)</td><td>10 金币</td></tr>
+<tr><td>05–07</td><td>碎晶(+2，任意一个技能)Shard (+2, any one skill)</td><td>40 金币</td></tr>
+<tr><td>08–10</td><td>蠕行灵纹(任意一级异能)Crawling tattoo (any 1st level)</td><td>50 金币</td></tr>
+<tr><td>11–14</td><td>冲击波蠕行灵纹 Crawling tattoo of concussion</td><td>50 金币</td></tr>
+<tr><td>15–18</td><td>碎晶(+3，任意一个技能)Shard (+3, any one skill)</td><td>90 金币</td></tr>
+<tr><td>19–21</td><td>碎晶(+4，任意一个技能)Shard (+4, any one skill)</td><td>160 金币</td></tr>
+<tr><td>22–24</td><td>碎晶(+5，任意一个技能)Shard (+5, any one skill)</td><td>250 金币</td></tr>
+<tr><td>25–28</td><td>蠕行灵纹(任意二级异能)Crawling tattoo (any 2nd level)</td><td>300 金币</td></tr>
+<tr><td>29–31</td><td>脑力锁定珍珠 Pearl, brain lock</td><td>300 金币</td></tr>
+<tr><td>32–35</td><td>碎晶(+6，任意一个技能)Shard (+6, any one skill)</td><td>360 金币</td></tr>
+<tr><td>36–38</td><td>碎晶(+7，任意一个技能)Shard (+7, any one skill)</td><td>490 金币</td></tr>
+<tr><td>39–41</td><td>重踏靴 Boots of stomping</td><td>600 金币</td></tr>
+<tr><td>42–44</td><td>碎晶(+8，任意一个技能)Shard (+8, any one skill)</td><td>640 金币</td></tr>
+<tr><td>45–47</td><td>蠕行灵纹(任意三级异能)Crawling tattoo (any 3rd level)</td><td>750 金币</td></tr>
+<tr><td>48–50</td><td>能量束蠕行灵纹 Crawling tattoo of energy bolt</td><td>750 金币</td></tr>
+<tr><td>51–53</td><td>呼吸之灾珍珠 Pearl, breath crisis</td><td>750 金币</td></tr>
+<tr><td>54–56</td><td>碎晶(+9，任意一个技能)Shard (+9, any one skill)</td><td>810 金币</td></tr>
+<tr><td>57–59</td><td>轻身靴 Boots of landing</td><td>1000 金币</td></tr>
+<tr><td>60–63</td><td>次级灵铐 Psionic restraints, lesser</td><td>1000 金币</td></tr>
+<tr><td>64–67</td><td>碎晶(+10，任意一个技能)Shard (+10, any one skill)</td><td>1000 金币</td></tr>
+<tr><td>68–71</td><td>人格寄生珍珠 Pearl, personality parasite</td><td>1400 金币</td></tr>
+<tr><td>72–75</td><td>水晶知识面具 Crystal mask of knowledge</td><td>2500 金币</td></tr>
+<tr><td>76–79</td><td>水晶语言面具 Crystal mask of languages</td><td>2500 金币</td></tr>
+<tr><td>80–85</td><td>扩展视野镜片 Eyes of expanded vision</td><td>3000 金币</td></tr>
+<tr><td>86–89</td><td>阅读物体手套 Gloves of object reading</td><td>3000 金币</td></tr>
+<tr><td>90–92</td><td>暗示镜 Mirror of suggestion</td><td>3600 金币</td></tr>
+<tr><td>93–94</td><td>中级灵铐 Psionic restraints, average</td><td>6000 金币</td></tr>
+<tr><td>95–97</td><td>自由意志项圈 Torc of free will</td><td>6000 金币</td></tr>
+<tr><td>98-100</td><td>滑行靴 Boots of skating</td><td>7000 金币</td></tr>
+</table>
 
 <p>表 7-15：中等灵物</p>
 
-<table><tr><td>d%</td><td>物品</td><td>交易价格</td></tr><tr><td>01–04</td><td>心灵预言灵锥 Psionatrix of Clairsentience</td><td>8000 金币</td></tr><tr><td>05–08</td><td>心灵创造灵锥 Psionatrix of Metacreativity</td><td>8000 金币</td></tr><tr><td>09–12</td><td>心灵转化灵锥 Psionatrix of Psychokinesis</td><td>8000 金币</td></tr><tr><td>13–16</td><td>心灵自塑灵锥 Psionatrix of Psychometabolism</td><td>8000 金币</td></tr><tr><td>17–20</td><td>心灵传送灵锥 Psionatrix of Psychoportation</td><td>8000 金币</td></tr><tr><td>21–25</td><td>心灵附魔灵锥 Psionatrix of Telepathy</td><td>8000 金币</td></tr><tr><td>26–27</td><td>穿透额眼 Third eye penetrate</td><td>8000 金币</td></tr><tr><td>28–29</td><td>跃时镜 Mirror of time hop</td><td>9000 金币</td></tr><tr><td>30–31</td><td>水晶侦测面具 Crystal mask of detection</td><td>10000 金币</td></tr><tr><td>32–33</td><td>水晶眼力面具 Crystal mask of discernment</td><td>10000 金币</td></tr><tr><td>34–35</td><td>水晶恐怖面具 Crystal mask of dread</td><td>10000 金币</td></tr><tr><td>36–38</td><td>水晶辨识面具 Crystal mask of psionic craft</td><td>10000 金币</td></tr><tr><td>39–41</td><td>自满戒指 Ring of self-sufficiency</td><td>10000 金币</td></tr><tr><td>42–43</td><td>敏捷灵皮 Skin of nimbleness</td><td>10000 金币</td></tr><tr><td>44–45</td><td>知觉额眼 Third eye aware</td><td>10000 金币</td></tr><tr><td>46–47</td><td>专注额眼 Third eye concentrate</td><td>10000 金币</td></tr><tr><td>48–49</td><td>情报额眼 Third eye gather</td><td>10000 金币</td></tr><tr><td>50–52</td><td>夺能镜片 Eyes of power leech</td><td>10080 金币</td></tr><tr><td>53–55</td><td>窃取额眼 Third eye powerthieve</td><td>10080 金币</td></tr><tr><td>56–58</td><td>遥视额眼 Third eye view</td><td>10180 金币</td></tr><tr><td>59–61</td><td>水晶心防面具 Crystal mask of mindarmor</td><td>10667 金币</td></tr><tr><td>62–63</td><td>高等灵铐 Psionic restraints, greater</td><td>12000 金币</td></tr><tr><td>64–65</td><td>固能项圈 Psionic restraints, greater</td><td>12000 金币</td></tr><tr><td>66–68</td><td>泰坦之握手套 Gloves of titan's grip</td><td>14000 金币</td></tr><tr><td>69–70</td><td>利爪灵皮 Skin of the claw</td><td>16000 金币</td></tr><tr><td>71–72</td><td>抑能护符 Amulet of catapsi</td><td>16200 金币</td></tr><tr><td>73–74</td><td>避役灵皮 Skin of the chameleon</td><td>18000 金币</td></tr><tr><td>75–76</td><td>心智魔种珍珠 Pearl, mind seed</td><td>18500 金币</td></tr><tr><td>77–78</td><td>易心镜 Mirror of mind switch</td><td>19800 金币</td></tr><tr><td>79–80</td><td>吸能镜片 Eyes of power leech, vampiric</td><td>20160 金币</td></tr><tr><td>81–82</td><td>水晶洞察面具 Crystal mask of insightful detection</td><td>20250 金币</td></tr><tr><td>83–84</td><td>体质晶锚 Crystal anchor, body</td><td>24000 金币</td></tr><tr><td>85–86</td><td>理解晶锚 Crystal anchor, comprehension</td><td>24000 金币</td></tr><tr><td>87–88</td><td>创造晶锚 Crystal anchor, creation</td><td>24000 金币</td></tr><tr><td>89–90</td><td>能量晶锚 Crystal anchor, energy</td><td>24000 金币</td></tr><tr><td>91</td><td>幽灵晶锚 Crystal anchor, ghost</td><td>24000 金币</td></tr><tr><td>92–93</td><td>心灵晶锚 Crystal anchor, mind</td><td>24000 金币</td></tr><tr><td>94–95</td><td>旅行晶锚 Crystal anchor, travel</td><td>24000 金币</td></tr><tr><td>96–97</td><td>阻尼灵铐 Psionic restraints, damping</td><td>24000 金币</td></tr></table>
+<table>
+<tr><td>d%</td><td>物品</td><td>交易价格</td></tr>
+<tr><td>01–04</td><td>心灵预言灵锥 Psionatrix of Clairsentience</td><td>8000 金币</td></tr>
+<tr><td>05–08</td><td>心灵创造灵锥 Psionatrix of Metacreativity</td><td>8000 金币</td></tr>
+<tr><td>09–12</td><td>心灵转化灵锥 Psionatrix of Psychokinesis</td><td>8000 金币</td></tr>
+<tr><td>13–16</td><td>心灵自塑灵锥 Psionatrix of Psychometabolism</td><td>8000 金币</td></tr>
+<tr><td>17–20</td><td>心灵传送灵锥 Psionatrix of Psychoportation</td><td>8000 金币</td></tr>
+<tr><td>21–25</td><td>心灵附魔灵锥 Psionatrix of Telepathy</td><td>8000 金币</td></tr>
+<tr><td>26–27</td><td>穿透额眼 Third eye penetrate</td><td>8000 金币</td></tr>
+<tr><td>28–29</td><td>跃时镜 Mirror of time hop</td><td>9000 金币</td></tr>
+<tr><td>30–31</td><td>水晶侦测面具 Crystal mask of detection</td><td>10000 金币</td></tr>
+<tr><td>32–33</td><td>水晶眼力面具 Crystal mask of discernment</td><td>10000 金币</td></tr>
+<tr><td>34–35</td><td>水晶恐怖面具 Crystal mask of dread</td><td>10000 金币</td></tr>
+<tr><td>36–38</td><td>水晶辨识面具 Crystal mask of psionic craft</td><td>10000 金币</td></tr>
+<tr><td>39–41</td><td>自满戒指 Ring of self-sufficiency</td><td>10000 金币</td></tr>
+<tr><td>42–43</td><td>敏捷灵皮 Skin of nimbleness</td><td>10000 金币</td></tr>
+<tr><td>44–45</td><td>知觉额眼 Third eye aware</td><td>10000 金币</td></tr>
+<tr><td>46–47</td><td>专注额眼 Third eye concentrate</td><td>10000 金币</td></tr>
+<tr><td>48–49</td><td>情报额眼 Third eye gather</td><td>10000 金币</td></tr>
+<tr><td>50–52</td><td>夺能镜片 Eyes of power leech</td><td>10080 金币</td></tr>
+<tr><td>53–55</td><td>窃取额眼 Third eye powerthieve</td><td>10080 金币</td></tr>
+<tr><td>56–58</td><td>遥视额眼 Third eye view</td><td>10180 金币</td></tr>
+<tr><td>59–61</td><td>水晶心防面具 Crystal mask of mindarmor</td><td>10667 金币</td></tr>
+<tr><td>62–63</td><td>高等灵铐 Psionic restraints, greater</td><td>12000 金币</td></tr>
+<tr><td>64–65</td><td>固能项圈 Psionic restraints, greater</td><td>12000 金币</td></tr>
+<tr><td>66–68</td><td>泰坦之握手套 Gloves of titan's grip</td><td>14000 金币</td></tr>
+<tr><td>69–70</td><td>利爪灵皮 Skin of the claw</td><td>16000 金币</td></tr>
+<tr><td>71–72</td><td>抑能护符 Amulet of catapsi</td><td>16200 金币</td></tr>
+<tr><td>73–74</td><td>避役灵皮 Skin of the chameleon</td><td>18000 金币</td></tr>
+<tr><td>75–76</td><td>心智魔种珍珠 Pearl, mind seed</td><td>18500 金币</td></tr>
+<tr><td>77–78</td><td>易心镜 Mirror of mind switch</td><td>19800 金币</td></tr>
+<tr><td>79–80</td><td>吸能镜片 Eyes of power leech, vampiric</td><td>20160 金币</td></tr>
+<tr><td>81–82</td><td>水晶洞察面具 Crystal mask of insightful detection</td><td>20250 金币</td></tr>
+<tr><td>83–84</td><td>体质晶锚 Crystal anchor, body</td><td>24000 金币</td></tr>
+<tr><td>85–86</td><td>理解晶锚 Crystal anchor, comprehension</td><td>24000 金币</td></tr>
+<tr><td>87–88</td><td>创造晶锚 Crystal anchor, creation</td><td>24000 金币</td></tr>
+<tr><td>89–90</td><td>能量晶锚 Crystal anchor, energy</td><td>24000 金币</td></tr>
+<tr><td>91</td><td>幽灵晶锚 Crystal anchor, ghost</td><td>24000 金币</td></tr>
+<tr><td>92–93</td><td>心灵晶锚 Crystal anchor, mind</td><td>24000 金币</td></tr>
+<tr><td>94–95</td><td>旅行晶锚 Crystal anchor, travel</td><td>24000 金币</td></tr>
+<tr><td>96–97</td><td>阻尼灵铐 Psionic restraints, damping</td><td>24000 金币</td></tr>
+</table>
 
 <p>表7-16：高等灵物</p>
 
-<table><tr><td>d%</td><td>物品</td><td>交易价格</td></tr><tr><td>01-08</td><td>防御灵皮 Skin of the defender</td><td>32000 金币</td></tr><tr><td>09-16</td><td>灵能之力项圈 Torc of power preservation</td><td>36000 金币</td></tr><tr><td>17-24</td><td>时间加速靴 Boots of temporal acceleration</td><td>43200 金币</td></tr><tr><td>25-32</td><td>消能额眼 Third eye repudiate</td><td>43200 金币</td></tr><tr><td>33-40</td><td>反击灵皮 Skin of fiery response</td><td>60000 金币</td></tr><tr><td>41-49</td><td>巨魔灵皮 Skin of the troll</td><td>61200 金币</td></tr><tr><td>50-57</td><td>英雄灵皮 Skin of the hero</td><td>77500 金币</td></tr><tr><td>58-63</td><td>蜘蛛灵皮 Skin of the spider</td><td>79080 金币</td></tr><tr><td>64-72</td><td>变形灵皮 Skin of proteus</td><td>84000 金币</td></tr><tr><td>73-80</td><td>测谎额眼 Third eye expose</td><td>112000 金币</td></tr><tr><td>81-87</td><td>隐匿额眼 Third eye conceal</td><td>120000 金币</td></tr><tr><td>88-92</td><td>控制额眼 Third eye dominate</td><td>120000 金币</td></tr><tr><td>93-97</td><td>钢铁灵皮 Skin of iron</td><td>129600 金币</td></tr><tr><td>98-100</td><td>灵能灵皮 Skin of the psion</td><td>151000 金币</td></tr></table>
+<table>
+<tr><td>d%</td><td>物品</td><td>交易价格</td></tr>
+<tr><td>01-08</td><td>防御灵皮 Skin of the defender</td><td>32000 金币</td></tr>
+<tr><td>09-16</td><td>灵能之力项圈 Torc of power preservation</td><td>36000 金币</td></tr>
+<tr><td>17-24</td><td>时间加速靴 Boots of temporal acceleration</td><td>43200 金币</td></tr>
+<tr><td>25-32</td><td>消能额眼 Third eye repudiate</td><td>43200 金币</td></tr>
+<tr><td>33-40</td><td>反击灵皮 Skin of fiery response</td><td>60000 金币</td></tr>
+<tr><td>41-49</td><td>巨魔灵皮 Skin of the troll</td><td>61200 金币</td></tr>
+<tr><td>50-57</td><td>英雄灵皮 Skin of the hero</td><td>77500 金币</td></tr>
+<tr><td>58-63</td><td>蜘蛛灵皮 Skin of the spider</td><td>79080 金币</td></tr>
+<tr><td>64-72</td><td>变形灵皮 Skin of proteus</td><td>84000 金币</td></tr>
+<tr><td>73-80</td><td>测谎额眼 Third eye expose</td><td>112000 金币</td></tr>
+<tr><td>81-87</td><td>隐匿额眼 Third eye conceal</td><td>120000 金币</td></tr>
+<tr><td>88-92</td><td>控制额眼 Third eye dominate</td><td>120000 金币</td></tr>
+<tr><td>93-97</td><td>钢铁灵皮 Skin of iron</td><td>129600 金币</td></tr>
+<tr><td>98-100</td><td>灵能灵皮 Skin of the psion</td><td>151000 金币</td></tr>
+</table>
 
 <p>灵物说明</p>
 
@@ -63,7 +153,12 @@ type: text/vnd.tiddlywiki
 
 <p><b>交易价格：</b>蠕行灵纹的价格取决于其中绘入的异能的能级。</p>
 
-<table><tr><td>异能能级</td><td>交易价格</td></tr><tr><td>1st</td><td>50 金币</td></tr><tr><td>2nd</td><td>300 金币</td></tr><tr><td>3rd</td><td>750 金币</td></tr></table>
+<table>
+<tr><td>异能能级</td><td>交易价格</td></tr>
+<tr><td>1st</td><td>50 金币</td></tr>
+<tr><td>2nd</td><td>300 金币</td></tr>
+<tr><td>3rd</td><td>750 金币</td></tr>
+</table>
 
 <p>冲击波蠕行灵纹Crawling Tattoo of Concussion：该" 蠕行灵纹"传递冲击效果，对被其接触攻击命中的生物造成 1d6 点伤害。</p>
 
@@ -223,7 +318,13 @@ type: text/vnd.tiddlywiki
 
 <p>中等心灵附魔系灵光，显能者等级：8；先决条件："制造灵物"，制造者必须是传心者；交易价格：8000 金币</p>
 
-<table><tr><td>灵铐类型</td><td>每轮允许的灵能点</td><td>交易价格</td></tr><tr><td>次级</td><td>5</td><td>1000 金币</td></tr><tr><td>中级</td><td>3</td><td>6000 金币</td></tr><tr><td>高级</td><td>1</td><td>12000 金币</td></tr><tr><td>阻尼</td><td>0</td><td>24000 金币</td></tr></table>
+<table>
+<tr><td>灵铐类型</td><td>每轮允许的灵能点</td><td>交易价格</td></tr>
+<tr><td>次级</td><td>5</td><td>1000 金币</td></tr>
+<tr><td>中级</td><td>3</td><td>6000 金币</td></tr>
+<tr><td>高级</td><td>1</td><td>12000 金币</td></tr>
+<tr><td>阻尼</td><td>0</td><td>24000 金币</td></tr>
+</table>
 
 <p>灵铐Psionic Restraints：每种"灵铐"都是可以巧妙锁住手腕的铁铐(开锁检定 DC=27)。该手铐限制佩戴者每轮可用的灵能点数(不管灵能点余量多少)，或者完全阻止使用灵能的能力。所有类型的灵铐都会阻止免费展现异能。</p>
 

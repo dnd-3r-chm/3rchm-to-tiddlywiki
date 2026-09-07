@@ -13,7 +13,9 @@ type: text/vnd.tiddlywiki
 
 <h4>表1-2：随机起始年龄</h4>
 
-<table align=center><tbody align=center><tr><td>种族</td><td>成年</td><td>野蛮人、游荡者<br>术士、魂刃者、狂念者</td><td>吟游诗人、战士、圣武士<br>巡林客、心灵武士</td><td>牧师、德鲁伊<br>武僧、心灵术士、法师</td></tr>
+<table align=center>
+<tbody align=center>
+<tr><td>种族</td><td>成年</td><td>野蛮人、游荡者<br>术士、魂刃者、狂念者</td><td>吟游诗人、战士、圣武士<br>巡林客、心灵武士</td><td>牧师、德鲁伊<br>武僧、心灵术士、法师</td></tr>
 
 <tr><td>蠹灵</td><td>13岁</td><td>+1D4</td><td>+1D6</td><td>+2D6</td></tr>
 
@@ -31,13 +33,17 @@ type: text/vnd.tiddlywiki
 
 <tr><td>螳螂人</td><td>6岁</td><td>+1D4</td><td>+1D4</td><td>+1D4</td></tr>
 
-<tr><td>瑟芬人</td><td>18岁</td><td>+1D4</td><td>+2D4</td><td>+2D6</td></tr></tbody></table>
+<tr><td>瑟芬人</td><td>18岁</td><td>+1D4</td><td>+2D4</td><td>+2D6</td></tr>
+</tbody>
+</table>
 
 <p>随着年龄的增加，你角色的物理属性会有所改变，具体描述见《玩家手册》。</p>
 
 <h4>表1-3：老化效应</h4>
 
-<table align=center><tbody align=center><tr><td>种族</td><td>中年1</td><td>老年2</td><td>暮年3</td><td>寿命上限</td></tr>
+<table align=center>
+<tbody align=center>
+<tr><td>种族</td><td>中年1</td><td>老年2</td><td>暮年3</td><td>寿命上限</td></tr>
 
 <tr><td>蠹灵</td><td>30岁</td><td>55岁</td><td>75岁</td><td>+2D20年</td></tr>
 
@@ -55,7 +61,9 @@ type: text/vnd.tiddlywiki
 
 <tr><td>螳螂人</td><td>16岁</td><td>20岁</td><td>25岁</td><td>+1D4年</td></tr>
 
-<tr><td>瑟芬人</td><td>45岁</td><td>85岁</td><td>120岁</td><td>+2D20年</td></tr></tbody></table>
+<tr><td>瑟芬人</td><td>45岁</td><td>85岁</td><td>120岁</td><td>+2D20年</td></tr>
+</tbody>
+</table>
 
 <p>1力量、敏捷及体质-1；智力、感知及魅力+1</p>
 
@@ -109,4 +117,6 @@ type: text/vnd.tiddlywiki
 
 <tr><td>瑟芬人，男性</td><td>4英尺8英寸</td><td>+2D10</td><td>100磅</td><td>×(2D4)磅</td></tr>
 
-<tr><td>瑟芬人，女性</td><td>4英尺4英寸</td><td>+2D10</td><td>75磅</td><td>×(2D4)磅</td></tr></tbody></table>
+<tr><td>瑟芬人，女性</td><td>4英尺4英寸</td><td>+2D10</td><td>75磅</td><td>×(2D4)磅</td></tr>
+</tbody>
+</table>

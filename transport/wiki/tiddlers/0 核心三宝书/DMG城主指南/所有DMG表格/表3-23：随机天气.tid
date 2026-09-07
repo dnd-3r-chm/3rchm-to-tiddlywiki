@@ -2,9 +2,10 @@ title: 表3-23：随机天气 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-23：随机天气.htm
 type: text/vnd.tiddlywiki
-<div>
-<div>表3-23：随机天气</div>
-    <table>
+
+<p>表3-23：随机天气</p>
+
+<table>
         <thead>
             <tr>
                 <th>百分骰</th>
@@ -22,8 +23,7 @@ type: text/vnd.tiddlywiki
             <tr><td>100</td><td>强烈风暴</td><td>风雪暴</td><td>暴风，风雪暴，飓风，龙卷风</td><td>豪雨</td></tr>
         </tbody>
     </table>
-    <div>
-        <p>(注一)包括森林、丘陵、沼泽、山脉、平原及温带水域。</p>
-        <p>(注二)冬寒夏热，春秋温和。沼泽地区冬天会稍微温暖些。</p>
-    </div>
-</div>
+
+<p>(注一)包括森林、丘陵、沼泽、山脉、平原及温带水域。</p>
+
+<p>(注二)冬寒夏热，春秋温和。沼泽地区冬天会稍微温暖些。</p>

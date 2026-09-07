@@ -3,10 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-9：墙.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表3-9：墙</div>
+<p>表3-9：墙</p>
 
-    <table>
+<table>
         <thead>
             <tr>
                 <th>类型</th>
@@ -94,15 +93,4 @@ type: text/vnd.tiddlywiki
         </tbody>
     </table>
 
-    <div>
-        <div>
-            (注一) 每长宽各10英尺区域的生命值。
-        </div>
-        <div>
-            (注二) 视墙壁材质依此列调整值调整。
-        </div>
-        <div>
-            (注三) 或+50，以较高者为准。
-        </div>
-    </div>
-</div>
+<p>(注一) 每长宽各10英尺区域的生命值。 (注二) 视墙壁材质依此列调整值调整。 (注三) 或+50，以较高者为准。</p>

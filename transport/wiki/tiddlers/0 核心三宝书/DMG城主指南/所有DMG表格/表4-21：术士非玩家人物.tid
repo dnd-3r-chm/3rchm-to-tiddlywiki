@@ -4,6 +4,7 @@ source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-21：术士非玩
 type: text/vnd.tiddlywiki
 
 <h1>表4-21：术士非玩家人物</h1>
+
 <table>
 <tr>
     <th>等级</th><th>HP</th><th>AC</th><th>近战</th><th>远程</th>
@@ -31,7 +32,8 @@ type: text/vnd.tiddlywiki
 <tr><td>20</td><td>72</td><td>22</td><td>+10/5</td><td>+14/9</td><td>+7/+9/+13</td><td>46/7</td><td>6/8/8/8/8/7/7/7/7/6</td><td>140,000金币，其余同18级</td></tr>
 </table>
 
-<div>各等级可知法术数量</div>
+<p>各等级可知法术数量</p>
+
 <table>
 <tr>
     <th>等级</th><th>法术</th>

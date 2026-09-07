@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-7：随机NPC阵营.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表4-7：随机NPC阵营</div>
-    <table>
+<p>表4-7：随机NPC阵营</p>
+
+<table>
         <thead>
             <tr>
                 <th>d%</th>
@@ -18,4 +18,3 @@ type: text/vnd.tiddlywiki
             <tr><td>51–100</td><td>邪恶(守序、中立或混乱)</td></tr>
         </tbody>
     </table>
-</div>

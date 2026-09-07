@@ -2,6 +2,7 @@ title: 鉴定魔法物品 (MIC-万物大全)
 tags: [[2 万物万法万律]] [[MIC万物大全]]
 source: 2 万物万法万律/MIC万物大全/特殊魔法物品规则/鉴定魔法物品.htm
 type: text/vnd.tiddlywiki
+
 <h4>鉴定物品(IDENTIFYING ITEMS)</h4>
 
 <h4>技能检定(Skill Checks)</h4>
@@ -44,4 +45,9 @@ type: text/vnd.tiddlywiki
 
 <p>对于你制作的物品，如果先决条件要求的多于一个法术，由物品制作时的最高级别法术决定物品灵光。如果先决条件中不包含法术，使用下表默认数据。</p>
 
-<table><tr><td><b>物品种类</b></td><td><b>魔法学派</b></td></tr><tr><td>盔甲和保护类物品</td><td>防护系</td></tr><tr><td>武器和攻击类物品</td><td>塑能系</td></tr><tr><td>属性值和技能检定加值等</td><td>变化系</td></tr></table>
+<table>
+<tr><td><b>物品种类</b></td><td><b>魔法学派</b></td></tr>
+<tr><td>盔甲和保护类物品</td><td>防护系</td></tr>
+<tr><td>武器和攻击类物品</td><td>塑能系</td></tr>
+<tr><td>属性值和技能检定加值等</td><td>变化系</td></tr>
+</table>

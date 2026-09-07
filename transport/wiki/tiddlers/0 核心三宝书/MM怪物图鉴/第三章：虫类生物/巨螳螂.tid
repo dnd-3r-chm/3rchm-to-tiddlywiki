@@ -3,8 +3,9 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第三章：虫类生物/巨螳螂.htm
 type: text/vnd.tiddlywiki
 
-<div><h1>巨螳螂 (Giant Praying Mantis)</h1>
-<div><table><thead><tr><th>资料栏位</th><th>巨螳螂<br>大型虫类</th></tr></thead><tbody>
+<h1>巨螳螂 (Giant Praying Mantis)</h1>
+
+<table><thead><tr><th>资料栏位</th><th>巨螳螂<br>大型虫类</th></tr></thead><tbody>
 <tr><td>生命骰</td><td>4d8+8 (28HP)</td></tr>
 <tr><td>先攻</td><td>-1</td></tr>
 <tr><td>速度</td><td>20英尺 (4格)、飞行40英尺 (不良)</td></tr>
@@ -24,7 +25,10 @@ type: text/vnd.tiddlywiki
 <tr><td>挑战级数</td><td>3</td></tr>
 <tr><td>进化</td><td>5-8HD (大型) ; 9-12HD (超大型)</td></tr>
 <tr><td>等级修正值</td><td>—</td></tr>
-</tbody></table></div>
+</tbody></table>
+
 <p>巨螳螂是非常有耐性的肉食昆虫，会一动也不动地静候猎物自己送上门。</p>
-<div><p><b>战斗：</b>巨螳螂利用爪抓击中对手，即可利用即时动作进行擒抱攻击。通过擒抱检定的巨螳螂可定住对手并同时进行啮咬攻击。<br><b>技能：</b>巨螳螂在进行"躲藏"和"侦察"检定时具有+4种族加值。*因为身具保护色，巨螳螂在树林中进行"躲藏"检定时具有+12种族加值。</p></div>
-</div>
+
+<p><b>战斗：</b>巨螳螂利用爪抓击中对手，即可利用即时动作进行擒抱攻击。通过擒抱检定的巨螳螂可定住对手并同时进行啮咬攻击。</p>
+
+<p><b>技能：</b>巨螳螂在进行"躲藏"和"侦察"检定时具有+4种族加值。*因为身具保护色，巨螳螂在树林中进行"躲藏"检定时具有+12种族加值。</p>

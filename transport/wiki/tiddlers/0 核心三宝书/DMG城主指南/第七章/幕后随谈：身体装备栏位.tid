@@ -17,7 +17,8 @@ type: text/vnd.tiddlywiki
 
 <p>有些身体部位因为物品形式不同而与不同能力相关，例如护手和手套都是戴在手上，但连接的能力分别是灵巧和破坏力。</p>
 
-<div>身体部位与能力相关性</div>
+<p>身体部位与能力相关性</p>
+
 <table>
     <colgroup><col><col></colgroup>
     <tr>

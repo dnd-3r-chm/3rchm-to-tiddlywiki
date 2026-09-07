@@ -2,7 +2,9 @@ title: 法术 (XPH-扩展灵能手册)
 tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
 source: 1 核心补充书籍/XPH扩展灵能手册/9附录/法术.htm
 type: text/vnd.tiddlywiki
+
 <h5>法术</h5>
+
 <p>以下的新法术(和新的牧师领域)是角色在 PHB 和其他拓展内容之外可以使用的。</p>
 
 <h5>吟游诗人法术</h5>
@@ -127,7 +129,7 @@ type: text/vnd.tiddlywiki
 
 <p>{注意，与 sp 版本有所不同，据规则本法术应被 sp 中同名法术覆盖！}</p>
 
-<b>转能咒文</b><b> Dweomer of Transference</b> 
+<p><b>转能咒文</b><b> Dweomer of Transference</b></p>
 
 <p>塑能系</p>
 
@@ -221,7 +223,9 @@ type: text/vnd.tiddlywiki
 
     <td height=22 vAlign=top width=104>
 
-      <p>6</p></td></tr></tbody></table>
+      <p>6</p></td></tr>
+</tbody>
+</table>
 
 <table height=135 cellSpacing=0 cellPadding=0 width=206>
 
@@ -291,7 +295,9 @@ type: text/vnd.tiddlywiki
 
     <td height=22 vAlign=top width=104>
 
-      <p>16</p></td></tr></tbody></table>
+      <p>16</p></td></tr>
+</tbody>
+</table>
 
 <p>由转化咒文得到的临时灵能点，若在 1 消失后仍未使用，则将会消失。</p>
 
@@ -321,7 +327,7 @@ type: text/vnd.tiddlywiki
 
 <p>此外，处于此法术区域内的生物失去灵能集中(若有的话)，并在专注检定中得到-4 减值，持续 1 轮。这些{指的是本段}效果总是会发生，与该生物是否通过其检定无关。</p>
 
-<b>念力突增</b><b> Mental Pinnacle</b> 
+<p><b>念力突增</b><b> Mental Pinnacle</b></p>
 
 <p>变化系</p>
 
@@ -357,7 +363,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>施法材料：</b>一瓶狐之狡黠药水，需要饮用(其效果将被本法术效果所覆盖)</p>
 
-<b>思想探针</b><b> Probe Thoughts</b> 
+<p><b>思想探针</b><b> Probe Thoughts</b></p>
 
 <p>预言系[影响心灵]</p>
 
@@ -405,7 +411,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>施法材料：</b>5 张纸牌，在施法时撕成两半。</p>
 
-<b>高等心力奔溢</b><b> Psychic Turmoil, Greater</b> 
+<p><b>高等心力奔溢</b><b> Psychic Turmoil, Greater</b></p>
 
 <p>防护系</p>
 
@@ -417,7 +423,7 @@ type: text/vnd.tiddlywiki
 
 <p>临时生命值。此临时生命值将持续 1 小时。</p>
 
-<b>次级心灵连线</b><b> Telepathic Bond, Lesser</b> 
+<p><b>次级心灵连线</b><b> Telepathic Bond, Lesser</b></p>
 
 <p>预言系[影响心灵]</p>
 

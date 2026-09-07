@@ -47,6 +47,7 @@ ITEM_TITLE_PLAIN = re.compile(
 TABLE_RE = re.compile(r"<table[^>]*>.*?</table>", re.S | re.I)
 P_BLOCK_RE = re.compile(r"<p\b[^>]*>.*?</p>", re.S | re.I)
 SAFE_TAGS = {"b", "i", "u", "em", "strong", "br", "img", "sub", "sup"}
+BR_SPLIT_RE = re.compile(r"<br\s*/?>", re.I)
 
 
 # ---------------------------------------------------------------- normalize
@@ -70,7 +71,10 @@ def normalize(body):
     # 标签尖括号内空属性/多余空格：<p \n\n> -> <p>
     body = re.sub(r"<(\w+)\s*/?>", r"<\1>", body, flags=re.I)
     body = re.sub(r"<(/?\w+)\s+>", r"<\1>", body, flags=re.I)
-    return body.replace("&nbsp;", " ").replace("\r", "")
+    # 不间断空格实体统一转普通空格：十进制 &#160; / 十六进制 &#xa0; / 命名 &nbsp;。
+    # 只处理字面 `&nbsp;` 会漏掉 `&#160;` 数字实体形式（盔甲增强晶体.tid 即此情况）。
+    body = re.sub(r"&(?:#0*160|#x0*a0|nbsp);", " ", body, flags=re.I)
+    return body.replace("\r", "")
 
 
 def strip_tags(s):
@@ -186,25 +190,62 @@ def _emit_block(block):
     return _emit_para(re.sub(r"<[^>]+>", "", block))
 
 
+def _balance_tags(frag):
+    """修复跨 <br> 切分造成的内联标签不平衡。
+
+    `<br>` 常落在内联标签内部（如 `<b>酸护(Acidic)</b><br><b>价格</b>：...` 中的
+    跨段 `<i>...<br></i>`），直接切分会产生半截标签。此处丢弃孤立闭标签、补齐未闭合标签。
+    """
+    out = []
+    stack = []
+    pos = 0
+    for m in re.finditer(r"<(/?)([a-zA-Z0-9]+)[^>]*?(/?)>", frag):
+        closing, name, self_close = m.group(1), m.group(2).lower(), m.group(3)
+        out.append(frag[pos : m.start()])
+        pos = m.end()
+        if self_close:
+            out.append(m.group(0))
+        elif closing:
+            if name in stack:
+                del stack[len(stack) - 1 - stack[::-1].index(name) :]
+                out.append(m.group(0))
+            # 孤立闭标签（无对应开标签）：丢弃
+        else:
+            stack.append(name)
+            out.append(m.group(0))
+    out.append(frag[pos:])
+    return "".join(out) + "".join(f"</{t}>" for t in reversed(stack))
+
+
 def _emit_para(inner):
-    """把片段压平为一个 <p>；若是纯 <b>物品名(EN)</b> 则转 <h4>。"""
-    plain = strip_tags(inner)
-    if not plain:
+    """把片段压平为一个或多个 <p>：先按 <br> 切分，纯 <b>物品名(EN)</b> 段转 <h4>。
+
+    p 内 <br> 改 <p> 对齐全库规范；表格/表格单元格内的 <br> 由 norm_table 保留。
+    切分在 h4 判定之前——`<b>酸护(Acidic)</b><br><b>价格</b>：...` 切分后
+    首片即为纯物品名，可正确提升为 <h4>。
+    """
+    if not strip_tags(inner):
         return []
+    parts = BR_SPLIT_RE.split(inner)
+    if len(parts) > 1:
+        out = []
+        for part in parts:
+            out.extend(_emit_para(_balance_tags(part)))
+        return out
     title = is_item_title(inner)
     if title:
         return [f"<h4>{title}</h4>"]
     tags = set(t.lower() for t in re.findall(r"</?([a-zA-Z0-9]+)", inner))
     if tags <= SAFE_TAGS:
         return [f"<p>{collapse_ws(inner)}</p>"]
-    return [f"<p>{collapse_ws(plain)}</p>"]
+    return [f"<p>{collapse_ws(strip_tags(inner))}</p>"]
 
 
 # ---------------------------------------------------------------- 处理
 WORD_MARK_RE = re.compile(
     r"mso-|<o:p|o:p>|FONT\s+face|SPAN\s+style|class=p\b|"
     r"xml:namespace|EndFragment|StartFragment|WinCHM|lang=EN-US|"
-    r"&nbsp;|</?span|</?div|style\s*=|class\s*=|lang\s*=",
+    r"&nbsp;|&#0*160;|&#x0*a0;|</?span|</?div|style\s*=|class\s*=|lang\s*=|</?br",
     re.I,
 )
 
@@ -212,6 +253,19 @@ WORD_MARK_RE = re.compile(
 def is_clean_source(body):
     """已是干净格式（无 Word 噪音标记）的页面直接跳过，避免改动已正确的文件。"""
     return not WORD_MARK_RE.search(body)
+
+
+def split_tid(raw):
+    """按 tid 规范分割 header（开头连续的 `key: value` 行）与 body。
+
+    不能用固定 5 行：早期版本写入时丢了 header 后的空行，导致下一轮再读时
+    正文首段被误当作 header 而跳过处理。改为按「开头连续的 key: value 行」识别
+    header，天然免疫空行丢失。
+    """
+    m = re.match(r"((?:[A-Za-z_][\w-]*:[^\n]*\n)+)", raw)
+    if m:
+        return m.group(1), raw[m.end() :]
+    return "", raw
 
 
 def process(apply=False):
@@ -226,8 +280,7 @@ def process(apply=False):
     samples = []
     for path in files:
         raw = open(path, encoding="utf-8").read()
-        lines = raw.split("\n")
-        header, body = "\n".join(lines[:5]), "\n".join(lines[5:])
+        header, body = split_tid(raw)
         # 干净源（无 Word 噪音）已是理想格式，直接跳过，不参与重排
         if is_clean_source(body):
             stats["files"] += 1
@@ -250,7 +303,8 @@ def process(apply=False):
             samples.append((os.path.relpath(path, MIC), new_body[:600]))
         if apply and new_body != body.strip():
             with open(path, "w", encoding="utf-8") as fh:
-                fh.write(header + new_body + "\n")
+                # header 后必须保留空行（tid 规范），否则下一轮读取会错位
+                fh.write(header.rstrip("\n") + "\n\n" + new_body + "\n")
     return stats, lost, samples
 
 

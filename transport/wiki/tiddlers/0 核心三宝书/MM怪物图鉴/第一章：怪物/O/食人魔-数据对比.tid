@@ -3,16 +3,14 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第一章：怪物/O/食人魔-数据对比.htm
 type: text/vnd.tiddlywiki
 
-<div>
 <p>[[??食人魔|[MM] 食人魔]]</p>
-<div>
-<div>
+
 <h1>数据对比</h1>
-<small>食人魔 vs 食人魔野蛮人</small>
-</div>
-<div>
+
+<p>食人魔 vs 食人魔野蛮人</p>
+
 <p>此处为针对食人魔(左侧)与食人魔4级野蛮人(右侧)的基础数据对比。</p>
-</div>
+
 <table>
 <thead>
 <tr><th>对比项</th><th>食人魔</th><th>食人魔、4级野蛮人</th></tr>
@@ -41,5 +39,3 @@ type: text/vnd.tiddlywiki
 <tr><td>等级修正值</td><td>+2</td><td>+2</td></tr>
 </tbody>
 </table>
-</div>
-</div>

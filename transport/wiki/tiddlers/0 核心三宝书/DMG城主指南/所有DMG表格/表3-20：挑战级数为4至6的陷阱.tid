@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-20：挑战级数为4至6的陷阱.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表3-20：挑战级数为4至6的陷阱</div>
-    <table>
+<p>表3-20：挑战级数为4至6的陷阱</p>
+
+<table>
         <thead><tr><th>百分骰</th><th>陷阱</th><th>CR</th></tr></thead>
         <tbody>
             <tr><td>01–02</td><td>"降咒"陷阱</td><td>4</td></tr>
@@ -47,4 +47,3 @@ type: text/vnd.tiddlywiki
             <tr><td>98–100</td><td>翼龙毒箭陷阱</td><td>6</td></tr>
         </tbody>
     </table>
-</div>

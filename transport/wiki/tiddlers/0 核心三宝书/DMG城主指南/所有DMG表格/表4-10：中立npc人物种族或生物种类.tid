@@ -4,6 +4,7 @@ source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-10：中立npc人
 type: text/vnd.tiddlywiki
 
 <h1>表4-10：中立NPC人物种族或生物种类</h1>
+
 <table>
 <tr><th>野蛮人</th><th>吟游诗人</th><th>牧师</th><th>德鲁伊</th><th>战士</th><th>武僧</th><th>巡林客</th><th>游荡者</th><th>术士</th><th>法师</th><th>人物种族／生物种类</th><th>等级</th></tr>
 <tr><td>01</td><td>01</td><td>01-15</td><td>—</td><td>01-10</td><td>—</td><td>—</td><td>01</td><td>—</td><td>—</td><td>地底矮人</td><td>正常</td></tr>
@@ -26,7 +27,7 @@ type: text/vnd.tiddlywiki
 <tr><td>99</td><td>99</td><td>99</td><td>99</td><td>99</td><td>—</td><td>99</td><td>99</td><td>99</td><td>99</td><td>野猪人(兽化人)(注一)</td><td>-1</td></tr>
 <tr><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>—</td><td>100</td><td>100</td><td>100</td><td>100</td><td>虎人(兽化人)(注一)</td><td>-1</td></tr>
 </table>
-<div>
+
 <p>(注一)重掷一次决定NPC的种族或种类(重掷时忽略此说明)。</p>
+
 <p>(注二)若生物太强，须降低其等级使游戏平衡。若降低后的等级小于或等于0级，则重掷。</p>
-</div>

@@ -2,15 +2,14 @@ title: 表3-14：魔法陷阱CR调整值 (DMG-城主指南)
 tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-14：魔法陷阱CR调整值.htm
 type: text/vnd.tiddlywiki
-<div>
-<div>表3-14：魔法陷阱CR调整值</div>
-    <table>
+
+<p>表3-14：魔法陷阱CR调整值</p>
+
+<table>
         <thead><tr><th>特色</th><th>CR调整值</th></tr></thead>
         <tbody>
             <tr><td>最高等级法术</td><td>+法术等级或每轮所造成平均伤害每7点+1(注一)</td></tr>
         </tbody>
     </table>
-    <div>
-        <p>(注一)见表3-13附注。</p>
-    </div>
-</div>
+
+<p>(注一)见表3-13附注。</p>

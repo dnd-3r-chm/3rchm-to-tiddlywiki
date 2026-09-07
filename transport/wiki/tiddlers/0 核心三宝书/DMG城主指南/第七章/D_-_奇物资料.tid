@@ -6,6 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>D - 奇物资料</h1>
 
 <h2>奇幻建筑与头骨</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -30,6 +31,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>无尽水源与各类粉尘</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -90,6 +92,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>束缚与声波奇物</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -114,6 +117,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>幻术牌组</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -162,7 +166,5 @@ type: text/vnd.tiddlywiki
             <tr><td>鬼牌</td><td>五芒星2</td><td>牌组拥有者的幻象</td></tr>
             <tr><td>鬼牌</td><td>神杖2</td><td>牌组拥有者的幻象(性别改变)</td></tr>
         </table>
-    </td>
-    <td>8,100金币</td>
-</tr>
-</table>
+
+<p>8,100金币</p>

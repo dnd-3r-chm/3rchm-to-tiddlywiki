@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-10：门.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表3-10：门</div>
-    <table>
+<p>表3-10：门</p>
+
+<table>
         <thead><tr><th>门的形态</th><th>一般厚度</th><th>硬度</th><th>生命值</th><th>卡死的门</th><th>锁上的门</th></tr></thead>
         <tbody>
             <tr><td>简单木门</td><td>1英寸</td><td>5</td><td>10点</td><td>13</td><td>15</td></tr>
@@ -19,5 +19,5 @@ type: text/vnd.tiddlywiki
             <tr><td>铰链</td><td>—</td><td>—</td><td>30点</td><td>10</td><td>—</td></tr>
         </tbody>
     </table>
-    <div>(注一)举起门的DC和击破相同。</div>
-</div>
+
+<p>(注一)举起门的DC和击破相同。</p>

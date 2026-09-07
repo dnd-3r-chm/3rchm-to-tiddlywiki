@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/1级地下城事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>1级地下城事件遭遇</div>
-    <table>
+<p>1级地下城事件遭遇</p>
+
+<table>
         <thead><tr><th>百分骰</th><th>事件遭遇</th></tr></thead>
         <tbody>
             <tr><td>01–03</td><td>1d3只中型变种蜈(虫类生物)</td></tr>
@@ -29,4 +29,3 @@ type: text/vnd.tiddlywiki
             <tr><td>91–100</td><td>掷2级事件遭遇表</td></tr>
         </tbody>
     </table>
-</div>

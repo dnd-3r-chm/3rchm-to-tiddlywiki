@@ -3,8 +3,10 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表6-1：魔射手.htm
 type: text/vnd.tiddlywiki
 
-<div>生命骰：d4。</div>
+<p>生命骰：d4。</p>
+
 <h1>表6-1：魔射手</h1>
+
 <table>
 <tr>
     <th>职业等级</th><th>基本攻击加值</th><th>强韧检定</th><th>反射检定</th><th>意志检定</th><th>特殊能力</th>

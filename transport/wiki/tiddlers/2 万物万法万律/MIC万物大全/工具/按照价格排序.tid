@@ -2,6 +2,7 @@ title: 按照价格排序 (MIC-万物大全)
 tags: [[2 万物万法万律]] [[MIC万物大全]]
 source: 2 万物万法万律/MIC万物大全/工具/按照价格排序.htm
 type: text/vnd.tiddlywiki
+
 <h4>祝福绷带(Blessed Bandage)</h4>
 
 <p><b>价格</b>：10GP(1/2th)</p>
@@ -372,7 +373,13 @@ type: text/vnd.tiddlywiki
 
 <p><b>传闻</b>：待添加……</p>
 
-<table><tr><td><b>法术等级</b></td><td><b>施法者等级</b></td><td><b>价格(物品等级)</b></td><td><b>法术辨识DC</b></td><td><b>制造花费</b></td></tr><tr><td>0</td><td>1</td><td>460GP(3rd)</td><td>15</td><td>230GP，18XP，1天。</td></tr><tr><td>1</td><td>1</td><td>820GP(4rd)</td><td>15</td><td>410GP，32XP，1天。</td></tr><tr><td>2</td><td>3</td><td>4420GP(9rd)</td><td>16</td><td>2210GP，176XP，3天。</td></tr><tr><td>3</td><td>5</td><td>10900GP(13rd)</td><td>17</td><td>5450GP，436XP，11天。</td></tr></table>
+<table>
+<tr><td><b>法术等级</b></td><td><b>施法者等级</b></td><td><b>价格(物品等级)</b></td><td><b>法术辨识DC</b></td><td><b>制造花费</b></td></tr>
+<tr><td>0</td><td>1</td><td>460GP(3rd)</td><td>15</td><td>230GP，18XP，1天。</td></tr>
+<tr><td>1</td><td>1</td><td>820GP(4rd)</td><td>15</td><td>410GP，32XP，1天。</td></tr>
+<tr><td>2</td><td>3</td><td>4420GP(9rd)</td><td>16</td><td>2210GP，176XP，3天。</td></tr>
+<tr><td>3</td><td>5</td><td>10900GP(13rd)</td><td>17</td><td>5450GP，436XP，11天。</td></tr>
+</table>
 
 <p><b>先决条件</b>：制造魔杖，制造奇物，魔杖中包括的法术。</p>
 
@@ -742,7 +749,18 @@ type: text/vnd.tiddlywiki
 
 <p><b>制造消耗</b>：见表格。</p>
 
-<table><tr><td><b>灵能点</b></td><td><b>制造等级</b></td><td><b>灵气</b></td><td><b>市场价格</b></td><td><b>制造花费</b></td></tr><tr><td>1</td><td>1</td><td>微弱(15)</td><td>1000GP(4)</td><td>500GP，40XP，1天</td></tr><tr><td>3</td><td>3</td><td>微弱(16)</td><td>4000GP(8)</td><td>2000GP，160XP，4天</td></tr><tr><td>5</td><td>5</td><td>微弱(17)</td><td>9000GP(12)</td><td>4500GP，360XP，9天</td></tr><tr><td>7</td><td>7</td><td>中等(18)</td><td>16000GP(14)</td><td>8000GP，640XP，16天</td></tr><tr><td>9</td><td>9</td><td>中等(19)</td><td>25000GP(15)</td><td>12500GP，1000XP，25天</td></tr><tr><td>11</td><td>11</td><td>中等(20)</td><td>36000GP(17)</td><td>18000GP，1440XP，36天</td></tr><tr><td>13</td><td>13</td><td>强力(21)</td><td>49000GP(18)</td><td>24500GP，1960XP，49天</td></tr><tr><td>15</td><td>15</td><td>强力(22)</td><td>64000GP(18)</td><td>32000GP，2560XP，64天</td></tr><tr><td>17</td><td>17</td><td>强力(23)</td><td>81000GP(20)</td><td>40500GP，3240XP，81天</td></tr></table>
+<table>
+<tr><td><b>灵能点</b></td><td><b>制造等级</b></td><td><b>灵气</b></td><td><b>市场价格</b></td><td><b>制造花费</b></td></tr>
+<tr><td>1</td><td>1</td><td>微弱(15)</td><td>1000GP(4)</td><td>500GP，40XP，1天</td></tr>
+<tr><td>3</td><td>3</td><td>微弱(16)</td><td>4000GP(8)</td><td>2000GP，160XP，4天</td></tr>
+<tr><td>5</td><td>5</td><td>微弱(17)</td><td>9000GP(12)</td><td>4500GP，360XP，9天</td></tr>
+<tr><td>7</td><td>7</td><td>中等(18)</td><td>16000GP(14)</td><td>8000GP，640XP，16天</td></tr>
+<tr><td>9</td><td>9</td><td>中等(19)</td><td>25000GP(15)</td><td>12500GP，1000XP，25天</td></tr>
+<tr><td>11</td><td>11</td><td>中等(20)</td><td>36000GP(17)</td><td>18000GP，1440XP，36天</td></tr>
+<tr><td>13</td><td>13</td><td>强力(21)</td><td>49000GP(18)</td><td>24500GP，1960XP，49天</td></tr>
+<tr><td>15</td><td>15</td><td>强力(22)</td><td>64000GP(18)</td><td>32000GP，2560XP，64天</td></tr>
+<tr><td>17</td><td>17</td><td>强力(23)</td><td>81000GP(20)</td><td>40500GP，3240XP，81天</td></tr>
+</table>
 
 <h4>铭文印章(Glyph Seal)</h4>
 
@@ -834,7 +852,19 @@ type: text/vnd.tiddlywiki
 
 <p>龙之药水分为10种不同的类型，每一种对应一种龙。有关每一种药水的范围、形状、伤害、反射豁免DC(通过则伤害减半)以及市场价格请参见列表。</p>
 
-<table><tr><td><b>颜色</b></td><td><b>喷涂武器</b></td><td><b>价格(物品等级)</b></td></tr><tr><td>黄铜龙</td><td>60尺线形，6D6火焰伤害(DC23)</td><td>1200GP(4th)</td></tr><tr><td>白龙</td><td>30尺锥形，6D6寒冷伤害(DC23)</td><td>1200GP(4th)</td></tr><tr><td>黑龙</td><td>80尺线形，12D4强酸伤害(DC24)</td><td>2400GP(7th)</td></tr><tr><td>红铜龙</td><td>80尺线形，12D4强酸伤害(DC24)</td><td>2400GP(7th)</td></tr><tr><td>青铜龙</td><td>100尺线形，12D6闪电伤害(DC25)</td><td>3500GP(8th)</td></tr><tr><td>绿龙</td><td>50尺锥形，12D6强酸伤害(DC25)</td><td>3500GP(8th)</td></tr><tr><td>蓝龙</td><td>100尺线形，12D8闪电伤害(DC25)</td><td>4500GP(9th)</td></tr><tr><td>银龙</td><td>50尺锥形，12D8寒冷伤害(DC5)</td><td>4500GP(9th)</td></tr><tr><td>金龙</td><td>50尺锥形，12D10火焰伤害(DC26)</td><td>5500GP(10th)</td></tr><tr><td>红龙</td><td>50尺锥形，12D10火焰伤害(DC26)</td><td>5500GP(10th)</td></tr></table>
+<table>
+<tr><td><b>颜色</b></td><td><b>喷涂武器</b></td><td><b>价格(物品等级)</b></td></tr>
+<tr><td>黄铜龙</td><td>60尺线形，6D6火焰伤害(DC23)</td><td>1200GP(4th)</td></tr>
+<tr><td>白龙</td><td>30尺锥形，6D6寒冷伤害(DC23)</td><td>1200GP(4th)</td></tr>
+<tr><td>黑龙</td><td>80尺线形，12D4强酸伤害(DC24)</td><td>2400GP(7th)</td></tr>
+<tr><td>红铜龙</td><td>80尺线形，12D4强酸伤害(DC24)</td><td>2400GP(7th)</td></tr>
+<tr><td>青铜龙</td><td>100尺线形，12D6闪电伤害(DC25)</td><td>3500GP(8th)</td></tr>
+<tr><td>绿龙</td><td>50尺锥形，12D6强酸伤害(DC25)</td><td>3500GP(8th)</td></tr>
+<tr><td>蓝龙</td><td>100尺线形，12D8闪电伤害(DC25)</td><td>4500GP(9th)</td></tr>
+<tr><td>银龙</td><td>50尺锥形，12D8寒冷伤害(DC5)</td><td>4500GP(9th)</td></tr>
+<tr><td>金龙</td><td>50尺锥形，12D10火焰伤害(DC26)</td><td>5500GP(10th)</td></tr>
+<tr><td>红龙</td><td>50尺锥形，12D10火焰伤害(DC26)</td><td>5500GP(10th)</td></tr>
+</table>
 
 <p><b>先决条件</b>：制造奇物，龙或龙之血统。</p>
 
@@ -1186,7 +1216,18 @@ type: text/vnd.tiddlywiki
 
 <p><b>制造花费</b>：见表格</p>
 
-<table><tr><td><b>恢复的法术等级</b></td><td><b>价格(施法者等级)</b></td><td><b>创造花费</b></td></tr><tr><td>1</td><td>1500GP(5th)</td><td>750GP,60XP,2天</td></tr><tr><td>2</td><td>6,000GP(10th)</td><td>3,000GP,240XP,6天</td></tr><tr><td>3</td><td>13,500GP(14th)</td><td>6,750GP,540XP,14天</td></tr><tr><td>4</td><td>24,000GP(15th)</td><td>12,000GP,960XP,24天</td></tr><tr><td>5</td><td>37,500GP(17th)</td><td>18,750GP,1,500XP,38天</td></tr><tr><td>6</td><td>54,000GP(18th)</td><td>27,000GP,2,160XP,54天</td></tr><tr><td>7</td><td>73,500GP(19th)</td><td>36,750GP,2,940XP,74天</td></tr><tr><td>8</td><td>96,000GP(20th)</td><td>48,000GP,3,840XP,96天</td></tr><tr><td>9</td><td>121,500GP(22nd)</td><td>60,750GP,4,860XP,122天</td></tr></table>
+<table>
+<tr><td><b>恢复的法术等级</b></td><td><b>价格(施法者等级)</b></td><td><b>创造花费</b></td></tr>
+<tr><td>1</td><td>1500GP(5th)</td><td>750GP,60XP,2天</td></tr>
+<tr><td>2</td><td>6,000GP(10th)</td><td>3,000GP,240XP,6天</td></tr>
+<tr><td>3</td><td>13,500GP(14th)</td><td>6,750GP,540XP,14天</td></tr>
+<tr><td>4</td><td>24,000GP(15th)</td><td>12,000GP,960XP,24天</td></tr>
+<tr><td>5</td><td>37,500GP(17th)</td><td>18,750GP,1,500XP,38天</td></tr>
+<tr><td>6</td><td>54,000GP(18th)</td><td>27,000GP,2,160XP,54天</td></tr>
+<tr><td>7</td><td>73,500GP(19th)</td><td>36,750GP,2,940XP,74天</td></tr>
+<tr><td>8</td><td>96,000GP(20th)</td><td>48,000GP,3,840XP,96天</td></tr>
+<tr><td>9</td><td>121,500GP(22nd)</td><td>60,750GP,4,860XP,122天</td></tr>
+</table>
 
 <h4>世界记忆卷册(tome of worldly memory)</h4>
 
@@ -1422,7 +1463,13 @@ type: text/vnd.tiddlywiki
 
 <p><b>圣物力量</b>：如果你已经正确建立了神圣的联系，你可以在香炉中燃烧其他种类的宝石粉末以便产生额外的效果，如同下面的表格中所列出的一样。无论何种情况，产生云雾的方式和产生出的云雾的大小都和以石英粉产生出的一样，区别已经在下表列出。你不会被创造出的云雾效果所影响。</p>
 
-<table><tr><td><b>法术等级</b></td><td><b>生命骰</b></td><td><b>宝石类型</b></td><td><b>价值</b></td><td><b>效果</b></td></tr><tr><td>5</td><td>9</td><td>钻石粉末</td><td>250GP</td><td>重雾术(如同法术一样，但是只有活着的生物会受缓慢的影响)</td></tr><tr><td>6</td><td>11</td><td>翡翠粉末</td><td>500GP</td><td>死云术(如同法术一样，但是始终围绕在你身边，坚韧检定17)</td></tr><tr><td>7</td><td>13</td><td>蓝宝石粉末</td><td>1000GP</td><td>酸雾术(如同法术一样，但是只有活着的生物会受缓慢的影响)</td></tr><tr><td>8</td><td>15</td><td>红宝石粉末</td><td>2000GP</td><td>焚云术(如同法术一样，但是始终围绕在你身边，反射检定2)</td></tr></table>
+<table>
+<tr><td><b>法术等级</b></td><td><b>生命骰</b></td><td><b>宝石类型</b></td><td><b>价值</b></td><td><b>效果</b></td></tr>
+<tr><td>5</td><td>9</td><td>钻石粉末</td><td>250GP</td><td>重雾术(如同法术一样，但是只有活着的生物会受缓慢的影响)</td></tr>
+<tr><td>6</td><td>11</td><td>翡翠粉末</td><td>500GP</td><td>死云术(如同法术一样，但是始终围绕在你身边，坚韧检定17)</td></tr>
+<tr><td>7</td><td>13</td><td>蓝宝石粉末</td><td>1000GP</td><td>酸雾术(如同法术一样，但是只有活着的生物会受缓慢的影响)</td></tr>
+<tr><td>8</td><td>15</td><td>红宝石粉末</td><td>2000GP</td><td>焚云术(如同法术一样，但是始终围绕在你身边，反射检定2)</td></tr>
+</table>
 
 <p>要使用圣物力量，你必须信仰奈落，你必须牺牲一个神术法术位或者拥有真信者专长，同时你至少需要拥有一定的生命骰。法术等级和所需的生命骰在上表中已给出。</p>
 
@@ -2302,7 +2349,16 @@ type: text/vnd.tiddlywiki
 
 <p><b>效果</b>：需求水果篮是为了给予那些悠达拉最忠实的信徒，帮助他们度过旅途而创造的。当你拥有了这个水果篮之后，你可于每天早上从水果篮内拿取一个水果(每日早晨掷骰决定出现什么水果)。若你为秩序善良、中立善良或秩序中立，则当你吃下水果后(一个标准动作)，这个水果将产生如列表中所示的效果。</p>
 
-<table><tr><td>D％</td><td>水果</td><td>效果</td></tr><tr><td>01－15</td><td>苹果</td><td>你获得如同医疗术的效果</td></tr><tr><td>16－30</td><td>葡萄串</td><td>可以分成12份，每一份食用后的效果如同英雄宴</td></tr><tr><td>31－45</td><td>橘子</td><td>如同破除结界的效果</td></tr><tr><td>46－60</td><td>草莓</td><td>你获得25点的法术抗力，持续5轮</td></tr><tr><td>61－74</td><td>樱桃</td><td>你获得如同防死结界的效果，持续12分钟</td></tr><tr><td>75－89</td><td>桃子</td><td>你获得如同神能术的效果，持续10轮</td></tr><tr><td>90－100</td><td>柠檬</td><td>你获得如同中和毒素的效果(只对自身)，持续2小时</td></tr></table>
+<table>
+<tr><td>D％</td><td>水果</td><td>效果</td></tr>
+<tr><td>01－15</td><td>苹果</td><td>你获得如同医疗术的效果</td></tr>
+<tr><td>16－30</td><td>葡萄串</td><td>可以分成12份，每一份食用后的效果如同英雄宴</td></tr>
+<tr><td>31－45</td><td>橘子</td><td>如同破除结界的效果</td></tr>
+<tr><td>46－60</td><td>草莓</td><td>你获得25点的法术抗力，持续5轮</td></tr>
+<tr><td>61－74</td><td>樱桃</td><td>你获得如同防死结界的效果，持续12分钟</td></tr>
+<tr><td>75－89</td><td>桃子</td><td>你获得如同神能术的效果，持续10轮</td></tr>
+<tr><td>90－100</td><td>柠檬</td><td>你获得如同中和毒素的效果(只对自身)，持续2小时</td></tr>
+</table>
 
 <p>如果水果在产生之后的24小时之内没有被使用的话，那么就会消失。第二天造成，水果篮又会产生新的水果。</p>
 
@@ -2464,13 +2520,27 @@ type: text/vnd.tiddlywiki
 
 <p>首先，卷轴几乎使用全部存在着的文字，无论是远古的还是目前仍在使用的，有时候甚至一句话中就包含一种以上的文字。因此，要成功阅读卷轴一小时需要一个知识(宗教)检定。你会说的每一门语言都给予你+2的检定加值。这些卷轴的文字极其晦涩，因而阅读魔法，通晓语言，其他相关魔法，以及解读文书技能并不能帮助你理解它们。</p>
 
-<table><tr><td><b>时间</b></td><td><b>奖励</b></td></tr><tr><td>1小时</td><td>对自身施展恢复契印(Renewal Pact)</td></tr><tr><td>2小时</td><td>对另一人施展恢复契印(Renewal Pact)</td></tr><tr><td>3小时</td><td>对自身施展死亡契印(Death Pact)</td></tr><tr><td>4小时</td><td>对另一人施展死亡契印(Death Pact)</td></tr><tr><td>6小时</td><td>对另一人施展完全复生术(True Resurrection)(并且卷轴消失)</td></tr></table>
+<table>
+<tr><td><b>时间</b></td><td><b>奖励</b></td></tr>
+<tr><td>1小时</td><td>对自身施展恢复契印(Renewal Pact)</td></tr>
+<tr><td>2小时</td><td>对另一人施展恢复契印(Renewal Pact)</td></tr>
+<tr><td>3小时</td><td>对自身施展死亡契印(Death Pact)</td></tr>
+<tr><td>4小时</td><td>对另一人施展死亡契印(Death Pact)</td></tr>
+<tr><td>6小时</td><td>对另一人施展完全复生术(True Resurrection)(并且卷轴消失)</td></tr>
+</table>
 
 <p>如果检定成功，根据你花费的时间，你理解了其中一张卷轴上的部分内容。每次成功阅读的时间可以累计，因而若你愿意，你可以花费数天时间阅读此卷轴以获取更好的奖励。已经累计的时间并非必须一次性耗尽，你可以按照自己的需求分配时间以获取奖励。</p>
 
 <p>阅读未知起源卷轴并非没有任何危险，钻研这些卷轴中的神秘等同于在生与死的边界上行走。每当你花费一小时阅读未知起源卷轴时，你必须按照下表投骰，无论你是否从中获取了任何有用的知识。</p>
 
-<table><tr><td><b>d%</b></td><td><b>效果</b></td></tr><tr><td>01–10</td><td>发疯，等同于精神错乱(insanity)法术；通过DC20的意志豁免则无效。</td></tr><tr><td>11–30</td><td>卷轴将一个永久性诅咒施加与你的身上，所有攻击投骰，豁免，能力和技能检定获得-4罚值；通过DC20的意志豁免则无效。</td></tr><tr><td>31–60</td><td>受到一个内容为"向维婕丝服务"的指使术；通过DC20的意志豁免则无效。</td></tr><tr><td>61–90</td><td>受到1D6的负向等级(24小时后需进行DC20的强韧检定以避免永久等级损失)。</td></tr><tr><td>91–100</td><td>变成幽灵，持续一年零一天；通过DC20的强韧豁免则无效。</td></tr></table>
+<table>
+<tr><td><b>d%</b></td><td><b>效果</b></td></tr>
+<tr><td>01–10</td><td>发疯，等同于精神错乱(insanity)法术；通过DC20的意志豁免则无效。</td></tr>
+<tr><td>11–30</td><td>卷轴将一个永久性诅咒施加与你的身上，所有攻击投骰，豁免，能力和技能检定获得-4罚值；通过DC20的意志豁免则无效。</td></tr>
+<tr><td>31–60</td><td>受到一个内容为"向维婕丝服务"的指使术；通过DC20的意志豁免则无效。</td></tr>
+<tr><td>61–90</td><td>受到1D6的负向等级(24小时后需进行DC20的强韧检定以避免永久等级损失)。</td></tr>
+<tr><td>91–100</td><td>变成幽灵，持续一年零一天；通过DC20的强韧豁免则无效。</td></tr>
+</table>
 
 <p>要使用此圣物的能力，你必须信仰维婕丝，且要么牺牲一个6级神术位，要么拥有真实信者(True Believer)专长并达到至少11HD。</p>
 

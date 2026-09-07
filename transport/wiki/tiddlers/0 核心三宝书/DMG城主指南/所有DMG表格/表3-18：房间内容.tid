@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表3-18：房间内容.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表3-18：房间内容</div>
-    <table>
+<p>表3-18：房间内容</p>
+
+<table>
         <thead><tr><th>百分骰</th><th>房间内容</th></tr></thead>
         <tbody>
             <tr><td>01–18</td><td>只有怪物</td></tr>
@@ -26,4 +26,3 @@ type: text/vnd.tiddlywiki
             <tr><td>83–100</td><td>什么都没有</td></tr>
         </tbody>
     </table>
-</div>

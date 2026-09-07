@@ -4,7 +4,8 @@ source: 0 核心三宝书/MM怪物图鉴/第二章：动物/驴.htm
 type: text/vnd.tiddlywiki
 
 <h2>驴 (Donkey)</h2>
-    <div><table><thead><tr><th>资料栏位</th><th>驴 (Donkey)<br>中型动物</th></tr></thead><tbody>
+
+<table><thead><tr><th>资料栏位</th><th>驴 (Donkey)<br>中型动物</th></tr></thead><tbody>
         <tr><td>生命骰</td><td>2d8+2 (11HP)</td></tr>
         <tr><td>先攻</td><td>+1</td></tr>
         <tr><td>速度</td><td>30英尺 (6格)</td></tr>
@@ -19,6 +20,8 @@ type: text/vnd.tiddlywiki
         <tr><td>属性</td><td>力量10、敏捷13、体质12、智力2、感知11、魅力4</td></tr>
         <tr><td>技能</td><td>平衡感+3、聆听+3、侦察+2</td></tr>
         <tr><td>专长</td><td>坚韧</td></tr>
-    </tbody></table></div>
-    <p>战斗</p>
-    <p>驴的外形像马，有一双长耳朵，步伐稳定而有力。此处列出的数据也可以适用于野驴。驴只有在被逼到无处可逃时才会张嘴咬人。驴在进行"平衡感"检定时具有+2种族加值。</p>
+    </tbody></table>
+
+<p>战斗</p>
+
+<p>驴的外形像马，有一双长耳朵，步伐稳定而有力。此处列出的数据也可以适用于野驴。驴只有在被逼到无处可逃时才会张嘴咬人。驴在进行"平衡感"检定时具有+2种族加值。</p>

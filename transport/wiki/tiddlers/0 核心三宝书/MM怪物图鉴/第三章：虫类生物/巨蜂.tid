@@ -3,8 +3,9 @@ tags: [[0 核心三宝书]] [[MM怪物图鉴]]
 source: 0 核心三宝书/MM怪物图鉴/第三章：虫类生物/巨蜂.htm
 type: text/vnd.tiddlywiki
 
-<div><h1>巨蜂 (Giant Bee)</h1>
-<div><table><thead><tr><th>资料栏位</th><th>巨蜂 (Giant Bee)<br>中型虫类</th></tr></thead><tbody>
+<h1>巨蜂 (Giant Bee)</h1>
+
+<table><thead><tr><th>资料栏位</th><th>巨蜂 (Giant Bee)<br>中型虫类</th></tr></thead><tbody>
 <tr><td>生命骰</td><td>3d8 (13HP)</td></tr>
 <tr><td>先攻</td><td>+2</td></tr>
 <tr><td>速度</td><td>20英尺 (4格)、飞行80英尺 (良好)</td></tr>
@@ -25,6 +26,6 @@ type: text/vnd.tiddlywiki
 <tr><td>宝藏</td><td>无钱币、四分之一宝物 (只有蜂蜜)、无物品</td></tr>
 <tr><td>进化</td><td>4-8HD (中型) ; 7-9HD (大型)</td></tr>
 <tr><td>等级修正值</td><td>—</td></tr>
-</tbody></table></div>
-<div><p><b>毒素(特异)：</b>每次造成伤害后，巨蜂就会注入毒素(强韧检定DC=11)。初始伤害与后续伤害均为1d4点体质伤害。豁免检定DC的调整值与体质调整值相同。</p></div>
-</div>
+</tbody></table>
+
+<p><b>毒素(特异)：</b>每次造成伤害后，巨蜂就会注入毒素(强韧检定DC=11)。初始伤害与后续伤害均为1d4点体质伤害。豁免检定DC的调整值与体质调整值相同。</p>

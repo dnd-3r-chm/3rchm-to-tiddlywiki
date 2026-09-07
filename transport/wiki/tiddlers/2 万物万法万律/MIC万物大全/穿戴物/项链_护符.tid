@@ -2,6 +2,7 @@ title: 颈部 (MIC-万物大全)
 tags: [[2 万物万法万律]] [[MIC万物大全]]
 source: 2 万物万法万律/MIC万物大全/穿戴物/项链_护符.htm
 type: text/vnd.tiddlywiki
+
 <h5>挂链 (Chronocharm)</h5>
 
 <p>你可以在挂链上佩带不同的挂饰，并且获得所有的好处。你必须佩带挂链24小时以上才能产生效果，如果被取下，你必须再次佩带24小时才能重新获得挂链的效果。</p>
@@ -208,7 +209,17 @@ type: text/vnd.tiddlywiki
 
 <p><b>制造花费</b>：250GP、20XP、1天</p>
 
-<table><tr><td rowspan="9">><h5>虫珀护符 (AMBER AMULET OF VERMIN) </h5><b>价格</b> (物品等级) ：见表 <b>部位</b>：项链/护符 <b>施法者等级</b>：见表 <b>灵光</b>：见表，变化系 (DC变化) <b>激活</b>：标准动作 (指令) <b>重量</b>：无 <b>效果</b>：召唤一只昆虫来为你服务一分钟 (如同召唤自然盟友) ，每天可使用一次 先决条件：制造奇物、巨虫术 (Giant Vermin) <b>制造花费</b>：见表</td><td><b>昆虫</b></td><td><b>CL</b></td><td><b>灵光</b></td><td><b>价格 (等级) </b></td><td><b>花费</b></td></tr><tr><td>巨蜂 (Giant Bee)</td><td>7</td><td>中度、DC17</td><td>500GP (3)</td><td>250GP 20XP</td></tr><tr><td>巨蚁后 (Giant Ant, Queen)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr><tr><td>巨螳螂 (Giant Praying Mantis)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr><tr><td>超大型变种蜈蚣 (Monstrous Centipede, Huge)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr><tr><td>大型变种蝎 (Monstrous Scorpion, Huge)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr><tr><td>大型变种蜘蛛 (Monstrous Spider, Large)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr><tr><td>巨胡蜂 (Giant Wasp)</td><td>15</td><td>强烈、DC22</td><td>800GP (3)</td><td>400GP 32XP</td></tr><tr><td>巨锹甲虫 (Giant Stag Beetle)</td><td>19</td><td>强烈、DC24</td><td>1200GP (3)</td><td>600GP 48XP</td></tr></table>
+<table>
+<tr><td rowspan="9">><h5>虫珀护符 (AMBER AMULET OF VERMIN) </h5><b>价格</b> (物品等级) ：见表 <b>部位</b>：项链/护符 <b>施法者等级</b>：见表 <b>灵光</b>：见表，变化系 (DC变化) <b>激活</b>：标准动作 (指令) <b>重量</b>：无 <b>效果</b>：召唤一只昆虫来为你服务一分钟 (如同召唤自然盟友) ，每天可使用一次 先决条件：制造奇物、巨虫术 (Giant Vermin) <b>制造花费</b>：见表</td><td><b>昆虫</b></td><td><b>CL</b></td><td><b>灵光</b></td><td><b>价格 (等级) </b></td><td><b>花费</b></td></tr>
+<tr><td>巨蜂 (Giant Bee)</td><td>7</td><td>中度、DC17</td><td>500GP (3)</td><td>250GP 20XP</td></tr>
+<tr><td>巨蚁后 (Giant Ant, Queen)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr>
+<tr><td>巨螳螂 (Giant Praying Mantis)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr>
+<tr><td>超大型变种蜈蚣 (Monstrous Centipede, Huge)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr>
+<tr><td>大型变种蝎 (Monstrous Scorpion, Huge)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr>
+<tr><td>大型变种蜘蛛 (Monstrous Spider, Large)</td><td>10</td><td>中度、DC20</td><td>700GP (3)</td><td>350GP 28XP</td></tr>
+<tr><td>巨胡蜂 (Giant Wasp)</td><td>15</td><td>强烈、DC22</td><td>800GP (3)</td><td>400GP 32XP</td></tr>
+<tr><td>巨锹甲虫 (Giant Stag Beetle)</td><td>19</td><td>强烈、DC24</td><td>1200GP (3)</td><td>600GP 48XP</td></tr>
+</table>
 
 <h5>变容圣徽 (SYMBOL OF TRANSFIGURATION)</h5>
 
@@ -438,7 +449,12 @@ type: text/vnd.tiddlywiki
 
 <p>要理解碎片上的符号代表的法术，需要通过一个DC30的辨识法术检定。</p>
 
-<table><tr><td><b>法术等级</b></td><td><b>花费 (物品等级) </b></td></tr><tr><td>1级</td><td>1500GP (5)</td></tr><tr><td>2级</td><td>3000GP (7)</td></tr><tr><td>3级</td><td>6000GP (10)</td></tr></table>
+<table>
+<tr><td><b>法术等级</b></td><td><b>花费 (物品等级) </b></td></tr>
+<tr><td>1级</td><td>1500GP (5)</td></tr>
+<tr><td>2级</td><td>3000GP (7)</td></tr>
+<tr><td>3级</td><td>6000GP (10)</td></tr>
+</table>
 
 <p><b>先决条件</b>：制造奇物、法术强效、相对应的法术。</p>
 

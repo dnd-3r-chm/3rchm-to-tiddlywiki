@@ -2,7 +2,9 @@ title: D (XPH-扩展灵能手册)
 tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
 source: 1 核心补充书籍/XPH扩展灵能手册/6显能/D.htm
 type: text/vnd.tiddlywiki
+
 <p>异能D</p>
+
 <h5>危险感知(Danger Sense)</h5>
 
 <p>心灵预言系</p>
@@ -377,7 +379,9 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=112>
 
-      <p>21级＋(神器)</p></td></tr></tbody></table>
+      <p>21级＋(神器)</p></td></tr>
+</tbody>
+</table>
 
 <p><b>残留灵光：</b>灵能灵光会在作用源消散后(若是异能)，或被破坏后(若是灵能物品)残留一 段时间。若"侦测灵能"在有残留灵光的地点被展现，该异能将会指出微弱的灵光(比昏暗更黯淡)。灵光将以微弱强度持续多久，取决于它的原先强度。</p>
 
@@ -439,7 +443,9 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=133>
 
-      <p>1d6天</p></td></tr></tbody></table>
+      <p>1d6天</p></td></tr>
+</tbody>
+</table>
 
 <p>你可以每轮侦测新区域内的物品。你可以分辨魔法和灵能灵光的不同。本异能可穿透 障碍，但会被 1 英尺厚的石头、1 英寸厚的普通金属、薄铅片或者 3 英尺厚的木头或泥土阻挡。</p>
 

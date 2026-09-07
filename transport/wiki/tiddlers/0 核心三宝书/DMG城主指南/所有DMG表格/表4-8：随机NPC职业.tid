@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/表4-8：随机NPC职业.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>表4-8：随机NPC职业</div>
-    <table>
+<p>表4-8：随机NPC职业</p>
+
+<table>
         <thead>
             <tr>
                 <th>善良</th>
@@ -28,4 +28,3 @@ type: text/vnd.tiddlywiki
             <tr><td>81–100</td><td>81–100</td><td>86–100</td><td>法师</td></tr>
         </tbody>
     </table>
-</div>

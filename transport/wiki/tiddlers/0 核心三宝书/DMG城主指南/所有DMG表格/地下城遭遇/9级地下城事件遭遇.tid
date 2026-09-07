@@ -3,9 +3,9 @@ tags: [[0 核心三宝书]] [[DMG城主指南]]
 source: 0 核心三宝书/DMG城主指南/所有DMG表格/地下城遭遇/9级地下城事件遭遇.htm
 type: text/vnd.tiddlywiki
 
-<div>
-    <div>9级地下城事件遭遇</div>
-    <table>
+<p>9级地下城事件遭遇</p>
+
+<table>
         <thead><tr><th>百分骰</th><th>事件遭遇</th></tr></thead>
         <tbody>
             <tr><td>01–10</td><td>掷8级事件遭遇表</td></tr>
@@ -40,4 +40,3 @@ type: text/vnd.tiddlywiki
             <tr><td>91–100</td><td>掷10级事件遭遇表</td></tr>
         </tbody>
     </table>
-</div>

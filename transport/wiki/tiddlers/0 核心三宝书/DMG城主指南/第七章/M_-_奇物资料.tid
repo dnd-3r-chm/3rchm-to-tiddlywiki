@@ -6,6 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>M - 奇物资料</h1>
 
 <h2>斗篷与属性手册</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -57,6 +58,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>面具、工具与勋章</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>
@@ -99,6 +101,7 @@ type: text/vnd.tiddlywiki
 </table>
 
 <h2>镜子</h2>
+
 <table>
 <colgroup><col><col><col></colgroup>
 <tr><th>名称 (英文原名)</th><th>详细说明</th><th>价格</th></tr>

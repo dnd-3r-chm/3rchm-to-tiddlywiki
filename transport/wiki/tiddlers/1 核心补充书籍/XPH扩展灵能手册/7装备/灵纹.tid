@@ -2,7 +2,9 @@ title: 灵纹 (XPH-扩展灵能手册)
 tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
 source: 1 核心补充书籍/XPH扩展灵能手册/7装备/灵纹.htm
 type: text/vnd.tiddlywiki
+
 <h5>灵纹</h5>
+
 <p>灵纹是绘制在皮肤上的图案，可以对佩戴者展现异能。佩戴者不需要作出关于其效果 的决定——绘制它的显能者已经作出了。例如，"身体调节"灵纹被用来治疗佩戴者。</p>
 
 <p>灵纹有各种尺寸，但一个生物最多只能佩戴二十幅灵纹——再增加新的将导致所有已 绘制的灵纹同时启动。灵纹用后即褪去。</p>
@@ -31,4 +33,9 @@ type: text/vnd.tiddlywiki
 
 <p>表7-13：灵纹</p>
 
-<table><tr><td>次等</td><td>中等</td><td>高等</td><td>异能能级</td><td>交易价格</td></tr><tr><td>01-47</td><td>01-08</td><td>——</td><td>1st</td><td>50 金币</td></tr><tr><td>47-100</td><td>09-75</td><td>01-50</td><td>2nd</td><td>300 金币</td></tr><tr><td>——</td><td>76-100</td><td>51-100</td><td>3rd</td><td>750 金币</td></tr></table>
+<table>
+<tr><td>次等</td><td>中等</td><td>高等</td><td>异能能级</td><td>交易价格</td></tr>
+<tr><td>01-47</td><td>01-08</td><td>——</td><td>1st</td><td>50 金币</td></tr>
+<tr><td>47-100</td><td>09-75</td><td>01-50</td><td>2nd</td><td>300 金币</td></tr>
+<tr><td>——</td><td>76-100</td><td>51-100</td><td>3rd</td><td>750 金币</td></tr>
+</table>
