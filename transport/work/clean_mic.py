@@ -97,7 +97,7 @@ def norm_table(block):
     def _td(m):
         attrs = m.group(1)
         kept = re.findall(r"(?:colspan|rowspan)\s*=\s*[\"']?\d+[\"']?", attrs, re.I)
-        return f"<td {' '.join(kept)}>".rstrip() + ">" if kept else "<td>"
+        return f"<td {' '.join(kept)}>" if kept else "<td>"
 
     b = re.sub(r"<td\b([^>]*)>", _td, b, flags=re.I)
     b = re.sub(r"</?p\b[^>]*>", "", b, flags=re.I)

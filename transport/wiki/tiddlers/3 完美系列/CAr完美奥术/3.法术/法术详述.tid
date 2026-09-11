@@ -73,7 +73,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>活化火焰(Animate Fire)</b></p>
 
-<p>变化系[火焰]</p>
+<p>变化系&#91;火焰&#93;</p>
 
 <p>等级:德鲁伊2,巫觋2(火焰)</p>
 
@@ -87,7 +87,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>活化水域(Animate Water)</b></p>
 
-<p>变化系[水]</p>
+<p>变化系&#91;水&#93;</p>
 
 <p>等级:德鲁伊1,巫觋1(水)</p>
 
@@ -217,7 +217,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>骨之箭(Arrow Of Bone)</b></p>
 
-<p>死灵系[死亡]</p>
+<p>死灵系&#91;死亡&#93;</p>
 
 <p>等级:术士/法师6</p>
 
@@ -315,7 +315,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>黑火焰(Blackfire)</b></p>
 
-<p>死灵系[邪恶]</p>
+<p>死灵系&#91;邪恶&#93;</p>
 
 <p>等级:术士/法师8</p>
 
@@ -405,7 +405,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>爆炎光阵(Blistering Radiance)</b></p>
 
-<p>塑能系[火焰,光能]</p>
+<p>塑能系&#91;火焰,光能&#93;</p>
 
 <p>等级:牧师5,术士/法师4</p>
 
@@ -641,7 +641,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>匍行暗云(Creeping Darkness)</b></p>
 
-<p>塑能系[黑暗]</p>
+<p>塑能系&#91;黑暗&#93;</p>
 
 <p>等级:巫觋4</p>
 
@@ -743,7 +743,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>龙卷法球(Defenestrating Sphere)</b></p>
 
-<p>塑能系[空气]</p>
+<p>塑能系&#91;空气&#93;</p>
 
 <p>等级:术士/法师4</p>
 
@@ -815,7 +815,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>地脉波(Earthbolt)</b></p>
 
-<p>塑能系[土]</p>
+<p>塑能系&#91;土&#93;</p>
 
 <p>等级:巫觋3(土)</p>
 
@@ -839,7 +839,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>土爪术(Earthen Grasp)</b></p>
 
-<p>变化系[土]</p>
+<p>变化系&#91;土&#93;</p>
 
 <p>等级:术士/法师2</p>
 
@@ -919,7 +919,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>琉焰之拳(Emerald Flame Fist)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:术士/法师7</p>
 
@@ -1041,7 +1041,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>炼狱形体(Fiendform)</b></p>
 
-<p>变化系[邪恶]</p>
+<p>变化系&#91;邪恶&#93;</p>
 
 <p>等级:术士/法师6</p>
 
@@ -1061,7 +1061,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>火眼术(Fiery Eyes)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:巫觋1(火)</p>
 
@@ -1091,7 +1091,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>炎之吐息(Fire Breath)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:巫觋5(火)</p>
 
@@ -1111,7 +1111,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>集体火焰护盾(Fire Sheild,Mass)</b></p>
 
-<p>塑能系[火焰或寒冷]</p>
+<p>塑能系&#91;火焰或寒冷&#93;</p>
 
 <p>等级:术士/法师5,战法师5</p>
 
@@ -1133,7 +1133,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>炽火手里剑(Fire Shuriken)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:刺客2,巫觋2(火)</p>
 
@@ -1159,7 +1159,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>焰之翼(Fire Wings)</b></p>
 
-<p>变化系[火焰]</p>
+<p>变化系&#91;火焰&#93;</p>
 
 <p>等级:巫觋3(火)</p>
 
@@ -1183,7 +1183,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>爆炎术(Fireburst)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:术士/法师2,战法师2</p>
 
@@ -1207,7 +1207,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>高等爆炎术(Fireburst,Greater)</b></p>
 
-<p>塑能系[火系]</p>
+<p>塑能系&#91;火系&#93;</p>
 
 <p>等级:术士/法师5,战法师5</p>
 
@@ -1217,7 +1217,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>石拳术(Fist of Stone)</b></p>
 
-<p>变化系[土]</p>
+<p>变化系&#91;土&#93;</p>
 
 <p>等级:术士/法师1,战法师1</p>
 
@@ -1239,7 +1239,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>剥皮术(Flensing)</b></p>
 
-<p>变化系[邪恶]</p>
+<p>变化系&#91;邪恶&#93;</p>
 
 <p>等级:术士/法师8</p>
 
@@ -1287,7 +1287,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>力鞭术(Force Whip)</b></p>
 
-<p>塑能系[音波;影响心灵]</p>
+<p>塑能系&#91;音波;影响心灵&#93;</p>
 
 <p>等级:吟游诗人2,巫觋2</p>
 
@@ -1389,7 +1389,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>幽光术(Ghost Light)</b></p>
 
-<p>死灵系[恐惧,影响心灵]</p>
+<p>死灵系&#91;恐惧,影响心灵&#93;</p>
 
 <p>等级:巫觋1</p>
 
@@ -1509,7 +1509,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>冰爆术(Ice Blast)</b></p>
 
-<p>塑能系[寒冷]</p>
+<p>塑能系&#91;寒冷&#93;</p>
 
 <p>等级:巫觋2(水)</p>
 
@@ -1611,7 +1611,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>内火术(Internal Fire)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:巫觋9</p>
 
@@ -1709,7 +1709,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>闪电刃(Lightning Blade)</b></p>
 
-<p>咒法系[电击]</p>
+<p>咒法系&#91;电击&#93;</p>
 
 <p>等级:巫觋2</p>
 
@@ -2491,7 +2491,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>颤鸣音束(Resonating Bolt)</b></p>
 
-<p>塑能系[音波]</p>
+<p>塑能系&#91;音波&#93;</p>
 
 <p>等级:吟游诗人4,术士/法师3</p>
 
@@ -2555,7 +2555,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>秘讯术(Secret Sighs)</b></p>
 
-<p>附魔系[影响心灵]</p>
+<p>附魔系&#91;影响心灵&#93;</p>
 
 <p>等级:巫觋1</p>
 
@@ -2837,7 +2837,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>灵壁(Spiritwall)</b></p>
 
-<p>死灵系[恐惧,影响心灵]</p>
+<p>死灵系&#91;恐惧,影响心灵&#93;</p>
 
 <p>等级:术士/法师5</p>
 
@@ -2861,7 +2861,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>蒸汽喷息(Steam Breath)</b></p>
 
-<p>塑能系[火焰]</p>
+<p>塑能系&#91;火焰&#93;</p>
 
 <p>等级:巫觋3(水)</p>
 
@@ -2885,7 +2885,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>石爪术(Stony Grasp)</b></p>
 
-<p>变化系[土]</p>
+<p>变化系&#91;土&#93;</p>
 
 <p>等级:术士/法师3</p>
 
@@ -2977,7 +2977,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>泅水术(Swim)</b></p>
 
-<p>变化系[水系]</p>
+<p>变化系&#91;水系&#93;</p>
 
 <p>等级:德鲁伊2,术士/法师2,巫觋2(水)</p>
 
@@ -3003,7 +3003,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>暗黑之剑(Sword of Darkness)</b></p>
 
-<p>死灵系[邪恶]</p>
+<p>死灵系&#91;邪恶&#93;</p>
 
 <p>等级:术士/法师7,巫觋7</p>
 
@@ -3135,7 +3135,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>熔石术(Transmute Rock to Lava)</b></p>
 
-<p>变化系[土,火焰]</p>
+<p>变化系&#91;土,火焰&#93;</p>
 
 <p>等级:德鲁依9,术士/法师9,巫觋9</p>
 

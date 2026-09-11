@@ -83,7 +83,7 @@ def norm_table(block):
     def _td(m):
         attrs = m.group(1)
         kept = re.findall(r"(?:colspan|rowspan)\s*=\s*[\"']?\d+[\"']?", attrs, re.I)
-        return f"<td {' '.join(kept)}>".rstrip() + ">" if kept else "<td>"
+        return f"<td {' '.join(kept)}>" if kept else "<td>"
 
     b = re.sub(r"<td\b([^>]*)>", _td, b, flags=re.I)
     b = re.sub(r"</?p\b[^>]*>", "", b, flags=re.I)
@@ -132,8 +132,11 @@ def clean_body(body):
     # 还原 section
     for i, t in enumerate(sections):
         res = res.replace(f"\u0001SEC{i}\u0001", t)
-    # 清除 HTML 实体引号（含被保护的 section 内部勘误引用）
-    res = res.replace("&quot;", '"').replace("&#39;", "'")
+    # 智能引号实体(&#8220;/&#8221;/&quot;…)与弯引号字符 -> 半角直引号（复用管线函数；
+    # 位于还原 section 之后，故被保护勘误块内的实体引号同样会被处理）
+    res = cp.normalize_quotes(res)
+    # 全角 ＆ -> &amp;（复用管线函数）
+    res = cp.normalize_ampersand(res)
     return res.strip()
 
 

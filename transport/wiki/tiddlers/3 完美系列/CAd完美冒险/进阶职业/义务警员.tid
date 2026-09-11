@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 
 <p>阵营：任意非邪恶。</p>
 
-<p>基本攻击加值：＋4。</p>
+<p>基本攻击加值：+4。</p>
 
 <p>技能：收集信息8级，威吓4级，知识(地区)8级，搜索4级，察言观色8级。</p>
 
@@ -36,29 +36,29 @@ type: text/vnd.tiddlywiki
 <p>武器和盔甲熟练：义务警员能熟练使用简单和军用武器，以及捕网。义务警员不会获得任何新的装甲熟练。</p>
 
 <table>
-<tr><td rowSpan=2>>> 等级</td><td rowSpan=2>>> 基本攻击</td><td colSpan=3>>> 豁免</td><td rowSpan=2>>> 特殊能力</td><td colSpan=4>>> 每日法术数量</td></tr>
+<tr><td rowSpan=2> 等级</td><td rowSpan=2> 基本攻击</td><td colSpan=3> 豁免</td><td rowSpan=2> 特殊能力</td><td colSpan=4> 每日法术数量</td></tr>
 <tr><td>强韧</td><td>反射</td><td>意志</td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-<tr><td>1</td><td>＋0</td><td>＋0</td><td>＋2</td><td>＋2</td><td>侦测邪恶，明了街区</td><td>0</td><td>－</td><td>－</td><td>－</td></tr>
-<tr><td>2</td><td>＋1</td><td>＋0</td><td>＋3</td><td>＋3</td><td>打击犯罪1天1次</td><td>1</td><td>1</td><td>－</td><td>－</td></tr>
-<tr><td>3</td><td>＋2</td><td>＋1</td><td>＋3</td><td>＋3</td><td>快速搜查</td><td>2</td><td>0</td><td>－</td><td>－</td></tr>
-<tr><td>4</td><td>＋3</td><td>＋1</td><td>＋4</td><td>＋4</td><td>死者交谈</td><td>3</td><td>1</td><td>－</td><td>－</td></tr>
-<tr><td>5</td><td>＋3</td><td>＋1</td><td>＋4</td><td>＋4</td><td>快速躲藏</td><td>3</td><td>2</td><td>0</td><td>－</td></tr>
-<tr><td>6</td><td>＋4</td><td>＋2</td><td>＋5</td><td>＋5</td><td>打击犯罪1天2次</td><td>3</td><td>3</td><td>1</td><td>－</td></tr>
-<tr><td>7</td><td>＋5</td><td>＋2</td><td>＋5</td><td>＋5</td><td>明了街区＋4</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>8</td><td>＋6</td><td>＋2</td><td>＋6</td><td>＋6</td><td>次元锚</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>9</td><td>＋6</td><td>＋3</td><td>＋6</td><td>＋6</td><td>坚毅</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
-<tr><td>10</td><td>＋7</td><td>＋3</td><td>＋7</td><td>＋7</td><td>打击犯罪1天3次</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td>侦测邪恶，明了街区</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td>打击犯罪1天1次</td><td>1</td><td>1</td><td>-</td><td>-</td></tr>
+<tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td>快速搜查</td><td>2</td><td>0</td><td>-</td><td>-</td></tr>
+<tr><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>死者交谈</td><td>3</td><td>1</td><td>-</td><td>-</td></tr>
+<tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>快速躲藏</td><td>3</td><td>2</td><td>0</td><td>-</td></tr>
+<tr><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td>打击犯罪1天2次</td><td>3</td><td>3</td><td>1</td><td>-</td></tr>
+<tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td>明了街区+4</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
+<tr><td>8</td><td>+6</td><td>+2</td><td>+6</td><td>+6</td><td>次元锚</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>9</td><td>+6</td><td>+3</td><td>+6</td><td>+6</td><td>坚毅</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>10</td><td>+7</td><td>+3</td><td>+7</td><td>+7</td><td>打击犯罪1天3次</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
 </table>
 
 <table>
-<tr><td colSpan=5>>> 可知法术列表</td></tr>
+<tr><td colSpan=5> 可知法术列表</td></tr>
 <tr><td>等级</td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-<tr><td>1</td><td>2*</td><td>－</td><td>－</td><td>－</td></tr>
-<tr><td>2</td><td>3</td><td>－</td><td>－</td><td>－</td></tr>
-<tr><td>3</td><td>3</td><td>2*</td><td>－</td><td>－</td></tr>
-<tr><td>4</td><td>4</td><td>3</td><td>－</td><td>－</td></tr>
-<tr><td>5</td><td>4</td><td>3</td><td>2*</td><td>－</td></tr>
-<tr><td>6</td><td>4</td><td>4</td><td>3</td><td>－</td></tr>
+<tr><td>1</td><td>2*</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>2</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>3</td><td>3</td><td>2*</td><td>-</td><td>-</td></tr>
+<tr><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+<tr><td>5</td><td>4</td><td>3</td><td>2*</td><td>-</td></tr>
+<tr><td>6</td><td>4</td><td>4</td><td>3</td><td>-</td></tr>
 <tr><td>7</td><td>4</td><td>4</td><td>3</td><td>2*</td></tr>
 <tr><td>8</td><td>4</td><td>4</td><td>3</td><td>3</td></tr>
 <tr><td>9</td><td>4</td><td>4</td><td>4</td><td>3</td></tr>
@@ -69,15 +69,15 @@ type: text/vnd.tiddlywiki
 
 <p><b>侦测邪恶(Detect Evil)(Sp)：</b> 每个义务警员级别可以任意施展侦测邪恶，参见英文版玩家手册218页。</p>
 
-<p><b>每日法术(Spells)：</b> 义务警员可以施展少量的奥术。义务警员要施展法术必须要有10＋法术等级的魅力值，如果魅力等于或低于10，义务警员将无法施法。他可以获得基于高魅力的额外法术，法术的豁免DC为10＋法术等级＋魅力调整值。如果义务警员在某个等级获得0个法术(例如1级时获得的1级法术)，他将只能获得基于魅力调整的额外法术。义务警员的法术列表如下，他的施法如同吟游诗人。</p>
+<p><b>每日法术(Spells)：</b> 义务警员可以施展少量的奥术。义务警员要施展法术必须要有10+法术等级的魅力值，如果魅力等于或低于10，义务警员将无法施法。他可以获得基于高魅力的额外法术，法术的豁免DC为10+法术等级+魅力调整值。如果义务警员在某个等级获得0个法术(例如1级时获得的1级法术)，他将只能获得基于魅力调整的额外法术。义务警员的法术列表如下，他的施法如同吟游诗人。</p>
 
-<p>义务警员的法术选择是非常有限的。一开始他将获得两个他选择的1级法术，以后他将如同表2－25：义务警员的可知法术中所列出的那样获得更多的可知法术(不同于每日可用法术，可知法术不受魅力调整值影响)。</p>
+<p>义务警员的法术选择是非常有限的。一开始他将获得两个他选择的1级法术，以后他将如同表2-25：义务警员的可知法术中所列出的那样获得更多的可知法术(不同于每日可用法术，可知法术不受魅力调整值影响)。</p>
 
 <p>义务警员的法术列表包括所有吟游诗人法术列表中下列系列的法术：防护系、预言系、幻术系、死灵系和变化系。该法术列表包括所有玩家手册以及本书所提供的法术。</p>
 
-<p><b>明了街区Streetwise(Ex)：</b> 义务警员懂得如何在危险的城市街区生存。他在搜集信息和知识(地区)的检定上获得＋2的对抗加值。</p>
+<p><b>明了街区Streetwise(Ex)：</b> 义务警员懂得如何在危险的城市街区生存。他在搜集信息和知识(地区)的检定上获得+2的对抗加值。</p>
 
-<p>第7级时，这一加值变为＋4。</p>
+<p>第7级时，这一加值变为+4。</p>
 
 <p><b>打击犯罪Smite the Guilty(Su)：</b> 2级开始，义务警员可以对他亲自证实在他本城(home city)犯罪的家伙进行神圣打击。他每天可以使用本能力一次。他将他的魅力加值(如果有的话)加到对该人的一次近战攻击中，如果命中将造成每义务警员等级1点的额外伤害。</p>
 
@@ -89,7 +89,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>死者交谈Speak with Dead(Sp)：</b> 4级开始，义务警员可以每天使用一次死者交谈法术，施法者等级等于其义务警员等级。</p>
 
-<p><b>快速躲藏Quick Hide(Ex)：</b> 5级以后，义务警员可以运用唬骗技能来转移注意力以便于躲藏，这是一个移动动作而不再是标准动作。在为实现这一目的的唬骗技能检定中他将获得＋4的对抗加值。</p>
+<p><b>快速躲藏Quick Hide(Ex)：</b> 5级以后，义务警员可以运用唬骗技能来转移注意力以便于躲藏，这是一个移动动作而不再是标准动作。在为实现这一目的的唬骗技能检定中他将获得+4的对抗加值。</p>
 
 <p><b>次元锚Dimensional Anchor(Sp)：</b> 8级以后，义务警员可以每天施展一次次元锚，施法者等级等于其义务警员等级。</p>
 

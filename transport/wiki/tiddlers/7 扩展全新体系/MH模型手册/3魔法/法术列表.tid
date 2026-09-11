@@ -1,0 +1,304 @@
+title: 法术列表 (MH-模型手册)
+tags: [[7 扩展全新体系]] [[MH模型手册]]
+source: 7 扩展全新体系/MH模型手册/3魔法/法术列表.htm
+type: text/vnd.tiddlywiki
+
+<p><b>法术列表</b></p>
+
+<p><b>刺客法术</b></p>
+
+<p>1环</p>
+
+<p>轻巧移动 Lightfoot：你的移动不会引发借机攻击。(迅捷动作)</p>
+
+<p>2环</p>
+
+<p>迅捷隐形 Invisibility, Swift： 隐形一轮。(迅捷动作)</p>
+
+<p>阴影面纱 Veil of Shadow：黑暗使你隐匿其中。</p>
+
+<p>黑暗守卫法术列表</p>
+
+<p>2环</p>
+
+<p>迅捷隐形 Invisibility, Swift： 隐形一轮。(迅捷动作)</p>
+
+<p>3环</p>
+
+<p>恶魔之皮 Demonhide：邪恶生物户的DR10/寒铁和善良。</p>
+
+<p>诗人法术列表</p>
+
+<p>1环</p>
+
+<p>迅捷脚底抹油 Expeditious Retreat, Swift：你的速度增加30尺持续一轮。(迅捷动作)</p>
+
+<p>焦躁 Incite：目标无法进行准备动作或延迟。</p>
+
+<p>行动抑制 Inhibit：目标延迟直至下一轮。</p>
+
+<p>2环</p>
+
+<p>利刃诅咒 Curse of Impending Blades：目标AC-2。</p>
+
+<p>迅捷飞行 Fly, Swift：飞行一轮。(迅捷动作)</p>
+
+<p>迅捷隐形 Invisibility, Swift： 隐形一轮。(迅捷动作)</p>
+
+<p>绝对重力 Undeniable Gravity：目标飞行生物失去飞行能力。</p>
+
+<p>3环</p>
+
+<p>群体利刃诅咒 Curse of Impending Blades, Legion's：多个受影响目标AC-2。</p>
+
+<p>4环</p>
+
+<p>群体绝对重力 Undeniable Gravity, Legion's：多个目标飞行生物失去飞行能力。</p>
+
+<p><b>牧师法术</b></p>
+
+<p>1环</p>
+
+<p>信念涌动 Conviction：目标豁免获得+2或更高奖励。</p>
+
+<p>等价交换 Favorable Sacrifice：根据献祭的宝石数量，目标获得防护加成。</p>
+
+<p>导向之光 Guiding Light：对法术照亮区域内的目标的远程攻击获得+1命中。</p>
+
+<p>焦躁 Incite：目标无法进行准备动作或延迟。</p>
+
+<p>行动抑制 Inhibit：目标延迟直至下一轮。</p>
+
+<p>预兆 Sign：你的先攻结果提高，并且你获知敌人的先攻结果。</p>
+
+<p>2环</p>
+
+<p>神圣防御 Divine Protection：盟友的AC和豁免+1。</p>
+
+<p>不死躯壳 Living Undeath：目标免疫重击和偷袭。</p>
+
+<p>快速行军 Quick March：盟友速度提升30尺，持续1轮。</p>
+
+<p>阴影面纱 Veil of Shadow：黑暗使你隐匿其中。</p>
+
+<p>3环</p>
+
+<p>闭合伤口 Close Wounds：治疗2d4点伤害，即使在别人的行动轮。(迅捷动作)</p>
+
+<p>群体信念涌动 Conviction, Legion's：多个目标豁免获得+2或更高奖励。</p>
+
+<p>瑕疵诅咒 Curse of Petty Failing：敌方目标攻击检定和豁免-2。</p>
+
+<p>延缓死亡 Delay Death：损失生命值不会导致死亡。</p>
+
+<p>利刃之环 Ring of Blades：利刃环绕着你，对其他生物造成伤害(1d6+1/level)。</p>
+
+<p>黑暗鞭笞 Slashing Darkness：射线造成1d8/每2施法者等级伤害，治疗不死生物相同数值。</p>
+
+<p>4环</p>
+
+<p>群体援助术 Aid, Legion's：多个盟友攻击检定+1，对抗恐惧豁免+1，获得1d8+1/cl(最多20)临时生命值。</p>
+
+<p>群体阵营武器 Align Weapon, Legion's：多个盟友武器获得善良/邪恶/守序/混乱属性。</p>
+
+<p>补救之道 Panacea：移除大部分状态。</p>
+
+<p>群体虔诚护盾 Shield of Faith, Legion's：多个盟友获得+3AC或更高。</p>
+
+<p>5环</p>
+
+<p>群体瑕疵诅咒 Curse of Petty Failing, Legion's：多个敌方目标攻击检定和豁免-2。</p>
+
+<p>战场复活 Revivify：复活刚刚死亡的人而不损失等级。</p>
+
+<p><b>德鲁伊法术列表</b></p>
+
+<p>1环</p>
+
+<p>蛇之迅捷 Snake's Swiftness：目标立刻进行一次攻击。</p>
+
+<p>2环</p>
+
+<p>群体蛇之迅捷 Snake's Swiftness, Legion's：所有盟友分别立刻进行一次攻击。</p>
+
+<p>猛虎之牙 Tiger's Tooth：目标的一个天武攻击检定和伤害检定获得+1每4施法者等级，持续一轮。(迅捷动作)</p>
+
+<p>3环</p>
+
+<p>阵营天武 Align Fang：天武获得善良/邪恶/守序/混乱属性。</p>
+
+<p>迅捷飞行 Fly, Swift：飞行一轮。(迅捷动作)</p>
+
+<p>狮之猛扑 Lion's Charge：你在冲锋后可进行全回合攻击，持续一轮。(迅捷动作)</p>
+
+<p>4环</p>
+
+<p>高压电弧Arc of Lightning：在两个生物之间连成电弧(1d6每等级)。</p>
+
+<p>5环</p>
+
+<p>群体阵营天武 Align Fang：多个盟友的天武获得善良/邪恶/守序/混乱属性。</p>
+
+<p>补救之道 Panacea：移除大部分状态。</p>
+
+<p>治疗师法术</p>
+
+<p>3环</p>
+
+<p>闭合伤口 Close Wounds：治疗2d4点伤害，即使在别人的行动轮。(迅捷动作)</p>
+
+<p>4环</p>
+
+<p>补救之道 Panacea：移除大部分状态。</p>
+
+<p>5环</p>
+
+<p>战场复活 Revivify：复活刚刚死亡的人而不损失等级。</p>
+
+<p><b>圣武士法术</b></p>
+
+<p>1环</p>
+
+<p>迅捷祝福武器 Bless Weapon, Swift：使武器能够精准的打击邪恶目标，持续一轮。(迅捷动作)</p>
+
+<p>狮之心 Lionheart：目标免疫恐惧。</p>
+
+<p>2环</p>
+
+<p>神圣鞭策 Holy Spurs：特殊坐骑的速度提升40尺持续一轮。(迅捷动作)</p>
+
+<p>神圣防御 Divine Protection：盟友的AC和豁免+1。</p>
+
+<p>快速行军 Quick March：盟友速度提升30尺，持续1轮。</p>
+
+<p>正义之怒 Righteous Fury：目标在冲锋时造成双倍伤害。</p>
+
+<p>3环</p>
+
+<p>天使皮肤 Angelskin：守序善良生物获得DR10/银和邪恶。</p>
+
+<p>4环</p>
+
+<p>正义光环 Righteous Aura：魅力获得+4神圣加值，你死亡时将引发能量爆炸，治疗20尺范围内的善良生物并伤害其他生物(2d6每等级)。这个法术会摧毁你的身体。(卷宗笑了)</p>
+
+<p>游侠法术列表</p>
+
+<p>1环</p>
+
+<p>引导箭矢 Guided Arrow：远程攻击的目标失去掩蔽，持续1轮。</p>
+
+<p>轻巧移动 Lightfoot：你的移动不会引发借机攻击。(迅捷动作)</p>
+
+<p>2环</p>
+
+<p>炎之刃 Blades of Fire: 你的近战武器造成额外的1d6火焰伤害持续一轮。(迅捷动作)</p>
+
+<p>利刃诅咒 Curse of Impending Blades：目标AC-2。</p>
+
+<p>迅捷加速术 Haste, Swift：加速一轮。(迅捷动作)</p>
+
+<p>3环</p>
+
+<p>群体利刃诅咒 Curse of Impending Blades, Legion's：多个受影响目标AC-2。</p>
+
+<p>4环</p>
+
+<p>狮之猛扑 Lion's Charge：你在冲锋后可进行全回合攻击，持续一轮。(迅捷动作)</p>
+
+<p><b>术士/法师列表</b></p>
+
+<p>0环</p>
+
+<p>变化系 修复微伤 Repair Minor Damage：修复构装体1点损伤。</p>
+
+<p>1环</p>
+
+<p>咒法系 次级酸液/冰冻/火焰/电击球 Acid/Cold/Fire/Electric Orb, Lesser：远程接触，1d8(+1d8每高于1级2施法者等级)酸/冰/火/电伤害。</p>
+
+<p>移形换位 Benign Transposition：两个自愿目标交换位置。</p>
+
+<p>次级音波球 Sonic Orb, Lesser：远程接触，1d6(+1d6每高于1级2施法者等级)音波伤害。</p>
+
+<p>惑控系 焦躁 Incite：目标无法进行准备动作或延迟。</p>
+
+<p>行动抑制 Inhibit：目标延迟直至下一轮。</p>
+
+<p>塑能系 导向之光 Guiding Light：对法术照亮区域内的目标的远程攻击获得+1命中。</p>
+
+<p>魔邓肯蜂鸣术 Mordenkainen's Buzzing Bee：蜂群对目标的聆听和专注检定造成-10。</p>
+
+<p>变化系 修复轻伤 Repair Light Damage：修复构装体1d8+1/cl(最多+5)点损伤。</p>
+
+<p>滑行术 Slide：移动目标5尺。</p>
+
+<p>2环</p>
+
+<p>咒法系 恶意移形换位 Baleful Transposition：两个目标交换位置。</p>
+
+<p>炎之刃 Blades of Fire: 你的近战武器造成额外的1d6火焰伤害持续一轮。(迅捷动作)</p>
+
+<p>塑能系 毕格比拍击掌 Bigby's Slapping Hand：力场巨掌骗取借机攻击。</p>
+
+<p>焰爆术 Fireburst：邻近目标受到1d8/cl火焰伤害。</p>
+
+<p>阴影面纱 Veil of Shadow：黑暗使你隐匿其中。</p>
+
+<p>死灵系 瑕疵诅咒 Curse of Petty Failing：敌方目标攻击检定和豁免-2。</p>
+
+<p>变化系 修复中伤 Repair Moderate Damage：修复构装2d8+1/cl(最多+10)。</p>
+
+<p>强力滑行术 Slide, Greater：移动目标20尺。</p>
+
+<p>蛇之迅捷 Snake's Swiftness：目标立刻进行一次攻击。</p>
+
+<p>绝对重力 Undeniable Gravity：目标飞行生物失去飞行能力。</p>
+
+<p>3环</p>
+
+<p>死灵系 群体利刃诅咒 Curse of Impending Blades, Legion's：多个受影响目标AC-2。</p>
+
+<p>变化系 修复重伤 Repair Serious Damage：修复构装3d8+1/cl(最多15)。</p>
+
+<p>4环</p>
+
+<p>咒法系 火焰轰爆 Blast of Flame：60尺锥形火焰(1d6/cl)。</p>
+
+<p>变化系 修复致命伤 Repair Critical Damage：修复构装4d8+1/cl(最多20)。</p>
+
+<p>5环</p>
+
+<p>咒法系 高压电弧Arc of Lightning：在两个生物之间连成电弧(1d6每等级)。</p>
+
+<p>塑能系 群体火焰护盾 Fire Shield, Legion's：攻击盟友的生物受到伤害；抵御盟友受到的火焰和寒冷伤害。</p>
+
+<p>高等焰爆术 Fireburst, Greater：10尺内目标受到1d8/cl火焰伤害。</p>
+
+<p><b>战法师法术列表</b></p>
+
+<p>1环</p>
+
+<p>次级酸液/冰冻/火焰/电击球 Acid/Cold/Fire/Electric Orb, Lesser：远程接触，1d8(+1d8每高于1级2施法者等级)酸/冰/火/电伤害。</p>
+
+<p>次级音波球 Sonic Orb, Lesser：远程接触，1d6(+1d6每高于1级2施法者等级)音波伤害。</p>
+
+<p>2环</p>
+
+<p>炎之刃 Blades of Fire: 你的近战武器造成额外的1d6火焰伤害持续一轮。(迅捷动作)</p>
+
+<p>焰爆术 Fireburst：邻近目标受到1d8/cl火焰伤害。</p>
+
+<p>3环</p>
+
+<p>利刃之环 Ring of Blades：利刃环绕着你，对其他生物造成伤害(1d6+1/level)。</p>
+
+<p>4环</p>
+
+<p>火焰轰爆 Blast of Flame：60尺锥形火焰(1d6/cl)</p>
+
+<p>5环</p>
+
+<p>高压电弧Arc of Lightning：在两个生物之间连成电弧(1d6每等级)</p>
+
+<p>群体火焰护盾 Fire Shield, Legion's：攻击盟友的生物受到伤害；抵御盟友受到的火焰和寒冷伤害。</p>
+
+<p>高等焰爆术 Fireburst, Greater：10尺内目标受到1d8/cl火焰伤害。</p>

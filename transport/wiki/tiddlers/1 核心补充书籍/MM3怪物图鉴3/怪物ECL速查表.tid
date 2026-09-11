@@ -5,98 +5,53 @@ type: text/vnd.tiddlywiki
 
 <p><b>ECL</b><b>速查表</b></p>
 
-<p>怪物　　　　　　HD　　LA　ECL</p>
-
-<p>阿曼德人　　　　　5　　　3　　　8</p>
-
-<p>星界伏击者　　　12　　　6　　18(C)</p>
-
-<p>熊猎犬　　　　　10　　　4　　14</p>
-
-<p>半变形怪　　　　　1　　　0　　　1*</p>
-
-<p>卡诺罗斯魔　　　　6　　　5　　11</p>
-
-<p>箭魔　　　　　　10　　　8　　18</p>
-
-<p>龙兽人　　　　　　3　　　5　　　8</p>
-
-<p>弗林得豺狼人　　　2　　　2　　　4</p>
-
-<p>林仆地精　　　　　1　　　1　　　2*</p>
-
-<p>沙巨人　　　　　15　　　4　　19</p>
-
-<p>湖精　　　　　　　6　　　4　　10</p>
-
-<p>山羊人　　　　　　3　　　1　　　4</p>
-
-<p>阴森恶鬼　　　　12　　　3　　15</p>
-
-<p>土晶人　　　　　10　　　5　　15</p>
-
-<p>尖刺猎人　　　　　6　　　4　　10</p>
-
-<p>天狗　　　　　　　1　　　0　　　1*</p>
-
-<p>蛛化人猿　　　　　8　　　3　　11</p>
-
-<p>黑鳞蜥人族　　　　4　　　3　　　7</p>
-
-<p>毒暮蜥人族　　　　1　　　1　　　2*</p>
-
-<p>光民　　　　　　　2　　　2　　　4</p>
-
-<p>麦泽罗斯魔　　　10　　　5　　15</p>
-
-<p>麦泽罗斯魔　　　12　　　6　　18</p>
-
-<p>尼卡罗斯魔　　　14　　　5　　19</p>
-
-<p>尼克特蝠人　　　　3　　　2　　　5</p>
-
-<p>碎颅食人魔　　　　8　　　3　　11</p>
-
-<p>花精　　　　　　　1　　　2　　　3</p>
-
-<p>凤羽人　　　　　　7　　　5　　12</p>
-
-<p>夸拉芬　　　　　　9　　　5　　14</p>
-
-<p>阿克查扎邪兽鬼　17　　　5　　22</p>
-
-<p>纳达鲁恩邪兽鬼　11　　　5　　16</p>
-
-<p>红帽子　　　　　　4　　　4　　　8</p>
-
-<p>寒鹿　　　　　　　5　　　6　　11(C)</p>
-
-<p>海蛞蝓　　　　　10　　　4　　14</p>
-
-<p>半兽化人　　　　　1　　　0　　　1*</p>
-
-<p>刺怪　　　　　　　2　　　4　　　6(C)</p>
-
-<p>刺精　　　　　　　6　　　2　　　8</p>
-
-<p>洞穴巨魔　　　　　9　　　6　　15</p>
-
-<p>水晶巨魔　　　　10　　　5　　15</p>
-
-<p>森林巨魔　　　　　5　　　5　　10</p>
-
-<p>山脉巨魔　　　　15　　　5　　20</p>
-
-<p>战争巨魔　　　　12　　　6　　18</p>
-
-<p>乌特罗斯魔　　　18　　　5　　23</p>
-
-<p>机关人　　　　　　1　　　0　　　1*</p>
-
-<p>机关冲锋机　　　　4　　　4　　　8</p>
-
-<p>机关斥候机　　　　1　　　0　　　1*</p>
-
-<p>巫刃　　　　　　　9　　　3　　12</p>
-
-<p>菘蓝树人　　　　　8　　　3　　11</p>
+<table>
+<tr><th>怪物</th><th>HD</th><th>LA</th><th>ECL</th></tr>
+<tr><td>阿曼德人</td><td>5</td><td>3</td><td>8</td></tr>
+<tr><td>星界伏击者</td><td>12</td><td>6</td><td>18(C)</td></tr>
+<tr><td>熊猎犬</td><td>10</td><td>4</td><td>14</td></tr>
+<tr><td>半变形怪</td><td>1</td><td>0</td><td>1*</td></tr>
+<tr><td>卡诺罗斯魔</td><td>6</td><td>5</td><td>11</td></tr>
+<tr><td>箭魔</td><td>10</td><td>8</td><td>18</td></tr>
+<tr><td>龙兽人</td><td>3</td><td>5</td><td>8</td></tr>
+<tr><td>弗林得豺狼人</td><td>2</td><td>2</td><td>4</td></tr>
+<tr><td>林仆地精</td><td>1</td><td>1</td><td>2*</td></tr>
+<tr><td>沙巨人</td><td>15</td><td>4</td><td>19</td></tr>
+<tr><td>湖精</td><td>6</td><td>4</td><td>10</td></tr>
+<tr><td>山羊人</td><td>3</td><td>1</td><td>4</td></tr>
+<tr><td>阴森恶鬼</td><td>12</td><td>3</td><td>15</td></tr>
+<tr><td>土晶人</td><td>10</td><td>5</td><td>15</td></tr>
+<tr><td>尖刺猎人</td><td>6</td><td>4</td><td>10</td></tr>
+<tr><td>天狗</td><td>1</td><td>0</td><td>1*</td></tr>
+<tr><td>蛛化人猿</td><td>8</td><td>3</td><td>11</td></tr>
+<tr><td>黑鳞蜥人族</td><td>4</td><td>3</td><td>7</td></tr>
+<tr><td>毒暮蜥人族</td><td>1</td><td>1</td><td>2*</td></tr>
+<tr><td>光民</td><td>2</td><td>2</td><td>4</td></tr>
+<tr><td>麦泽罗斯魔</td><td>10</td><td>5</td><td>15</td></tr>
+<tr><td>麦泽罗斯魔</td><td>12</td><td>6</td><td>18</td></tr>
+<tr><td>尼卡罗斯魔</td><td>14</td><td>5</td><td>19</td></tr>
+<tr><td>尼克特蝠人</td><td>3</td><td>2</td><td>5</td></tr>
+<tr><td>碎颅食人魔</td><td>8</td><td>3</td><td>11</td></tr>
+<tr><td>花精</td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td>凤羽人</td><td>7</td><td>5</td><td>12</td></tr>
+<tr><td>夸拉芬</td><td>9</td><td>5</td><td>14</td></tr>
+<tr><td>阿克查扎邪兽鬼</td><td>17</td><td>5</td><td>22</td></tr>
+<tr><td>纳达鲁恩邪兽鬼</td><td>11</td><td>5</td><td>16</td></tr>
+<tr><td>红帽子</td><td>4</td><td>4</td><td>8</td></tr>
+<tr><td>寒鹿</td><td>5</td><td>6</td><td>11(C)</td></tr>
+<tr><td>海蛞蝓</td><td>10</td><td>4</td><td>14</td></tr>
+<tr><td>半兽化人</td><td>1</td><td>0</td><td>1*</td></tr>
+<tr><td>刺怪</td><td>2</td><td>4</td><td>6(C)</td></tr>
+<tr><td>刺精</td><td>6</td><td>2</td><td>8</td></tr>
+<tr><td>洞穴巨魔</td><td>9</td><td>6</td><td>15</td></tr>
+<tr><td>水晶巨魔</td><td>10</td><td>5</td><td>15</td></tr>
+<tr><td>森林巨魔</td><td>5</td><td>5</td><td>10</td></tr>
+<tr><td>山脉巨魔</td><td>15</td><td>5</td><td>20</td></tr>
+<tr><td>战争巨魔</td><td>12</td><td>6</td><td>18</td></tr>
+<tr><td>乌特罗斯魔</td><td>18</td><td>5</td><td>23</td></tr>
+<tr><td>机关人</td><td>1</td><td>0</td><td>1*</td></tr>
+<tr><td>机关冲锋机</td><td>4</td><td>4</td><td>8</td></tr>
+<tr><td>机关斥候机</td><td>1</td><td>0</td><td>1*</td></tr>
+<tr><td>巫刃</td><td>9</td><td>3</td><td>12</td></tr>
+<tr><td>菘蓝树人</td><td>8</td><td>3</td><td>11</td></tr>
+</table>

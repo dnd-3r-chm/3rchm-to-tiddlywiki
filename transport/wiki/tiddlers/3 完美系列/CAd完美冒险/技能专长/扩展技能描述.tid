@@ -53,7 +53,7 @@ type: text/vnd.tiddlywiki
 <tr><td>黑莲花萃取液 (Black lotus extract)</td><td>35</td><td>4500</td><td>接触</td><td>20</td><td>3d6体质</td><td>3d6体质</td></tr>
 <tr><td>血根草 (Bloodroot)</td><td>15</td><td>100</td><td>伤口</td><td>12</td><td>0</td><td>1d4体质+1d3感知</td></tr>
 <tr><td>青嘶泣 (Blue whinnis)</td><td>15</td><td>120</td><td>伤口</td><td>14</td><td>1体质</td><td>昏迷</td></tr>
-<tr><td>焦引熏烟 (Burnt othur fumes)</td><td>25</td><td>2100</td><td>吸入</td><td>18</td><td>1体质[*]</td><td>3d6体质</td></tr>
+<tr><td>焦引熏烟 (Burnt othur fumes)</td><td>25</td><td>2100</td><td>吸入</td><td>18</td><td>1体质&#91;*&#93;</td><td>3d6体质</td></tr>
 <tr><td>食腐虫脑浆 (Carrion crawler brain juice)</td><td>15</td><td>200</td><td>接触</td><td>13</td><td>麻痹</td><td>0</td></tr>
 <tr><td>夺魂黑粉 (Dark reaver powder)</td><td>25</td><td>300</td><td>伤口</td><td>18</td><td>2d6体质</td><td>1d6体质+1d6力量</td></tr>
 <tr><td>死刃夜露 (Deathblade)</td><td>25</td><td>1800</td><td>接触</td><td>20</td><td>1d6体质</td><td>2d6体质</td></tr>
@@ -71,11 +71,11 @@ type: text/vnd.tiddlywiki
 <tr><td>腐精油 (Oil of taggit)</td><td>15</td><td>90</td><td>摄入</td><td>15</td><td>0</td><td>昏迷</td></tr>
 <tr><td>紫虫毒 (Purple worm poison)</td><td>20</td><td>700</td><td>伤口</td><td>25</td><td>1d6力量</td><td>2d6力量</td></tr>
 <tr><td>幻叶余烬 (Sassone leaf residue)</td><td>20</td><td>300</td><td>接触</td><td>16</td><td>2d12生命值</td><td>1d6体质</td></tr>
-<tr><td>暗菁华露 (Shadow essence)</td><td>20</td><td>250</td><td>伤口</td><td>17</td><td>1力量[*]</td><td>2d6力量</td></tr>
+<tr><td>暗菁华露 (Shadow essence)</td><td>20</td><td>250</td><td>伤口</td><td>17</td><td>1力量&#91;*&#93;</td><td>2d6力量</td></tr>
 <tr><td>小型蜈蚣毒 (Small centipede poison)</td><td>15</td><td>90</td><td>伤口</td><td>10</td><td>1d2敏捷</td><td>1d2敏捷</td></tr>
 <tr><td>斑纹毒蕈 (Striped toadstool)</td><td>15</td><td>180</td><td>摄入</td><td>11</td><td>1感知</td><td>2d6感知+1d4智力</td></tr>
 <tr><td>帖内根 (Terinav root)</td><td>25</td><td>750</td><td>接触</td><td>16</td><td>1d6敏捷</td><td>2d6敏捷</td></tr>
-<tr><td>魔地尘 (Ungol dust)</td><td>20</td><td>1000</td><td>吸入</td><td>15</td><td>1魅力</td><td>1d6魅力，+1魅力[*]</td></tr>
+<tr><td>魔地尘 (Ungol dust)</td><td>20</td><td>1000</td><td>吸入</td><td>15</td><td>1魅力</td><td>1d6魅力，+1魅力&#91;*&#93;</td></tr>
 <tr><td>翼龙毒 (Wyvern poison)</td><td>25</td><td>3000</td><td>伤口</td><td>17</td><td>2d6体质</td><td>2d6体质</td></tr>
 <tr><td colspan="7">[*]：永久属性吸取，而非暂时属性伤害。</td></tr>
 </table>
@@ -152,7 +152,7 @@ type: text/vnd.tiddlywiki
 <table>
 <tr><td><b>尾行某人：</b>你可以试着保持不可见跟踪某人。如果你距离你的猎物至少60尺远，你必须每10分钟做一次躲藏检定(对抗你的猎物的侦查检定)。距离小于60尺时，你必须每轮做躲藏检定。你的特别的行动(例如施法或者攻击)可能在即便检定没有失败的情况下打断尝试。 尾行某人仍需要掩蔽或者隐蔽，如同通常尝试躲藏检定。适当拥挤的街道能提供达成这一目标的足够掩蔽和隐蔽。另外，你可以像"在掩蔽间移动"一样(见上文)在掩蔽或隐蔽区见溜行。 即便你在尾行时躲藏检定失败或者在躲藏处间移动太大距离被侦查发现，你可以尝试唬骗检定对抗你的猎物的察言观色检定来看上去无害。检定成功意味着你的猎物看到了你但没有意识到你在尾行她；检定失败使她意识到你确实在跟踪。取决于你的猎物有多么多疑，下列调整值可以作用在察言观色检定上。右表列出了特定情况下察言观色的调整值。</td><td>
 <table>
-<tr><td colspan="2">>>><b>察言观色检定</b></td></tr>
+<tr><td colspan="2"><b>察言观色检定</b></td></tr>
 <tr><td><b>你的猎物……</b></td><td><b>DC调整值</b></td></tr>
 <tr><td>确定无人跟踪</td><td>-5</td></tr>
 <tr><td>没理由怀疑有人跟踪</td><td>+0</td></tr>

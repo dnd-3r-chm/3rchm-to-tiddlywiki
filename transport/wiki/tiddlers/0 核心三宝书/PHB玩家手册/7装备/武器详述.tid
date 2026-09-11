@@ -11,37 +11,37 @@ type: text/vnd.tiddlywiki
 
 <tr><td colspan="8"><i>徒手攻击</i></td></tr>
 
-<tr><td>铁手套</td><td>2金币</td><td>1d2</td><td>1d3</td><td>x2</td><td>－</td><td>1磅</td><td>敲击</td></tr>
+<tr><td>铁手套</td><td>2金币</td><td>1d2</td><td>1d3</td><td>x2</td><td>-</td><td>1磅</td><td>敲击</td></tr>
 
-<tr><td>徒手击打</td><td>－</td><td>1d2(3)</td><td>1d3</td><td>x2</td><td>－</td><td>－</td><td>敲击</td></tr>
+<tr><td>徒手击打</td><td>-</td><td>1d2(3)</td><td>1d3</td><td>x2</td><td>-</td><td>-</td><td>敲击</td></tr>
 
 <tr><td colspan="8"><i>轻型近战武器</i></td></tr>
 
 <tr><td>匕首</td><td>2金币</td><td>1d3</td><td>1d4</td><td>19-20/x2</td><td>10呎</td><td>1磅</td><td>穿刺或挥砍</td></tr>
 
-<tr><td>拳匕</td><td>2金币</td><td>1d3</td><td>1d4</td><td>x3</td><td>－</td><td>1磅</td><td>穿刺</td></tr>
+<tr><td>拳匕</td><td>2金币</td><td>1d3</td><td>1d4</td><td>x3</td><td>-</td><td>1磅</td><td>穿刺</td></tr>
 
-<tr><td>带刺铁手套</td><td>5金币</td><td>1d3</td><td>1d4</td><td>x2</td><td>－</td><td>1磅</td><td>穿刺</td></tr>
+<tr><td>带刺铁手套</td><td>5金币</td><td>1d3</td><td>1d4</td><td>x2</td><td>-</td><td>1磅</td><td>穿刺</td></tr>
 
-<tr><td>轻型硬头锤(8)</td><td>5金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>4磅</td><td>敲击</td></tr>
+<tr><td>轻型硬头锤(8)</td><td>5金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>4磅</td><td>敲击</td></tr>
 
-<tr><td>镰刀</td><td>6金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>2磅</td><td>挥砍</td></tr>
+<tr><td>镰刀</td><td>6金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>2磅</td><td>挥砍</td></tr>
 
 <tr><td colspan="8"><i>单手持用近战武器</i></td></tr>
 
-<tr><td>木棒</td><td>－</td><td>1d4</td><td>1d6</td><td>x2</td><td>10呎</td><td>3磅</td><td>敲击</td></tr>
+<tr><td>木棒</td><td>-</td><td>1d4</td><td>1d6</td><td>x2</td><td>10呎</td><td>3磅</td><td>敲击</td></tr>
 
-<tr><td>重型硬头锤(8)</td><td>12金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>－</td><td>8磅</td><td>敲击</td></tr>
+<tr><td>重型硬头锤(8)</td><td>12金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>-</td><td>8磅</td><td>敲击</td></tr>
 
-<tr><td>钉头锤</td><td>8金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>－</td><td>6磅</td><td>敲击与穿刺</td></tr>
+<tr><td>钉头锤</td><td>8金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>-</td><td>6磅</td><td>敲击与穿刺</td></tr>
 
 <tr><td>短矛</td><td>1金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>20呎</td><td>3磅</td><td>穿刺</td></tr>
 
 <tr><td colspan="8"><i>双手持用近战武器</i></td></tr>
 
-<tr><td>长矛(4)</td><td>5金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>－</td><td>9磅</td><td>穿刺</td></tr>
+<tr><td>长矛(4)</td><td>5金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>-</td><td>9磅</td><td>穿刺</td></tr>
 
-<tr><td>木棍(5)</td><td>－</td><td>1d4/1d4</td><td>1d6/1d6</td><td>x2</td><td>－</td><td>4磅</td><td>敲击</td></tr>
+<tr><td>木棍(5)</td><td>-</td><td>1d4/1d4</td><td>1d6/1d6</td><td>x2</td><td>-</td><td>4磅</td><td>敲击</td></tr>
 
 <tr><td>矛</td><td>2金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>20呎</td><td>6磅</td><td>穿刺</td></tr>
 
@@ -49,19 +49,19 @@ type: text/vnd.tiddlywiki
 
 <tr><td>重型弩(7)</td><td>50金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>120呎</td><td>8磅</td><td>穿刺</td></tr>
 
-<tr><td>弩矢[x10](7)</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>1磅</td><td>－</td></tr>
+<tr><td>弩矢&#91;x10&#93;(7)</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1磅</td><td>-</td></tr>
 
 <tr><td>轻型弩(7)</td><td>35金币</td><td>1d6</td><td>1d8</td><td>19-20/x2</td><td>80呎</td><td>4磅</td><td>穿刺</td></tr>
 
-<tr><td>弩矢[x10](7)</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>1磅</td><td>－</td></tr>
+<tr><td>弩矢&#91;x10&#93;(7)</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1磅</td><td>-</td></tr>
 
 <tr><td>飞镖</td><td>5银币</td><td>1d3</td><td>1d4</td><td>x2</td><td>20呎</td><td>1/2磅</td><td>穿刺</td></tr>
 
 <tr><td>标枪</td><td>1金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>30呎</td><td>2磅</td><td>穿刺</td></tr>
 
-<tr><td>投石索</td><td>－</td><td>1d3</td><td>1d4</td><td>x2</td><td>50呎</td><td>0磅</td><td>敲击</td></tr>
+<tr><td>投石索</td><td>-</td><td>1d3</td><td>1d4</td><td>x2</td><td>50呎</td><td>0磅</td><td>敲击</td></tr>
 
-<tr><td>投石索弹丸[x10]</td><td>1银币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>5磅</td><td>－</td></tr>
+<tr><td>投石索弹丸&#91;x10&#93;</td><td>1银币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5磅</td><td>-</td></tr>
 
 <tr><td colspan="8"></td></tr>
 
@@ -73,85 +73,85 @@ type: text/vnd.tiddlywiki
 
 <tr><td>轻型战锤</td><td>1金币</td><td>1d3</td><td>1d4</td><td>x2</td><td>20呎</td><td>2磅</td><td>敲击</td></tr>
 
-<tr><td>手斧</td><td>6金币</td><td>1d4</td><td>1d6</td><td>x3</td><td>－</td><td>3磅</td><td>挥砍</td></tr>
+<tr><td>手斧</td><td>6金币</td><td>1d4</td><td>1d6</td><td>x3</td><td>-</td><td>3磅</td><td>挥砍</td></tr>
 
-<tr><td>反曲刀</td><td>8金币</td><td>1d3</td><td>1d4</td><td>18-20/x2</td><td>－</td><td>2磅</td><td>挥砍</td></tr>
+<tr><td>反曲刀</td><td>8金币</td><td>1d3</td><td>1d4</td><td>18-20/x2</td><td>-</td><td>2磅</td><td>挥砍</td></tr>
 
-<tr><td>轻型十字镐</td><td>4金币</td><td>1d3</td><td>1d4</td><td>x4</td><td>－</td><td>3磅</td><td>穿刺</td></tr>
+<tr><td>轻型十字镐</td><td>4金币</td><td>1d3</td><td>1d4</td><td>x4</td><td>-</td><td>3磅</td><td>穿刺</td></tr>
 
-<tr><td>闷棍</td><td>1金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>2磅</td><td>敲击</td></tr>
+<tr><td>闷棍</td><td>1金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>2磅</td><td>敲击</td></tr>
 
-<tr><td>轻型盾牌</td><td>特殊</td><td>1d2</td><td>1d3</td><td>x2</td><td>－</td><td>特殊</td><td>敲击</td></tr>
+<tr><td>轻型盾牌</td><td>特殊</td><td>1d2</td><td>1d3</td><td>x2</td><td>-</td><td>特殊</td><td>敲击</td></tr>
 
-<tr><td>带刺盔甲</td><td>特殊</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>特殊</td><td>穿刺</td></tr>
+<tr><td>带刺盔甲</td><td>特殊</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>特殊</td><td>穿刺</td></tr>
 
-<tr><td>轻型带刺盾牌</td><td>特殊</td><td>1d3</td><td>1d4</td><td>x2</td><td>－</td><td>特殊</td><td>穿刺</td></tr>
+<tr><td>轻型带刺盾牌</td><td>特殊</td><td>1d3</td><td>1d4</td><td>x2</td><td>-</td><td>特殊</td><td>穿刺</td></tr>
 
-<tr><td>短剑</td><td>10金币</td><td>1d4</td><td>1d6</td><td>19-20/x2</td><td>－</td><td>2磅</td><td>穿刺</td></tr>
+<tr><td>短剑</td><td>10金币</td><td>1d4</td><td>1d6</td><td>19-20/x2</td><td>-</td><td>2磅</td><td>穿刺</td></tr>
 
 <tr><td colspan="8"><i>单手持用近战武器</i></td></tr>
 
-<tr><td>战斧</td><td>10金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>－</td><td>6磅</td><td>挥砍</td></tr>
+<tr><td>战斧</td><td>10金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>-</td><td>6磅</td><td>挥砍</td></tr>
 
-<tr><td>连枷</td><td>8金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>－</td><td>5磅</td><td>敲击</td></tr>
+<tr><td>连枷</td><td>8金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>-</td><td>5磅</td><td>敲击</td></tr>
 
-<tr><td>长剑</td><td>15金币</td><td>1d6</td><td>1d8</td><td>19-20/x2</td><td>－</td><td>4磅</td><td>挥砍</td></tr>
+<tr><td>长剑</td><td>15金币</td><td>1d6</td><td>1d8</td><td>19-20/x2</td><td>-</td><td>4磅</td><td>挥砍</td></tr>
 
-<tr><td>重型十字镐</td><td>8金币</td><td>1d4</td><td>1d6</td><td>x4</td><td>－</td><td>6磅</td><td>穿刺</td></tr>
+<tr><td>重型十字镐</td><td>8金币</td><td>1d4</td><td>1d6</td><td>x4</td><td>-</td><td>6磅</td><td>穿刺</td></tr>
 
-<tr><td>细剑</td><td>20金币</td><td>1d4</td><td>1d6</td><td>18-20/x2</td><td>－</td><td>2磅</td><td>穿刺</td></tr>
+<tr><td>细剑</td><td>20金币</td><td>1d4</td><td>1d6</td><td>18-20/x2</td><td>-</td><td>2磅</td><td>穿刺</td></tr>
 
-<tr><td>弯刀</td><td>15金币</td><td>1d4</td><td>1d6</td><td>18-20/x2</td><td>－</td><td>4磅</td><td>挥砍</td></tr>
+<tr><td>弯刀</td><td>15金币</td><td>1d4</td><td>1d6</td><td>18-20/x2</td><td>-</td><td>4磅</td><td>挥砍</td></tr>
 
-<tr><td>重型盾牌</td><td>特殊</td><td>1d3</td><td>1d4</td><td>x2</td><td>－</td><td>特殊</td><td>敲击</td></tr>
+<tr><td>重型盾牌</td><td>特殊</td><td>1d3</td><td>1d4</td><td>x2</td><td>-</td><td>特殊</td><td>敲击</td></tr>
 
-<tr><td>重型带刺盾牌</td><td>特殊</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>特殊</td><td>穿刺</td></tr>
+<tr><td>重型带刺盾牌</td><td>特殊</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>特殊</td><td>穿刺</td></tr>
 
 <tr><td>三叉矛</td><td>15金币</td><td>1d6</td><td>1d8</td><td>x2</td><td>10呎</td><td>4磅</td><td>穿刺</td></tr>
 
-<tr><td>战锤</td><td>12金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>－</td><td>5磅</td><td>敲击</td></tr>
+<tr><td>战锤</td><td>12金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>-</td><td>5磅</td><td>敲击</td></tr>
 
 <tr><td colspan="8"><i>双手持用近战武器</i></td></tr>
 
-<tr><td>弯刃大刀</td><td>75金币</td><td>1d6</td><td>2d4</td><td>18-20/x2</td><td>－</td><td>8磅</td><td>挥砍</td></tr>
+<tr><td>弯刃大刀</td><td>75金币</td><td>1d6</td><td>2d4</td><td>18-20/x2</td><td>-</td><td>8磅</td><td>挥砍</td></tr>
 
-<tr><td>大砍刀(4)</td><td>8金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>－</td><td>10磅</td><td>挥砍</td></tr>
+<tr><td>大砍刀(4)</td><td>8金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>-</td><td>10磅</td><td>挥砍</td></tr>
 
-<tr><td>巨斧</td><td>20金币</td><td>1d10</td><td>1d12</td><td>x3</td><td>－</td><td>12磅</td><td>挥砍</td></tr>
+<tr><td>巨斧</td><td>20金币</td><td>1d10</td><td>1d12</td><td>x3</td><td>-</td><td>12磅</td><td>挥砍</td></tr>
 
-<tr><td>巨木棒</td><td>5金币</td><td>1d8</td><td>1d10</td><td>x2</td><td>－</td><td>8磅</td><td>敲击</td></tr>
+<tr><td>巨木棒</td><td>5金币</td><td>1d8</td><td>1d10</td><td>x2</td><td>-</td><td>8磅</td><td>敲击</td></tr>
 
-<tr><td>重型连枷</td><td>15金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>－</td><td>10磅</td><td>敲击</td></tr>
+<tr><td>重型连枷</td><td>15金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>-</td><td>10磅</td><td>敲击</td></tr>
 
-<tr><td>巨剑</td><td>50金币</td><td>1d10</td><td>2d6</td><td>19-20/x2</td><td>－</td><td>8磅</td><td>挥砍</td></tr>
+<tr><td>巨剑</td><td>50金币</td><td>1d10</td><td>2d6</td><td>19-20/x2</td><td>-</td><td>8磅</td><td>挥砍</td></tr>
 
-<tr><td>长勾刀(4)</td><td>9金币</td><td>1d6</td><td>2d4</td><td>x3</td><td>－</td><td>12磅</td><td>挥砍</td></tr>
+<tr><td>长勾刀(4)</td><td>9金币</td><td>1d6</td><td>2d4</td><td>x3</td><td>-</td><td>12磅</td><td>挥砍</td></tr>
 
-<tr><td>戟</td><td>10金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>－</td><td>12磅</td><td>穿刺或挥砍</td></tr>
+<tr><td>戟</td><td>10金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>-</td><td>12磅</td><td>穿刺或挥砍</td></tr>
 
-<tr><td>长枪(4)</td><td>10金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>－</td><td>10磅</td><td>穿刺</td></tr>
+<tr><td>长枪(4)</td><td>10金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>-</td><td>10磅</td><td>穿刺</td></tr>
 
-<tr><td>刺叉(4)</td><td>10金币</td><td>1d6</td><td>2d4</td><td>x3</td><td>－</td><td>12磅</td><td>穿刺</td></tr>
+<tr><td>刺叉(4)</td><td>10金币</td><td>1d6</td><td>2d4</td><td>x3</td><td>-</td><td>12磅</td><td>穿刺</td></tr>
 
-<tr><td>巨镰</td><td>18金币</td><td>1d6</td><td>2d4</td><td>x4</td><td>－</td><td>10磅</td><td>穿刺或挥砍</td></tr>
+<tr><td>巨镰</td><td>18金币</td><td>1d6</td><td>2d4</td><td>x4</td><td>-</td><td>10磅</td><td>穿刺或挥砍</td></tr>
 
 <tr><td colspan="8"><i>远程武器</i></td></tr>
 
 <tr><td>长弓</td><td>75金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>100呎</td><td>3磅</td><td>穿刺</td></tr>
 
-<tr><td>箭[x20]</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>3磅</td><td>－</td></tr>
+<tr><td>箭&#91;x20&#93;</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3磅</td><td>-</td></tr>
 
 <tr><td>复合长弓</td><td>100金币</td><td>1d6</td><td>1d8</td><td>x3</td><td>110呎</td><td>3磅</td><td>穿刺</td></tr>
 
-<tr><td>箭[x20]</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>3磅</td><td>－</td></tr>
+<tr><td>箭&#91;x20&#93;</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3磅</td><td>-</td></tr>
 
 <tr><td>短弓</td><td>30金币</td><td>1d4</td><td>1d6</td><td>x3</td><td>60呎</td><td>2磅</td><td>穿刺</td></tr>
 
-<tr><td>箭[x20]</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>3磅</td><td>－</td></tr>
+<tr><td>箭&#91;x20&#93;</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3磅</td><td>-</td></tr>
 
 <tr><td>复合短弓</td><td>75金币</td><td>1d4</td><td>1d6</td><td>x3</td><td>70呎</td><td>2磅</td><td>穿刺</td></tr>
 
-<tr><td>箭[x20]</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>3磅</td><td>－</td></tr>
+<tr><td>箭&#91;x20&#93;</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3磅</td><td>-</td></tr>
 
 <tr><td colspan="8"></td></tr>
 
@@ -159,35 +159,35 @@ type: text/vnd.tiddlywiki
 
 <tr><td colspan="8"><i>轻型近战武器</i></td></tr>
 
-<tr><td>单镰</td><td>2金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>2磅</td><td>挥砍</td></tr>
+<tr><td>单镰</td><td>2金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>2磅</td><td>挥砍</td></tr>
 
-<tr><td>双节棍</td><td>2金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>2磅</td><td>敲击</td></tr>
+<tr><td>双节棍</td><td>2金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>2磅</td><td>敲击</td></tr>
 
 <tr><td>十手(6)</td><td>1金币</td><td>1d3</td><td>1d4</td><td>x2</td><td>10呎</td><td>1磅</td><td>敲击</td></tr>
 
-<tr><td>破魔锥(6)</td><td>3金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>－</td><td>1磅</td><td>穿刺</td></tr>
+<tr><td>破魔锥(6)</td><td>3金币</td><td>1d4</td><td>1d6</td><td>x2</td><td>-</td><td>1磅</td><td>穿刺</td></tr>
 
 <tr><td colspan="8"><i>单手持用近战武器</i></td></tr>
 
-<tr><td>重剑</td><td>35金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>－</td><td>6磅</td><td>挥砍</td></tr>
+<tr><td>重剑</td><td>35金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>-</td><td>6磅</td><td>挥砍</td></tr>
 
-<tr><td>矮人重斧</td><td>30金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>－</td><td>8磅</td><td>挥砍</td></tr>
+<tr><td>矮人重斧</td><td>30金币</td><td>1d8</td><td>1d10</td><td>x3</td><td>-</td><td>8磅</td><td>挥砍</td></tr>
 
-<tr><td>鞭子(4)</td><td>1金币</td><td>1d2</td><td>1d3</td><td>x2</td><td>－</td><td>2磅</td><td>挥砍</td></tr>
+<tr><td>鞭子(4)</td><td>1金币</td><td>1d2</td><td>1d3</td><td>x2</td><td>-</td><td>2磅</td><td>挥砍</td></tr>
 
 <tr><td colspan="8"><i>双手持用近战武器</i></td></tr>
 
-<tr><td>兽人双头斧(5)</td><td>60金币</td><td>1d6/1d6</td><td>1d8/1d8</td><td>x3</td><td>－</td><td>15磅</td><td>挥砍</td></tr>
+<tr><td>兽人双头斧(5)</td><td>60金币</td><td>1d6/1d6</td><td>1d8/1d8</td><td>x3</td><td>-</td><td>15磅</td><td>挥砍</td></tr>
 
-<tr><td>刺链(4)</td><td>25金币</td><td>1d6</td><td>2d4</td><td>x2</td><td>－</td><td>10磅</td><td>穿刺</td></tr>
+<tr><td>刺链(4)</td><td>25金币</td><td>1d6</td><td>2d4</td><td>x2</td><td>-</td><td>10磅</td><td>穿刺</td></tr>
 
-<tr><td>双头连枷(5)</td><td>90金币</td><td>1d6/1d6</td><td>1d8/1d8</td><td>x2</td><td>－</td><td>10磅</td><td>敲击</td></tr>
+<tr><td>双头连枷(5)</td><td>90金币</td><td>1d6/1d6</td><td>1d8/1d8</td><td>x2</td><td>-</td><td>10磅</td><td>敲击</td></tr>
 
-<tr><td>侏儒勾式战锤(5)</td><td>20金币</td><td>1d6/1d4</td><td>1d8/1d6</td><td>x3/x4</td><td>－</td><td>6磅</td><td>敲击与穿刺</td></tr>
+<tr><td>侏儒勾式战锤(5)</td><td>20金币</td><td>1d6/1d4</td><td>1d8/1d6</td><td>x3/x4</td><td>-</td><td>6磅</td><td>敲击与穿刺</td></tr>
 
-<tr><td>双头剑(5)</td><td>100金币</td><td>1d6/1d6</td><td>1d8/1d8</td><td>19-20/x2</td><td>－</td><td>10磅</td><td>挥砍</td></tr>
+<tr><td>双头剑(5)</td><td>100金币</td><td>1d6/1d6</td><td>1d8/1d8</td><td>19-20/x2</td><td>-</td><td>10磅</td><td>挥砍</td></tr>
 
-<tr><td>矮人矛斧(5)</td><td>50金币</td><td>1d6/1d4</td><td>1d8/1d6</td><td>x3</td><td>－</td><td>12磅</td><td>挥砍或穿刺</td></tr>
+<tr><td>矮人矛斧(5)</td><td>50金币</td><td>1d6/1d4</td><td>1d8/1d6</td><td>x3</td><td>-</td><td>12磅</td><td>挥砍或穿刺</td></tr>
 
 <tr><td colspan="8"><i>远程武器</i></td></tr>
 
@@ -195,19 +195,19 @@ type: text/vnd.tiddlywiki
 
 <tr><td>单手弩(7)</td><td>100金币</td><td>1d3</td><td>1d4</td><td>19-20/x2</td><td>30呎</td><td>2磅</td><td>穿刺</td></tr>
 
-<tr><td>弩矢[x10](7)</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>1磅</td><td>－</td></tr>
+<tr><td>弩矢&#91;x10&#93;(7)</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1磅</td><td>-</td></tr>
 
 <tr><td>连发重型弩(7)</td><td>400金币</td><td>1d8</td><td>1d10</td><td>19-20/x2</td><td>120呎</td><td>12磅</td><td>穿刺</td></tr>
 
-<tr><td>弩矢[x5](7)</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>1磅</td><td>－</td></tr>
+<tr><td>弩矢&#91;x5&#93;(7)</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1磅</td><td>-</td></tr>
 
 <tr><td>连发轻型弩</td><td>250金币</td><td>1d6</td><td>1d8</td><td>19-20/x2</td><td>80呎</td><td>6磅</td><td>穿刺</td></tr>
 
-<tr><td>弩矢[x5](7)</td><td>1金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>1磅</td><td>－</td></tr>
+<tr><td>弩矢&#91;x5&#93;(7)</td><td>1金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1磅</td><td>-</td></tr>
 
-<tr><td>网子</td><td>20金币</td><td>－</td><td>－</td><td>－</td><td>10呎</td><td>6磅</td><td>－</td></tr>
+<tr><td>网子</td><td>20金币</td><td>-</td><td>-</td><td>-</td><td>10呎</td><td>6磅</td><td>-</td></tr>
 
-<tr><td>手里剑[x5]</td><td>1金币</td><td>1</td><td>1d2</td><td>x2</td><td>10呎</td><td>1/2磅</td><td>穿刺</td></tr></table>
+<tr><td>手里剑&#91;x5&#93;</td><td>1金币</td><td>1</td><td>1d2</td><td>x2</td><td>10呎</td><td>1/2磅</td><td>穿刺</td></tr></table>
 
 <ul><li>中型武器的重量。小型武器重量为表列的一半，大型武器为两倍。</li>
 

@@ -37,7 +37,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>大师之抚</b><i>(Master's Touch)</i>：受术者在某一个技能检定上立刻获得4点加值</p>
 
-<p><b>巨蟒射线</b><i>(Ray of the Python)</i>：受术者每轮只能攻击一次，不能进行借机攻击，速度受到－10英尺的惩罚。</p>
+<p><b>巨蟒射线</b><i>(Ray of the Python)</i>：受术者每轮只能攻击一次，不能进行借机攻击，速度受到-10英尺的惩罚。</p>
 
 <p><b>武器延展</b><i>(Stretch Weapon)</i>：在一次攻击中，近战武器的威胁范围扩大5英尺。</p>
 
@@ -57,7 +57,7 @@ type: text/vnd.tiddlywiki
 
 <h4>4级法术</h4>
 
-<p><b>恶意闪现</b><i>(Baleful Blink)</i>：让目标在攻击和施法上有50％几率失手。</p>
+<p><b>恶意闪现</b><i>(Baleful Blink)</i>：让目标在攻击和施法上有50%几率失手。</p>
 
 <p><b>迅捷爆发</b><i>(Celerity)</i>：立即获得一个标准动作，但接下来将晕眩一轮。</p>
 
@@ -109,7 +109,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>坚卫哨兵</b><i>(Legion of Sentinels)</i>：幽灵剑士在10FT范围内戒备着，它能造成1D8+1/每3施法者等级(最高+5)点伤害。</p>
 
-<p><b>晕眩之地</b><i>(Vertigo Field)</i>：目标有20％几率失手，并且有可能反胃。</p>
+<p><b>晕眩之地</b><i>(Vertigo Field)</i>：目标有20%几率失手，并且有可能反胃。</p>
 
 <h4>4级法术</h4>
 

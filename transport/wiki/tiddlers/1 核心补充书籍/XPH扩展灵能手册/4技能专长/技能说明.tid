@@ -50,15 +50,15 @@ type: text/vnd.tiddlywiki
 <table align=center>
 <tr><td>专注DC[1]</td><td>分心状况</td></tr>
 
-<tr><td>10+所受伤害</td><td>动作过程中受伤[2]</td></tr>
+<tr><td>10+所受伤害</td><td>动作过程中受伤&#91;2&#93;</td></tr>
 
-<tr><td>10+最近一次持续伤害的一半</td><td>动作过程中遭受持续伤害[3]</td></tr>
+<tr><td>10+最近一次持续伤害的一半</td><td>动作过程中遭受持续伤害&#91;3&#93;</td></tr>
 
 <tr><td>15+异能能级</td><td>试图不产生异象的展现异能</td></tr>
 
 <tr><td>15</td><td>被纠缠</td></tr>
 
-<tr><td>干扰异能的豁免DC</td><td>被非伤害异能干扰[4]</td></tr>
+<tr><td>干扰异能的豁免DC</td><td>被非伤害异能干扰&#91;4&#93;</td></tr>
 
 <tr><td>20</td><td>获得灵能集中</td></tr>
 

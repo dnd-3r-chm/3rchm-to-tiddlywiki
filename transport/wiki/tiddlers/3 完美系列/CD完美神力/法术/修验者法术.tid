@@ -1,0 +1,502 @@
+title: 修验者法术 (CD-完美神力)
+tags: [[3 完美系列]] [[CD完美神力]]
+source: 3 完美系列/CD完美神力/法术/修验者法术.htm
+type: text/vnd.tiddlywiki
+
+<p>修验者的法术</p>
+
+<p><b>修验者的0环法术</b></p>
+
+<p>[风]</p>
+
+<p>晕眩术(Daze)：4HD以下的类人生物会失去下一次的动作。</p>
+
+<p>幻音术(Ghost Sound)：发出虚幻的假声。</p>
+
+<p>神导术(Guidance)：单次攻击检定、豁免检定或技能检定+1。</p>
+
+<p>指北术(Know Direction)：指出北方。</p>
+
+<p>[地]</p>
+
+<p>法师之手(Mage Hand)：可对5磅以内的物品使用心灵遥控。</p>
+
+<p>修复术(Mending)：修复目标物品的细微损伤。</p>
+
+<p>提升抗力(Resistance)：受术者的豁免检定获得+1加值。</p>
+
+<p>恩赐(Virtue)：受术者获得1点暂时生命值。</p>
+
+<p>[火]</p>
+
+<p>舞光术(Dancing Lights)：制造火把或其他光源。</p>
+
+<p>打击死灵(Disrupt Undead)：对一个不死生物造成1d6点伤害。</p>
+
+<p>闪光术(Flare)：使一个生物目眩(攻击检定-1)。</p>
+
+<p>光亮术(Light)：使目标物品如火把般发光。</p>
+
+<p>[水]</p>
+
+<p>造水术(Create Water)：每等级可造出2加仑纯水。</p>
+
+<p>治疗微伤(Cure Minor Wounds)：治疗1点伤害。</p>
+
+<p>侦测毒性(Detect Poison)：侦测一个生物或小型物体所带有的毒性。</p>
+
+<p>净化食粮(Purify Food and Drink)：每等级精制出1立方呎的水或食物。</p>
+
+<p>[通用]</p>
+
+<p>侦测魔法(Detect Magic)：侦测60呎内的法术或魔法物品。</p>
+
+<p>阅读魔法(Read Magic)：阅读卷轴及法术书。</p>
+
+<p><b>修验者的1环法术</b></p>
+
+<p>[风]</p>
+
+<p>侦测陷阱(Detect Snares and Pits)：侦测天然或简单的陷阱。</p>
+
+<p>变颜术(Disguise Self)：改变自己的外貌。</p>
+
+<p>脚底抹油(Expeditious Retreat)：你的速度增加30呎。</p>
+
+<p>羽落术(Feather Fall)：目标物品或生物以缓慢的速度下降。</p>
+
+<p>无声幻影(Silent Image)：造出你想要的幻影。</p>
+
+<p>睡眠术(Sleep)：使生命骰数和为4的生物群陷入魔法昏睡状态。</p>
+
+<p>[地]</p>
+
+<p>魔石术(Magic Stone)：变出三颗魔石，攻击获得+1加值，可造成1d6+1点伤害。</p>
+
+<p>魔化武器(Magic Weapon)：将魔力灌入武器，使其获得+1加值。</p>
+
+<p>行动无踪(Pass Without Trace)：每等级可使一个受术者行走不留踪迹。</p>
+
+<p>圣域术(Sanctuary)：对手无法攻击你，你也无法进行攻击。</p>
+
+<p>虔诚护盾(Shield of Faith)：神圣灵光，可获得至少+2偏斜加值。</p>
+
+<p>[火]</p>
+
+<p>燃烧之手(Burning Hands)：每等级造成1d4点火焰伤害，最大5d4。</p>
+
+<p>惊恐术(Cause Fear)：使一个5HD以下的生物逃窜1d4个回合。</p>
+
+<p>妖火(Faerie Fire)：以光描绘出受术者的轮廓，可抵销「朦胧术」、隐藏效果等。</p>
+
+<p>催眠术(Hypnotism)：使生命骰数和为2d4的生物群陷入迷魂状态。</p>
+
+<p>电爪(Shocking Grasp)：接触时可传送电流，每等级造成1d6点伤害，最大5d6。</p>
+
+<p>[水]</p>
+
+<p>动物交谈(Speak with Animals)：你可以与动物交谈。</p>
+
+<p>祝福术(Bless)：同伴获得攻击检定+1，抗恐惧豁免检定+1。</p>
+
+<p>治疗轻伤(Cure Light Wounds)：治疗1d8点伤害，每等级再多治疗+1点，最高+5点。</p>
+
+<p>隐雾术(Obscuring Mist)：周围产生迷雾环绕。</p>
+
+<p>移除恐惧(Remove Fear)：压抑恐惧感，或使一个受术者的抗恐惧豁免检定+4，每4等级增加一对象。</p>
+
+<p>[通用]</p>
+
+<p>忍受元素伤害(Endure Elements)：在寒冷或炎热环境中怡然自得。</p>
+
+<p><b>修验者的2环法术</b></p>
+
+<p>[风]</p>
+
+<p>侦测思想(Detect Thoughts)：可以观察到他人的表面想法。</p>
+
+<p>浮空术(Levitate)：受术者依你指示上下移动。</p>
+
+<p>次级幻影(Minor Image)：与「无声幻影」同，但能发出一些声音。</p>
+
+<p>沉默术(Silence)：消除半径15呎范围内的声音。</p>
+
+<p>七彩喷射(Color Spray)：震慑1d6个弱小生物，或将之敲到昏迷、使之目盲。</p>
+
+<p>[地]</p>
+
+<p>树肤术(Barkskin)：天生防具获得+2以上的增强加值。</p>
+
+<p>坚韧术(Bear's Endurance)：受术者获得+4体质加值，持续时间为每等级1分钟。</p>
+
+<p>蛮力术(Bull's Strength)：受术者获得+4力量加值，持续时间为每等级1分钟。</p>
+
+<p>人类定身术(Hold Person)：使一个类人生物无法动弹，持续时间为每等级1轮。</p>
+
+<p>完全修复术(Make Whole)：修复一件物品。</p>
+
+<p>闪光尘(Glitterdust)：使生物目盲，或看见隐形生物的轮廓。</p>
+
+<p>[火]</p>
+
+<p>轻灵术(Cat's Grace)：受术者获得+4敏捷加值，持续时间为每等级1分钟。</p>
+
+<p>火焰刀(Flame Blade)：接触攻击可造成1d8点伤害，每2等级伤害多+1点。</p>
+
+<p>炽焰法球(Flaming Sphere)：滚出一团火球，造成2d6点伤害，持续时间为每等级1轮。</p>
+
+<p>灼热金属(Heat Metal)：使金属灼热，足以烫伤任何接触它的人。</p>
+
+<p>燃火术(Produce Flame)：产生火焰接触或丢掷敌人，伤害值为1d6点，每等级再+1点。</p>
+
+<p>[水]</p>
+
+<p>云雾术(Fog Cloud)：产生浓雾遮蔽视线。</p>
+
+<p>治疗中度伤(Cure Moderate Wounds)：治疗2d8点伤害，每等级再多治疗+1点，最高+10点。</p>
+
+<p>减缓毒发(Delay Poison)：使毒性停止对受术者造成伤害，每等级持续1小时。</p>
+
+<p>次级复原术(Restoration, Lesser)：解除所有魔法属性减值，或回复1d4属性伤害。</p>
+
+<p>物品定位术(Locate Object)：感应目标物品的所在方向，可指定物品型态或特定物品。</p>
+
+<p>移除麻痹(Remove Paralysis)：移除一或多个生物的麻痹或缓慢效果。</p>
+
+<p>[通用]</p>
+
+<p>抵抗元素伤害(Resist Energy)：可忽略指定能量型态所造成的10点(或更多)伤害。</p>
+
+<p><b>修验者的3环法术</b></p>
+
+<p>[风]</p>
+
+<p>锐耳术/鹰眼术(Clairaudience/Clairvoyance)：听或看到远方之情形，每等级维持1分钟。</p>
+
+<p>造风术(Gust of Wind)：刮走或吹倒小型生物。</p>
+
+<p>加速术(Haste)：每等级可让1个生物移动得更快，其攻击检定、AC与反射检定+1。</p>
+
+<p>隐形(Invisibility)：受术者隐形，持续时间为每等级1分钟，或直到进行攻击为止。</p>
+
+<p>高等幻影(Major Image)：与「无声幻影」同，只是有声音、气味和温度。</p>
+
+<p>风墙术(Wind Wall)：使箭矢、小生物及气体转向。</p>
+
+<p>[地]</p>
+
+<p>高等魔化武器(Magic Weapon, Greater)：每4等级+1，最多+5。</p>
+
+<p>融身入石(Meld Into Stone)：你和身上的配件可以与石头混合。</p>
+
+<p>祈祷术(Prayer)：盟友大部分检定都可得到+1加值，敌人则-1。</p>
+
+<p>塑石术(Stone Shape)：将石头雕塑成任何形状。</p>
+
+<p>[火]</p>
+
+<p>召雷术(Call Lightning)：由空中召唤闪电，每道造成3d6点伤害。</p>
+
+<p>昼明术(Daylight)：产生半径60呎的亮光。</p>
+
+<p>焰之翼(Fire Wings)：你的手臂变成燃烧着的翅膀，可以飞行或点燃东西。</p>
+
+<p>锐锋术(Keen Edge)：一般武器可增加一倍重击威胁范围。</p>
+
+<p>灼热光辉(Searing Light)：发出射线，每2等级可对敌人造成1d8点伤害。若对手是不死生物，则伤害更重。</p>
+
+<p>[水]</p>
+
+<p>治疗重伤(Cure Serious Wounds)：治疗3d8点伤害，每等级再多治疗+1点，最高+15点。</p>
+
+<p>移除目盲/耳聋(Remove Blindness/Deafness)：治疗正常或魔法造成的目盲及耳聋。</p>
+
+<p>移除诅咒(Remove Curse)：移除物品或人身上的诅咒。</p>
+
+<p>移除疾病(Remove Disease)：清除对象身上所有疾病。</p>
+
+<p>水中呼吸法(Water Breathing)：受术者可在水面下呼吸。</p>
+
+<p>水面行走(Water Walk)：目标行于水上如履实地。</p>
+
+<p>[通用]</p>
+
+<p>解除魔法(Dispel Magic)：使魔法效果或法术失效。</p>
+
+<p>守卫结界[M](Glyph of Warding)：魔法刻文，会伤害经过者。</p>
+
+<p>防护元素伤害(Protection from Energy)：指定一种能量，每等级可吸收12点该种能量所造成的伤害。</p>
+
+<p>三级召唤盟友术(Summon Nature's Ally III)〔只限小型元素〕：呼唤生物共同作战。</p>
+
+<p><b>修验者的4环法术</b></p>
+
+<p>[风]</p>
+
+<p>凌空而行(Air Walk)：使受术者可踏入空中(以45度攀爬)，如在实地行走一般。</p>
+
+<p>侦测探知(Detect Scrying)：警告你有人使用魔法在窃听。</p>
+
+<p>辨知谎言(Discern Lies)：发觉蓄意的谎言。</p>
+
+<p>幻景(Hallucinatory Terrain)：使某种地形看起来像是另一种(如</p>
+
+<p>幻墙术(Illusory Wall)：制造拟真的墙、门、天花板，但任何事物都可穿过。</p>
+
+<p>[地]</p>
+
+<p>防死结界(Death Ward)：对死亡类法术与负能量效果免疫。</p>
+
+<p>驱逐术(Dismissal)：强迫生物回到原属位面。</p>
+
+<p>法术免疫(Spell Immunity)：每4等级，可使受术者对一个法术免疫。</p>
+
+<p>刺石术(Spike Stones)：指定区域的生物受到1d8点伤害，并有可能变缓慢。</p>
+
+<p>次元锚(Dimensional Anchor)：阻挡往异次元的移动。</p>
+
+<p>[火]</p>
+
+<p>火焰护盾(Fire Shield)：攻击你的生物会受到火焰伤害，你可以不受热或冷影响。</p>
+
+<p>火焰箭(Flame Arrow)：射出飞箭，造成1d6点火焰伤害。</p>
+
+<p>闪电束(Lightning Bolt)：电流每等级可造成1d6点伤害。</p>
+
+<p>灭火术(Quench)：灭掉非魔法的火焰，或一个带有火焰效果的魔法物品。</p>
+
+<p>火墙术(Wall of Fire)：10呎内可造成2d4点火焰伤害，20呎内则造成1d4点火焰伤害。穿越火墙会受到「2d6+施法者等级」点伤害。</p>
+
+<p>[水]</p>
+
+<p>操控水位(Control Water)：使水位上升或下降。</p>
+
+<p>治疗致命伤(Cure Critical Wounds)：治疗4d8点伤害，每等级再多治疗+1点，最高+20点。</p>
+
+<p>生物定位术(Locate Creature)：指出熟悉生物的方向。</p>
+
+<p>中和毒性(Neutralize Poison)：使受术者对毒免疫，去除物体内外的毒素。</p>
+
+<p>复原术[M](Restoration)：恢复被吸取的属性值与等级。</p>
+
+<p><b>修验者的5环法术</b></p>
+
+<p>[风]</p>
+
+<p>操控风相(Control Winds)：改变风的方向与速度。</p>
+
+<p>任意门(Dimension Door)：传送至范围内任一地点。</p>
+
+<p>高等隐形(Invisibility, Greater)：与「隐形」同，但受术者进行攻击后仍可保持隐形。</p>
+
+<p>海市蜃楼(Mirage Arcana)：与「幻景」同，只是包含建筑物。</p>
+
+<p>常驻幻影(Persistent Image)：与「高等幻影」同，但不需集中精神。</p>
+
+<p>[地]</p>
+
+<p>穿墙术(Passwall)：在木或石墙上造出通路。</p>
+
+<p>法术抗力(Spell Resistance)：受术者可获得「12+施法者等级」的法术抗力。</p>
+
+<p>铁墙术[M](Wall of Iron)：生命值为每4等级30点，可压在对手身上。</p>
+
+<p>石墙术(Wall of Stone)：制造一面石墙，形状可自订。</p>
+
+<p>[火]</p>
+
+<p>能量漩涡(Energy Vortex)〔仅限火焰〕：以你为圆心爆裂的能量伤害附近所有生物。</p>
+
+<p>困惑术(Confusion)：使受术者作一些怪事，持续时间为每等级1轮。</p>
+
+<p>弱智术(Feeblemind)：使受术者的智力值与魅力值降至1。</p>
+
+<p>龙之吐息(Dragon Breath)〔仅限红龙和金龙〕：你选择一种龙并模仿它的喷吐武器。</p>
+
+<p>焰击术(Flame Strike)：用圣火击打对手，每等级可造成1d6点伤害。</p>
+
+<p>[水]</p>
+
+<p>赎罪术[F,X](Atonement)：去除受术者的罪孽重负。</p>
+
+<p>集体治疗轻伤(Cure Light Wounds, Mass)：对多个生物治疗1d8点伤害，每等级再多治疗+1点。</p>
+
+<p>正气如虹(Righteous Might)：身体变大，并获得战斗加值。</p>
+
+<p>探知[F](Scrying)：可由远处监视受术者。</p>
+
+<p>冰墙术(Wall of Ice)：使用「平面功效」造出冰墙，生命值为「15+施法者等级」点；或使用「半球功效」将生物困于其中。</p>
+
+<p>[通用]</p>
+
+<p>问道自然(Commune With Nature)：每等级可了解1哩之内的地形。</p>
+
+<p>五级召唤盟友术(Summon Nature's Ally V)〔仅限中型元素〕：呼唤生物共同作战。</p>
+
+<p><b>修验者的6环法术</b></p>
+
+<p>[风]</p>
+
+<p>死云术(Cloudkill)：杀害生命骰数3以下生物，生命骰数4到6若没通过豁免检定则死亡，生命骰数大于6的生物会受到体质伤害。</p>
+
+<p>永恒幻影(Permanent Image)：与「无声幻影」同，但可以有视力、声音与气味。</p>
+
+<p>传送术(Teleport)：立刻将你传送至任何地方，最远为每等级100哩。</p>
+
+<p>迷罩(Veil)：改变一群生物的外貌。</p>
+
+<p>御风而行(Wind Walk)：你与盟友化为气态，得以快速旅行。</p>
+
+<p>[地]</p>
+
+<p>防魔法力场(Antimagic Field)：抵销10呎内的法术。</p>
+
+<p>放逐术(Banishment)：每等级可放逐2HD的外界生物。</p>
+
+<p>地动术(Move Earth)：挖出沟渠或造出山丘。</p>
+
+<p>石言术(Stone Tell)：与天然石头或雕琢后的石制物交谈。</p>
+
+<p>石肤术[M](Stoneskin)：每次被攻击时可挡下10点伤害。</p>
+
+<p>[火]</p>
+
+<p>火种术(Fire Seeds)：可以将橡实与浆果变成手榴弹与炸弹。</p>
+
+<p>烈火净身(Fires of Purity)：受术者爆发出魔法火焰，成为一件危险的武器。</p>
+
+<p>高等守卫结界(Glyph of Warding, Greater)：与「守卫结界」同，但伤害值可到10d8点，或最高可用六级法术。</p>
+
+<p>烈阳之怒(Anger of the Noonday Sun)：致盲10尺内的生物，伤害不死生物。</p>
+
+<p>[水]</p>
+
+<p>触发术[F](Contingency)：设定另一法术的触发条件。</p>
+
+<p>操控天气(Control Weather)：可以改变当地的气候。</p>
+
+<p>医疗术(Heal)：每等级治疗10点伤害、所有疾病与心理创伤。</p>
+
+<p>潮汐奔涌(Tidal Surge)：波浪造成每等级1d6伤害以及冲撞敌人。</p>
+
+<p>真知术[M](True Seeing)：见到所有事物的原本面貌。</p>
+
+<p>[通用]</p>
+
+<p>高等解除魔法(Dispel Magic, Greater)：与「解除魔法」同，但检定+20。</p>
+
+<p>六级召唤盟友术(Summon Nature's Ally VI)〔仅限大型元素〕：呼唤生物共同作战。</p>
+
+<p><b>修验者的7环法术</b></p>
+
+<p>[风]</p>
+
+<p>集体隐形(Invisibility, Mass)：与「隐形」同，但可影响范围内所有人。</p>
+
+<p>假象术(Mislead)：使你隐形，并产生分身幻象。</p>
+
+<p>预置幻影[M](Programmed Image)：与「高等幻影」同，但是由事件触发而产生。</p>
+
+<p>物品传送术(Teleport Object)：与「传送术」同，但只能传送接触到的物体。</p>
+
+<p>[地]</p>
+
+<p>解离术(Disintegrate)：使一个生物或目标物品消失。</p>
+
+<p>法术反转(Spell Turning)：将1d4+6法术等级的法术反弹回施法者。</p>
+
+<p>雕像术(Statue)：自愿的受术者化为雕像。</p>
+
+<p>石化术(Flesh to Stone)：使受术者成为石像。</p>
+
+<p>[火]</p>
+
+<p>连环闪电(Chain Lightning)：每等级可造成1d6点伤害，每等级可另发出一束闪电，造成半数伤害。</p>
+
+<p>火焰风暴(Fire Storm)：每等级可造成1d6点火焰伤害。</p>
+
+<p>阳炎射线(Sunbeam)：产生会使人目盲的强光，并造成4d6点伤害。</p>
+
+<p>[水]</p>
+
+<p>高等深度冻寒(Creeping Cold, Greater)：如同深度冻寒，但是持续时间更长，伤害更多。</p>
+
+<p>高等复原术[M](Restoration, Greater)：与「复原术」同，再加上恢复所有被吸取的等级与属性值。</p>
+
+<p>复生术[M](Resurrection)：使已死对象完全复活。</p>
+
+<p>高等探知(Scrying, Greater)：与「探知」同，但更快更久。</p>
+
+<p>[通用]</p>
+
+<p>七级召唤盟友术(Summon Nature's Ally VII)〔仅限超大型元素〕：呼唤生物共同作战。</p>
+
+<p><b>修验者的8环法术</b></p>
+
+<p>[风]</p>
+
+<p>障幕(Screen)：利用幻象让一个地区无法被见到或法术探知。</p>
+
+<p>高等传送术(Teleport, Greater)：与「传送术」同，但到达地点没有误差。</p>
+
+<p>旋风术(Whirlwind)：龙卷风可造成伤害，并可卷起生物。</p>
+
+<p>[地]</p>
+
+<p>束缚大法[M](Binding)：利用一系列技巧来禁锢生物。</p>
+
+<p>地震术(Earthquake)：半径每等级5呎内产生剧烈摇晃。</p>
+
+<p>防护法术[M,F](Protection from Spells)：施与受术者+8的抗力加值。</p>
+
+<p>[火]</p>
+
+<p>焚云术(Incendiary Cloud)：燃烧的云每轮可造成4d6点伤害。</p>
+
+<p>律令目盲(Power Word Blind)：使生命值低于200点的生物目盲。</p>
+
+<p>阳炎爆(Sunburst)：10呎内生物目盲，并造成6d6点伤害。</p>
+
+<p>[水]</p>
+
+<p>感知位置(Discern Location)：得知目标生物或物品的确实位置。</p>
+
+<p>集体医疗术(Heal, Mass)：与「医疗术」同，但可针对多个受术者。</p>
+
+<p>再生术(Regenerate)：受术者断裂的肢体可再生，治疗4d8伤害，每等级再多治疗+1点，最高+35点。</p>
+
+<p>[通用]</p>
+
+<p>八级召唤盟友术(Summon Nature's Ally VIII)〔仅限巨型元素〕：呼唤生物共同作战。</p>
+
+<p><b>修验者的9环法术</b></p>
+
+<p>[风]</p>
+
+<p>传送法阵[M](Teleportation Circle)：将圆阵中所有生物传送至指定地点。</p>
+
+<p>同游灵界(Etherealness)：与同伴一起旅行至灵界。</p>
+
+<p>[地]</p>
+
+<p>嫌恶术(Antipathy)：受法术影响的地域或目标物品会自动排斥某些生物。</p>
+
+<p>禁锢术(Imprisonment)：将受术者埋住。</p>
+
+<p>[火]</p>
+
+<p>流星爆(Meteor Swarm)：制造出4个会造成6d6点火焰伤害的爆炸火球。</p>
+
+<p>内爆术(Implosion)：每轮杀害一个生物。</p>
+
+<p>[水]</p>
+
+<p>完全复生术[M](True Resurrection)：与「复生术」同，但不需要受术者的遗骸。</p>
+
+<p>复仇风暴(Storm of Vengeance)：下着酸液、寒冰和霜雹的风暴。</p>
+
+<p>[通用]</p>
+
+<p>元素集群(Elemental Swarm)：可召唤多个元素。</p>
+
+<p>九级召唤盟友术[X](Summon Nature's Ally IX)〔仅限元素长老〕：呼唤生物共同作战。</p>

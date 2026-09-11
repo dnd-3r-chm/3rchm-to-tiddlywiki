@@ -33,9 +33,9 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td>等级</td><td>基本攻击</td><td>强韧</td><td>反射</td><td>意志</td><td>特殊</td></tr>
-<tr><td>1</td><td>＋1</td><td>＋2</td><td>＋0</td><td>＋0</td><td>动物同伴／特殊坐骑，骑术奖励，荒原行者</td></tr>
-<tr><td>2</td><td>＋2</td><td>＋3</td><td>＋0</td><td>＋0</td><td>荒原迅捷</td></tr>
-<tr><td>3</td><td>＋3</td><td>＋3</td><td>＋1</td><td>＋1</td><td>荒原突击</td></tr>
+<tr><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>+0</td><td>动物同伴/特殊坐骑，骑术奖励，荒原行者</td></tr>
+<tr><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>+0</td><td>荒原迅捷</td></tr>
+<tr><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td>荒原突击</td></tr>
 </table>
 
 <p><b>职业能力</b></p>

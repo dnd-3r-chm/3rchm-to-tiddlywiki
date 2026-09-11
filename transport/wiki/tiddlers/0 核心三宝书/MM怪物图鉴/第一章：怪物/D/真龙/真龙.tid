@@ -39,23 +39,23 @@ type: text/vnd.tiddlywiki
   </tbody>
 </table>
 
-<p>龙的占用空间／可触距离、攻击与伤害</p>
+<p>龙的占用空间/可触距离、攻击与伤害</p>
 
 <table>
   <thead>
     <tr>
-      <th>体型</th><th>占用空间／可触距离*</th><th>1啮咬</th><th>2爪抓</th>
+      <th>体型</th><th>占用空间/可触距离*</th><th>1啮咬</th><th>2爪抓</th>
       <th>2翼击</th><th>1尾巴拍击</th><th>1碾压</th><th>1扫尾</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>超小型</td><td>2.5英尺／0英尺(啮咬时5英尺)</td><td>1d4</td><td>1d3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-    <tr><td>小型</td><td>5英尺／5英尺</td><td>1d6</td><td>1d4</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-    <tr><td>中型</td><td>5英尺／5英尺(啮咬时10英尺)</td><td>1d8</td><td>1d6</td><td>1d4</td><td>—</td><td>—</td><td>—</td></tr>
-    <tr><td>大型</td><td>10英尺／5英尺(啮咬时10英尺)</td><td>2d6</td><td>1d8</td><td>1d6</td><td>1d8</td><td>—</td><td>—</td></tr>
-    <tr><td>超大型</td><td>15英尺／10英尺(啮咬时15英尺)</td><td>2d8</td><td>2d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>—</td></tr>
-    <tr><td>巨型</td><td>20英尺／15英尺(啮咬时20英尺)</td><td>4d6</td><td>2d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>2d6</td></tr>
-    <tr><td>超巨型</td><td>30英尺／20英尺(啮咬时30英尺)</td><td>4d8</td><td>4d6</td><td>2d8</td><td>4d6</td><td>4d8</td><td>2d8</td></tr>
+    <tr><td>超小型</td><td>2.5英尺/0英尺(啮咬时5英尺)</td><td>1d4</td><td>1d3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+    <tr><td>小型</td><td>5英尺/5英尺</td><td>1d6</td><td>1d4</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+    <tr><td>中型</td><td>5英尺/5英尺(啮咬时10英尺)</td><td>1d8</td><td>1d6</td><td>1d4</td><td>—</td><td>—</td><td>—</td></tr>
+    <tr><td>大型</td><td>10英尺/5英尺(啮咬时10英尺)</td><td>2d6</td><td>1d8</td><td>1d6</td><td>1d8</td><td>—</td><td>—</td></tr>
+    <tr><td>超大型</td><td>15英尺/10英尺(啮咬时15英尺)</td><td>2d8</td><td>2d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>—</td></tr>
+    <tr><td>巨型</td><td>20英尺/15英尺(啮咬时20英尺)</td><td>4d6</td><td>2d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>2d6</td></tr>
+    <tr><td>超巨型</td><td>30英尺/20英尺(啮咬时30英尺)</td><td>4d8</td><td>4d6</td><td>2d8</td><td>4d6</td><td>4d8</td><td>2d8</td></tr>
   </tbody>
   <tfoot>
     <tr><td colspan="8">*龙的啮咬攻击可触距离与体型大一级的龙相同，其余的攻击则依原本体形的标准可触距离。</td></tr>

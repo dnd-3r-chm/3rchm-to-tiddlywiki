@@ -9,17 +9,17 @@ type: text/vnd.tiddlywiki
 <tr><td><b>物品名</b></td><td><b>受益技能</b></td><td><b>花费</b></td><td><b>重量</b></td><td><b>持续</b></td><td><b>手艺(炼金术)DC</b></td></tr>
 <tr><td><b>迷彩冷霜</b></td><td>躲藏</td><td>50金币</td><td>1磅</td><td>1小时</td><td>20</td></tr>
 <tr><td><b>专注蜡烛</b></td><td>估价，解读文书, 伪造，搜索检定</td><td>100金币</td><td>1磅</td><td>1小时</td><td>25</td></tr>
-<tr><td><b>迷踪药剂</b></td><td>无</td><td>50金币</td><td>－</td><td>10分钟</td><td>20</td></tr>
-<tr><td><b>千里眼油</b></td><td>侦察</td><td>25金币</td><td>－</td><td>1分钟</td><td>20</td></tr>
-<tr><td><b>闪光球</b></td><td>无</td><td>50金币</td><td>－</td><td>1轮＋1轮</td><td>25</td></tr>
-<tr><td><b>润滑剂</b></td><td>逃脱术</td><td>20金币</td><td>－</td><td>1小时</td><td>20</td></tr>
-<tr><td><b>猎鹰药剂</b></td><td>侦察，搜索</td><td>50金币</td><td>－</td><td>2分钟／10分钟</td><td>25</td></tr>
-<tr><td><b>医疗软膏</b></td><td>医疗</td><td>10金币</td><td>－</td><td>1分钟</td><td>20</td></tr>
-<tr><td><b>顺风耳粉</b></td><td>聆听</td><td>20金币</td><td>－</td><td>1分钟</td><td>20</td></tr>
-<tr><td><b>润锁剂</b></td><td>开锁</td><td>50金币</td><td>－</td><td>1分钟</td><td>20</td></tr>
-<tr><td><b>自然药剂</b></td><td>驯养动物, 野性认同</td><td>50金币</td><td>－</td><td>12小时</td><td>25</td></tr>
+<tr><td><b>迷踪药剂</b></td><td>无</td><td>50金币</td><td>-</td><td>10分钟</td><td>20</td></tr>
+<tr><td><b>千里眼油</b></td><td>侦察</td><td>25金币</td><td>-</td><td>1分钟</td><td>20</td></tr>
+<tr><td><b>闪光球</b></td><td>无</td><td>50金币</td><td>-</td><td>1轮+1轮</td><td>25</td></tr>
+<tr><td><b>润滑剂</b></td><td>逃脱术</td><td>20金币</td><td>-</td><td>1小时</td><td>20</td></tr>
+<tr><td><b>猎鹰药剂</b></td><td>侦察，搜索</td><td>50金币</td><td>-</td><td>2分钟/10分钟</td><td>25</td></tr>
+<tr><td><b>医疗软膏</b></td><td>医疗</td><td>10金币</td><td>-</td><td>1分钟</td><td>20</td></tr>
+<tr><td><b>顺风耳粉</b></td><td>聆听</td><td>20金币</td><td>-</td><td>1分钟</td><td>20</td></tr>
+<tr><td><b>润锁剂</b></td><td>开锁</td><td>50金币</td><td>-</td><td>1分钟</td><td>20</td></tr>
+<tr><td><b>自然药剂</b></td><td>驯养动物, 野性认同</td><td>50金币</td><td>-</td><td>12小时</td><td>25</td></tr>
 <tr><td><b>无音粉</b></td><td>潜行</td><td>50金币</td><td>1磅</td><td>1小时</td><td>20</td></tr>
-<tr><td><b>吸附胶</b></td><td>攀爬</td><td>20金币</td><td>－</td><td>1分钟</td><td>20</td></tr>
+<tr><td><b>吸附胶</b></td><td>攀爬</td><td>20金币</td><td>-</td><td>1分钟</td><td>20</td></tr>
 </table>
 
 <p><b>迷彩冷霜Blend Cream：</b> 这些灰白色的冷霜可以把肌肉、毛皮、鳞甲、和毛发的颜色变的阴暗。冷霜可以让使用者更好地和背景或阴影融合在一起，以便更容易隐藏。涂抹冷霜是一个标准动作，并且会引发借机攻击。迷彩冷霜在隐藏检定上提供+1炼金术加值。迷彩冷霜的效力持续1个小时。迷彩冷霜不能给位于清晰的视野中或是没有背景掩护的人物提供隐藏加值。</p>

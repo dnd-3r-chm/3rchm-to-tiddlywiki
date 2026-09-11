@@ -15,13 +15,13 @@ type: text/vnd.tiddlywiki
 
 <tr><td>处于被纠缠状态</td><td>-2(1)</td><td>-2(1)</td></tr>
 
-<tr><td>夹击防御者</td><td>+2</td><td>－</td></tr>
+<tr><td>夹击防御者</td><td>+2</td><td>-</td></tr>
 
 <tr><td>隐形</td><td>+2(2)</td><td>+2(2)</td></tr>
 
 <tr><td>站在较高位置</td><td>+1</td><td>+0</td></tr>
 
-<tr><td>卧倒</td><td>-4</td><td>－(3)</td></tr>
+<tr><td>卧倒</td><td>-4</td><td>-(3)</td></tr>
 
 <tr><td>处于颤栗或惊惧状态</td><td>-2</td><td>-2</td></tr>
 

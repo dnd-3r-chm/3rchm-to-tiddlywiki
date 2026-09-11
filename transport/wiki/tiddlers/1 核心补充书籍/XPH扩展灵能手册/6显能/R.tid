@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 <h5>阅读思想(Read Thoughts)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>传心者 2</p>
 
@@ -75,7 +75,7 @@ type: text/vnd.tiddlywiki
 
 <h5>体验剧痛(Recall Agony)</h5>
 
-<p>心灵预言系[影响心灵]</p>
+<p>心灵预言系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -101,7 +101,7 @@ type: text/vnd.tiddlywiki
 
 <h5>体验死亡(Recall Death)</h5>
 
-<p>心灵预言系[死亡、影响心灵]</p>
+<p>心灵预言系&#91;死亡、影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 8</p>
 
@@ -135,7 +135,7 @@ type: text/vnd.tiddlywiki
 
 <h5>遥视陷阱(Remote View Trap)</h5>
 
-<p>心灵预言系[电击]</p>
+<p>心灵预言系&#91;电击&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 6</p>
 
@@ -207,7 +207,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=257>
 
-      <p>＋10</p></td></tr>
+      <p>+10</p></td></tr>
 
   <tr height=21>
 
@@ -217,7 +217,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=257>
 
-      <p>＋5</p></td></tr>
+      <p>+5</p></td></tr>
 
   <tr height=21>
 
@@ -227,7 +227,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=257>
 
-      <p>＋0</p></td></tr>
+      <p>+0</p></td></tr>
 
   <tr height=21>
 
@@ -237,7 +237,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=257>
 
-      <p>－5</p></td></tr>
+      <p>-5</p></td></tr>
 </table>
 
 <table height=183 cellSpacing=0 cellPadding=0 width=508>
@@ -266,7 +266,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=255>
 
-      <p>－2</p></td></tr>
+      <p>-2</p></td></tr>
 
   <tr height=21>
 
@@ -276,7 +276,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=255>
 
-      <p>－4</p></td></tr>
+      <p>-4</p></td></tr>
 
   <tr height=21>
 
@@ -286,7 +286,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=255>
 
-      <p>－10</p></td></tr>
+      <p>-10</p></td></tr>
 
   <tr height=21>
 
@@ -296,7 +296,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=255>
 
-      <p>＋5</p></td></tr>
+      <p>+5</p></td></tr>
 </table>
 
 <p>若受术者豁免失败，你的意识将接合到离受术者足够近的一个半实体视点上，从而可 以看到、听到受术者及其邻近环境(受术者周围 30 英尺以内的任何角度)。</p>

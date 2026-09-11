@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
 
 <p>如果他在进阶植皮者前拥有超过两种的施法者职业，那就必须在每次升级时选择其一，作为计算每日法术量和获得已知法术的标准。</p>
 
-<table><tr><td>等级<u2:p></td><td>基本攻击<u2:p></td><td>强韧<u2:p></td><td>反射<u2:p></td><td>意志<u2:p></td><td>特殊能力<u2:p></td><td>每日法术／已知法术</td></tr><tr><td>1<u2:p></td><td>＋0<u2:p></td><td>＋2<u2:p></td><td>＋0<u2:p></td><td>＋2<u2:p></td><td>恶魔皮精, 毒击1天1次</td><td>——</td></tr><tr><td>2<u2:p></td><td>＋1<u2:p></td><td>＋3<u2:p></td><td>＋0<u2:p></td><td>＋3<u2:p></td><td>火焰抗力</td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>3<u2:p></td><td>＋2<u2:p></td><td>＋3<u2:p></td><td>＋1<u2:p></td><td>＋3<u2:p></td><td>恶魔怒目</td><td>——</td></tr><tr><td>4<u2:p></td><td>＋3<u2:p></td><td>＋4<u2:p></td><td>＋1<u2:p></td><td>＋4<u2:p></td><td>——</td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>5<u2:p></td><td>＋3<u2:p></td><td>＋4<u2:p></td><td>＋1<u2:p></td><td>＋4<u2:p></td><td>适应魔皮</td><td>——</td></tr><tr><td>6<u2:p></td><td>＋4<u2:p></td><td>＋5<u2:p></td><td>＋2<u2:p></td><td>＋5<u2:p></td><td>毒击1天2次</td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>7<u2:p></td><td>＋5<u2:p></td><td>＋5<u2:p></td><td>＋2<u2:p></td><td>＋5<u2:p></td><td>寒冷抗力</td><td>——</td></tr><tr><td>8<u2:p></td><td>＋6<u2:p></td><td>＋6<u2:p></td><td>＋2<u2:p></td><td>＋6<u2:p></td><td>深渊怒目</td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>9<u2:p></td><td>＋6<u2:p></td><td>＋6<u2:p></td><td>＋3<u2:p></td><td>＋6<u2:p></td><td>——</td><td>——</td></tr><tr><td>10<u2:p></td><td>＋7<u2:p></td><td>＋7<u2:p></td><td>＋3<u2:p></td><td>＋7<u2:p></td><td>召唤恶魔</td><td>现有奥术施法等级＋1<u2:p></td></tr></table>
+<table><tr><td>等级<u2:p></td><td>基本攻击<u2:p></td><td>强韧<u2:p></td><td>反射<u2:p></td><td>意志<u2:p></td><td>特殊能力<u2:p></td><td>每日法术/已知法术</td></tr><tr><td>1<u2:p></td><td>+0<u2:p></td><td>+2<u2:p></td><td>+0<u2:p></td><td>+2<u2:p></td><td>恶魔皮精, 毒击1天1次</td><td>——</td></tr><tr><td>2<u2:p></td><td>+1<u2:p></td><td>+3<u2:p></td><td>+0<u2:p></td><td>+3<u2:p></td><td>火焰抗力</td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>3<u2:p></td><td>+2<u2:p></td><td>+3<u2:p></td><td>+1<u2:p></td><td>+3<u2:p></td><td>恶魔怒目</td><td>——</td></tr><tr><td>4<u2:p></td><td>+3<u2:p></td><td>+4<u2:p></td><td>+1<u2:p></td><td>+4<u2:p></td><td>——</td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>5<u2:p></td><td>+3<u2:p></td><td>+4<u2:p></td><td>+1<u2:p></td><td>+4<u2:p></td><td>适应魔皮</td><td>——</td></tr><tr><td>6<u2:p></td><td>+4<u2:p></td><td>+5<u2:p></td><td>+2<u2:p></td><td>+5<u2:p></td><td>毒击1天2次</td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>7<u2:p></td><td>+5<u2:p></td><td>+5<u2:p></td><td>+2<u2:p></td><td>+5<u2:p></td><td>寒冷抗力</td><td>——</td></tr><tr><td>8<u2:p></td><td>+6<u2:p></td><td>+6<u2:p></td><td>+2<u2:p></td><td>+6<u2:p></td><td>深渊怒目</td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>9<u2:p></td><td>+6<u2:p></td><td>+6<u2:p></td><td>+3<u2:p></td><td>+6<u2:p></td><td>——</td><td>——</td></tr><tr><td>10<u2:p></td><td>+7<u2:p></td><td>+7<u2:p></td><td>+3<u2:p></td><td>+7<u2:p></td><td>召唤恶魔</td><td>现有奥术施法等级+1<u2:p></td></tr></table>
 
 <p>职业能力</p>
 
@@ -65,7 +65,7 @@ type: text/vnd.tiddlywiki
 
 <p>恶魔怒目是一种影响心灵的恐惧效果。</p>
 
-<p><b>适应魔皮</b>(SU)：到了第5级，魔皮本质和植皮者已经更完善的融合在一起，就像从未分离过一样，植皮者的天生防御变为＋2，并且获得＋2的体质的内在加值，并且黑暗视觉提升到120尺。</p>
+<p><b>适应魔皮</b>(SU)：到了第5级，魔皮本质和植皮者已经更完善的融合在一起，就像从未分离过一样，植皮者的天生防御变为+2，并且获得+2的体质的内在加值，并且黑暗视觉提升到120尺。</p>
 
 <p><b>寒冷抗力</b>(EX)：从第6级开始，植皮者获得寒冷抗力10。</p>
 

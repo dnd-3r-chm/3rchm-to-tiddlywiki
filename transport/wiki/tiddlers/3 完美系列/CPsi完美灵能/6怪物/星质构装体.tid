@@ -1,0 +1,170 @@
+title: 星质构装体 (CPsi-完美灵能)
+tags: [[3 完美系列]] [[CPsi完美灵能]]
+source: 3 完美系列/CPsi完美灵能/6怪物/星质构装体.htm
+type: text/vnd.tiddlywiki
+
+<p>使用P50的星质形态专长，一个灵能角色可以创造不同于只通过显能所得到的形态。只要角色学习了星质形态专长，这些预知的构装体模板就可以给角色提供不同现成的能力。获得了星质导师进阶职业的角色可以以额外专长的形式多次获得星质形态专长，还可以得到其他关于星质构装体的增强。</p>
+
+<p><b>基础星质构装体(BASIC ASTRAL CONSTRUCT)</b></p>
+
+<p>基础星质构装体的信息(不包括他们的能力选项)，如下所示以备参考，它与EPH 185相同。不同星质形态所决定的构装体在其后列出，其数据缩减为仅展示与特定等级的基础构装体不同的特性。</p>
+
+<table><tr><td><b></b></td><td><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td colspan=2><b>体型：</b></td><td>小型</td><td>中型</td><td>中型</td><td>中型</td><td>大型</td><td>大型</td><td>大型</td><td>大型</td><td>超大型</td></tr><tr><td colspan=2><b>类型：</b></td><td colspan=9>构装体</td></tr><tr><td colspan=2><b>生命骰：</b></td><td>1HD(15hp)</td><td>2HD(31hp)</td><td>3HD(36hp)</td><td>3HD(47hp)</td><td>7HD(68hp)</td><td>10HD(85hp)</td><td>13HD(101hp)</td><td>16HD(118hp)</td><td>19HD(144hp)</td></tr><tr><td colspan=2><b>先攻：</b></td><td>+2</td><td>+2</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td></tr><tr><td><b>速度：</b></td><td><b>基础：</b></td><td>30呎(6格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>50尺(10格)</td></tr><tr><td rowspan=3><b>AC：</b></td><td><b>普通：</b></td><td>18</td><td>18</td><td>20</td><td>22</td><td>23</td><td>25</td><td>27</td><td>29</td><td>33</td></tr><tr><td><b>接触：</b></td><td>13</td><td>12</td><td>12</td><td>12</td><td>12</td><td>10</td><td>10</td><td>10</td><td>8</td></tr><tr><td><b>措手不及：</b></td><td>16</td><td>16</td><td>18</td><td>20</td><td>22</td><td>25</td><td>26</td><td>28</td><td>33</td></tr><tr><td colspan=2><b>BAB：</b></td><td>+2</td><td>+3</td><td>+4</td><td>+5</td><td>+7</td><td>+9</td><td>+11</td><td>+14</td><td>+16</td></tr><tr><td colspan=2><b>擒抱：</b></td><td>-1</td><td>+4</td><td>+7</td><td>+10</td><td>+18</td><td>+22</td><td>+25</td><td>+30</td><td>+38</td></tr><tr><td colspan=2><b>攻击：</b></td><td>挥击+3近战(1d4+3)</td><td>挥击+4近战(1d6+4)</td><td>挥击+7近战(1d6+7)</td><td>挥击+10近战(1d6+10)</td><td>2挥击+13近战(1d8+9)</td><td>2挥击+17近战(1d8+11)</td><td>2挥击+20近战(1d8+12)</td><td>2挥击+25近战(1d8+14)</td><td>2挥击+28近战(2d6+16)</td></tr><tr><td colspan=2><b>面宽：</b></td><td>5尺</td><td>5尺</td><td>5尺</td><td>5尺</td><td>10尺</td><td>10尺</td><td>10尺</td><td>10尺</td><td>15尺</td></tr><tr><td colSpan=2><b>触及：</b></td><td>5尺</td><td>5尺</td><td>5尺</td><td>5尺</td><td>10尺</td><td>10尺</td><td>10尺</td><td>10尺</td><td>15尺</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td colSpan=9> 黑暗视觉60呎，昏暗视觉，构装体特性</td></tr><tr><td><b></b></td><td><b>DR：</b></td><td>——</td><td>——</td><td>——</td><td>——</td><td>——</td><td>10/魔法</td><td>10/魔法</td><td>10/魔法</td><td>15/魔法</td></tr><tr><td rowSpan=3><b>豁</b><b>免</b></td><td><b>强韧：</b></td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td><td>+6</td></tr><tr><td><b>反射：</b></td><td>+2</td><td>+2</td><td>+3</td><td>+3</td><td>+3</td><td>+4</td><td>+5</td><td>+6</td><td>+6</td></tr><tr><td><b>意志：</b></td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td><td>+6</td></tr><tr><td rowSpan=6><b>属</b><b>性</b></td><td><b>力量：</b></td><td>15</td><td>17</td><td>21</td><td>25</td><td>29</td><td>33</td><td>35</td><td>39</td><td>43</td></tr><tr><td><b>敏捷：</b></td><td>15</td><td>15</td><td>15</td><td>15</td><td>13</td><td>13</td><td>13</td><td>13</td><td>11</td></tr><tr><td><b>体质：</b></td><td colSpan=9> -</td></tr><tr><td><b>智力：</b></td><td colSpan=9> -</td></tr><tr><td><b>感知：</b></td><td colSpan=9> 11</td></tr><tr><td><b>魅力：</b></td><td colSpan=9> 10</td></tr><tr><td colSpan=2><b>技能：</b></td><td colSpan=9> 聆听+0 侦查+0</td></tr><tr><td colSpan=2><b>阵营：</b></td><td colSpan=9> 中立</td></tr><tr><td colSpan=2><b>CR：</b></td><td>1/2</td><td>1</td><td>2</td><td>3</td><td>5</td><td>7</td><td>8</td><td>9</td><td>10</td></tr></table>
+
+<p><b>迅步奔跃者(AGILE LOPER)</b></p>
+
+<p>能将敌人撞烂的公羊头长在这个马身的星质生物上，它的四肢健壮线条清晰，四蹄闪烁着银光。</p>
+
+<p>只有具有星质形态(迅步奔跃者)和星质构装体异能的人才能构筑这一生物。迅步奔跃者星质构装体是增强了速度的陆战构装体。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体1425.jpg]]</p>
+
+<p><b>快速(Celerity，Ex)：</b>具有此能力的迅步奔跃者基础陆地速度提高10尺。</p>
+
+<p><b>践踏(Trample，Ex)：</b>至少7级的迅步奔跃者具有践踏能力。在每轮它可以以一个标准动作践踏更小的敌人。它仅仅需要碾过挡路的对手来造成指定的钝击伤害。目标可以尝试一个反射豁免来无效这个伤害，或者试图以-4的减值做一个借机攻击(见MM316 践踏)。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>在基本的等级(1-3)级，迅步奔跃者可以比其他星质构装体移动的更快，它的灵活移动专长允许它以更小的风险在敌人之间快速穿插带来更大的威胁。在中等等级(4-6级)，迅步奔跃者的速度进一步提高，由于它得到了快速能力。高级迅步奔跃者构装体(7-9级)得到了能践踏敌人的灵能，意味着迅步奔跃者每轮可以使用它的速度通过敌方的方格来冲撞一个或者更多的敌人</p>
+
+<table><tr><td><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td><b>先攻：</b></td><td>+6</td><td>+6</td><td>+6</td><td>+6</td><td>+5</td><td>+5</td><td>+5</td><td>+5</td><td>+4</td></tr><tr><td><b>速度：</b></td><td>50呎(10格)</td><td>60呎(12格)</td><td>60呎(12格)</td><td>70呎(14格)</td><td>70呎(14格)</td><td>70呎(14格)</td><td>70呎(14格)</td><td>70呎(14格)</td><td>70呎(14格)</td></tr><tr><td><b>特殊攻击：</b></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>践踏1d8+12 (DC28)</td><td>践踏1d8+14 (DC32)</td><td>践踏1d8+16 (DC35)</td></tr><tr><td><b>特殊能力：</b></td><td>-</td><td>-</td><td>-</td><td>-</td><td>快速</td><td>快速</td><td>快速</td><td>快速</td><td>快速</td></tr><tr><td><b>专长：</b></td><td colSpan=9> 灵活移动</td></tr></table>
+
+<p><b>雪白空行者(ALABASTER AERIAL)</b></p>
+
+<p>这个生物看上去像是肌肉强壮的类人生物，全身被银色星质覆盖，翅膀代替了手臂，强壮的腿连着猛禽般的脚爪</p>
+
+<p>只有具有星质形态(雪白空行者)和星质构装体异能的人才能构筑这一生物。雪白空行者是飞行的构装体，可以在空中攻击下保护灵能角色。它具有额外的偏斜AC使之更难被击中。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体2210.jpg]]</p>
+
+<p><b>偏斜(Deflection，Ex)：</b>1-3级的雪白空行者在AC上有+1的偏斜加值</p>
+
+<p><b>高等偏斜(Heavy Deflection，Ex)：</b>4级以及以上的雪白空行者AC有+4的偏斜加值</p>
+
+<p><b>毒击(Poison Touch，Ex)：</b>7级及以上的雪白空行者在成功的近战攻击时传递毒素。被击中的目标需要通过一个强韧检定否则受到1点体质伤害。一分钟以后，需要再做检定否则受到1d2点体质伤害。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>所有等级的雪白空行者都可以飞，使它能够自由攻击其他飞行生物。它天生的敏捷也使得它能偏斜攻击，在1级得到+1的偏斜加值而在4级增长到+4。高级雪白空行者(7-9)级也具有毒击的能力，让它能够通过造成体质伤害削弱敌人。</p>
+
+<table><tr><td colSpan=2><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td rowSpan=2><b>速度：</b></td><td><b>基础：</b></td><td>30呎(6格)</td><td>40呎(8格)</td><td>40呎(8格)</td><td>40呎(8格)</td><td>40呎(8格)</td><td>40呎(8格)</td><td>40呎(8格)</td><td>40呎(8格)</td><td>50呎(10格)</td></tr><tr><td><b>飞行：</b></td><td>20呎(一般)</td><td>20呎(一般)</td><td>20呎(一般)</td><td>30呎(一般)</td><td>30呎(一般)</td><td>30呎(一般)</td><td>40呎(一般)</td><td>40呎(一般)</td><td>40呎(一般)</td></tr><tr><td rowSpan=3><b>AC：</b></td><td><b>普通：</b></td><td>19</td><td>19</td><td>21</td><td>26</td><td>27</td><td>29</td><td>31</td><td>33</td><td>37</td></tr><tr><td><b>接触：</b></td><td>14</td><td>13</td><td>13</td><td>16</td><td>14</td><td>14</td><td>14</td><td>14</td><td>14</td></tr><tr><td><b>措手不及：</b></td><td>17</td><td>17</td><td>19</td><td>24</td><td>26</td><td>28</td><td>30</td><td>32</td><td>37</td></tr><tr><td colSpan=2><b>攻击：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2挥击+20近战 (1d8+12+毒素)</td><td>2挥击+25近战 (1d8+14+毒素)</td><td>2挥击+28近战 (2d6+16+毒素)</td></tr><tr><td rowSpan=2 colSpan=2><b>特殊能力：</b></td><td>偏斜</td><td>偏斜</td><td>偏斜</td><td>高等偏斜</td><td>高等偏斜</td><td>高等偏斜</td><td>高等偏斜</td><td>高等偏斜</td><td>高等偏斜</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>毒击(DC16)</td><td>毒击(DC18)</td><td>毒击(DC19)</td></tr></table>
+
+<p><b>琥珀掘进者(AMBER TUNNELER)</b></p>
+
+<p>大块琥珀形成了一个面目模糊的星质獾，这个生物有着适合掘地的有力肢体。</p>
+
+<p>只有具有星质形态(琥珀掘进者)和星质构装体异能的人才能构筑这一生物。琥珀掘进者是陆战星质构装体，能够通过使用挖掘能力突袭敌人，此外它还有不凡的韧性和力量。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体3127.jpg]]</p>
+
+<p><b>外皮(Buff，Ex)：</b>3级或更低的琥珀掘进者有额外的5点生命值</p>
+
+<p><b>高等外皮(Improved Buff，Ex)：</b>4级或更高的琥珀掘进者有15点额外生命值</p>
+
+<p><b>膂力(Muscle，Ex)：</b>至少7级的琥珀掘进者比其他星质构装体更有力，在力量属性上得到4点加值。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>所有等级的琥珀掘进者都可以掘地，使它可以在战斗中取得位置上的优势。此外，它比普通的星质构装体有更多的HP使其更为耐久，高等级的构装体(7-9级)具有臂力能力，使他们能够造成毁灭性的挥击。</p>
+
+<table><tr><td colSpan=2><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td colSpan=2><b>生命骰：</b></td><td>1HD(20hp)</td><td>2HD(36hp)</td><td>3HD(41hp)</td><td>5HD(62hp)</td><td>7HD(83hp)</td><td>10HD(100hp)</td><td>13HD(116hp)</td><td>16HD(133hp)</td><td>19HD(159hp)</td></tr><tr><td rowSpan=2><b>速度：</b></td><td><b>基础：</b></td><td>30尺(6格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>40尺(8格)</td><td>50尺(10格)</td></tr><tr><td><b>掘穴：</b></td><td>30尺</td><td>40尺</td><td>40尺</td><td>40尺</td><td>40尺</td><td>40尺</td><td>40尺</td><td>40尺</td><td>50尺</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td>外皮</td><td>外皮</td><td>外皮</td><td>高等外皮</td><td>高等外皮</td><td>高等外皮</td><td>高等外皮，臂力</td><td>高等外皮，臂力</td><td>高等外皮，臂力</td></tr><tr><td colSpan=2><b>攻击：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>近战2挥击 +22 (1d8+14)</td><td>近战2挥击 +27 (1d8+16)</td><td>近战2挥击 +30 (2d6+18)</td></tr><tr><td colSpan=2><b>BAB：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+11</td><td>+14</td><td>+16</td></tr><tr><td colSpan=2><b>擒抱：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+27</td><td>+32</td><td>+40</td></tr><tr><td><b>属性：</b></td><td><b>力量：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>39</td><td>43</td><td>47</td></tr></table>
+
+<p><b>诅咒甲虫(ANATHEMIC CARAPACE)</b></p>
+
+<p>这种怪物般的昆虫的甲壳闪耀着骇人的鲜红色泽</p>
+
+<p>只有具有星质形态(诅咒甲虫)和星质构装体异能的人才能构筑这一生物。诅咒甲虫是陆战星质构装体，能够在被打败时或者创造者的命令下爆炸。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体3952.jpg]]</p>
+
+<p><b>诅咒爆发(Anathemic Detonation，Su)：</b>诅咒甲虫充满了潜在的能量，如果被摧毁时就会产生毁灭性的冲击，造成最多1d6+每HD 1d6点伤害，影响每个临近生物，反射检定(DC10+1/2HD)可以减半这个伤害。例如一个四级的诅咒甲虫可以爆炸并且造成6d6点伤害，如果它在遭遇的第一轮被摧毁，此后每一轮，伤害减少d6，因此如果这个构装体在第三轮被摧毁，爆炸会造成4d6点伤害。</p>
+
+<p>制造毁灭甲虫者可以用一个标准动作直接引爆它。</p>
+
+<p><b>重击(Smite，Su)：</b>每天一次，毁灭甲虫可以在单次攻击中造成等于HD的额外伤害。</p>
+
+<p><b>高等偏斜(Heavy Deflection，Ex)：</b>至少7级的毁灭甲虫在AC上得到+4的偏斜加值。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>在所有等级，毁灭甲虫都能在被毁时或者依照指令爆炸，通常与精通冲撞专长一起使用。在中等等级(4-6)，毁灭甲虫得到猛力攻击能力，使之可以在爆炸前对目标造成更多伤害。高等构装体(7-9)级拥有重击能力，可以使得爆炸前的初次攻击更为强力。</p>
+
+<table><tr><td><b></b></td><td><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td rowSpan=3><b>AC：</b></td><td><b>普通：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>31</td><td>33</td><td>37</td></tr><tr><td><b>接触：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>14</td><td>14</td><td>12</td></tr><tr><td><b>措手不及：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>30</td><td>32</td><td>37</td></tr><tr><td colSpan=2><b>专长：</b></td><td>精通冲撞</td><td>精通冲撞</td><td>精通冲撞 猛力攻击</td><td>精通冲撞 猛力攻击</td><td>精通冲撞 猛力攻击</td><td>精通冲撞 猛力攻击</td><td>精通冲撞 猛力攻击</td><td>精通冲撞 猛力攻击</td><td>精通冲撞 猛力攻击</td></tr><tr><td colSpan=2><b>特殊攻击：</b></td><td>诅咒爆发 (2d6火焰，DC10)</td><td>诅咒爆发 (3d6火焰，DC11)</td><td>诅咒爆发 (4d6火焰，DC11)</td><td>诅咒爆发 (6d6火焰，DC12)</td><td>诅咒爆发 (8d6火焰，DC13)</td><td>诅咒爆发 (11d6火焰，DC15)</td><td>诅咒爆发 (14d6火焰，DC16) 重击1/天(+13伤害)</td><td>诅咒爆发 (17d6火焰，DC18) 重击1/天(+16伤害)</td><td>诅咒爆发 (20d6火焰，DC19) 重击1/天(+19伤害)</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>高等偏斜</td><td>高等偏斜</td><td>高等偏斜</td></tr></table>
+
+<p><b>星质水族(ASTRAL AQUAN)</b></p>
+
+<p>这个生物看上去像是一个巨型鲶鱼，在嘴边伸出一对长触须。完全由银蓝色星质构成的躯体在水中高速推进，用触须打击敌人。</p>
+
+<p>只有具有星质形态(星质水族)和星质构装体异能的人才能构筑这一生物。星质水族是水生的战斗构装体，可以从水下的攻击中保护灵能角色，即使在低级它也有不错的游泳速度。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体5000.jpg]]</p>
+
+<p><b>精通攫抓(Improved Grab，Ex)：</b>7级或以上的星质水族得到精通攫抓能力。为了使用这一能力，构装体必须使用挥击击中一个体型小于自己的生物，然后它可以在不引起借机攻击的情况下用一个自由动作发起擒抱。</p>
+
+<p><b>技能(Skills)</b>：星质水族在任何做出特殊工作或者回避灾害的游泳检定上得到+8的种族加值。它总可以在游泳检定中取10，即使被威胁或分心。如果直线游动，它可以在游泳中奔跑。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>在所有等级星质水族可以游泳，使之能够自由移动攻击其他水生生物。在中等级(4-6)，星质水族得到寒冷抗力，高级构装体(7-9)也会得到精通擒抱，使得构装体可以不被借机攻击而擒抱对手。</p>
+
+<table><tr><td colSpan=2><b></b></td><td colSpan=2><b>1级</b></td><td colSpan=2><b>2级</b></td><td colSpan=2><b>3级</b></td><td colSpan=2><b>4级</b></td><td colSpan=2><b>5级</b></td><td colSpan=2><b>6级</b></td><td colSpan=2><b>7级</b></td><td colSpan=2><b>8级</b></td><td><b>9级</b></td></tr><tr><td rowSpan=2><b>速度：</b></td><td><b>基础：</b></td><td>30尺(6格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 40尺(8格)</td><td colSpan=2> 50尺(10格)</td><td></td></tr><tr><td><b>游泳：</b></td><td colSpan=17> 60尺</td><td></td></tr><tr><td><b>防御：</b></td><td><b>能量抗力：</b></td><td colSpan=2> -</td><td colSpan=2> -</td><td colSpan=2> -</td><td colSpan=2> 寒冷5</td><td colSpan=2> 寒冷5</td><td colSpan=2> 寒冷5</td><td colSpan=2> 寒冷5</td><td colSpan=2> 寒冷5</td><td>寒冷5</td></tr><tr><td colSpan=2><b>攻击：</b></td><td colSpan=2> 挥击+3近战 (1d6+3)</td><td colSpan=2> 挥击+4近战 (1d8+4)</td><td colSpan=2> 挥击+7近战 (1d8+7)</td><td colSpan=2> 挥击+10近战 (1d8+10)</td><td colSpan=2> 2挥击+13近战 (2d6+9)</td><td colSpan=2> 2挥击+17近战 (2d6+11)</td><td colSpan=2> 2挥击+20近战 (2d6+12)</td><td colSpan=2> 2挥击+25近战 (2d6+14)</td><td>2挥击+28近战 (3d6+16)</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td colSpan=17> 精通挥击，精通游泳</td></tr><tr><td colSpan=2><b>特殊攻击：</b></td><td colSpan=2></td><td colSpan=2></td><td colSpan=2></td><td colSpan=2></td><td colSpan=2></td><td colSpan=2></td><td colSpan=2> 精通攫抓</td><td colSpan=2> 精通攫抓</td><td>精通攫抓</td></tr><tr><td colSpan=2><b>专长：</b></td><td colSpan=17> 精通天生武器</td></tr><tr><td colSpan=2><b>技能：</b></td><td colSpan=2> 游泳+10</td><td colSpan=2> 游泳+11</td><td colSpan=2> 游泳+13</td><td colSpan=2> 游泳+15</td><td colSpan=2> 游泳+17</td><td colSpan=2> 游泳+19</td><td colSpan=2> 游泳+20</td><td colSpan=2> 游泳+22</td><td>游泳+24</td></tr></table>
+
+<p><b>乌木棘蛛(EBONY STINGER)</b></p>
+
+<p>这个闪光的黑色蜘蛛的足部，有毒的液体闪烁着。</p>
+
+<p>只有具有星质形态(乌木棘蛛)和星质构装体异能的人才能构筑这一生物。乌木棘蛛是有毒刺的陆战构装体，它的速度和移动性可以让它在敌人中穿梭。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体5865.jpg]]</p>
+
+<p><b>快速(Celerity，Ex)：</b>乌木棘蛛的基础陆地速度增加10尺。</p>
+
+<p><b>毒(Poison，Ex)：</b>乌木棘蛛的挥击造成一点体质伤害，除非受害者通过DC(10+1/2HD)的强韧检定。此毒素没有二次伤害。</p>
+
+<p><b>高等偏斜(Heavy Deflection，Ex)：</b>至少7级的乌木棘蛛在AC上得到+4的偏斜加值。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>在最基础的等级上乌木棘蛛可以在攻击中传递毒素，在中等等级(4-6)，它得到灵活移动专长，允许它更安全地在敌人中间快速移动来制造更大的威胁。高等级(7-9)拥有高等偏斜能力，使之从报复攻击中得到更多的保护。</p>
+
+<table><tr><td colSpan=2><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td><b>速度：</b></td><td><b>基础：</b></td><td>40呎(8格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>60呎(12格)</td></tr><tr><td rowSpan=3><b>AC：</b></td><td><b>普通：</b></td><td>18</td><td>18</td><td>20</td><td>22</td><td>22</td><td>25</td><td>31</td><td>33</td><td>37</td></tr><tr><td><b>接触：</b></td><td>13</td><td>12</td><td>12</td><td>12</td><td>10</td><td>10</td><td>14</td><td>14</td><td>12</td></tr><tr><td><b>措手不及：</b></td><td>16</td><td>16</td><td>18</td><td>20</td><td>20</td><td>24</td><td>30</td><td>32</td><td>37</td></tr><tr><td colSpan=2><b>攻击：</b></td><td>挥击+3近战 (1d4+3 +毒素DC10)</td><td>挥击+4近战 (1d6+4 +毒素DC11)</td><td>挥击+7近战 (1d6+7 +毒素DC11)</td><td>挥击+10近战 (1d6+10 +毒素DC12)</td><td>2挥击+13近战 (1d8+9 +毒素DC13)</td><td>2挥击+17近战 (1d8+11 +毒素DC15)</td><td>2挥击+20近战 (1d8+12 +毒素DC16)</td><td>2挥击+25近战 (1d8+14 +毒素DC18)</td><td>2挥击+28近战 (2d6+16 +毒素DC19)</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td>快速</td><td>快速</td><td>快速</td><td>快速</td><td>快速</td><td>快速</td><td>快速 高等偏斜</td><td>快速 高等偏斜</td><td>快速 高等偏斜</td></tr><tr><td colSpan=2><b>专长：</b></td><td></td><td></td><td>灵活移动</td><td>灵活移动</td><td>灵活移动</td><td>灵活移动</td><td>灵活移动</td><td>灵活移动</td><td>灵活移动</td></tr></table>
+
+<p><b>翠绿旋兽(EMERALD GYRE)</b></p>
+
+<p>这个生物看上去像是完全由翠绿色星质构成的强壮的类人生物，肩膀上延伸出两个强壮的前肢，而在后背正中伸展出第三个前肢。</p>
+
+<p>只有具有星质形态(翠绿旋兽)和星质构装体异能的人才能构筑这一生物。翠绿旋兽是能够狠狠打击敌人的陆战生物</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体6824.jpg]]</p>
+
+<p><b>精通攫抓(Improved Grab，Ex)：</b>翠绿旋兽具有精通攫抓能力，为了使用这一能力，构装体首先要使用挥击击中一个小于自身的对手，然后可以以不引发借机攻击的自由动作发动擒抱。</p>
+
+<p><b>拌摔(Trip，Ex)：</b>如果一个翠绿旋兽用挥击或爪子击中敌人，它不需要进行近战接触攻击也不会引起借机攻击就可以尝试拌摔敌人，如失败，敌人不能反拌摔。</p>
+
+<p><b>猛扑(Pounce，Ex)：</b>7级以上的翠绿旋兽可以在冲锋后全力攻击</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>在最简单的等级(1-3),翠绿旋兽在攻击敌人时会快速旋转，将它的第三个胳膊投入战斗，这使它拥有精通擒抱专长，它也会使用拌摔使对手跌倒，此后继续击打对手，或者在对手还站立的情况下发动借机攻击。在中等等级(4-6)它使用快速特性迅速接近对手，然后使用拌摔能力使对手处于劣势。高等级构装体(7-8)级也具有猛扑能力，使得它可以完全利用自己的高速同时使用全力攻击。</p>
+
+<table><tr><td colSpan=2><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td><b>速度：</b></td><td><b>基础：</b></td><td></td><td></td><td></td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>50呎(10格)</td><td>60呎(12格)</td></tr><tr><td colSpan=2><b>特殊攻击：</b></td><td>绊摔 精通攫抓</td><td>绊摔 精通攫抓</td><td>绊摔 精通攫抓</td><td>绊摔 精通攫抓</td><td>绊摔 精通攫抓</td><td>绊摔 精通攫抓</td><td>绊摔 精通攫抓 猛扑</td><td>绊摔 精通攫抓 猛扑</td><td>绊摔 精通攫抓 猛扑</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td></td><td></td><td></td><td>快速</td><td>快速</td><td>快速</td><td>快速</td><td>快速</td><td>快速</td></tr></table>
+
+<p><b>虹光巨蟒(IRIDESCENT SERPENT)</b></p>
+
+<p>这条蓝色大蟒蛇有一个能够打出寒冷的重击的棒槌一样的尾巴。它看上去可以将敌人打到服软。</p>
+
+<p>只有具有星质形态(虹光巨蟒)和星质构装体异能的人才能构筑这一生物。虹光巨蟒是陆战构装体，它是致命的近战角色同时对能量具有内在的抗力。</p>
+
+<p>[img[3 完美系列/CPsi完美灵能/6怪物/星质构装体.files/星质构装体7585.jpg]]</p>
+
+<p><b>能量抗力(Energy Resistance，Ex)：</b>虹光巨蟒在被创造时得到对某种能量(寒冷、火焰、电或音波)的10点抗力，由创造者选择。</p>
+
+<p><b>精通攫抓(Improved Grab，Ex)：</b>虹光巨蟒具有精通攫抓能力，为了使用这一能力，构装体首先要使用挥击击中一个小于自身的对手，然后可以以不引发借机攻击的自由动作发动擒抱。</p>
+
+<p><b>膂力(Muscle，Ex)：</b>至少7级的虹光巨蟒比其他星质构装体更有力，在力量属性上得到4点加值。</p>
+
+<p><b>战略战术(Strategies and Tactics)</b></p>
+
+<p>在所有等级，虹光巨蟒都可以发动带有额外寒冷伤害的致命攻击。在最初的等级(1-3)，它有顺势斩专长来扩大优势。在中等等级(4-6)，构装体可以在挥击成功后擒抱敌人，并且作为擒抱的一部分进一步造成能量伤害。高级构装体(7-9)的力量高于均值，使其成为更致命的擒抱者。</p>
+
+<table><tr><td colSpan=2><b></b></td><td><b>1级</b></td><td><b>2级</b></td><td><b>3级</b></td><td><b>4级</b></td><td><b>5级</b></td><td><b>6级</b></td><td><b>7级</b></td><td><b>8级</b></td><td><b>9级</b></td></tr><tr><td colSpan=2><b>BAB：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+11</td><td>+11</td><td>+16</td></tr><tr><td colSpan=2><b>擒抱：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+27</td><td>+32</td><td>+40</td></tr><tr><td><b>防御：</b></td><td><b>能量抗力：</b></td><td colSpan=9> 寒冷、火焰、闪电或音波10</td></tr><tr><td colSpan=2><b>攻击：</b></td><td>挥击+3近战 (1d4+3+1d6寒冷)</td><td>挥击+4近战 (1d6+4+1d6寒冷)</td><td>挥击+7近战 (1d6+7+1d6寒冷)</td><td>挥击+10近战 (1d6+10+1d6寒冷)</td><td>2挥击+13近战 (1d8+9+1d6寒冷)</td><td>2挥击+17近战 (1d8+11+1d6寒冷)</td><td>2挥击+22近战 (1d8+14+1d6寒冷)</td><td>2挥击+27近战 (1d8+16+1d6寒冷)</td><td>2挥击+30近战 (2d6+18+1d6寒冷)</td></tr><tr><td colSpan=2><b>特殊攻击：</b></td><td></td><td></td><td></td><td>精通攫抓</td><td>精通攫抓</td><td>精通攫抓</td><td>精通攫抓</td><td>精通攫抓</td><td>精通攫抓</td></tr><tr><td colSpan=2><b>特殊能力：</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td>膂力</td><td>膂力</td><td>膂力</td></tr><tr><td><b>属性：</b></td><td><b>力量：</b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b>39</b></td><td><b>43</b></td><td><b>47</b></td></tr><tr><td colSpan=2><b>专长：</b></td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td><td>顺势斩</td></tr></table>

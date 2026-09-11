@@ -37,16 +37,16 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td>等级</td><td>基本攻击</td><td>强韧</td><td>反射</td><td>意志</td><td>特殊能力</td></tr>
-<tr><td>1</td><td>＋0</td><td>＋2</td><td>＋0</td><td>＋0</td><td>神术施法者等级+1,侦测邪恶 ,神圣潜行+4</td></tr>
-<tr><td>2</td><td>＋1</td><td>＋3</td><td>＋0</td><td>＋0</td><td>神术施法者等级+1发掘诡计+2</td></tr>
-<tr><td>3</td><td>＋2</td><td>＋3</td><td>＋1</td><td>＋1</td><td>神术施法者等级+1,偷袭1D6</td></tr>
-<tr><td>4</td><td>＋3</td><td>＋4</td><td>＋1</td><td>＋1</td><td>神圣防御</td></tr>
-<tr><td>5</td><td>＋3</td><td>＋4</td><td>＋1</td><td>＋1</td><td>神术施法者等级+1,发掘诡计+4</td></tr>
-<tr><td>6</td><td>＋4</td><td>＋5</td><td>＋2</td><td>＋2</td><td>神术施法者等级+1,偷袭2D6</td></tr>
-<tr><td>7</td><td>＋5</td><td>＋5</td><td>＋2</td><td>＋2</td><td>神术施法者等级+1,神圣潜行+8</td></tr>
-<tr><td>8</td><td>＋6</td><td>＋6</td><td>＋2</td><td>＋2</td><td>神术施法者等级+1,发掘诡计+6</td></tr>
-<tr><td>9</td><td>＋6</td><td>＋6</td><td>＋3</td><td>＋3</td><td>偷袭3D6</td></tr>
-<tr><td>10</td><td>＋7</td><td>＋7</td><td>＋3</td><td>＋3</td><td>神术施法者等级+1,神圣攻击</td></tr>
+<tr><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td>神术施法者等级+1,侦测邪恶 ,神圣潜行+4</td></tr>
+<tr><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+0</td><td>神术施法者等级+1发掘诡计+2</td></tr>
+<tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+1</td><td>神术施法者等级+1,偷袭1D6</td></tr>
+<tr><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td>神圣防御</td></tr>
+<tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td>神术施法者等级+1,发掘诡计+4</td></tr>
+<tr><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+2</td><td>神术施法者等级+1,偷袭2D6</td></tr>
+<tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+2</td><td>神术施法者等级+1,神圣潜行+8</td></tr>
+<tr><td>8</td><td>+6</td><td>+6</td><td>+2</td><td>+2</td><td>神术施法者等级+1,发掘诡计+6</td></tr>
+<tr><td>9</td><td>+6</td><td>+6</td><td>+3</td><td>+3</td><td>偷袭3D6</td></tr>
+<tr><td>10</td><td>+7</td><td>+7</td><td>+3</td><td>+3</td><td>神术施法者等级+1,神圣攻击</td></tr>
 </table>
 
 <p><b>职业能力</b></p>

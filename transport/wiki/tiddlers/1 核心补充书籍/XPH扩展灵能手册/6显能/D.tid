@@ -131,7 +131,7 @@ type: text/vnd.tiddlywiki
 
 <h5>切脑术(Decerebrate)</h5>
 
-<p>心灵传送系[传送]</p>
+<p>心灵传送系&#91;传送&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 7</p>
 
@@ -155,7 +155,7 @@ type: text/vnd.tiddlywiki
 
 <h5>似曾相识感(Déjà Vu)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1</p>
 
@@ -181,7 +181,7 @@ type: text/vnd.tiddlywiki
 
 <h5>打压士气(Demoralize)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1</p>
 
@@ -231,7 +231,7 @@ type: text/vnd.tiddlywiki
 
 <h5>侦测敌意(Detect Hostile Intent)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2、心灵武士 2</p>
 
@@ -349,15 +349,15 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=87>
 
-      <p>4－6级</p></td>
+      <p>4-6级</p></td>
 
     <td height=21 vAlign=top width=112>
 
-      <p>7－9</p></td>
+      <p>7-9</p></td>
 
     <td height=21 vAlign=top width=112>
 
-      <p>10＋(神级)</p></td></tr>
+      <p>10+(神级)</p></td></tr>
 
   <tr height=21>
 
@@ -371,15 +371,15 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=87>
 
-      <p>6－11级</p></td>
+      <p>6-11级</p></td>
 
     <td height=21 vAlign=top width=112>
 
-      <p>12－20级</p></td>
+      <p>12-20级</p></td>
 
     <td height=21 vAlign=top width=112>
 
-      <p>21级＋(神器)</p></td></tr>
+      <p>21级+(神器)</p></td></tr>
 </tbody>
 </table>
 
@@ -831,7 +831,7 @@ type: text/vnd.tiddlywiki
 
 <h5>强酸之触(Dissolving Touch)</h5>
 
-<p>心灵自塑系[强酸]</p>
+<p>心灵自塑系&#91;强酸&#93;</p>
 
 <p><b>等级：</b>心灵武士 2</p>
 
@@ -859,7 +859,7 @@ type: text/vnd.tiddlywiki
 
 <h5>强酸武器(Dissolving Weapon)</h5>
 
-<p>心灵自塑系[强酸]</p>
+<p>心灵自塑系&#91;强酸&#93;</p>
 
 <p><b>等级：</b>心灵武士 2</p>
 
@@ -883,7 +883,7 @@ type: text/vnd.tiddlywiki
 
 <h5>分神术(Distract)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1、心灵武士 1</p>
 

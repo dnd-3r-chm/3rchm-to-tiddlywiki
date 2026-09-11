@@ -29,7 +29,7 @@ type: text/vnd.tiddlywiki
 
 <p>武器与盔甲熟练：银白学者不获得任何武器或盔甲熟练。</p>
 
-<table><tr><td>等级<u2:p></td><td>基本攻击<u2:p></td><td>强韧<u2:p></td><td>反射<u2:p></td><td>意志<u2:p></td><td>特殊能力<u2:p></td><td>每日法术数量／已知法术<u2:p></td></tr><tr><td>1<u2:p></td><td>+0<u2:p></td><td>＋0<u2:p></td><td>＋0<u2:p></td><td>＋2<u2:p></td><td>力场专精</td><td>——</td></tr><tr><td>2<u2:p></td><td>+1<u2:p></td><td>＋0<u2:p></td><td>＋0<u2:p></td><td>＋3<u2:p></td><td>力场护甲</td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>3<u2:p></td><td>+1<u2:p></td><td>＋1<u2:p></td><td>＋1<u2:p></td><td>＋3<u2:p></td><td>持久力场 <u2:p></td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>4<u2:p></td><td>+2<u2:p></td><td>＋1<u2:p></td><td>＋1<u2:p></td><td>＋4<u2:p></td><td>力场消融</td><td>现有奥术施法等级＋1<u2:p></td></tr><tr><td>5<u2:p></td><td>+2<u2:p></td><td>＋1<u2:p></td><td>＋1<u2:p></td><td>＋4<u2:p></td><td>力场释放</td><td>现有奥术施法等级＋1<u2:p></td></tr></table>
+<table><tr><td>等级<u2:p></td><td>基本攻击<u2:p></td><td>强韧<u2:p></td><td>反射<u2:p></td><td>意志<u2:p></td><td>特殊能力<u2:p></td><td>每日法术数量/已知法术<u2:p></td></tr><tr><td>1<u2:p></td><td>+0<u2:p></td><td>+0<u2:p></td><td>+0<u2:p></td><td>+2<u2:p></td><td>力场专精</td><td>——</td></tr><tr><td>2<u2:p></td><td>+1<u2:p></td><td>+0<u2:p></td><td>+0<u2:p></td><td>+3<u2:p></td><td>力场护甲</td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>3<u2:p></td><td>+1<u2:p></td><td>+1<u2:p></td><td>+1<u2:p></td><td>+3<u2:p></td><td>持久力场 <u2:p></td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>4<u2:p></td><td>+2<u2:p></td><td>+1<u2:p></td><td>+1<u2:p></td><td>+4<u2:p></td><td>力场消融</td><td>现有奥术施法等级+1<u2:p></td></tr><tr><td>5<u2:p></td><td>+2<u2:p></td><td>+1<u2:p></td><td>+1<u2:p></td><td>+4<u2:p></td><td>力场释放</td><td>现有奥术施法等级+1<u2:p></td></tr></table>
 
 <p><b>职业能力</b></p>
 

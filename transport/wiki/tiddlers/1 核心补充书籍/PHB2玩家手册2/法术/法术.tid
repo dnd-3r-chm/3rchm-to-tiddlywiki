@@ -43,6 +43,6 @@ type: text/vnd.tiddlywiki
 
 <p>如果变形法术的受术者被杀或者失去知觉，则法术结束。任何被从受术者身体上所分离出的部分将保持变化后的形态，直到法术持续时间结束。</p>
 
-<p>虚体(Incorporeal)或气体(Gaseous)生物对变形法术免疫，而植物也是一样。一个变形生物亚种(Shapechanger Subtype)的生物(比如兽化人[lycanthrope]和变形怪[doppleganger])可以使用一个标准动作变回原先的形态。</p>
+<p>虚体(Incorporeal)或气体(Gaseous)生物对变形法术免疫，而植物也是一样。一个变形生物亚种(Shapechanger Subtype)的生物(比如兽化人&#91;lycanthrope&#93;和变形怪&#91;doppleganger&#93;)可以使用一个标准动作变回原先的形态。</p>
 
 <p>之前出现过的法术：为了宣告应用于变形法术的效果，任何基于"变身术"(alter self)及"变形术"(polymorph)的法术均被认为属于变形子学派。然而，需要注意法术本身的说明要优先于子学派的说明。例如"变身术"并不改变受术者的能力值(ability score)，这和一般情况下的变形子学派法术有所不同。</p>

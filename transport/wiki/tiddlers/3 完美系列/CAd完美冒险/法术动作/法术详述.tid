@@ -231,7 +231,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>噪声之盾(CACOPHONIC SHIELD)</b></p>
 
-<p>塑能系[音波]</p>
+<p>塑能系&#91;音波&#93;</p>
 
 <p>等级：吟游诗人4、术士/法师5</p>
 
@@ -351,7 +351,7 @@ type: text/vnd.tiddlywiki
 
 <p>不谐和音(Dissonant Chord)</p>
 
-<p>塑能系[音波]</p>
+<p>塑能系&#91;音波&#93;</p>
 
 <p>等级：吟游诗人3</p>
 
@@ -375,7 +375,7 @@ type: text/vnd.tiddlywiki
 
 <p>扭曲语言(Distort Speech)</p>
 
-<p>变化系[音波]</p>
+<p>变化系&#91;音波&#93;</p>
 
 <p>等级：吟游诗人1</p>
 
@@ -691,7 +691,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>恩典(Grace)</b></p>
 
-<p>预言系[善良]</p>
+<p>预言系&#91;善良&#93;</p>
 
 <p>等级：吟游诗人2，牧师3</p>
 
@@ -907,7 +907,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>崇圣之诗(Hymn Of Praise)</b></p>
 
-<p>塑能系[善良，声波]</p>
+<p>塑能系&#91;善良，声波&#93;</p>
 
 <p>等级：诗人 3</p>
 
@@ -955,7 +955,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>地狱挽歌(INFERNAL THRENODY)</b></p>
 
-<p>塑能系[邪恶、音波]</p>
+<p>塑能系&#91;邪恶、音波&#93;</p>
 
 <p>等级：吟游诗人3</p>
 
@@ -1333,7 +1333,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>阴影形态(Shadow Form)</b></p>
 
-<p>幻术系[阴影]</p>
+<p>幻术系&#91;阴影&#93;</p>
 
 <p>等级：刺客4、术士/法师5</p>
 
@@ -1429,7 +1429,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>幽灵武器(Spectral Weapon)</b></p>
 
-<p>幻术系[阴影]</p>
+<p>幻术系&#91;阴影&#93;</p>
 
 <p>等级：刺客3、吟游诗人4、术士/法师3</p>
 
@@ -1477,7 +1477,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>精密战术(Tactical Precision)</b></p>
 
-<p>预言系[影响心灵]</p>
+<p>预言系&#91;影响心灵&#93;</p>
 
 <p>等级：诗人2</p>
 
@@ -1549,7 +1549,7 @@ type: text/vnd.tiddlywiki
 
 <p><b>毁灭之嚎(Wail of doom)</b></p>
 
-<p>死灵系[恐惧、影响心灵、音波]</p>
+<p>死灵系&#91;恐惧、影响心灵、音波&#93;</p>
 
 <p>等级：吟游诗人5</p>
 

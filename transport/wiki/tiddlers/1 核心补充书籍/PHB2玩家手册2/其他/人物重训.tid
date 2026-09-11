@@ -37,7 +37,7 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tbody align=center>
-<tr><td>牧师[1]</td><td>领域(每个领域算做一次选择)</td></tr>
+<tr><td>牧师&#91;1&#93;</td><td>领域(每个领域算做一次选择)</td></tr>
 
 <tr><td>中立牧师</td><td>驱散或斥退不死生物(只在信仰允许时)</td></tr>
 
@@ -51,7 +51,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td>术士或法师</td><td>魔宠</td></tr>
 
-<tr><td>法师[2]</td><td>学派专精与禁止学派</td></tr>
+<tr><td>法师&#91;2&#93;</td><td>学派专精与禁止学派</td></tr>
 </tbody>
 </table>
 
@@ -81,7 +81,7 @@ type: text/vnd.tiddlywiki
 
 <h2>替换等级(Substitution level)的重训</h2>
 
-<p><i>(译者注：适用于位面手册[PlH, Planar Handbook]与族裔系列[Races of XX]扩展中引入的职业替换等级[Substitution level]概念)</i></p>
+<p><i>(译者注：适用于位面手册&#91;PlH, Planar Handbook&#93;与族裔系列&#91;Races of XX&#93;扩展中引入的职业替换等级&#91;Substitution level&#93;概念)</i></p>
 
 <p>你可以把角色现有的一个职业等级换成一个替换等级，或者反过来。如果要获得的等级有先决条件，你的人物不仅必须要在目前的状态满足条件，而且还必须在那个等级时你也能满足条件。</p>
 

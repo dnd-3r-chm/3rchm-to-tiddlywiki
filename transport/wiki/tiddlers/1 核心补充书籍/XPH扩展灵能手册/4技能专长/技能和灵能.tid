@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 <h4>表3-1：每级技能点数</h4>
 
 <table align=center>
-<tr><td>职业</td><td>1级人物的技能点数[1]</td><td>升级时得到的技能点数[2]</td></tr>
+<tr><td>职业</td><td>1级人物的技能点数&#91;1&#93;</td><td>升级时得到的技能点数&#91;2&#93;</td></tr>
 
 <tr><td>心灵术士</td><td>(2+智力调整值)×4</td><td>2+智力调整值</td></tr>
 
@@ -41,11 +41,11 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>自我催眠</b>[1]</td><td>本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>本职</td><td>本职</td><td>不可</td><td>感知</td></tr>
 
-<tr><td><b>平衡</b></td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>敏捷[2]</td></tr>
+<tr><td><b>平衡</b></td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>敏捷&#91;2&#93;</td></tr>
 
 <tr><td><b>唬骗</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>魅力</td></tr>
 
-<tr><td><b>攀爬</b></td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>本职</td><td>本职</td><td>可</td><td>力量[2]</td></tr>
+<tr><td><b>攀爬</b></td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>本职</td><td>本职</td><td>可</td><td>力量&#91;2&#93;</td></tr>
 
 <tr><td><b>专注</b>[1]</td><td>本职</td><td>本职</td><td>本职</td><td>本职</td><td>本职</td><td>本职</td><td>本职</td><td>本职</td><td>本职</td><td>可</td><td>体质</td></tr>
 
@@ -59,7 +59,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>易容</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>可</td><td>魅力</td></tr>
 
-<tr><td><b>脱逃</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>敏捷[2]</td></tr>
+<tr><td><b>脱逃</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>敏捷&#91;2&#93;</td></tr>
 
 <tr><td><b>伪造文书</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>可</td><td>智力</td></tr>
 
@@ -69,7 +69,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>医疗</b></td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>可</td><td>感知</td></tr>
 
-<tr><td><b>躲藏</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>可</td><td>敏捷[2]</td></tr>
+<tr><td><b>躲藏</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>可</td><td>敏捷&#91;2&#93;</td></tr>
 
 <tr><td><b>威吓</b></td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>魅力</td></tr>
 
@@ -81,7 +81,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>聆听</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>不可</td><td>感知</td></tr>
 
-<tr><td><b>潜行</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>可</td><td>敏捷[2]</td></tr>
+<tr><td><b>潜行</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>可</td><td>敏捷&#91;2&#93;</td></tr>
 
 <tr><td><b>开锁</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>不可</td><td>敏捷</td></tr>
 
@@ -97,7 +97,7 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>察言观色</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>可</td><td>感知</td></tr>
 
-<tr><td><b>手上功夫</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>不可</td><td>敏捷[2]</td></tr>
+<tr><td><b>手上功夫</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>不可</td><td>敏捷&#91;2&#93;</td></tr>
 
 <tr><td><b>语言</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>不可</td><td>智力</td></tr>
 
@@ -107,9 +107,9 @@ type: text/vnd.tiddlywiki
 
 <tr><td><b>生存</b></td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>可</td><td>感知</td></tr>
 
-<tr><td><b>游泳</b></td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>本职</td><td>可</td><td>力量[3]</td></tr>
+<tr><td><b>游泳</b></td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>非本职</td><td>本职</td><td>可</td><td>力量&#91;3&#93;</td></tr>
 
-<tr><td><b>滚翻</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>本职</td><td>不可</td><td>敏捷[2]</td></tr>
+<tr><td><b>滚翻</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>本职</td><td>本职</td><td>不可</td><td>敏捷&#91;2&#93;</td></tr>
 
 <tr><td><b>使用魔法装置</b></td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>非本职</td><td>不可</td><td>魅力</td></tr>
 

@@ -33,11 +33,11 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td>等级</td><td>基本攻击</td><td>强韧</td><td>反射</td><td>意志</td><td>特殊能力</td></tr>
-<tr><td>1</td><td>＋1</td><td>＋2</td><td>＋0</td><td>＋0</td><td>时刻准备着+1，黑街知识</td></tr>
-<tr><td>2</td><td>＋2</td><td>＋3</td><td>＋0</td><td>＋0</td><td>屹立不倒 1/日</td></tr>
-<tr><td>3</td><td>＋3</td><td>＋3</td><td>＋1</td><td>＋1</td><td>时刻准备着+2，偷袭+1D6</td></tr>
-<tr><td>4</td><td>＋4</td><td>＋4</td><td>＋1</td><td>＋1</td><td>屹立不倒 2/日</td></tr>
-<tr><td>5</td><td>＋5</td><td>＋4</td><td>＋1</td><td>＋1</td><td>时刻准备着+3</td></tr>
+<tr><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>+0</td><td>时刻准备着+1，黑街知识</td></tr>
+<tr><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>+0</td><td>屹立不倒 1/日</td></tr>
+<tr><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td>时刻准备着+2，偷袭+1D6</td></tr>
+<tr><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>+1</td><td>屹立不倒 2/日</td></tr>
+<tr><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>+1</td><td>时刻准备着+3</td></tr>
 </table>
 
 <p><b>职业能力</b></p>

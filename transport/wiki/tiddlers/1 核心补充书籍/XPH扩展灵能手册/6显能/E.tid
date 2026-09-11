@@ -147,7 +147,7 @@ type: text/vnd.tiddlywiki
 
 <h5>自性鞭击(Ego Whip)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -199,7 +199,7 @@ type: text/vnd.tiddlywiki
 
 <h5>伤痛反馈(Empathic Feedback)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 4、心灵武士 3</p>
 
@@ -249,7 +249,7 @@ type: text/vnd.tiddlywiki
 
 <h5>恶意伤痛转移(Empathic Transfer,Hostile)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>传心者 3、心灵武士 3</p>
 
@@ -279,7 +279,7 @@ type: text/vnd.tiddlywiki
 
 <h5>感受情绪(Empathy)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1</p>
 
@@ -311,7 +311,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心灵空白(Empty Mind)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1、心灵武士 1</p>
 
@@ -337,7 +337,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量适应(Energy Adaptation)</h5>
 
-<p>心灵自塑系[见说明]</p>
+<p>心灵自塑系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 4、心灵武士 4</p>
 
@@ -365,7 +365,7 @@ type: text/vnd.tiddlywiki
 
 <h5>特定能量适应(Energy Adaptation,Specified)</h5>
 
-<p>心灵自塑系[见说明]</p>
+<p>心灵自塑系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2、心灵武士 2</p>
 
@@ -379,7 +379,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量球(Energy Ball)*附图见章末</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>操能者 4</p>
 
@@ -413,7 +413,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量束(Energy Bolt)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 3</p>
 
@@ -447,7 +447,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量爆发(Energy Burst)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 3</p>
 
@@ -481,7 +481,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量锥(Energy Cone)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>操能者 3</p>
 
@@ -515,7 +515,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量转化(Energy Conversion)</h5>
 
-<p>心灵自塑系[见说明]</p>
+<p>心灵自塑系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 7</p>
 
@@ -541,7 +541,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量乱流(Energy Current)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>操能者 5</p>
 
@@ -587,7 +587,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量飞弹(Energy Missile)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>操能者 2</p>
 
@@ -621,7 +621,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量冲撞(Energy Push)*附图见章末</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -659,7 +659,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量射线(Energy Ray)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1</p>
 
@@ -693,7 +693,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量反击(Energy Retort)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 3</p>
 
@@ -727,7 +727,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量震慑(Energy Stun)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -795,7 +795,7 @@ type: text/vnd.tiddlywiki
 
 <h5>能量波(Energy Wave)</h5>
 
-<p>心灵转化系[见说明]</p>
+<p>心灵转化系&#91;见说明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 7</p>
 
@@ -969,7 +969,7 @@ type: text/vnd.tiddlywiki
 
 <h5>黑龙之息(Exhalation of the Black Dragon)</h5>
 
-<p>心灵自塑系[强酸]</p>
+<p>心灵自塑系&#91;强酸&#93;</p>
 
 <p><b>等级：</b>心灵武士 3</p>
 

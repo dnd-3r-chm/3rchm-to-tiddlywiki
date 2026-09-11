@@ -5,14 +5,14 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td><b>异种武器</b></td><td><b>价格</b></td><td><b>伤害(小)</b></td><td><b>伤害(中)</b></td><td><b>重击</b></td><td><b>射程增量</b></td><td><b>重量</b></td><td><b>伤害类型</b></td></tr>
-<tr><td colspan=8>><b>轻型近战武器</b></td></tr>
-<tr><td><b>倒刺匕首</b></td><td>35</td><td>1d3</td><td>1d4</td><td>19－20／×2</td><td>－</td><td>1</td><td>穿刺</td></tr>
-<tr><td><b>阔短剑</b></td><td>75</td><td>1d4</td><td>1d6</td><td>19－20／×2</td><td>－</td><td>3</td><td>穿刺</td></tr>
-<tr><td colspan=8>><b>单手近战武器</b></td></tr>
-<tr><td><b>细刃花剑</b></td><td>75</td><td>1d4</td><td>1d6</td><td>18－20／×2</td><td>－</td><td>3</td><td>穿刺</td></tr>
-<tr><td colspan=8>><b>双手近战武器</b></td></tr>
-<tr><td><b>长战斧</b></td><td>35</td><td>1d10</td><td>1d12</td><td>×3</td><td>－</td><td>15</td><td>挥砍</td></tr>
-<tr><td><b>长棍</b></td><td>15</td><td>1d4／1d4</td><td>1d6／1d6</td><td>×2</td><td>－</td><td>6</td><td>钝击</td></tr>
+<tr><td colspan=8><b>轻型近战武器</b></td></tr>
+<tr><td><b>倒刺匕首</b></td><td>35</td><td>1d3</td><td>1d4</td><td>19-20/×2</td><td>-</td><td>1</td><td>穿刺</td></tr>
+<tr><td><b>阔短剑</b></td><td>75</td><td>1d4</td><td>1d6</td><td>19-20/×2</td><td>-</td><td>3</td><td>穿刺</td></tr>
+<tr><td colspan=8><b>单手近战武器</b></td></tr>
+<tr><td><b>细刃花剑</b></td><td>75</td><td>1d4</td><td>1d6</td><td>18-20/×2</td><td>-</td><td>3</td><td>穿刺</td></tr>
+<tr><td colspan=8><b>双手近战武器</b></td></tr>
+<tr><td><b>长战斧</b></td><td>35</td><td>1d10</td><td>1d12</td><td>×3</td><td>-</td><td>15</td><td>挥砍</td></tr>
+<tr><td><b>长棍</b></td><td>15</td><td>1d4/1d4</td><td>1d6/1d6</td><td>×2</td><td>-</td><td>6</td><td>钝击</td></tr>
 </table>
 
 <p>注：价格单位是GP，重量单位是磅。</p>

@@ -262,17 +262,103 @@ def convert_showhide_blocks(body):
     return body
 
 
+# 智能引号实体/字符统一转半角直引号（2026-09-07 固化进管线）
+# WinCHM/Word 源会把引号编码成 &#8220;/&#8221;/&quot; 等实体，管线此前无实体解码，
+# 导致实体原样进入 tid（CC「欢笑黑指党」口头禅即为实例），故在此统一处理。
+_SMART_QUOTE_CPS = {
+    0x201C: '"', 0x201D: '"', 0x201E: '"', 0x201F: '"', 0x2033: '"', 0x2036: '"',
+    0x2018: "'", 0x2019: "'", 0x201A: "'", 0x201B: "'", 0x2032: "'", 0x2035: "'",
+    0xFF02: '"', 0xFF07: "'", 0x0022: '"', 0x0027: "'",
+}
+_NAMED_QUOTE_ENTITIES = {
+    "&quot;": '"', "&apos;": "'", "&ldquo;": '"', "&rdquo;": '"',
+    "&lsquo;": "'", "&rsquo;": "'", "&bdquo;": '"', "&sbquo;": "'",
+    "&prime;": "'", "&Prime;": '"',
+}
+_QUOTE_ENTITY_RE = re.compile(r"&#(?:[xX]([0-9a-fA-F]+)|(0*\d+));")
+
+
+def normalize_quotes(body):
+    """把智能引号的 HTML 实体与弯引号/全角引号字符统一为半角直引号 " '。
+
+    覆盖：十进制(&#8220;)、十六进制(&#x201C;)、前导零、大写 等实体变体，
+    命名实体(&quot;/&ldquo;…)，以及字符形态 “”‘’＂＇。
+    """
+
+    def _repl(m):
+        code = int(m.group(1), 16) if m.group(1) is not None else int(m.group(2))
+        return _SMART_QUOTE_CPS.get(code, m.group(0))
+
+    body = _QUOTE_ENTITY_RE.sub(_repl, body)
+    for ent, ch in _NAMED_QUOTE_ENTITIES.items():
+        if ent in body:
+            body = body.replace(ent, ch)
+    for ch, half in (
+        ("\u201c", '"'), ("\u201d", '"'), ("\u201e", '"'), ("\u201f", '"'),
+        ("\u2018", "'"), ("\u2019", "'"), ("\u201a", "'"), ("\u201b", "'"),
+        ("\uff02", '"'), ("\uff07", "'"),
+    ):
+        if ch in body:
+            body = body.replace(ch, half)
+    return body
+
+
+def normalize_ampersand(body):
+    """全角 ＆(U+FF06) -> &amp;（HTML 实体，2026-09-07）。
+
+    渲染结果仍为 &，写成实体可避免裸 & 被当作其它实体的起始而误解析。
+    只处理全角字符，绝不触碰 ASCII &，否则会把已有 &amp; 二次编码成 &amp;amp;。
+    """
+    return body.replace("\uff06", "&amp;")
+
+
+def normalize_angle_brackets(body):
+    """全角 ＜＞(U+FF1C/U+FF1E) -> &lt; &gt;（HTML 实体，2026-09-07）。
+
+    渲染结果仍为 < >，写成实体可避免被浏览器当作真标签而破坏结构。
+    只处理全角字符，绝不触碰 ASCII < >（那是真正的 HTML 标签）。
+    """
+    return body.replace("\uff1c", "&lt;").replace("\uff1e", "&gt;")
+
+
+def normalize_brackets(body):
+    """处理「中文 + 单方括号」(2026-09-07)：
+    技能子项 知识[地下城] -> 知识(地下城)；
+    其余（法术描述符/脚注）塑能系[力场] -> 塑能系&#91;力场&#93;。
+
+    目的：3R 规范中描述符用方括号，但 TiddlyWiki 会把 [x] 解析成指向不存在条目的
+    链接，故实体化保留外观、消除链接。只认「前为中文」的单方括号，
+    因此 [[wikilink]]、[img[...]] 不受影响（本函数在 rewrite_images/links 之前调用）。
+    """
+    body = re.sub(r"(知识|专业|手艺)\[([^\[\]]{1,20})\]", r"\1(\2)", body)
+    return re.sub(
+        r"(?<=[\u4e00-\u9fff])\[([^\[\]]{1,20})\]", r"&#91;\1&#93;", body
+    )
+
+
 def normalize_fullwidth_punct(body):
     """用户规则（2026-09-02 扩展）：搬运后 tid 正文内不得出现全角 ASCII。
 
     全角英文字母 A-Za-z、数字 0-9、括号 （）、弯引号 “”‘’ 一律转为半角。
-    （早期只覆盖 “” （），本次扩展字母/数字/弯引号‘’。）
+    （早期只覆盖 “” （），本次扩展字母/数字/弯引号‘’；2026-09-07 再加全角 ＋。）
     """
     trans = {
         # 弯引号 -> 直引号
         "\u201c": '"', "\u201d": '"', "\u2018": "'", "\u2019": "'",
         # 全角括号
         "\uff08": "(", "\uff09": ")",
+        # 全角加号(2026-09-07)：属性加值等一律半角，与已搬运内容一致
+        "\uff0b": "+",
+        # 其它常见全角 ASCII 符号(2026-09-07)：# $ % * - / = @ ^ _ | ~ \
+        # 刻意不转：，；：？！(标准中文标点，转半角反而是错的)、
+        #           ＆(由 normalize_ampersand 转 &amp; 实体)、
+        #           ＜＞(转成半角会被浏览器当作真标签，破坏 HTML)
+        "\uff03": "#", "\uff04": "$", "\uff05": "%", "\uff0a": "*",
+        "\uff0d": "-", "\uff0f": "/", "\uff1d": "=", "\uff20": "@",
+        "\uff3c": "\\", "\uff3e": "^", "\uff3f": "_", "\uff5c": "|",
+        "\uff5e": "~",
+        # 全角方括号(2026-09-07)
+        "\uff3b": "[", "\uff3d": "]",
     }
     # 全角字母 A-Z / a-z
     for i in range(26):
@@ -361,6 +447,14 @@ def clean_html(body, book=None):
     body = re.sub(r"</strong\s*>", "</b>", body)
     # 用户规则：以 · 开头的 <p> -> <ul><li>（2026-08-30）
     body = normalize_bullet_paragraphs(body)
+    # 智能引号实体(&#8220;/&quot;…)与弯引号字符 -> 半角直引号（2026-09-07）
+    body = normalize_quotes(body)
+    # 全角 ＆ -> &amp;（2026-09-07）
+    body = normalize_ampersand(body)
+    # 全角 ＜＞ -> &lt; &gt;（2026-09-07）
+    body = normalize_angle_brackets(body)
+    # 单方括号：技能子项转圆括号、描述符/脚注实体化（2026-09-07）
+    body = normalize_brackets(body)
     body = normalize_fullwidth_punct(body)
     # 用户规则：清理表格行内格式 class="g"/"l"/"w"（2026-08-31）
     body = strip_table_classes(body)

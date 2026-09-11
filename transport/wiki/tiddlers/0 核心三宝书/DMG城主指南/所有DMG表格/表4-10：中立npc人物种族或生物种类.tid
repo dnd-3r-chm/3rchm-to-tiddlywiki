@@ -6,7 +6,7 @@ type: text/vnd.tiddlywiki
 <h1>表4-10：中立NPC人物种族或生物种类</h1>
 
 <table>
-<tr><th>野蛮人</th><th>吟游诗人</th><th>牧师</th><th>德鲁伊</th><th>战士</th><th>武僧</th><th>巡林客</th><th>游荡者</th><th>术士</th><th>法师</th><th>人物种族／生物种类</th><th>等级</th></tr>
+<tr><th>野蛮人</th><th>吟游诗人</th><th>牧师</th><th>德鲁伊</th><th>战士</th><th>武僧</th><th>巡林客</th><th>游荡者</th><th>术士</th><th>法师</th><th>人物种族/生物种类</th><th>等级</th></tr>
 <tr><td>01</td><td>01</td><td>01-15</td><td>—</td><td>01-10</td><td>—</td><td>—</td><td>01</td><td>—</td><td>—</td><td>地底矮人</td><td>正常</td></tr>
 <tr><td>02</td><td>02-03</td><td>16-25</td><td>—</td><td>11-29</td><td>—</td><td>01</td><td>02-04</td><td>01</td><td>—</td><td>丘陵矮人</td><td>正常</td></tr>
 <tr><td>—</td><td>—</td><td>26</td><td>—</td><td>30-34</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>山矮人</td><td>正常</td></tr>

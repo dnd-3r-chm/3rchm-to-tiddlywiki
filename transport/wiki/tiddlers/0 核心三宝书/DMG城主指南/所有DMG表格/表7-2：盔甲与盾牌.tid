@@ -19,11 +19,11 @@ type: text/vnd.tiddlywiki
 <tr><td>—</td><td>56-57</td><td>28-38</td><td>+4盔甲</td><td>16,000金币</td></tr>
 <tr><td>—</td><td>—</td><td>39-49</td><td>+5盾牌</td><td>25,000金币</td></tr>
 <tr><td>—</td><td>—</td><td>50-57</td><td>+5盔甲</td><td>25,000金币</td></tr>
-<tr><td>—</td><td>—</td><td>—</td><td>+6盔甲／盾牌(注一)</td><td>36,000金币</td></tr>
-<tr><td>—</td><td>—</td><td>—</td><td>+7盔甲／盾牌(注一)</td><td>49,000金币</td></tr>
-<tr><td>—</td><td>—</td><td>—</td><td>+8盔甲／盾牌(注一)</td><td>64,000金币</td></tr>
-<tr><td>—</td><td>—</td><td>—</td><td>+9盔甲／盾牌(注一)</td><td>81,000金币</td></tr>
-<tr><td>—</td><td>—</td><td>—</td><td>+10盔甲／盾牌(注一)</td><td>100,000金币</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>+6盔甲/盾牌(注一)</td><td>36,000金币</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>+7盔甲/盾牌(注一)</td><td>49,000金币</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>+8盔甲/盾牌(注一)</td><td>64,000金币</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>+9盔甲/盾牌(注一)</td><td>81,000金币</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>+10盔甲/盾牌(注一)</td><td>100,000金币</td></tr>
 <tr><td>88-89</td><td>58-60</td><td>58-60</td><td>特殊盔甲(注二)</td><td>—</td></tr>
 <tr><td>90-91</td><td>61-63</td><td>61-63</td><td>特殊盾牌(注三)</td><td>—</td></tr>
 <tr><td>92-100</td><td>64-100</td><td>64-100</td><td>特殊能力，且重掷一次(注四)</td><td>—</td></tr>

@@ -154,6 +154,9 @@ SKIP_SOURCE_PREFIXES = {
     # 10 附录 整目录已手动调整/重排/还原/删除（如何使用大不全还原、如何为扩展大全做出贡献删除、
     # 武器附魔测评重排改名、html教学清洗等），2026-09-01 用户要求整目录排除在自动搬运外
     "10 附录\\",
+    # 11 其他资源 整目录已搬运并 clean（2026-09-09，run_qita.py + clean_qita.py，38/38）：
+    # 重转会用原始 CHM 覆盖已排版 .tid，按「处理过的书目一律 SKIP」规则加入。
+    "11 其他资源\\",
     # 1 核心补充书籍/XPH扩展灵能手册 已搬运并结构化重排（clean_xph.py，2026-09-02）：
     # 重转会用原始 Word 噪音（StartFragment/<o:p>/断裂 span/海量 &nbsp;）覆盖已重排内容，
     # 故整本跳过。注意只跳过 XPH，1 核心补充书籍 下其余书（PHB2/DMG2/MM3-5）不受影响。
@@ -185,6 +188,56 @@ SKIP_SOURCE_PREFIXES = {
     # 3 完美系列/CAd完美冒险 已搬运（2026-09-03，run_cad.py，49/49）并结构化重排
     # （clean_cad.py，Word 噪音清零 + 表格紧凑化），按「处理过的书目一律 SKIP」加入。
     "3 完美系列\\CAd完美冒险\\",
+    # 3 完美系列/CC完美斗士 已搬运（2026-09-07，run_cc.py，55/55）并结构化重排
+    # （clean_cc.py，WinCHM 噪音清零 + DND3R-FEEDBACK 区块删除 + 表格紧凑化 + 实体引号清除），
+    # 按「处理过的书目一律 SKIP」加入。
+    "3 完美系列\\CC完美斗士\\",
+    # 3 完美系列/CD完美神力 已搬运（2026-09-08，run_cd.py，129/129）并结构化重排
+    # （clean_cd.py，WinCHM 噪音清零 + DND3R-FEEDBACK 区块删除 + 表格紧凑化），
+    # 按「处理过的书目一律 SKIP」加入。
+    "3 完美系列\\CD完美神力\\",
+    # 3 完美系列/CM完美巫师 已搬运（2026-09-08，run_cm.py，39/39）并结构化重排
+    # （clean_cm.py，WinCHM 噪音清零 + DND3R-FEEDBACK 区块删除 + 表格紧凑化），
+    # 按「处理过的书目一律 SKIP」加入。
+    "3 完美系列\\CM完美巫师\\",
+    # 3 完美系列/CPsi完美灵能 已搬运（2026-09-08，run_cpsi.py，51/51）并结构化重排
+    # （clean_cpsi.py，WinCHM 噪音清零 + DND3R-FEEDBACK 区块删除 + 表格紧凑化），
+    # 按「处理过的书目一律 SKIP」加入。
+    "3 完美系列\\CPsi完美灵能\\",
+    # 3 完美系列/CS完美恶徒 已搬运（2026-09-08，run_cs.py，40/40）并结构化重排
+    # （clean_cs.py，WinCHM 噪音清零 + DND3R-FEEDBACK 区块删除 + 表格紧凑化），
+    # 按「处理过的书目一律 SKIP」加入。
+    "3 完美系列\\CS完美恶徒\\",
+    # 3 完美系列/CW完美战力 已搬运（2026-09-08，run_cw.py，61/61）并结构化重排
+    # （clean_cw.py，WinCHM 噪音清零 + DND3R-FEEDBACK 区块删除 + 表格紧凑化），
+    # 按「处理过的书目一律 SKIP」加入。
+    "3 完美系列\\CW完美战力\\",
+    # 4 阵营和位面 4 本（BoED崇善之书/FC1深渊堕群/FC2九狱君王/PlH位面手册）已批量搬运
+    # （2026-09-08，共 255 页）并结构化重排（clean 后处理 + 单 ? 乱码清理），
+    # 按「处理过的书目一律 SKIP」规则加入（防止日后全量重转覆盖已排版内容）。
+    "4 阵营和位面\\BoED崇善之书\\",
+    "4 阵营和位面\\FC1深渊堕群\\",
+    "4 阵营和位面\\FC2九狱君王\\",
+    "4 阵营和位面\\PlH位面手册\\",
+    # 5 环境和社会 5 本（City城市风貌/Dungeon地城风光/Frost霜燃之书/Sand沙暴之书/Storm风暴之书）
+    # 已批量搬运（2026-09-08，共 276 页）并结构化重排（clean 后处理 + 单 ? 乱码清理），
+    # 按「处理过的书目一律 SKIP」规则加入。
+    "5 环境和社会\\City城市风貌\\",
+    "5 环境和社会\\Dungeon地城风光\\",
+    "5 环境和社会\\Frost霜燃之书\\",
+    "5 环境和社会\\Sand沙暴之书\\",
+    "5 环境和社会\\Storm风暴之书\\",
+    # 8 战役引钩 3 本（WoL传古武器/EoE邪恶典范/EE上古邪物）
+    # 已批量搬运（2026-09-08，共 73 页）并结构化重排（clean 后处理 + 单 ? 乱码清理），
+    # 按「处理过的书目一律 SKIP」规则加入。
+    "8 战役引钩\\WoL传古武器\\",
+    "8 战役引钩\\EoE邪恶典范\\",
+    "8 战役引钩\\EE上古邪物\\",
+    # 6 种族书 / 7 扩展全新体系 / 9 世设 三系列（2026-09-08 批量搬运完成，共 2778 页）
+    # 并按「处理过的书目一律 SKIP」规则加入，防止日后全量重转覆盖已排版内容。
+    "6 种族书\\",
+    "7 扩展全新体系\\",
+    "9 世设\\",
 }
 
 
@@ -210,7 +263,11 @@ def convert_book(prefix):
     log(f"=== 开始转换：{prefix}，选中 {len(selected)} 页 ===")
     for row in selected:
         rel = row["源文件相对路径"]
-        if rel in SKIP_SOURCES or any(rel.startswith(p) for p in SKIP_SOURCE_PREFIXES):
+        if (
+            rel in SKIP_SOURCES
+            or any(rel.startswith(p) for p in SKIP_SOURCE_PREFIXES)
+            or ".files/" in rel
+        ):
             print("SKIP(已合并/已清洗):", rel)
             log(f"SKIP(已合并/已清洗): {rel}")
             continue

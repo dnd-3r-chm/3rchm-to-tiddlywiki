@@ -51,25 +51,25 @@ type: text/vnd.tiddlywiki
 
 <tr><td colspan="9"><b>盾牌</b></td></tr>
 
-<tr><td>小圆盾</td><td>15金币</td><td>+1</td><td>－</td><td>-1</td><td>5%</td><td>－</td><td>－</td><td>5磅</td></tr>
+<tr><td>小圆盾</td><td>15金币</td><td>+1</td><td>-</td><td>-1</td><td>5%</td><td>-</td><td>-</td><td>5磅</td></tr>
 
-<tr><td>轻型木盾</td><td>3金币</td><td>+1</td><td>－</td><td>-1</td><td>5%</td><td>－</td><td>－</td><td>5磅</td></tr>
+<tr><td>轻型木盾</td><td>3金币</td><td>+1</td><td>-</td><td>-1</td><td>5%</td><td>-</td><td>-</td><td>5磅</td></tr>
 
-<tr><td>轻型钢盾</td><td>9金币</td><td>+1</td><td>－</td><td>-1</td><td>5%</td><td>－</td><td>－</td><td>6磅</td></tr>
+<tr><td>轻型钢盾</td><td>9金币</td><td>+1</td><td>-</td><td>-1</td><td>5%</td><td>-</td><td>-</td><td>6磅</td></tr>
 
-<tr><td>重型木盾</td><td>7金币</td><td>+2</td><td>－</td><td>-2</td><td>15%</td><td>－</td><td>－</td><td>10磅</td></tr>
+<tr><td>重型木盾</td><td>7金币</td><td>+2</td><td>-</td><td>-2</td><td>15%</td><td>-</td><td>-</td><td>10磅</td></tr>
 
-<tr><td>重型钢盾</td><td>20金币</td><td>+2</td><td>－</td><td>-2</td><td>15%</td><td>－</td><td>－</td><td>15磅</td></tr>
+<tr><td>重型钢盾</td><td>20金币</td><td>+2</td><td>-</td><td>-2</td><td>15%</td><td>-</td><td>-</td><td>15磅</td></tr>
 
-<tr><td>塔盾</td><td>30金币</td><td>+4(3)</td><td>+2</td><td>-10</td><td>50%</td><td>－</td><td>－</td><td>45磅</td></tr>
+<tr><td>塔盾</td><td>30金币</td><td>+4(3)</td><td>+2</td><td>-10</td><td>50%</td><td>-</td><td>-</td><td>45磅</td></tr>
 
 <tr><td colspan="9"><b>加装</b></td></tr>
 
-<tr><td>盔甲用尖刺</td><td>+50金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>－</td><td>－</td><td>+10磅</td></tr>
+<tr><td>盔甲用尖刺</td><td>+50金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+10磅</td></tr>
 
-<tr><td>带锁手套</td><td>8金币</td><td>－</td><td>－</td><td>特殊</td><td>(4)</td><td>－</td><td>－</td><td>+5磅</td></tr>
+<tr><td>带锁手套</td><td>8金币</td><td>-</td><td>-</td><td>特殊</td><td>(4)</td><td>-</td><td>-</td><td>+5磅</td></tr>
 
-<tr><td>盾牌用尖刺</td><td>+10金币</td><td>－</td><td>－</td><td>－</td><td>－</td><td>－</td><td>－</td><td>+5磅</td></tr></table>
+<tr><td>盾牌用尖刺</td><td>+10金币</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+5磅</td></tr></table>
 
 <ul><li>表列值为中型人物所使用的防具重量，小型人物所使用的防具重量为表上的一半，大型人物所使用的防具重量为表列的两倍。</li>
 

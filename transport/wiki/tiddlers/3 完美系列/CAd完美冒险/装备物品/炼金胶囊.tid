@@ -13,8 +13,8 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td><b>物品名</b></td><td><b>价值</b></td><td><b>持续时间</b></td><td><b>手艺(炼金术)DC</b></td></tr>
-<tr><td>胶囊容体</td><td>100金币</td><td>N／A</td><td>N／A</td></tr>
-<tr><td>炼金术之牙</td><td>300金币</td><td>N／A</td><td>N／A</td></tr>
+<tr><td>胶囊容体</td><td>100金币</td><td>N/A</td><td>N/A</td></tr>
+<tr><td>炼金术之牙</td><td>300金币</td><td>N/A</td><td>N/A</td></tr>
 <tr><td>抗毒胶囊</td><td>15金币</td><td>1分钟</td><td>20</td></tr>
 <tr><td>铁人胶囊</td><td>15金币</td><td>1轮</td><td>20</td></tr>
 <tr><td>跳跃胶囊</td><td>15金币</td><td>1轮</td><td>25</td></tr>
@@ -91,8 +91,8 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td><b>物品名</b></td><td><b>价值</b></td><td><b>持续时间</b></td><td><b>手艺(炼金术)DC</b></td></tr>
-<tr><td>武器胶囊容体</td><td>100金币</td><td>N／A</td><td>N／A</td></tr>
-<tr><td>三重胶囊容体</td><td>450金币</td><td>N／A</td><td>N／A</td></tr>
+<tr><td>武器胶囊容体</td><td>100金币</td><td>N/A</td><td>N/A</td></tr>
+<tr><td>三重胶囊容体</td><td>450金币</td><td>N/A</td><td>N/A</td></tr>
 <tr><td>灭灵胶囊</td><td>100金币</td><td>3轮</td><td>25</td></tr>
 <tr><td>流火胶囊</td><td>25金币</td><td>1轮</td><td>25</td></tr>
 <tr><td>流霜胶囊</td><td>25金币</td><td>1轮</td><td>25</td></tr>

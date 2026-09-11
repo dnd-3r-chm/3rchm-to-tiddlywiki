@@ -111,7 +111,7 @@ type: text/vnd.tiddlywiki
 
 <h5>精神瓦解(Mental Disruption)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -141,7 +141,7 @@ type: text/vnd.tiddlywiki
 
 <h5>超能共鸣(Metaconcert)*附图见章末</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵武士 5、传心者 5</p>
 
@@ -389,7 +389,7 @@ type: text/vnd.tiddlywiki
 
 <h5>个人心灵屏障(Mind Blank,Personal)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 7、心灵武士 6</p>
 
@@ -409,7 +409,7 @@ type: text/vnd.tiddlywiki
 
 <h5>灵能心灵屏障(Mind Blank,Psionic)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 8</p>
 
@@ -493,7 +493,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心灵交换(Mind Switch)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>传心者 6</p>
 
@@ -543,7 +543,7 @@ type: text/vnd.tiddlywiki
 
 <h5>真·心灵交换(Mind Switch,True)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>传心者 9</p>
 
@@ -569,7 +569,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心灵戳刺(Mind Thrust)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1</p>
 
@@ -595,7 +595,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心智陷阱(Mind Trap)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 3</p>
 
@@ -623,7 +623,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心灵链接(Mindlink)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>传心者 1</p>
 
@@ -653,7 +653,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心灵盗链(Mindlink,Thieving)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>传心者 4</p>
 
@@ -673,7 +673,7 @@ type: text/vnd.tiddlywiki
 
 <h5>一扫心灵(Mindwipe)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 4</p>
 
@@ -731,7 +731,7 @@ type: text/vnd.tiddlywiki
 
 <h5>心灵短讯(Missive)</h5>
 
-<p>心灵附魔系[影响心灵、依赖语言]</p>
+<p>心灵附魔系&#91;影响心灵、依赖语言&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1</p>
 
@@ -757,7 +757,7 @@ type: text/vnd.tiddlywiki
 
 <h5>群体心灵短讯(Missive,Mass)</h5>
 
-<p>心灵附魔系[影响心灵、依赖语言]</p>
+<p>心灵附魔系&#91;影响心灵、依赖语言&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -827,7 +827,7 @@ type: text/vnd.tiddlywiki
 
 <h5>我的光(My Light)</h5>
 
-<p>心灵转化系[光明]</p>
+<p>心灵转化系&#91;光明&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 1、心灵武士 1</p>
 

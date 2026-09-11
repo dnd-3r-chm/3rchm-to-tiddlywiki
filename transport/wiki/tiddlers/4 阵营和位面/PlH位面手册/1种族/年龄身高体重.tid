@@ -1,0 +1,30 @@
+title: 年龄身高体重 (PlH-位面手册)
+tags: [[4 阵营和位面]] [[PlH位面手册]]
+source: 4 阵营和位面/PlH位面手册/1种族/年龄身高体重.htm
+type: text/vnd.tiddlywiki
+
+<p>年龄、身高和体重</p>
+
+<p>你角色的年龄、性别、身高、体重和外观由你自己决定。不过，如果你想要一些确定这些细节的粗略指导，请参阅表1-2至1-4。</p>
+
+<p>角色年龄</p>
+
+<p>你的角色在冒险生涯开始时的年龄取决于你选择的种族和职业，如"表1-2：随机起始年龄"所示。</p>
+
+<p>随着你角色年龄的增长，使用"表1-2：老化效应"来确定他何时到达新的年龄层而相应地调整属性(更多信息参见玩家手册109页)。</p>
+
+<p><b>表1-2：随机起始年龄</b></p>
+
+<table><tr><td></td><td></td><td></td><td>吟游诗人</td><td>牧师</td></tr><tr><td></td><td></td><td>野蛮人</td><td>战士</td><td>德鲁伊</td></tr><tr><td></td><td></td><td>游荡者</td><td>圣武士</td><td>武僧</td></tr><tr><td><b>种族</b></td><td><b>成年</b></td><td>术士</td><td>巡林客</td><td>法师</td></tr><tr><td>阿斯莫</td><td>15岁</td><td>+1d6</td><td>+1d8</td><td>+2d8</td></tr><tr><td>半羊人</td><td>20岁</td><td>+1d6</td><td>+2d6</td><td>+3d6</td></tr><tr><td>布曼人</td><td>15岁</td><td>+1d4</td><td>+1d6</td><td>+2d6</td></tr><tr><td>魔蝠人</td><td>50岁</td><td>+4d4</td><td>+4d6</td><td>+6d6</td></tr><tr><td>涅拉蟾</td><td>40岁</td><td>+3d6</td><td>+5d6</td><td>+7d6</td></tr><tr><td>迅影裔</td><td>12岁</td><td>+1d4</td><td>+2d4</td><td>+3d4</td></tr><tr><td>刺修罗</td><td>20岁</td><td>+1d4</td><td>+1d6</td><td>+2d6</td></tr><tr><td>泰夫林</td><td>15岁</td><td>+1d6</td><td>+1d8</td><td>+2d8</td></tr></table>
+
+<p><b>表1-3：老化效应</b></p>
+
+<table><tr><td><b>种族</b></td><td><b>中年①</b></td><td><b>老年②</b></td><td><b>暮年③</b></td><td><b>最大年龄</b></td></tr><tr><td>阿斯莫</td><td>45岁</td><td>68岁</td><td>90岁</td><td>+3d20岁</td></tr><tr><td>半羊人</td><td>62岁</td><td>93岁</td><td>125岁</td><td>+5d20岁</td></tr><tr><td>布曼人</td><td>35岁</td><td>55岁</td><td>80岁</td><td>+2d20岁</td></tr><tr><td>魔蝠人</td><td>100岁</td><td>150岁</td><td>200岁</td><td>+2d20岁</td></tr><tr><td>涅拉蟾</td><td>125岁</td><td>188岁</td><td>200岁</td><td>+2d%岁</td></tr><tr><td>迅影裔</td><td>25岁</td><td>37岁</td><td>49岁</td><td>+2d10岁</td></tr><tr><td>刺修罗</td><td>35岁</td><td>52岁</td><td>69岁</td><td>+3d10岁</td></tr><tr><td>泰夫林</td><td>45岁</td><td>68岁</td><td>90岁</td><td>+3d20岁</td></tr><tr><td>蛮獾族</td><td>80岁</td><td>120岁</td><td>160岁</td><td>+4d%岁</td></tr><tr><td colSpan=5>① -1力量、敏捷和体质，+1智力、感知和魅力</td></tr><tr><td colSpan=5>② -2力量、敏捷和体质，+1智力、感知和魅力</td></tr><tr><td colSpan=5>③ -3力量、敏捷和体质，+1智力、感知和魅力</td></tr></table>
+
+<p>身高和体重</p>
+
+<p>要随机决定角色的身高和体重，请按"表1-4：随机身高和体重"掷骰(关于如何应用这些数字，参见玩家手册109页)。你也可以自己决定角色的身高体重，只要不超过表格给出的范围就行。</p>
+
+<p>表1-4：随机身高和体重</p>
+
+<table><tr><td><b>种族</b></td><td><b>基本身高</b></td><td><b>身高调整值</b></td><td><b>基本体重</b></td><td><b>体重调整值</b></td></tr><tr><td>阿斯莫，男性</td><td>4尺10寸</td><td>+2d10</td><td>120磅</td><td>×(2d4)磅</td></tr><tr><td>阿斯莫，女性</td><td>4尺5寸</td><td>+2d10</td><td>85磅</td><td>×(2d4)磅</td></tr><tr><td>半羊人，男性</td><td>5尺6寸</td><td>+2d8</td><td>240磅</td><td>×(2d4)磅</td></tr><tr><td>半羊人，女性</td><td>5尺2寸</td><td>+2d8</td><td>200磅</td><td>×(2d4)磅</td></tr><tr><td>布曼人，男性</td><td>4尺8寸</td><td>+2d10</td><td>130磅</td><td>×(2d4)磅</td></tr><tr><td>布曼人，女性</td><td>4尺4寸</td><td>+2d10</td><td>90磅</td><td>×(2d4)磅</td></tr><tr><td>魔蝠人，男性</td><td>2尺7寸</td><td>+2d4</td><td>25磅</td><td>×1磅</td></tr><tr><td>魔蝠人，女性</td><td>2尺9寸</td><td>+2d4</td><td>30磅</td><td>×1磅</td></tr><tr><td>涅拉蟾，男性</td><td>4尺10寸</td><td>+2d10</td><td>120磅</td><td>×(2d4)磅</td></tr><tr><td>涅拉蟾，女性</td><td>4尺5寸</td><td>+2d10</td><td>85磅</td><td>×(2d4)磅</td></tr><tr><td>迅影裔，男性</td><td>5尺4寸</td><td>+3d6</td><td>120磅</td><td>×(1d4)磅</td></tr><tr><td>迅影裔，女性</td><td>5尺0寸</td><td>+3d6</td><td>80磅</td><td>×(1d4)磅</td></tr><tr><td>刺修罗，男性</td><td>4尺10寸</td><td>+2d10</td><td>140磅</td><td>×(2d6)磅</td></tr><tr><td>刺修罗，女性</td><td>4尺5寸</td><td>+2d10</td><td>100磅</td><td>×(2d6)磅</td></tr><tr><td>泰夫林，男性</td><td>4尺10寸</td><td>+2d10</td><td>120磅</td><td>×(2d4)磅</td></tr><tr><td>泰夫林，女性</td><td>4尺5寸</td><td>+2d10</td><td>85磅</td><td>×(2d4)磅</td></tr><tr><td>蛮獾族，男性</td><td>3尺8寸</td><td>+2d10</td><td>120磅</td><td>×(2d4)磅</td></tr><tr><td>蛮獾族，女性</td><td>3尺6寸</td><td>+2d10</td><td>90磅</td><td>×(2d4)磅</td></tr></table>

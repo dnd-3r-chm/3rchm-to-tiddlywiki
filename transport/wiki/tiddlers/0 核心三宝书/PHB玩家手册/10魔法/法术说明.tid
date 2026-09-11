@@ -95,7 +95,7 @@ type: text/vnd.tiddlywiki
 
 <h2>[描述符]</h2>
 
-<p>在学派与子学派后方会以[描述符]的形式列出法术的性质类别。某些法术具有多重性质。</p>
+<p>在学派与子学派后方会以&#91;描述符&#93;的形式列出法术的性质类别。某些法术具有多重性质。</p>
 
 <p>描述符包括：强酸(acid)、风/气(air)、混乱(chaotic)、寒冷(cold)、黑暗(darkness)、死亡(death)、土(earth)、电击(electricity)、邪恶(evil)、恐惧(evil)、火焰(fire)、力场(force)、善良(good)、依赖语言(language-dependent)、秩序(lawful)、光明(light)、影响心灵(mind-affecting)、音波(sonic)和水(water)。</p>
 

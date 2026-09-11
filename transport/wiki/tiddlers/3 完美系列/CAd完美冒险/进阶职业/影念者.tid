@@ -41,23 +41,23 @@ type: text/vnd.tiddlywiki
 
 <table>
 <tr><td>等级</td><td>基础攻击</td><td>坚韧</td><td>反射</td><td>意志</td><td>特殊能力</td><td>获取异能</td></tr>
-<tr><td>1</td><td>＋0</td><td>＋0</td><td>＋2</td><td>＋2</td><td>读心</td><td>灵能展现者等级＋1</td></tr>
-<tr><td>2</td><td>＋1</td><td>＋0</td><td>＋3</td><td>＋3</td><td>偷袭＋1D6</td><td>－</td></tr>
-<tr><td>3</td><td>＋1</td><td>＋1</td><td>＋3</td><td>＋3</td><td>遮蔽心灵</td><td>灵能展现者等级＋1</td></tr>
-<tr><td>4</td><td>＋2</td><td>＋1</td><td>＋4</td><td>＋4</td><td>－</td><td>灵能展现者等级＋1</td></tr>
-<tr><td>5</td><td>＋2</td><td>＋1</td><td>＋4</td><td>＋4</td><td>偷袭＋2D6</td><td>－</td></tr>
-<tr><td>6</td><td>＋3</td><td>＋2</td><td>＋5</td><td>＋5</td><td>－</td><td>灵能展现者等级＋1</td></tr>
-<tr><td>7</td><td>＋3</td><td>＋2</td><td>＋5</td><td>＋5</td><td>－</td><td>灵能展现者等级＋1</td></tr>
-<tr><td>8</td><td>＋4</td><td>＋2</td><td>＋6</td><td>＋6</td><td>偷袭＋3D6</td><td>－</td></tr>
-<tr><td>9</td><td>＋4</td><td>＋3</td><td>＋6</td><td>＋6</td><td>群体遮蔽心灵</td><td>灵能展现者等级＋1</td></tr>
-<tr><td>10</td><td>＋5</td><td>＋3</td><td>＋7</td><td>＋7</td><td>心灵之刺</td><td>灵能展现者等级＋1</td></tr>
+<tr><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td>读心</td><td>灵能展现者等级+1</td></tr>
+<tr><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td>偷袭+1D6</td><td>-</td></tr>
+<tr><td>3</td><td>+1</td><td>+1</td><td>+3</td><td>+3</td><td>遮蔽心灵</td><td>灵能展现者等级+1</td></tr>
+<tr><td>4</td><td>+2</td><td>+1</td><td>+4</td><td>+4</td><td>-</td><td>灵能展现者等级+1</td></tr>
+<tr><td>5</td><td>+2</td><td>+1</td><td>+4</td><td>+4</td><td>偷袭+2D6</td><td>-</td></tr>
+<tr><td>6</td><td>+3</td><td>+2</td><td>+5</td><td>+5</td><td>-</td><td>灵能展现者等级+1</td></tr>
+<tr><td>7</td><td>+3</td><td>+2</td><td>+5</td><td>+5</td><td>-</td><td>灵能展现者等级+1</td></tr>
+<tr><td>8</td><td>+4</td><td>+2</td><td>+6</td><td>+6</td><td>偷袭+3D6</td><td>-</td></tr>
+<tr><td>9</td><td>+4</td><td>+3</td><td>+6</td><td>+6</td><td>群体遮蔽心灵</td><td>灵能展现者等级+1</td></tr>
+<tr><td>10</td><td>+5</td><td>+3</td><td>+7</td><td>+7</td><td>心灵之刺</td><td>灵能展现者等级+1</td></tr>
 </table>
 
 <p><b>职业能力</b></p>
 
 <p><b>获取异能(Power Known)：</b> 在职业能力列表中标注出的每一个等级，影念者获得新的每日灵能点数，并且获取新的灵能能力，就能同她同时在其进阶前的灵能展现者职业得到等级一样。</p>
 
-<p>但是她不能获得其原有职业的其他好处．如果在成为影念者之前角色拥有多个灵能职业，她必须决定将影念者等级累积到哪个职业上来决定每日灵能点数，获取灵能，以及灵能展现者等级。</p>
+<p>但是她不能获得其原有职业的其他好处。如果在成为影念者之前角色拥有多个灵能职业，她必须决定将影念者等级累积到哪个职业上来决定每日灵能点数，获取灵能，以及灵能展现者等级。</p>
 
 <p><b>读心(Read Thoughts)(灵能能力)：</b> 在第一级时，影念者将读心(read thoughts)加入她的灵能列表(如果她还没有掌握此异能)。每天一次，她可以通过消耗灵能点数来展现读心。读心所消耗的灵能点数由影念者的等级决定，至少为一点灵能点，异能的效果由影念者的灵能展现者等级决定。</p>
 

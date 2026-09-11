@@ -73,7 +73,7 @@ type: text/vnd.tiddlywiki
 
 <h5>凌空而行 (Air Walk)</h5>
 
-<p>变化系[风]</p>
+<p>变化系&#91;风&#93;</p>
 
 <p><b>等级：</b>风4、牧师4、德鲁伊4</p>
 
@@ -325,7 +325,7 @@ type: text/vnd.tiddlywiki
 
 <h5>操纵死尸 (Animate Dead)</h5>
 
-<p>死灵系[邪恶]</p>
+<p>死灵系&#91;邪恶&#93;</p>
 
 <p><b>等级：</b>牧师3、死亡3、术士/法师4</p>
 

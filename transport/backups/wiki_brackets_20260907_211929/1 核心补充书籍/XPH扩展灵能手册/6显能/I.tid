@@ -1,0 +1,595 @@
+title: I (XPH-扩展灵能手册)
+tags: [[1 核心补充书籍]] [[XPH扩展灵能手册]]
+source: 1 核心补充书籍/XPH扩展灵能手册/6显能/I.htm
+type: text/vnd.tiddlywiki
+
+<p>异能I</p>
+
+<h5>本我暗示(Id Insinuation)</h5>
+
+<p>心灵附魔系(胁迫)[影响心灵]</p>
+
+<p><b>等级：</b>心灵术士/狂念者 2</p>
+
+<p><b>异象：</b>听觉</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>近距 (25 英尺+5 英尺/2 等级)</p>
+
+<p><b>目标：</b>一个生物</p>
+
+<p><b>持续时间：</b>专注 + 1 轮</p>
+
+<p><b>豁免检定：</b>意志，通过则无效</p>
+
+<p><b>异能抗力：</b>可</p>
+
+<p><b>灵能点：</b>3</p>
+
+<p>如同法术"困惑术"(PHB，p212)，区别标注于此。</p>
+
+<p>迅捷的思维触须切入任一生物的无意识内心，掘空其力量。只要显能者完全专注于本 异能，受术者就保持困惑状态，无法决定自己的行为。在受术者的每回合开始时，根据下</p>
+
+<p>表掷骰决定受术者将采取什么行动。</p>
+
+<table height=220 cellSpacing=0 cellPadding=0 width=556>
+
+  <colgroup>
+
+  <col width=103>
+
+  <col width=453></colgroup>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>d%</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>行为</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>01-10</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>用近战或远程武器攻击显能者(若无法攻击到，则向显能者移动)</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>11-20</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>如常行动</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>21-50</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>除了无条理地胡言乱语之外什么也不做</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>51-70</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>以最高速度逃离显能者</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>71-100</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>攻击最近的生物(对此目的而言，灵晶仆视为受术者自身的一部分)</p></td></tr>
+</table>
+
+<p><b>增幅：</b>每额外支付 2 灵能点，本异能的豁免 DC 增加 1，并且能影响一个额外目标。任意两个目标不得相距超过 15 英尺。</p>
+
+<h5>灵能鉴定术(Identify,Psionic)</h5>
+
+<p>心灵预言系</p>
+
+<p><b>等级：</b>心灵术士/狂念者 2</p>
+
+<p><b>异象：</b>精神、物质</p>
+
+<p><b>显能时间：</b>一天</p>
+
+<p><b>距离：</b>接触</p>
+
+<p><b>目标：</b>一个接触到的物体</p>
+
+<p><b>持续时间：</b>立即</p>
+
+<p><b>豁免检定：</b>无</p>
+
+<p><b>异能抗力：</b>不可</p>
+
+<p><b>灵能点：</b>3</p>
+
+<p>如同法术"鉴定术"(PHB，p243)，区别标注于此。本异能用来鉴定灵能物品的能力。</p>
+
+<h5>固位术(Immovability)</h5>
+
+<p>心灵自塑系</p>
+
+<p><b>等级：</b>心灵武士 4</p>
+
+<p><b>异象：</b>视觉</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>个人</p>
+
+<p><b>目标：</b>自己</p>
+
+<p><b>持续时间：</b>专注</p>
+
+<p><b>灵能点：</b>7</p>
+
+<p>你几乎无法移动。这并不是由于你重量的改变，而是你用意志力把自己紧贴在所处的 位面结构上。因此，你甚至能够令人难以置信将自己定在半空。任何试图移动你的生物都 需通过力量对抗检定，而你在此检定上得到+20 加值。除非你停止专注使该异能结束，否则你将无法自行移动到新的位置。</p>
+
+<p>在固定时，你失去 AC 的敏捷加值；不过，被固定的身体得到伤害减免 15/-。</p>
+
+<p>你不能进行物理攻击或者其他大幅度移动(你可以进行小幅度运动，比如呼吸、转头、 说话，等等)。带有"传送"性质描述的异能，或者其他念力效果，一旦作用在你身上就会自动失败。</p>
+
+<p><b>增幅：</b>若你额外支付 8 灵能点，你便能以直觉动作展现本异能。</p>
+
+<h5>灵能恒定术(Incarnate)</h5>
+
+<p>心灵创造系</p>
+
+<p><b>等级：</b>心灵术士/狂念者 5</p>
+
+<p><b>异象：</b>物质</p>
+
+<p><b>显能时间：</b>2 轮</p>
+
+<p><b>距离：</b>见说明</p>
+
+<p><b>目标、效果或区域：</b>见说明</p>
+
+<p><b>持续时间：</b>永久；见说明</p>
+
+<p><b>豁免检定：</b>无</p>
+
+<p><b>异能抗力：</b>不可</p>
+
+<p><b>灵能点：</b>9，消耗 XP</p>
+
+<p>本异能可使其他特定异能的效果永远持续。恒定所需的最低等级和经验值依异能而 定。</p>
+
+<p>你仅能恒定目标为自己的下列异能。</p>
+
+<table height=183 cellSpacing=0 cellPadding=0 width=556>
+
+  <colgroup>
+
+  <col width=185>
+
+  <col width=185>
+
+  <col width=185></colgroup>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>异能</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>最低显能者等级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>经验消耗</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>灵光视域</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>15级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>2000点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>隐匿思想</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>9级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>危险感知</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>13级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>1500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>侦测灵能</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>9级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>侦测遥视</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>15级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>2000点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>侦测传送</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>9级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>精灵视觉</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>11级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>1000点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>通晓方位</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>9级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>我的光</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>9级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>灵能黑暗视觉</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>13级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>1500点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>灵能巧言术</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>11级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>1000点</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>全域视觉</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>13级</p></td>
+
+    <td height=21 vAlign=top width=186>
+
+      <p>1500点</p></td></tr>
+</table>
+
+<p>你展现欲恒定的异能，接着展现"灵能恒定术"以完成步骤。</p>
+
+<h5>惰性护甲(Inertial Armor)</h5>
+
+<p>心灵转化系</p>
+
+<p><b>等级：</b>心灵术士/狂念者 1、心灵武士 1</p>
+
+<p><b>异象：</b>视觉；见说明</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>个人</p>
+
+<p><b>目标：</b>自己</p>
+
+<p><b>持续时间：</b>1 小时/等级 (解消)</p>
+
+<p><b>灵能点：</b>1；见说明</p>
+
+<p>你用精神制造出有形力场，为你的防御等级提供+4 盔甲加值。与一般盔甲不同的是， "惰性护甲"没有防具检定减值，也不会降低移动速度。因为"惰性护甲"是由念力力场构成，虚体生物无法穿越。你的"惰性护甲"可由你决定是隐形还是显示出有色光。惰性盔甲提供的盔甲加值并不和普通盔甲提供的加值累计。</p>
+
+<p><b>增幅：</b>每额外支付 2 灵能点，本异能为防御等级提供的盔甲加值增加 1。</p>
+
+<h5>惰性障壁(Inertial Barrier)</h5>
+
+<p>心灵转化系</p>
+
+<p><b>等级：</b>操能者 4、心灵武士 4</p>
+
+<p><b>异象：</b>听觉、精神</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>个人</p>
+
+<p><b>目标：</b>自己</p>
+
+<p><b>持续时间：</b>10 分钟/等级</p>
+
+<p><b>灵能点：</b>7</p>
+
+<p>你创造出一层贴身的精神力障壁包围你自己，提供对击打、切割、戳刺和挥砍的抵抗 力，以及对坠落的一些保护。你得到伤害减免 5/-。"惰性障壁"也吸收你受到的半数的坠落伤害。</p>
+
+<h5>造成痛苦(Inflict Pain)</h5>
+
+<p>心灵附魔系[影响心灵]</p>
+
+<p><b>等级：</b>心灵术士/狂念者 2</p>
+
+<p><b>异象：</b>精神</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>近距 (25 英尺+5 英尺/2 等级)</p>
+
+<p><b>目标：</b>一个生物</p>
+
+<p><b>持续时间：</b>1 轮/等级</p>
+
+<p><b>豁免检定：</b>意志，通过则部分生效；见说明</p>
+
+<p><b>异能抗力：</b>可</p>
+
+<p><b>灵能点：</b>3</p>
+
+<p>你以心灵感应戳刺对手的精神，造成极度的痛苦。受术者所承受的剧烈痛楚使其攻击 检定、技能检定、属性检定承受-4 减值。若目标豁免成功，则他只承受-2 减值。</p>
+
+<p><b>增幅：</b>每额外支付 2 灵能点，本异能的豁免 DC 增加 1，并能影响一个额外的目标。任意两个目标不得相距超过 15 英尺。</p>
+
+<h5>摄魂术(Insanity)</h5>
+
+<p>心灵附魔系(胁迫)[影响心灵]</p>
+
+<p><b>等级：</b>心灵术士/狂念者 7</p>
+
+<p><b>异象：</b>精神</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>中距 (100 英尺+10 英尺/等级)</p>
+
+<p><b>目标：</b>一个生物</p>
+
+<p><b>持续时间：</b>立即</p>
+
+<p><b>豁免检定：</b>意志，通过则无效</p>
+
+<p><b>异能抗力：</b>可</p>
+
+<p><b>灵能点：</b>13</p>
+
+<p>如同法术"困惑术"(PHB，p212)，区别标注于此。</p>
+
+<p>被本异能影响的生物将永久困惑并不断做出随机动作，在受术者的每回合开始时，根 据下表掷骰决定受术者将采取什么行动。</p>
+
+<table height=220 cellSpacing=0 cellPadding=0 width=556>
+
+  <colgroup>
+
+  <col width=103>
+
+  <col width=453></colgroup>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>d%</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>行为</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>01-10</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>用近战或远程武器攻击显能者(若无法攻击到，则向显能者移动)</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>11-20</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>如常行动</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>21-50</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>除了无条理地胡言乱语之外什么也不做</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>51-70</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>以最高速度逃离显能者</p></td></tr>
+
+  <tr height=21>
+
+    <td height=21 vAlign=top width=104>
+
+      <p>71-100</p></td>
+
+    <td height=21 vAlign=top width=454>
+
+      <p>攻击最近的生物(对此目的而言，灵晶仆视为受术者自身的一部分)</p></td></tr>
+</table>
+
+<p>只有"心灵手术"、"逆转现实"和其他类似的非常规方法才能恢复受术者的神智。</p>
+
+<p><b>增幅：</b>每额外支付 2 灵能点，本异能的豁免 DC 增加 1，并能影响一个额外的目标。</p>
+
+<p>任意两个目标不得相距超过 15 英尺。</p>
+
+<h5>智力堡垒(Intellect Fortress)</h5>
+
+<p>心灵转化系</p>
+
+<p><b>等级：</b>心灵术士/狂念者 4</p>
+
+<p><b>异象：</b>听觉</p>
+
+<p><b>显能时间：</b>1 直觉动作</p>
+
+<p><b>距离：</b>20 英尺</p>
+
+<p><b>区域：</b>以你为中心，半径 20 英尺的扩散范围</p>
+
+<p><b>持续时间：</b>1 轮</p>
+
+<p><b>豁免检定：</b>无</p>
+
+<p><b>异能抗力：</b>可</p>
+
+<p><b>灵能点：</b>7</p>
+
+<p>你将自己和你的盟友包入一个闪闪发光的念力场堡垒。在"智力堡垒"区域内，目标 承受的所有异能及类灵能能力造成的伤害(包括属性伤害)都被减半。此效果先于其他减轻伤害的异能或能力而生效，例如伤害减免及闪避。</p>
+
+<p>无视异能抗力的异能不受"智力堡垒"的影响。</p>
+
+<p>你能以瞬间思绪展现本异能，快到足够在紧要关头使你受益。展现本异能是直觉动作， 你甚至可以在不是你自己的回合中展现本异能。</p>
+
+<p><b>增幅：</b>每额外支付 1 灵能点，本异能的持续时间增加 1 轮。</p>
+
+<h5>灵能钢筋铁骨(Iron Body,Psionic)</h5>
+
+<p>心灵创造系(创造)</p>
+
+<p><b>等级：</b>心灵术士/狂念者 8</p>
+
+<p><b>异象：</b>听觉</p>
+
+<p><b>显能时间：</b>1 标准动作</p>
+
+<p><b>距离：</b>个人</p>
+
+<p><b>目标：</b>自己</p>
+
+<p><b>持续时间：</b>1 分钟/等级 (解消)</p>
+
+<p><b>灵能点：</b>15</p>
+
+<p>如同法术"钢筋铁骨"(PHB，p245)，区别标注于此。</p>

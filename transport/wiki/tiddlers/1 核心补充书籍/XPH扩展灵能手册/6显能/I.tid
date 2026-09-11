@@ -55,7 +55,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>01－10</p></td>
+      <p>01-10</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -65,7 +65,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>11－20</p></td>
+      <p>11-20</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -75,7 +75,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>21－50</p></td>
+      <p>21-50</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -85,7 +85,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>51－70</p></td>
+      <p>51-70</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -95,7 +95,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>71－100</p></td>
+      <p>71-100</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -148,7 +148,7 @@ type: text/vnd.tiddlywiki
 
 <p>你几乎无法移动。这并不是由于你重量的改变，而是你用意志力把自己紧贴在所处的 位面结构上。因此，你甚至能够令人难以置信将自己定在半空。任何试图移动你的生物都 需通过力量对抗检定，而你在此检定上得到+20 加值。除非你停止专注使该异能结束，否则你将无法自行移动到新的位置。</p>
 
-<p>在固定时，你失去 AC 的敏捷加值；不过，被固定的身体得到伤害减免 15/－。</p>
+<p>在固定时，你失去 AC 的敏捷加值；不过，被固定的身体得到伤害减免 15/-。</p>
 
 <p>你不能进行物理攻击或者其他大幅度移动(你可以进行小幅度运动，比如呼吸、转头、 说话，等等)。带有"传送"性质描述的异能，或者其他念力效果，一旦作用在你身上就会自动失败。</p>
 
@@ -415,11 +415,11 @@ type: text/vnd.tiddlywiki
 
 <p><b>灵能点：</b>7</p>
 
-<p>你创造出一层贴身的精神力障壁包围你自己，提供对击打、切割、戳刺和挥砍的抵抗 力，以及对坠落的一些保护。你得到伤害减免 5/－。"惰性障壁"也吸收你受到的半数的坠落伤害。</p>
+<p>你创造出一层贴身的精神力障壁包围你自己，提供对击打、切割、戳刺和挥砍的抵抗 力，以及对坠落的一些保护。你得到伤害减免 5/-。"惰性障壁"也吸收你受到的半数的坠落伤害。</p>
 
 <h5>造成痛苦(Inflict Pain)</h5>
 
-<p>心灵附魔系[影响心灵]</p>
+<p>心灵附魔系&#91;影响心灵&#93;</p>
 
 <p><b>等级：</b>心灵术士/狂念者 2</p>
 
@@ -491,7 +491,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>01－10</p></td>
+      <p>01-10</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -501,7 +501,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>11－20</p></td>
+      <p>11-20</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -511,7 +511,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>21－50</p></td>
+      <p>21-50</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -521,7 +521,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>51－70</p></td>
+      <p>51-70</p></td>
 
     <td height=21 vAlign=top width=454>
 
@@ -531,7 +531,7 @@ type: text/vnd.tiddlywiki
 
     <td height=21 vAlign=top width=104>
 
-      <p>71－100</p></td>
+      <p>71-100</p></td>
 
     <td height=21 vAlign=top width=454>
 
